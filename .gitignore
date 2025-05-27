@@ -1,0 +1,12 @@
+txt/
+scripts/
+consulta/
+target
+engcatdev
+.class
+.classpath
+.idea
+.ignore
+.project
+.settings
+.metadata
