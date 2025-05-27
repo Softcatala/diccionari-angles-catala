@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" area="audiovisuals" type="word">
+      <eng class="n">DVD</eng>
+      <cat class="m">DVD</cat>
+    </e>
+    <e done="yes" src="" area="religió" type="word">
+      <eng class="n">Friend</eng>
+      <eng class="n">Quaker</eng>
+      <cat class="m" feminine="quàquera">quàquer</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" tags="informal">Okie</eng>
+      <cat class="mf">natural d'Oklahoma</cat>
+      <cat class="mf">habitant d'Oklahoma</cat>
+    </e>
+    <e area="religió" src="" type="word" done="yes">
+      <eng class="n">Pope</eng>
+      <cat class="f">Papa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Sardinian</eng>
+      <cat class="m" feminine="sarda">sard</cat>
+    </e>
+    <e area="llengües" src="" type="word" done="yes">
+      <eng class="n">Sard</eng>
+      <eng class="n">Sardinian</eng>
+      <cat class="m">sard</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">acetone</eng>
+      <eng class="n">propanone</eng>
+      <cat class="f">acetona</cat>
+      <cat class="f">propanona</cat>
+    </e>
+    <e area="lingüística" src="" type="word" done="yes">
+      <eng class="n">affix</eng>
+      <cat class="m">afix</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">backflow</eng>
+      <eng class="n">reflux</eng>
+      <cat class="m">reflux</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word">
+      <eng class="n">baldmoney</eng>
+      <eng class="n">spignel</eng>
+      <eng class="n" tags="scientific_name">Meum athamanticum</eng>
+      <cat class="m">meu</cat>
+      <cat class="m" tags="scientific_name">Meum athamanticum</cat>
+    </e>
+    <e area="tecnologia" src="" type="word" done="yes">
+      <eng class="n">bodkin</eng>
+      <cat class="m">punxó</cat>
+    </e>
+    <e area="tecnologia" src="" type="word" done="yes">
+      <eng class="n">burin</eng>
+      <cat class="m">burí</cat>
+      <cat class="m">punxó</cat>
+    </e>
+    </entries>
+</root>

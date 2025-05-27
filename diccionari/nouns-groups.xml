@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="word" done="yes">
+      <eng class="n">January</eng>
+      <eng class="n" tags="abbreviation">Jan.</eng>
+      <cat class="m">gener</cat>
+      <cat class="m" tags="abreviació">gen.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">February</eng>
+      <eng class="n" tags="abbreviation">Feb.</eng>
+      <cat class="m">febrer</cat>
+      <cat class="m" tags="abreviació">febr.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">March</eng>
+      <eng class="n" tags="abbreviation">Mar.</eng>
+      <cat class="m">març</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">April</eng>
+      <eng class="n" tags="abbreviation">Apr.</eng>
+      <cat class="m">abril</cat>
+      <cat class="m" tags="abreviació">abr.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">May</eng>
+      <cat class="m">maig</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">June</eng>
+      <eng class="n" tags="abbreviation">Jun.</eng>
+      <cat class="m">juny</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">July</eng>
+      <eng class="n" tags="abbreviation">Jul.</eng>
+      <cat class="m">juliol</cat>
+      <cat class="m" tags="abreviació">jul.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">August</eng>
+      <eng class="n" tags="abbreviation">Aug.</eng>
+      <cat class="m">agost</cat>
+      <cat class="m" tags="abreviació">ag.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">September</eng>
+      <eng class="n" tags="abbreviation">Sept.</eng>
+      <eng class="n" tags="abbreviation">Sep.</eng>
+      <cat class="m">setembre</cat>
+      <cat class="m" tags="abreviació">set.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">October</eng>
+      <eng class="n" tags="abbreviation">Oct.</eng>
+      <cat class="m">octubre</cat>
+      <cat class="m" tags="abreviació">oct.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">November</eng>
+      <eng class="n" tags="abbreviation">Nov.</eng>
+      <cat class="m">novembre</cat>
+      <cat class="m" tags="abreviació">nov.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">December</eng>
+      <eng class="n" tags="abbreviation">Dec.</eng>
+      <cat class="m">desembre</cat>
+      <cat class="m" tags="abreviació">des.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Monday</eng>
+      <eng class="n" tags="abbreviation">Mon.</eng>
+      <cat class="m">dilluns</cat>
+      <cat class="m" tags="abreviació">dl.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Tuesday</eng>
+      <eng class="n" tags="abbreviation">Tu.</eng>
+      <eng class="n" tags="abbreviation">Tue.</eng>
+      <eng class="n" tags="abbreviation">Tues.</eng>
+      <cat class="m">dimarts</cat>
+      <cat class="m" tags="abreviació">dt.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Wednesday</eng>
+      <eng class="n" tags="abbreviation">Wed.</eng>
+      <cat class="m">dimecres</cat>
+      <cat class="m" tags="abreviació">dc.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Thursday</eng>
+      <eng class="n" tags="abbreviation">Th.</eng>
+      <eng class="n" tags="abbreviation">Thu.</eng>
+      <eng class="n" tags="abbreviation">Thur.</eng>
+      <eng class="n" tags="abbreviation">Thurs.</eng>
+      <cat class="m">dijous</cat>
+      <cat class="m" tags="abreviació">dj.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Friday</eng>
+      <eng class="n" tags="abbreviation">Fri.</eng>
+      <cat class="m">divendres</cat>
+      <cat class="m" tags="abreviació">dv.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Saturday</eng>
+      <eng class="n" tags="rare">Sabbatum</eng>
+      <eng class="n" tags="abbreviation">Sat.</eng>
+      <cat class="m">dissabte</cat>
+      <cat class="m" tags="abreviació">ds.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Sunday</eng>
+      <eng class="n" tags="rare">Dominicus</eng>
+      <eng class="n" tags="abbreviation">Sun.</eng>
+      <cat class="m">diumenge</cat>
+      <cat class="m" tags="abreviació">dg.</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Gemini</eng>
+      <eng class="n">Twins</eng>
+      <eng class="n">Gemini the Twins</eng>
+      <cat class="m">gèmini</cat>
+      <cat class="m">gèminis</cat>
+      <cat class="mp">bessons</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Cancer</eng>
+      <eng class="n">Crab</eng>
+      <eng class="n">Cancer the Crab</eng>
+      <cat class="m">càncer</cat>
+      <cat class="m">cranc</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Leo</eng>
+      <eng class="n">Lion</eng>
+      <eng class="n">Leo the Lion</eng>
+      <cat class="m">leo</cat>
+      <cat class="m">lleó</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Virgo</eng>
+      <eng class="n">Virgin</eng>
+      <eng class="n">Virgo the Virgin</eng>
+      <cat class="f">virgo</cat>
+      <cat class="f">verge</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Libra</eng>
+      <eng class="n">Balance</eng>
+      <eng class="np">Scales</eng>
+      <eng class="n">Libra the Balance</eng>
+      <eng class="n">Libra the Scales</eng>
+      <cat class="f">libra</cat>
+      <cat class="f">balança</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Scorpio</eng>
+      <eng class="n">Scorpion</eng>
+      <eng class="n">Scorpio the Scorpion</eng>
+      <cat class="m">escorpió</cat>
+      <cat class="m">escorpí</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Sagittarius</eng>
+      <eng class="n">Archer</eng>
+      <eng class="n">Sagittarius the Archer</eng>
+      <cat class="m">sagitari</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Capricorn</eng>
+      <eng class="n">Goat</eng>
+      <eng class="n">Capricorn the Goat</eng>
+      <cat class="m">capricorn</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Aquarius</eng>
+      <eng class="n">Water Bearer</eng>
+      <eng class="n">Aquarius the Water Bearer</eng>
+      <cat class="m">aquari</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Pisces</eng>
+      <eng class="n">Fishes</eng>
+      <eng class="n">Pisces the Fishes</eng>
+      <cat class="mp">pisces</cat>
+      <cat class="mp">peixos</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Aries</eng>
+      <eng class="n">Ram</eng>
+      <eng class="n">Aries the Ram</eng>
+      <cat class="m">àries</cat>
+    </e>
+    <e src="" type="word" area="astrologia astronomia" done="yes">
+      <eng class="n">Taurus</eng>
+      <eng class="n">Bull</eng>
+      <eng class="n">Taurus the Bull</eng>
+      <cat class="m">taure</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">hydrogen</eng>
+      <eng class="n" tags="symbol">H</eng>
+      <cat class="m">hidrogen</cat>
+      <cat class="m" tags="símbol">H</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">helium</eng>
+      <eng class="n" tags="symbol">He</eng>
+      <cat class="m">heli</cat>
+      <cat class="m" tags="símbol">He</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">lithium</eng>
+      <eng class="n" tags="symbol">Li</eng>
+      <cat class="m">liti</cat>
+      <cat class="m" tags="símbol">Li</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">beryllium</eng>
+      <eng class="n" tags="symbol">Be</eng>
+      <cat class="m">beril·li</cat>
+      <cat class="m" tags="símbol">Be</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">boron</eng>
+      <eng class="n" tags="symbol">B</eng>
+      <cat class="m">bor</cat>
+      <cat class="m" tags="símbol">B</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">carbon</eng>
+      <eng class="n" tags="symbol">C</eng>
+      <cat class="m">carboni</cat>
+      <cat class="m" tags="símbol">C</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">nitrogen</eng>
+      <eng class="n" tags="symbol">N</eng>
+      <cat class="m">nitrogen</cat>
+      <cat class="m" tags="símbol">N</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">oxygen</eng>
+      <eng class="n" tags="symbol">O</eng>
+      <cat class="m">oxigen</cat>
+      <cat class="m" tags="símbol">O</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">fluorine</eng>
+      <eng class="n" tags="symbol">F</eng>
+      <cat class="m">fluor</cat>
+      <cat class="m" tags="símbol">F</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">neon</eng>
+      <eng class="n" tags="symbol">Ne</eng>
+      <cat class="m">neó</cat>
+      <cat class="m" tags="símbol">Ne</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">sodium</eng>
+      <eng class="n" tags="symbol">Na</eng>
+      <cat class="m">sodi</cat>
+      <cat class="m" tags="símbol">Na</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">magnesium</eng>
+      <eng class="n" tags="symbol">Mg</eng>
+      <cat class="m">magnesi</cat>
+      <cat class="m" tags="símbol">Mg</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n" tags="US">aluminum</eng>
+      <eng class="n" tags="UK">aluminium</eng>
+      <eng class="n" tags="symbol">Al</eng>
+      <cat class="m">alumini</cat>
+      <cat class="m" tags="símbol">Al</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">silicon</eng>
+      <eng class="n" tags="symbol">Si</eng>
+      <cat class="m">silici</cat>
+      <cat class="m" tags="símbol">Si</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">phosphorus</eng>
+      <eng class="n" tags="symbol">P</eng>
+      <cat class="m">fòsfor</cat>
+      <cat class="m" tags="símbol">P</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n" tags="US">sulfur</eng>
+      <eng class="n" tags="UK">sulphur</eng>
+      <eng class="n" tags="symbol">S</eng>
+      <cat class="m">sofre</cat>
+      <cat class="m" tags="símbol">S</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">chlorine</eng>
+      <eng class="n" tags="symbol">Cl</eng>
+      <cat class="m">clor</cat>
+      <cat class="m" tags="símbol">Cl</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">argon</eng>
+      <eng class="n" tags="symbol">Ar</eng>
+      <cat class="m">argó</cat>
+      <cat class="m" tags="símbol">Ar</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">potassium</eng>
+      <eng class="n" tags="symbol">K</eng>
+      <cat class="m">potassi</cat>
+      <cat class="m" tags="símbol">K</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">calcium</eng>
+      <eng class="n" tags="symbol">Ca</eng>
+      <cat class="m">calci</cat>
+      <cat class="m" tags="símbol">Ca</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">scandium</eng>
+      <eng class="n" tags="symbol">Sc</eng>
+      <cat class="m">escandi</cat>
+      <cat class="m" tags="símbol">Sc</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">titanium</eng>
+      <eng class="n" tags="symbol">Ti</eng>
+      <cat class="m">titani</cat>
+      <cat class="m" tags="símbol">Ti</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">vanadium</eng>
+      <eng class="n" tags="symbol">V</eng>
+      <cat class="m">vanadi</cat>
+      <cat class="m" tags="símbol">V</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">chromium</eng>
+      <eng class="n">chrome</eng>
+      <eng class="n" tags="symbol">Cr</eng>
+      <cat class="m">crom</cat>
+      <cat class="m" tags="símbol">Cr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">manganese</eng>
+      <eng class="n" tags="symbol">Mn</eng>
+      <cat class="m">manganès</cat>
+      <cat class="m" tags="símbol">Mn</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">iron</eng>
+      <eng class="n" tags="symbol">Fe</eng>
+      <cat class="m">ferro</cat>
+      <cat class="m" tags="símbol">Fe</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">cobalt</eng>
+      <eng class="n" tags="symbol">Co</eng>
+      <cat class="m">cobalt</cat>
+      <cat class="m" tags="símbol">Co</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">nickel</eng>
+      <eng class="n" tags="symbol">Ni</eng>
+      <cat class="m">níquel</cat>
+      <cat class="m" tags="símbol">Ni</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">copper</eng>
+      <eng class="n" tags="symbol">Cu</eng>
+      <cat class="m">cou</cat>
+      <cat class="m" tags="símbol">Cu</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">zinc</eng>
+      <eng class="n" tags="symbol">Zn</eng>
+      <cat class="m">zinc</cat>
+      <cat class="m">zenc</cat>
+      <cat class="m" tags="símbol">Zn</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">gallium</eng>
+      <eng class="n" tags="symbol">Ga</eng>
+      <cat class="m">gal·li</cat>
+      <cat class="m" tags="símbol">Ga</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">germanium</eng>
+      <eng class="n" tags="symbol">Ge</eng>
+      <cat class="m">germani</cat>
+      <cat class="m" tags="símbol">Ge</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">arsenic</eng>
+      <eng class="n" tags="symbol">As</eng>
+      <cat class="m">arsènic</cat>
+      <cat class="m" tags="símbol">As</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">selenium</eng>
+      <eng class="n" tags="symbol">Se</eng>
+      <cat class="m">seleni</cat>
+      <cat class="m" tags="símbol">Se</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">bromine</eng>
+      <eng class="n" tags="symbol">Br</eng>
+      <cat class="m">brom</cat>
+      <cat class="m" tags="símbol">Br</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">krypton</eng>
+      <eng class="n" tags="symbol">Kr</eng>
+      <cat class="m">criptó</cat>
+      <cat class="m" tags="símbol">Kr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">rubidium</eng>
+      <eng class="n" tags="symbol">Rb</eng>
+      <cat class="m">rubidi</cat>
+      <cat class="m" tags="símbol">Rb</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">strontium</eng>
+      <eng class="n" tags="symbol">Sr</eng>
+      <cat class="m">estronci</cat>
+      <cat class="m" tags="símbol">Sr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">yttrium</eng>
+      <eng class="n" tags="symbol">Y</eng>
+      <cat class="m">itri</cat>
+      <cat class="m" tags="símbol">Y</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">zirconium</eng>
+      <eng class="n" tags="symbol">Zr</eng>
+      <cat class="m">zirconi</cat>
+      <cat class="m" tags="símbol">Zr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">niobium</eng>
+      <eng class="n" tags="symbol">Nb</eng>
+      <cat class="m">niobi</cat>
+      <cat class="m" tags="símbol">Nb</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">molybdenum</eng>
+      <eng class="n" tags="symbol">Mo</eng>
+      <cat class="m">molibdè</cat>
+      <cat class="m" tags="símbol">Mo</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">technetium</eng>
+      <eng class="n" tags="symbol">Tc</eng>
+      <cat class="m">tecneci</cat>
+      <cat class="m" tags="símbol">Tc</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">ruthenium</eng>
+      <eng class="n" tags="symbol">Ru</eng>
+      <cat class="m">ruteni</cat>
+      <cat class="m" tags="símbol">Ru</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">rhodium</eng>
+      <eng class="n" tags="symbol">Rh</eng>
+      <cat class="m">rodi</cat>
+      <cat class="m" tags="símbol">Rh</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">palladium</eng>
+      <eng class="n" tags="symbol">Pd</eng>
+      <cat class="m">pal·ladi</cat>
+      <cat class="m" tags="símbol">Pd</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">silver</eng>
+      <eng class="n" tags="symbol">Ag</eng>
+      <cat class="m">plata</cat>
+      <cat class="m">argent</cat>
+      <cat class="m" tags="símbol">Ag</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">cadmium</eng>
+      <eng class="n" tags="symbol">Cd</eng>
+      <cat class="m">cadmi</cat>
+      <cat class="m" tags="símbol">Cd</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">indium</eng>
+      <eng class="n" tags="symbol">In</eng>
+      <cat class="m">indi</cat>
+      <cat class="m" tags="símbol">In</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">tin</eng>
+      <eng class="n" tags="symbol">Sn</eng>
+      <cat class="m">estany</cat>
+      <cat class="m" tags="símbol">Sn</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">antimony</eng>
+      <eng class="n" tags="symbol">Sb</eng>
+      <cat class="m">antimoni</cat>
+      <cat class="m" tags="símbol">Sb</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">tellurium</eng>
+      <eng class="n" tags="symbol">Te</eng>
+      <cat class="m">tel·luri</cat>
+      <cat class="m" tags="símbol">Te</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">iodine</eng>
+      <eng class="n" tags="symbol">I</eng>
+      <cat class="m">iode</cat>
+      <cat class="m" tags="símbol">I</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">xenon</eng>
+      <eng class="n" tags="symbol">Xe</eng>
+      <cat class="m">xenó</cat>
+      <cat class="m" tags="símbol">Xe</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n" tags="US">cesium</eng>
+      <eng class="n" tags="UK">caesium</eng>
+      <eng class="n" tags="symbol">Cs</eng>
+      <cat class="m">ces</cat>
+      <cat class="m" tags="símbol">Cs</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">barium</eng>
+      <eng class="n" tags="symbol">Ba</eng>
+      <cat class="m">bari</cat>
+      <cat class="m" tags="símbol">Ba</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">lanthanum</eng>
+      <eng class="n" tags="symbol">La</eng>
+      <cat class="m">lantani</cat>
+      <cat class="m">lantà</cat>
+      <cat class="m" tags="símbol">La</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">cerium</eng>
+      <eng class="n" tags="symbol">Ce</eng>
+      <cat class="m">ceri</cat>
+      <cat class="m" tags="símbol">Ce</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">praseodymium</eng>
+      <eng class="n" tags="symbol">Pr</eng>
+      <cat class="m">praseodimi</cat>
+      <cat class="m" tags="símbol">Pr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">neodymium</eng>
+      <eng class="n" tags="symbol">Nd</eng>
+      <cat class="m">neodimi</cat>
+      <cat class="m" tags="símbol">Nd</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">promethium</eng>
+      <eng class="n" tags="symbol">Pm</eng>
+      <cat class="m">prometi</cat>
+      <cat class="m" tags="símbol">Pm</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">samarium</eng>
+      <eng class="n" tags="symbol">Sm</eng>
+      <cat class="m">samari</cat>
+      <cat class="m" tags="símbol">Sm</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">europium</eng>
+      <eng class="n" tags="symbol">Eu</eng>
+      <cat class="m">europi</cat>
+      <cat class="m" tags="símbol">Eu</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">gadolinium</eng>
+      <eng class="n" tags="symbol">Gd</eng>
+      <cat class="m">gadolini</cat>
+      <cat class="m" tags="símbol">Gd</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">terbium</eng>
+      <eng class="n" tags="symbol">Tb</eng>
+      <cat class="m">terbi</cat>
+      <cat class="m" tags="símbol">Tb</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">dysprosium</eng>
+      <eng class="n" tags="symbol">Dy</eng>
+      <cat class="m">disprosi</cat>
+      <cat class="m" tags="símbol">Dy</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">holmium</eng>
+      <eng class="n" tags="symbol">Ho</eng>
+      <cat class="m">holmi</cat>
+      <cat class="m" tags="símbol">Ho</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">erbium</eng>
+      <eng class="n" tags="symbol">Er</eng>
+      <cat class="m">erbi</cat>
+      <cat class="m" tags="símbol">Er</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">thulium</eng>
+      <eng class="n" tags="symbol">Tm</eng>
+      <cat class="m">tuli</cat>
+      <cat class="m" tags="símbol">Tm</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">ytterbium</eng>
+      <eng class="n" tags="symbol">Yb</eng>
+      <cat class="m">iterbi</cat>
+      <cat class="m" tags="símbol">Yb</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">lutetium</eng>
+      <eng class="n">lutecium</eng>
+      <eng class="n" tags="symbol">Lu</eng>
+      <cat class="m">luteci</cat>
+      <cat class="m" tags="símbol">Lu</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">hafnium</eng>
+      <eng class="n" tags="symbol">Hf</eng>
+      <cat class="m">hafni</cat>
+      <cat class="m" tags="símbol">Hf</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">tantalum</eng>
+      <eng class="n" tags="symbol">Ta</eng>
+      <cat class="m">tàntal</cat>
+      <cat class="m" tags="símbol">Ta</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">tungsten</eng>
+      <eng class="n">wolfram</eng>
+      <eng class="n" tags="symbol">W</eng>
+      <cat class="m">tungstè</cat>
+      <cat class="m">wolframi</cat>
+      <cat class="m" tags="símbol">W</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">rhenium</eng>
+      <eng class="n" tags="symbol">Re</eng>
+      <cat class="m">reni</cat>
+      <cat class="m" tags="símbol">Re</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">osmium</eng>
+      <eng class="n" tags="symbol">Os</eng>
+      <cat class="m">osmi</cat>
+      <cat class="m" tags="símbol">Os</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">iridium</eng>
+      <eng class="n" tags="symbol">Ir</eng>
+      <cat class="m">iridi</cat>
+      <cat class="m" tags="símbol">Ir</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">platinum</eng>
+      <eng class="n" tags="symbol">Pt</eng>
+      <cat class="m">platí</cat>
+      <cat class="m" tags="símbol">Pt</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">gold</eng>
+      <eng class="n" tags="symbol">Au</eng>
+      <cat class="m">or</cat>
+      <cat class="m" tags="símbol">Au</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">mercury</eng>
+      <eng class="n">quicksilver</eng>
+      <eng class="n" tags="symbol">Hg</eng>
+      <cat class="m">mercuri</cat>
+      <cat class="m">argent viu</cat>
+      <cat class="m">hidrargir</cat>
+      <cat class="m" tags="símbol">Hg</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">thallium</eng>
+      <eng class="n" tags="symbol">Tl</eng>
+      <cat class="m">tal·li</cat>
+      <cat class="m" tags="símbol">Tl</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">lead</eng>
+      <eng class="n" tags="symbol">Pb</eng>
+      <cat class="m">plom</cat>
+      <cat class="m" tags="símbol">Pb</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">bismuth</eng>
+      <eng class="n" tags="symbol">Bi</eng>
+      <cat class="m">bismut</cat>
+      <cat class="m" tags="símbol">Bi</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">polonium</eng>
+      <eng class="n" tags="symbol">Po</eng>
+      <cat class="m">poloni</cat>
+      <cat class="m" tags="símbol">Po</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">astatine</eng>
+      <eng class="n" tags="symbol">At</eng>
+      <cat class="m">àstat</cat>
+      <cat class="m" tags="símbol">At</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">radon</eng>
+      <eng class="n" tags="symbol">Rn</eng>
+      <cat class="m">radó</cat>
+      <cat class="m" tags="símbol">Rn</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">francium</eng>
+      <eng class="n" tags="symbol">Fr</eng>
+      <cat class="m">franci</cat>
+      <cat class="m" tags="símbol">Fr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">radium</eng>
+      <eng class="n" tags="symbol">Ra</eng>
+      <cat class="m">radi</cat>
+      <cat class="m" tags="símbol">Ra</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">actinium</eng>
+      <eng class="n" tags="symbol">Ac</eng>
+      <cat class="m">actini</cat>
+      <cat class="m" tags="símbol">Ac</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">thorium</eng>
+      <eng class="n" tags="symbol">Th</eng>
+      <cat class="m">tori</cat>
+      <cat class="m" tags="símbol">Th</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">protactinium</eng>
+      <eng class="n" tags="symbol">Pa</eng>
+      <cat class="m">protoactini</cat>
+      <cat class="m" tags="símbol">Pa</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">uranium</eng>
+      <eng class="n" tags="symbol">U</eng>
+      <cat class="m">urani</cat>
+      <cat class="m" tags="símbol">U</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">neptunium</eng>
+      <eng class="n" tags="symbol">Np</eng>
+      <cat class="m">neptuni</cat>
+      <cat class="m" tags="símbol">Np</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">plutonium</eng>
+      <eng class="n" tags="symbol">Pu</eng>
+      <cat class="m">plutoni</cat>
+      <cat class="m" tags="símbol">Pu</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">americium</eng>
+      <eng class="n" tags="symbol">Am</eng>
+      <cat class="m">americi</cat>
+      <cat class="m" tags="símbol">Am</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">curium</eng>
+      <eng class="n" tags="symbol">Cm</eng>
+      <cat class="m">curi</cat>
+      <cat class="m" tags="símbol">Cm</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">berkelium</eng>
+      <eng class="n" tags="symbol">Bk</eng>
+      <cat class="m">berkeli</cat>
+      <cat class="m" tags="símbol">Bk</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">californium</eng>
+      <eng class="n" tags="symbol">Cf</eng>
+      <cat class="m">californi</cat>
+      <cat class="m" tags="símbol">Cf</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">einsteinium</eng>
+      <eng class="n" tags="symbol">Es</eng>
+      <cat class="m">einsteini</cat>
+      <cat class="m" tags="símbol">Es</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">fermium</eng>
+      <eng class="n" tags="symbol">Fm</eng>
+      <cat class="m">fermi</cat>
+      <cat class="m" tags="símbol">Fm</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">mendelevium</eng>
+      <eng class="n" tags="symbol">Md</eng>
+      <cat class="m">mendelevi</cat>
+      <cat class="m" tags="símbol">Md</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">nobelium</eng>
+      <eng class="n" tags="symbol">No</eng>
+      <cat class="m">nobeli</cat>
+      <cat class="m" tags="símbol">No</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">lawrencium</eng>
+      <eng class="n" tags="symbol">Lr</eng>
+      <cat class="m">laurenci</cat>
+      <cat class="m" tags="símbol">Lr</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">rutherfordium</eng>
+      <eng class="n" tags="symbol">Rf</eng>
+      <cat class="m">rutherfordi</cat>
+      <cat class="m" tags="símbol">Rf</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">dubnium</eng>
+      <eng class="n" tags="symbol">Db</eng>
+      <cat class="m">dubni</cat>
+      <cat class="m" tags="símbol">Db</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">seaborgium</eng>
+      <eng class="n" tags="symbol">Sg</eng>
+      <cat class="m">seaborgi</cat>
+      <cat class="m" tags="símbol">Sg</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">bohrium</eng>
+      <eng class="n" tags="symbol">Bh</eng>
+      <cat class="m">bohri</cat>
+      <cat class="m" tags="símbol">Bh</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">hassium</eng>
+      <eng class="n" tags="symbol">Hs</eng>
+      <cat class="m">hassi</cat>
+      <cat class="m" tags="símbol">Hs</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">meitnerium</eng>
+      <eng class="n" tags="symbol">Mt</eng>
+      <cat class="m">meitneri</cat>
+      <cat class="m" tags="símbol">Mt</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">darmstadtium</eng>
+      <eng class="n" tags="symbol">Ds</eng>
+      <cat class="m">darmstadti</cat>
+      <cat class="m" tags="símbol">Ds</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">roentgenium</eng>
+      <eng class="n" tags="symbol">Rg</eng>
+      <cat class="m">roentgeni</cat>
+      <cat class="m" tags="símbol">Rg</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">copernicium</eng>
+      <eng class="n" tags="symbol">Cn</eng>
+      <cat class="m">copernici</cat>
+      <cat class="m" tags="símbol">Cn</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">nihonium</eng>
+      <eng class="n" tags="symbol">Nh</eng>
+      <cat class="m">nihoni</cat>
+      <cat class="m" tags="símbol">Nh</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">flerovium</eng>
+      <eng class="n" tags="symbol">Fl</eng>
+      <cat class="m">flerovi</cat>
+      <cat class="m" tags="símbol">Fl</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">moscovium</eng>
+      <eng class="n" tags="symbol">Mc</eng>
+      <cat class="m">moscovi</cat>
+      <cat class="m" tags="símbol">Mc</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">livermorium</eng>
+      <eng class="n" tags="symbol">Lv</eng>
+      <cat class="m">livermori</cat>
+      <cat class="m" tags="símbol">Lv</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">tennessine</eng>
+      <eng class="n" tags="symbol">Ts</eng>
+      <cat class="m">tennessi</cat>
+      <cat class="m" tags="símbol">Ts</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">oganesson</eng>
+      <eng class="n" tags="symbol">Og</eng>
+      <cat class="m">oganessó</cat>
+      <cat class="m" tags="símbol">Og</cat>
+    </e>
+    <e done="yes" area="metrologia" src="" type="word">
+      <eng class="n">pace</eng>
+      <eng class="n">yard</eng>
+      <cat class="f">iarda</cat>
+    </e>
+    <e area="numismàtica" done="yes" src="" type="word">
+      <eng class="n">yen</eng>
+      <cat class="m">ien</cat>
+    </e>
+  </entries>
+</root>

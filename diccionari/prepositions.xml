@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="word" done="yes">
+      <eng class="prep">of</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="The smell of bread." sent_cat="L'olor de pa." />
+      <example sent_eng="Jesus of Nazareth." sent_cat="Jesús de Natzaret." />
+      <example sent_eng="A bike made of carbon." sent_cat="Una bici de carboni." />
+      <example sent_eng="The city of Barcelona." sent_cat="La ciutat de Barcelona." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">with no</eng>
+      <eng class="prep">without</eng>
+      <cat class="prep">sense</cat>
+      <example sent_eng="A man without a job." sent_cat="Un home sense feina." />
+      <example sent_eng="A dawn with no sun." sent_cat="Una albada sense sol." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">alongside</eng>
+      <cat class="prep">al costat de</cat>
+      <cat class="prep">vora</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">alongside</eng>
+      <cat class="prep">en paral·lel a</cat>
+      <cat class="prep">paral·lelament a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">under the influence of</eng>
+      <cat class="prep">per efecte de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">under the influence of</eng>
+      <cat class="prep">sota la influència de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">to the kind attention of</eng>
+      <cat class="prep">a l'atenció de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">in direct contrast to</eng>
+      <cat class="prep">a diferència de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in the wake of</eng>
+      <cat class="prep">després de</cat>
+      <cat class="prep">immediatament després de</cat>
+      <cat class="prep">tot just després de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in the wake of</eng>
+      <cat class="prep">a conseqüència de</cat>
+      <cat class="prep">de resultes de</cat>
+      <cat class="prep">arran de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">on the verge of</eng>
+      <eng class="prep">on the brink of</eng>
+      <eng class="prep">on the edge of</eng>
+      <eng class="prep">on the point of</eng>
+      <eng class="prep">on the threshold of</eng>
+      <cat class="prep">a frec de</cat>
+      <cat class="prep">al llindar de</cat>
+      <cat class="prep">al caire de</cat>
+      <cat class="prep">a punt de</cat>
+      <cat class="prep">a dos dits de</cat>
+      <cat class="prep">a quatre passes de</cat>
+      <cat class="prep">a dos pams de</cat>
+      <cat class="prep">a tocar de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">under pain of</eng>
+      <eng class="prep">on pain of</eng>
+      <cat class="prep">sota pena de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">at the mercy of</eng>
+      <cat class="prep">a la mercè de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">lacking</eng>
+      <cat class="prep">a falta de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">next to</eng>
+      <cat class="prep">juntament amb</cat>
+      <cat class="prep">després de</cat>
+      <cat class="prep">a més a més de</cat>
+      <example sent_eng="Next to coffe, tea is my favourite drink." sent_cat="El te és la meva beguda preferida juntament amb el cafè." />
+      <example sent_eng="Next to you, my brother is who has helped me the most." sent_cat="Després de tu, el meu germà és qui més m'ha ajudat." />
+      <example sent_eng="Next to Narnia, Earthsea is my favourite book series." sent_cat="A més a més de Nàrnia, Terramar és la meva sèries de llibres preferida." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">contrary to</eng>
+      <cat class="prep">en contra de</cat>
+      <cat class="prep">al contrari de</cat>
+      <cat class="adv">contràriament a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">mindful of</eng>
+      <cat class="adv">sabent</cat>
+      <cat class="prep">amb coneixement de</cat>
+      <cat class="prep">conscient de</cat>
+      <cat class="expr">tenint en compte</cat>
+      <cat class="expr">tenint present</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="prep">athwart</eng>
+      <cat class="prep">enfront de</cat>
+      <cat class="prep">a través de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">on the eve of</eng>
+      <cat class="prep">en vespres de</cat>
+      <cat class="prep">en vigílies de</cat>
+      <cat class="prep">a la vora de</cat>
+      <cat class="prep">la vigília de</cat>
+      <cat class="prep">la vespra de</cat>
+      <cat class="prep">a les portes de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">near to</eng>
+      <cat class="prep">prop de</cat>
+      <cat class="prep">a prop de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in sight of</eng>
+      <cat class="prep">a les envistes de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in parallel with</eng>
+      <eng class="prep">in line with</eng>
+      <cat class="prep">paral·lelament a</cat>
+      <cat class="prep">en paral·lel a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in the absence of</eng>
+      <cat class="prep">a falta de</cat>
+      <cat class="prep">a manca de</cat>
+      <cat class="prep">en defecte de</cat>
+      <cat class="v">mancant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">about to</eng>
+      <cat class="prep">a punt de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">according to</eng>
+      <cat class="prep">segons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">across</eng>
+      <cat class="prep">a través de</cat>
+      <cat class="prep">d'un costat a l'altre</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">against</eng>
+      <cat class="prep">contra</cat>
+      <cat class="prep">en contra de</cat>
+      <example sent_eng="We fight against racism." sent_cat="Lluitem contra el racisme." />
+      <example sent_eng="A rally against death penalty." sent_cat="Una manifestació en contra de la pena de mort." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">as a</eng>
+      <eng class="prep">in capacity of</eng>
+      <cat class="prep">com a</cat>
+      <cat class="prep">en qualitat de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">at the very end of</eng>
+      <cat class="prep">al capdavall de</cat>
+      <cat class="prep">al final de tot de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">during</eng>
+      <eng class="prep">throughout</eng>
+      <cat class="prep">al llarg de</cat>
+      <cat class="prep">durant</cat>
+      <example sent_eng="We will accept applications throughout January." sent_cat="Acceptarem sol·licituds al llarg del mes de gener." />
+      <example sent_eng="During the French Revolution." sent_cat="Durant la Revolució Francesa." />
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="prep">vis-à-vis</eng>
+      <cat class="prep">en relació amb</cat>
+      <cat class="prep">amb relació a</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="prep" remark="comparison, relation">vis-à-vis</eng>
+      <cat class="prep">en comparació amb</cat>
+      <cat class="prep">en comparació de</cat>
+      <cat class="prep">en comparació a</cat>
+      <cat class="prep">comparat amb</cat>
+      <cat class="prep">en esguard de</cat>
+      <cat class="prep">respecte a</cat>
+      <cat class="prep">respecte de</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="prep" remark="location">vis-à-vis</eng>
+      <cat class="prep">enfront de</cat>
+      <cat class="prep">davant</cat>
+      <cat class="prep">davant de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" tags="formal">notwithstanding</eng>
+      <cat class="prep">tot i</cat>
+      <cat class="prep">malgrat</cat>
+      <cat class="prep">a pesar de</cat>
+      <cat class="prep">no obstant</cat>
+      <example sent_eng="Notwithstanding some health issues, he lived many more years." sent_cat="Tot i alguns problemes de salut, va viure molts anys més." />
+    </e>
+    <e type="word" src="" done="yes" def_eng="facing someone or something but on the other side">
+      <eng class="prep">opposite</eng>
+      <cat class="prep">enfront de</cat>
+      <cat class="prep">davant per davant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">counter to</eng>
+      <cat class="prep">en contra de</cat>
+      <cat class="prep">contra</cat>
+      <cat class="prep">en sentit oposat a</cat>
+      <cat class="prep">en sentit contrari a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">directly to</eng>
+      <eng class="prep">straight to</eng>
+      <eng class="prep">right to</eng>
+      <cat class="prep">directe a</cat>
+      <cat class="prep">de dret a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">regardless of</eng>
+      <eng class="prep">irrespective of</eng>
+      <cat class="prep">independentment de</cat>
+      <cat class="prep">amb independència de</cat>
+      <cat class="prep">indiferentment de</cat>
+      <cat class="prep">amb indiferència de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">as a result of</eng>
+      <cat class="prep">arran de</cat>
+      <cat class="prep">com a consqüència de</cat>
+      <cat class="prep">a consqüència de</cat>
+      <cat class="prep">com a resultat de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">immediately after</eng>
+      <eng class="prep">immediately following</eng>
+      <cat class="prep">arran de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">close to</eng>
+      <eng class="prep">level with</eng>
+      <cat class="prep">arran de</cat>
+    </e>
+    <e src="" type="word" done="yes" remark="Causa o bescanvi.">
+      <eng class="prep">for</eng>
+      <cat class="prep">per</cat>
+      <example sent_eng="Thanks for helping us out." sent_cat="Gràcies per donar-nos un cop de mà." />
+      <example sent_eng="You can have this for 50 euros." sent_cat="T'ho pots quedar per cinquanta euros." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">to</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">per a</cat>
+      <example sent_eng="You went to Rome just to see her?" sent_cat="Vas anar a Roma només per a veure-la?" />
+      <example sent_eng="I have some secrets to explain." sent_cat="Tinc alguns secrets per explicar." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="For each or every.">
+      <eng class="prep">a</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">a</cat>
+      <example sent_eng="Twice a week." sent_cat="Dues vegades per setmana." />
+      <example sent_eng="Twice a week." sent_cat="Dues vegades a la setmana." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">for each</eng>
+      <eng class="prep">for every</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">per cada</cat>
+      <example sent_eng="I will give you two coins for every book you sell." sent_cat="Et donaré dues moenedes per llibre venut." />
+      <example sent_eng="A prize for each victory." sent_cat="Un premi per cada victòria." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="For each or every.">
+      <eng class="prep">for</eng>
+      <eng class="prep">per</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">a</cat>
+      <example sent_eng="Two gold pieces per sword." sent_cat="Dues peces d'or per espasa." />
+      <example sent_eng="Take two pills per day." sent_cat="Pren-te dues pastilles al dia." />
+      <example sent_eng="There were three warriors from our team for each of them." sent_cat="Hi havia tres guerrers del nostre equip per cada un d'ells." />
+    </e>
+    <e src="" type="word" done="yes" def_cat="Receptor o destinatari.">
+      <eng class="prep">for</eng>
+      <cat class="prep">per a</cat>
+      <example sent_eng="I bought a present for my sister." sent_cat="He comprat un regal per a la meva germana." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">for</eng>
+      <cat class="prep">per</cat>
+      <example sent_eng="For me, you have helped them enough." sent_cat="Per mi, ja els has ajudat prou." />
+    </e>
+    <e src="" type="word" done="yes" remark="Direcció.">
+      <eng class="prep">at</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">contra</cat>
+      <example sent_eng="Do not shout at me, kid." sent_cat="A mi no em cridis, marrec." />
+      <example sent_eng="He threw the hammer at the teacher." sent_cat="Va llançar el martell contra el mestre." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">with</eng>
+      <cat class="prep">amb</cat>
+      <example sent_eng="Women with power." sent_cat="Dones amb poder." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica l'edat.">
+      <eng class="prep">at</eng>
+      <eng class="expr">at the age of</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">amb</cat>
+      <example sent_eng="At the age of nineteen, he became king." sent_cat="Esdevingué rei a l'edat de dinou anys." />
+      <example sent_eng="He died at ninety-three." sent_cat="Va morir amb noranta-tres anys." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica un moment concret.">
+      <eng class="prep">at</eng>
+      <cat class="prep">a</cat>
+      <example sent_eng="We met at 10 am." sent_cat="Ens vam trobar a les deu." />
+      <example sent_eng="Shadows grow larger at night." sent_cat="A la nit, les ombres creixen." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" tags="informal">because</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">per culpa de</cat>
+      <example sent_eng="She did it because boredom." sent_cat="Ho ha fet per avorriment." />
+      <example sent_eng="I was late because traffic." sent_cat="He fet tard per culpa del trànsit." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="duration of time for which an event occurs">
+      <eng class="prep">for</eng>
+      <cat class="prep">durant</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="We will be there for two weeks." sent_cat="Hi serem durant dues setmanes." />
+      <example sent_eng="They have signed a peace agreement for three years." sent_cat="Han firmat la pau per tres anys." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">through</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">a través de</cat>
+      <cat class="v" grammar="tr">creuar</cat>
+      <cat class="v" grammar="tr">travessar</cat>
+      <example sent_eng="The train goes through the forest." sent_cat="El tren passa a través del bosc." />
+      <example sent_eng="I saw snails swimming through the water." sent_cat="Vaig veure caragols nedant per l'aigua." />
+      <example sent_eng="We swam through the river." sent_cat="Vam creuar el riu nedant." />
+      <example sent_eng="He will drive through the country." sent_cat="Travessarà el país en cotxe." />
+      <example sent_eng="The bullet went through his heart." sent_cat="La bala li va travessar el cor." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">through</eng>
+      <cat class="prep">per</cat>
+      <cat class="conj">perquè</cat>
+      <example sent_eng="We failed through ignorance." sent_cat="Hem fracassat per ignorants." />
+    </e>
+    <e src="" type="word" done="yes" remark="Amb verbs de moviment.">
+      <eng class="prep">to</eng>
+      <eng class="prep">into</eng>
+      <cat class="prep">a</cat>
+      <example sent_cat="Vaig a Tortosa." sent_eng="I'm going to Tortosa." />
+      <example sent_cat="No entris a la nostra habitació." sent_eng="Do not come into our room." />
+    </e>
+    <e src="" type="word" done="yes" remark="Amb verbs de moviment.">
+      <eng class="prep">into</eng>
+      <cat class="prep">dins</cat>
+      <cat class="prep">dintre</cat>
+      <cat class="prep">a</cat>
+      <example sent_cat="Va ficar els diners a la motxilla." sent_eng="He put the money into his bag." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">for</eng>
+      <cat class="prep">de</cat>
+      <example sent_cat="Introduïu el nom del servidor." sent_eng="Please enter the name for your server." />
+    </e>
+    <e src="" type="word" done="yes" remark="Destinatari o complement indirecte.">
+      <eng class="prep">to</eng>
+      <cat class="prep">a</cat>
+      <example sent_eng="Send this to my friends." sent_cat="Envia això als meus amics." />
+      <example sent_eng="Don't tell the truth to anyone." sent_cat="No expliquis la veritat a ningú." />
+    </e>
+    <e src="" type="word" done="yes" remark="Amb verbs com 'robar' o 'comprar'.">
+      <eng class="prep">from</eng>
+      <cat class="prep">a</cat>
+      <example sent_eng="I bought this from the local store." sent_cat="Ho he comprat a la botiga del poble." />
+      <example sent_eng="She stole it from me." sent_cat="M'ho va robar a mi." />
+    </e>
+    <e src="" type="word" done="yes" remark="En resultats i comparacions.">
+      <eng class="prep">to</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">contra</cat>
+      <example sent_eng="The match was won three to one." sent_cat="Van guanyar el partit tres a un." />
+      <example sent_eng="His party lost one vote to five." sent_cat="El seu partit va perdre amb un vot contra cinc." />
+    </e>
+    <e src="" type="word" done="yes" remark="Duració d'un procés.">
+      <eng class="prep">in</eng>
+      <cat class="prep">en</cat>
+      <example sent_eng="He wrote the song in 2 hours." sent_cat="Va compondre la cançó en dues hores." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in</eng>
+      <cat class="prep">en</cat>
+      <example sent_eng="They were singing in Flemish." sent_cat="Cantaven en flamenc." />
+      <example sent_eng="In Catalan, there are some words ending in -ívol." sent_cat="En Català, hi ha algunes paraules que acaben en -ívol." />
+      <example sent_eng="The pilot is in a coma." sent_cat="El pilot està en coma." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">about</eng>
+      <eng class="prep">concerning</eng>
+      <cat class="prep">al voltant de</cat>
+      <cat class="prep">sobre</cat>
+      <cat class="prep">referent a</cat>
+      <cat class="prep">de</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="There is something about this topic that worries me." sent_cat="Hi ha una cosa d'aquest tema que em preocupa." />
+      <example sent_eng="They asked about you." sent_cat="Han preguntat per tu." />
+      <example sent_eng="We will talk about another book." sent_cat="Parlarem d'un altre llibre." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">concerning</eng>
+      <eng class="prep">regarding</eng>
+      <eng class="prep">relating to</eng>
+      <cat class="prep">sobre</cat>
+      <example sent_eng="A letter concerning your team." sent_cat="Una carta sobre el teu equip." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">according to</eng>
+      <eng class="prep">depending on</eng>
+      <cat class="prep">en funció de</cat>
+      <cat class="prep">segons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">according to</eng>
+      <eng class="prep">depending on</eng>
+      <cat class="prep">d'acord amb</cat>
+      <cat class="prep">conforme a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">after</eng>
+      <cat class="prep">darrere</cat>
+      <cat class="prep">darrere de</cat>
+      <cat class="prep">rere</cat>
+      <example sent_eng="The tornado left great chaos after him." sent_cat="L'huracà va deixar un caos enorme darrere seu." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">after</eng>
+      <eng class="prep">following</eng>
+      <eng class="prep">immediately after</eng>
+      <cat class="prep">acabat de</cat>
+      <cat class="prep">després de</cat>
+      <cat class="prep">en acabat de</cat>
+      <cat class="prep">arran de</cat>
+      <cat class="prep" tags="col·loquial">encabat de</cat>
+      <example sent_eng="After the match, we would go to the bar." sent_cat="En acabat del partit, anàvem al bar." />
+      <example sent_eng="Following the flight, they took a bus." sent_cat="Després del vol, van agafar un autobús." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica el final d'un període de temps.">
+      <eng class="prep">after</eng>
+      <cat class="prep">al cap de</cat>
+      <example sent_eng="After ten minutes, there were only two books left." sent_cat="Al cap de deu minuts, només quedaven dos llibres." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">after</eng>
+      <cat class="prep">després de</cat>
+      <cat class="prep">darrere</cat>
+      <cat class="prep">darrere de</cat>
+      <cat class="prep">rere de</cat>
+      <example sent_eng="In the race, my brother finished after me." sent_cat="A la cursa, el meu germà va arribar després de mi." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">after</eng>
+      <cat class="v" grammar="tr">buscar</cat>
+      <cat class="v" grammar="tr">cercar</cat>
+      <cat class="v" grammar="tr">perseguir</cat>
+      <example sent_eng="He was after a new job." sent_cat="Cercava una feina nova." />
+      <example sent_eng="I am chasing after new opportunities." sent_cat="Busco noves oportunitats." />
+      <example sent_eng="The police are after you!" sent_cat="La policia t'està perseguint!" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">after</eng>
+      <eng class="prep">right after</eng>
+      <cat class="prep">damunt</cat>
+      <cat class="prep">damunt de</cat>
+      <example sent_eng="The divorce, right after her father's death, was too much for her." sent_cat="El divorci, damunt la mort del seu pare, va ser massa per a ella." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">ahead of</eng>
+      <cat class="prep">al capdavant de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">ahead of</eng>
+      <cat class="prep">per davant de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">ahead of</eng>
+      <eng class="prep">in front of</eng>
+      <cat class="prep">davant de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">ahead of</eng>
+      <cat class="prep">abans de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">all over</eng>
+      <cat class="prep" feminine="per tota">per tot</cat>
+      <example sent_eng="There were black signs all over the room." sent_cat="Hi havia senyals negres per tota l'habitació." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">along with</eng>
+      <eng class="prep">together with</eng>
+      <eng class="prep">alongside</eng>
+      <cat class="prep">juntament amb</cat>
+      <cat class="prep">junt amb</cat>
+      <cat class="prep">en companyia de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">along</eng>
+      <cat class="prep">al llarg de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" tags="formal" after="abstract noun">amid</eng>
+      <eng class="prep" tags="literary" after="abstract noun">amidst</eng>
+      <eng class="prep" tags="literary">in the midst of</eng>
+      <eng class="prep">in the middle of</eng>
+      <cat class="prep">enmig de</cat>
+      <cat class="prep">entremig de</cat>
+      <example sent_eng="I felt trapped amid the chaos." sent_cat="Em sentia atrapada enmig del caos." />
+      <example sent_eng="He winked at me and vanished in the middle of the confusion." sent_cat="Em va picar l'ullet i es va fer fonedís entremig de la confusió." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">among</eng>
+      <eng class="prep" tags="literary">amongst</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="He is among the few who have won this grueling race." sent_cat="És dels pocs que ha guanyat aquesta cursa esgotadora." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">among</eng>
+      <eng class="prep" tags="literary">amongst</eng>
+      <cat class="prep">entre</cat>
+      <cat class="prep">enmig de</cat>
+      <cat class="prep">entremig de</cat>
+      <example sent_eng="I spent two years among scientists." sent_cat="Vaig passar dos anys entre científics." />
+      <example sent_eng="She caught a glimpse of the bomber among the crowd." sent_cat="Va clissar el terrorista enmig de la gernació." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">apart from</eng>
+      <eng class="prep">except for</eng>
+      <cat class="prep">a part de</cat>
+      <cat class="prep">a banda de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">apart from</eng>
+      <eng class="prep">besides</eng>
+      <eng class="prep">as well as</eng>
+      <cat class="prep">a més de</cat>
+      <cat class="prep">a més a més de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">apropos</eng>
+      <eng class="prep">apropos of</eng>
+      <cat class="prep">a propòsit de</cat>
+      <cat class="prep">pel que fa a</cat>
+      <cat class="prep">respecte a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">around the middle of</eng>
+      <cat class="prep">a mitjan</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" tags="UK">round</eng>
+      <eng class="prep" tags="US">around</eng>
+      <cat class="prep">al voltant de</cat>
+      <cat class="adv">al voltant</cat>
+      <cat class="v" grammar="tr">envoltar</cat>
+      <example sent_eng="Put this band around the car." sent_cat="Posa aquesta cinta al voltant del cotxe." />
+      <example sent_eng="There was a band round the car." sent_cat="Una cinta envoltava el cotxe." />
+      <example sent_eng="There were many people around the dog." sent_cat="El gos tenia molta gent tot al voltant." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep" tags="UK">round</eng>
+      <eng class="prep" tags="US">around</eng>
+      <eng class="prep">about</eng>
+      <cat class="prep">al voltant de</cat>
+      <cat class="prep">arreu de</cat>
+      <cat class="prep" feminine="per tota">per tot</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="She's been around the world." sent_cat="Ha voltat per tot el món." />
+      <example sent_eng="She's been round the world." sent_cat="Ha voltat per tot el món." />
+      <example sent_eng="There were people running about the factory." sent_cat="Hi havia gent corrent per la fàbrica." />
+      <example sent_eng="We will set our stalls about the square." sent_cat="Muntarem les parades al voltant de la plaça." />
+    </e>
+    <e done="yes" src="" type="word" def_eng="As a consequence of something." def_cat="Com a conseqüència d'alguna cosa.">
+      <eng class="prep">as a consequence of</eng>
+      <eng class="prep">following</eng>
+      <eng class="prep">due to</eng>
+      <eng class="prep">as a result of</eng>
+      <cat class="prep">a conseqüència de</cat>
+      <cat class="prep">arran de</cat>
+      <cat class="prep">per obra de</cat>
+      <cat class="expr">obra de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">as a</eng>
+      <cat class="prep">com a</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">as for</eng>
+      <eng class="prep">as regards</eng>
+      <eng class="prep">in regard to</eng>
+      <eng class="prep">regarding</eng>
+      <eng class="prep">with regard to</eng>
+      <cat class="prep">a propòsit de</cat>
+      <cat class="prep">amb relació a</cat>
+      <cat class="prep">en relació amb</cat>
+      <cat class="prep">pel que fa a</cat>
+      <cat class="prep">pel que respecta a</cat>
+      <cat class="prep">quant a</cat>
+      <cat class="prep">referent a</cat>
+      <cat class="prep">respecte a</cat>
+      <cat class="prep">respecte de</cat>
+      <cat class="prep">tocant a</cat>
+      <example sent_eng="Regarding your question, we will not answer." sent_cat="Pel que fa a la teva pregunta, no respondrem." />
+      <example sent_eng="As for the rest, you are all welcome." sent_cat="Quant a la resta, sou tots benvinguts." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">as</eng>
+      <cat class="prep">com a</cat>
+      <cat class="prep">en qualitat de</cat>
+      <example sent_eng="As the coach, what do you think?" sent_cat="Com a entrenador, què en penses?" />
+      <example sent_eng="I have been invited as an intermediary." sent_cat="M'han convidat en qualitat de mediador." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">at a rate of</eng>
+      <cat class="prep">a raó de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">at the beginning of</eng>
+      <cat class="prep">a principis de</cat>
+      <cat class="prep">a començaments de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">at the expense of</eng>
+      <cat class="prep">a costa de</cat>
+      <cat class="prep">a expenses de</cat>
+      <cat class="prep">a despeses de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">at the time of</eng>
+      <cat class="prep">a l'hora de</cat>
+      <cat class="prep">en el moment de</cat>
+      <example sent_eng="At the time of death, the victim was sleeping." sent_cat="En el moment de la mort, la víctima dormia." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">away from</eng>
+      <cat class="prep">lluny de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" before="distance">away from</eng>
+      <cat class="prep">a (distància) de</cat>
+      <example sent_eng="The school is 5 minutes away from home." sent_cat="L'escola és a cinc minuts de casa." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">bar</eng>
+      <eng class="prep">barring</eng>
+      <eng class="prep">but</eng>
+      <eng class="prep">except for</eng>
+      <eng class="prep">except</eng>
+      <cat class="prep">excepte</cat>
+      <cat class="prep">llevat de</cat>
+      <cat class="prep">menys</cat>
+      <cat class="prep">tret de</cat>
+      <example sent_eng="All my colleagues bar you have criticised me." sent_cat="Menys tu, tots els companys de feina m'han criticat." />
+      <example sent_eng="Barring any crash or incident, he has the stage." sent_cat="Tret que hi hagi alguna caiguda o incident, guanyarà l'etapa." />
+      <example sent_eng="Everyone but him." sent_cat="Tothom menys ell." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="As a negative consequence." def_cat="Com a conseqüència negativa.">
+      <eng class="prep">because of</eng>
+      <eng class="prep">due to the fault of</eng>
+      <eng class="prep">due to</eng>
+      <eng class="prep">owing to</eng>
+      <cat class="prep">per culpa de</cat>
+      <cat class="prep">degut a</cat>
+      <cat class="prep">per causa de</cat>
+    </e>
+    <e src="" type="word" done="yes" def_eng="As a positive consequence." def_cat="Com a conseqüència positiva.">
+      <eng class="prep">thanks to</eng>
+      <eng class="prep">due to</eng>
+      <eng class="prep">because of</eng>
+      <cat class="prep">gràcies a</cat>
+      <example sent_eng="We have won thanks to you." sent_cat="Hem guanyat gràcies a tu." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">because of</eng>
+      <eng class="prep">by reason of</eng>
+      <cat class="prep">a causa de</cat>
+      <cat class="prep">per raó de</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="She was excluded by reason of her health." sent_cat="La'n van excloure per la seva salut." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">before</eng>
+      <cat class="prep">abans de</cat>
+      <example sent_eng="This will all be over before Christmas." sent_cat="Tot això s'haurà acabat abans de Nadal." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">before</eng>
+      <cat class="prep">per sobre de</cat>
+      <example sent_eng="We value quality before quantity." sent_cat="Valorem la qualitat per sobre de la quantitat." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">in front of</eng>
+      <eng class="prep">before</eng>
+      <eng class="IND">facing</eng>
+      <cat class="prep">davant de</cat>
+      <cat class="prep">davant</cat>
+      <cat class="prep">enfront de</cat>
+      <example sent_eng="The statue was placed before the palace." sent_cat="Col·locaren l'estàtua davant del palau." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">at the back of</eng>
+      <eng class="prep">behind</eng>
+      <cat class="prep">darrere de</cat>
+      <cat class="prep">darrere</cat>
+      <cat class="prep">rere</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">below</eng>
+      <cat class="prep">sota</cat>
+      <cat class="prep">a sota</cat>
+      <cat class="prep">sota de</cat>
+      <cat class="prep">a sota de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">below</eng>
+      <eng class="prep">underneath</eng>
+      <cat class="prep">davall</cat>
+      <cat class="prep">davall de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beneath</eng>
+      <cat class="prep">per sota</cat>
+      <cat class="prep">per sota de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">by</eng>
+      <eng class="prep">beside</eng>
+      <eng class="prep">besides</eng>
+      <eng class="prep">next to</eng>
+      <cat class="prep">al costat de</cat>
+      <example sent_eng="The gym is by the river." sent_cat="El gimnàs és al costat del riu." />
+      <example sent_eng="There are two mice beside the cat." sent_cat="Hi ha dos ratolins al costat del gat." />
+      <example sent_eng="My sister stands next to the coach." sent_cat="La meva germana és al costat de l'entrenadora." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beside</eng>
+      <cat class="prep">a prop de</cat>
+      <cat class="prep">a la vora de</cat>
+      <cat class="prep">vora</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beside</eng>
+      <eng class="prep">besides</eng>
+      <cat class="prep">a més a més de</cat>
+      <cat class="prep">a més de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beside</eng>
+      <eng class="prep">besides</eng>
+      <eng class="prep">outside of</eng>
+      <cat class="prep">fora de</cat>
+      <cat class="prep">llevat de</cat>
+      <cat class="prep">a part de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep" after="two options">between</eng>
+      <cat class="prep">entre</cat>
+      <example sent_eng="I placed the book between the table and the window." sent_cat="Vaig posar el llibre entre la taula i la finestra." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beyond</eng>
+      <cat class="prep">més enllà de</cat>
+      <cat class="prep" tags="antic">allèn de</cat>
+      <example sent_eng="He lives beyond the mountains." sent_cat="Viu més enllà de les muntanyes." />
+      <example sent_eng="The answer lies beyond the valley." sent_cat="La resposta rau allèn de la vall." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beyond</eng>
+      <eng class="prep">past</eng>
+      <cat class="prep">passant</cat>
+      <cat class="prep" feminine="passada">passat</cat>
+      <example sent_eng="No swimming beyond the bridge." sent_cat="Prohibit nedar passat el pont." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beyond</eng>
+      <cat class="prep">per sobre de</cat>
+      <cat class="v" grammar="tr">superar</cat>
+      <example sent_eng="Your result was beyond our expectations." sent_cat="El teu resultat va superar les nostres expectatives." />
+      <example sent_eng="The task was beyond his capabilities." sent_cat="La tasca estava per sobre de les seves capacitats." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beyond</eng>
+      <cat class="prep">fora de</cat>
+      <cat class="v" grammar="intr">escapar a</cat>
+      <example sent_eng="The book was beyond our grasp." sent_cat="El llibre estava fora del nostre abast." />
+      <example sent_eng="Her reasoning was beyond our comprehension." sent_cat="El seu raonament escapava a la nostra comprensió." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">beyond</eng>
+      <cat class="prep">per sobre de</cat>
+      <cat class="prep">més de</cat>
+      <example sent_eng="Only one woman has lived beyond 120 years." sent_cat="Només una persona ha viscut més de cent vint anys." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">by repeatedly</eng>
+      <eng class="prep" tags="formal">by dint of</eng>
+      <cat class="prep">a força de</cat>
+      <cat class="prep">a còpia de</cat>
+      <example sent_eng="You can soften it by repeatedly adding water to it." sent_cat="Ho pots estovar a força de tirar-hi aigua." />
+      <example sent_eng="We will achieve our goal by dint of working day and night." sent_cat="Atenyerem el nostre fi a còpia de treballar nit i dia." />
+    </e>
+    <e src="" type="word" done="yes" remark="En quantitats.">
+      <eng class="prep">by</eng>
+      <cat class="prep">a</cat>
+      <example sent_eng="By the dozen." sent_cat="A dotzenes." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica un progrés.">
+      <eng class="prep">by</eng>
+      <eng class="prep">after</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">rere</cat>
+      <example sent_eng="Day by day" sent_cat="Dia a dia." />
+      <example sent_eng="Year after year." sent_cat="Any rere any." />
+    </e>
+    <e src="" type="word" done="yes" remark="En quantitats.">
+      <eng class="prep">by</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="Success rate has increased by 7%." sent_cat="La taxa d'èxit ha augmentat d'un 7%." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">by</eng>
+      <cat class="prep">en</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="By pressing down this special key, you will hear a melody." sent_cat="En prémer aquesta tecla especial, sentiràs una melodia." />
+      <example sent_eng="By doing this, we will get a reward." sent_cat="Ens donaran una recompensa per haver fet això." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica el mitjà, la forma o la manera.">
+      <eng class="prep">by</eng>
+      <cat class="prep">amb</cat>
+      <cat class="prep">per</cat>
+      <cat class="prep">per mitjà de</cat>
+      <example sent_eng="Pay by credit card." sent_cat="Pagar amb targeta de crèdit." />
+      <example sent_eng="Death by exhaustion." sent_cat="Mort per extenuació." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica el mitjà.">
+      <eng class="prep">via</eng>
+      <eng class="prep">by</eng>
+      <cat class="prep">mitjançant</cat>
+      <cat class="prep">per mitjà de</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="We will send the results via post." sent_cat="Enviarem els resultats per correu postal." />
+    </e>
+    <e src="" type="word" done="yes" remark="En mesures.">
+      <eng class="prep">by</eng>
+      <cat class="prep">per</cat>
+      <example sent_eng="4 by 4 meters." sent_cat="4 metres per 4." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica l'agent o l'autor.">
+      <eng class="prep">by</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="A play by Shakespeare." sent_cat="Una obra de Shakespeare." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica l'agent o la causa.">
+      <eng class="prep">by</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">per part de</cat>
+      <example sent_eng="Works published by him are usually good." sent_cat="Les obres publicades per ell solen ser bones." />
+      <example sent_eng="The proposal was well accepted by the students." sent_cat="La proposta va ser ben rebuda per part dels estudiants." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="past, close to">
+      <eng class="prep">by</eng>
+      <cat class="prep">per davant de</cat>
+      <cat class="prep">prop de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">by oneself</eng>
+      <cat class="prep" feminine="una mateixa">per un mateix</cat>
+      <cat class="prep" feminine="tota sola">tot sol</cat>
+      <example sent_eng="Did you do this by yourself?" sent_cat="Ho has fet tu tot sol?" />
+    </e>
+    <e src="" type="word" done="yes" def_eng="according to">
+      <eng class="prep">by</eng>
+      <cat class="prep">segons</cat>
+      <cat class="prep">d'acord amb</cat>
+      <example sent_eng="By law." sent_cat="Segons la llei." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="time at or before">
+      <eng class="prep">by</eng>
+      <cat class="prep">abans que</cat>
+      <cat class="prep">abans de</cat>
+      <cat class="prep">no més tard que</cat>
+      <cat class="prep">no més tard de</cat>
+      <cat class="prep">quan</cat>
+      <cat class="prep">cap a</cat>
+      <example sent_eng="She will be back by seven." sent_cat="Tornarà cap a les set." />
+      <example sent_eng="Mom will have sent you a letter by May." sent_cat="La mama t'enviarà una carta abans del mes de maig." />
+      <example sent_eng="By the time they get here, we will be long gone." sent_cat="Quan arribin, ja farà estona que haurem marxat." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica un mitjà de transport.">
+      <eng class="prep">by</eng>
+      <cat class="prep">amb</cat>
+      <cat class="prep">en</cat>
+      <example sent_eng="We will travel by plane." sent_cat="Viatjarem amb avió." />
+      <example sent_eng="They came by car." sent_cat="Han vingut en cotxe." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica una part del dia.">
+      <eng class="prep">by</eng>
+      <cat class="prep">de</cat>
+      <cat class="prep">a</cat>
+      <example sent_eng="We will meet by night." sent_cat="Ens trobarem de nit." />
+      <example sent_eng="We will meet by noon." sent_cat="Ens trobarem al migdia." />
+    </e>
+    <e src="" type="word" done="yes" def_cat="Punt intermig per on passa quelcom.">
+      <eng class="prep">by way of</eng>
+      <eng class="prep">via</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">via</cat>
+      <cat class="prep">passant per</cat>
+      <cat class="prep">a través de</cat>
+      <example sent_eng="We took the train to Berlin via Düsseldorf." sent_cat="Vam agafar el tren que anava a Berlín passant per Düsseldorf." />
+    </e>
+    <e src="" type="word" done="yes" def_eng="meaning">
+      <eng class="prep">by</eng>
+      <cat class="prep">amb</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="What do you mean by 'finished'?" sent_cat="Què vols dir amb 'acabat'?" />
+      <example sent_eng="What do you understand by 'finished'?" sent_cat="Què entens per 'acabat'?" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">considering</eng>
+      <cat class="prep">tenint en compte</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">considering</eng>
+      <eng class="prep">given</eng>
+      <cat class="adv">atenent</cat>
+      <cat class="adv">considerant</cat>
+      <cat class="prep">en vista de</cat>
+      <cat class="adj" feminine="atesa">atès</cat>
+      <example sent_eng="Considering the circumstances, we cannot proceed." sent_cat="Ateses les circumstàncies, no podem continuar." />
+      <example sent_eng="Given the situation, we decided to call 911." sent_cat="En vista de la situació, vam decidir de trucar al 112." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">despite</eng>
+      <eng class="prep">in spite of</eng>
+      <cat class="prep">malgrat</cat>
+      <cat class="prep">tot i</cat>
+      <cat class="prep">a pesar de</cat>
+      <cat class="prep">a despit de</cat>
+      <example sent_eng="Despite his age, he held firmly." sent_cat="Malgrat la seva edat, va aguantar amb fermesa." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">despite</eng>
+      <cat class="prep">amb indiferència de</cat>
+      <cat class="prep">al marge de</cat>
+      <cat class="prep">malgrat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">down</eng>
+      <cat class="adv">avall</cat>
+      <example sent_eng="I fell down the slope." sent_cat="Vaig caure pendent avall." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">down</eng>
+      <cat class="prep">per</cat>
+      <example sent_eng="She was walking down the street." sent_cat="Caminava pel carrer." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" tags="UK">down</eng>
+      <cat class="prep">a</cat>
+      <example sent_eng="I'm going down the shop." sent_cat="Vaig a la botiga." />
+    </e>
+    <e done="yes" src="" type="word" remark="Indica el moment en què comença quelcom.">
+      <eng class="prep">from</eng>
+      <eng class="prep">starting from</eng>
+      <cat class="prep">a partir de</cat>
+      <cat class="prep">des de</cat>
+      <cat class="prep">de</cat>
+      <example sent_eng="From this point forward, all meetings will start at 9 a.m." sent_cat="A partir d'ara, totes les reunions començaran a les nou." />
+      <example sent_eng="We will be selling bread from 6 to 11 am." sent_cat="Vendrem pa des de les sis fins a les onze." />
+      <example sent_eng="The road is closed from November to April." sent_cat="La carretera és tancada del novembre a l'abril." />
+      <example sent_eng="Starting from this release, all books will be numbered." sent_cat="A partir d'aquest llançament, tots els llibres estaran numerats." />
+    </e>
+    <e done="yes" src="" type="word" remark="Lloc.">
+      <eng class="prep">from</eng>
+      <cat class="prep">des de</cat>
+      <cat class="prep">de</cat>
+      <example sent_eng="The athletes will be running from Girona to Tarragona." sent_cat="Els atletes correran de Girona a Tarragona." />
+      <example sent_eng="Many people send letters from Antarctica." sent_cat="Molta gent envia cartes des de l'Antàrtida." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">from</eng>
+      <cat class="prep">de</cat>
+      <cat class="prep" feminine="oriünda de">oriünd de</cat>
+      <example sent_eng="He is from New Zealand." sent_cat="És de Nova Zelanda." />
+      <example sent_eng="The first rider from Eritrea." sent_cat="El primer ciclista oriünd d'Eritrea." />
+    </e>
+    <e src="" type="word" done="yes" remark="En cartes, correus, trucades, etc.">
+      <eng class="prep" tags="UK formal">further to</eng>
+      <cat class="prep">amb referència a</cat>
+      <cat class="prep">en referència a</cat>
+      <cat class="prep">amb relació a</cat>
+      <cat class="prep">en relació amb</cat>
+      <example sent_eng="Further to your last email, we want to inform you that we accept your offer." sent_cat="En relació amb el vostre últim correu electrònic, us volem informar que acceptem l'oferta." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">immediately after</eng>
+      <eng class="prep">right after</eng>
+      <cat class="prep" before="tot">just després de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">in addition to</eng>
+      <eng class="prep">alongside</eng>
+      <cat class="prep">a més de</cat>
+      <cat class="prep">a més a més de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in answer to</eng>
+      <cat class="prep">en resposta a</cat>
+      <cat class="prep">com a resposta a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in compliance with</eng>
+      <cat class="prep">de conformitat amb</cat>
+      <cat class="prep">conforme a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in compliance with</eng>
+      <cat class="prep">d'acord amb</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in exchange for</eng>
+      <cat class="prep">a canvi de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">pro</eng>
+      <eng class="prep">for</eng>
+      <eng class="prep" tags="UK">in favour of</eng>
+      <eng class="prep" tags="US">in favor of</eng>
+      <cat class="pfx">pro</cat>
+      <cat class="prep">en favor de</cat>
+      <cat class="prep">a favor de</cat>
+      <example sent_eng="The President made a speech in favour of Palestine." sent_cat="El president va fer un discurs propalestí." />
+      <example sent_eng="Are you for his views?" sent_cat="Estàs a favor de la seva opinió?" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in order of</eng>
+      <cat class="prep">per ordre de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">in pursuit of</eng>
+      <cat class="prep">a l'encalç de</cat>
+      <cat class="prep">en persecució de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in pursuit of</eng>
+      <cat class="prep">a la recerca de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in pursuit of</eng>
+      <cat class="prep" before="anar">darrere de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" remark="when comparing size, condition">in relation to</eng>
+      <cat class="prep">en comparació a</cat>
+      <cat class="prep">en comparació amb</cat>
+      <cat class="prep" feminine="comparada amb">comparat amb</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in relation to</eng>
+      <cat class="prep">amb relació a</cat>
+      <cat class="prep">en relació amb</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in relation to</eng>
+      <cat class="prep">respecte de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in reply to</eng>
+      <cat class="prep">en resposta a</cat>
+      <cat class="prep">com a resposta a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in the middle of</eng>
+      <eng class="prep">during</eng>
+      <cat class="prep">enmig de</cat>
+      <cat class="prep">a mitjan</cat>
+      <cat class="prep" feminine="a mitja">a mig</cat>
+      <example sent_eng="During the exam, he started yelling at me." sent_cat="Es va posar a escridassar-me a mig examen." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in the middle of</eng>
+      <cat class="prep">al mig de</cat>
+      <example sent_eng="Don't park your car in the middle of the street." sent_cat="No aparquis al mig del carrer." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in view of</eng>
+      <cat class="prep">en vista de</cat>
+    </e>
+    <e done="yes" src="" type="word" remark="Lloc.">
+      <eng class="prep">in</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">en</cat>
+      <example sent_eng="The book is in the classroom." sent_cat="El llibre és a la classe." />
+      <example sent_eng="They found him in a well." sent_cat="El van trobar en un pou." />
+      <example sent_eng="He lives in a small town." sent_cat="Viu en un poble petit." />
+    </e>
+    <e src="" type="word" done="yes" remark="Lloc.">
+      <eng class="prep">at</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">en</cat>
+      <example sent_eng="She is at school." sent_cat="És a l'escola." />
+      <example sent_eng="I saw him at a press conference." sent_cat="El vaig veure en una conferència de premsa." />
+      <example sent_eng="To be at Mass." sent_cat="Ser a missa." />
+    </e>
+    <e done="yes" remark="Lloc." src="" type="word">
+      <eng class="prep">in</eng>
+      <eng class="prep">inside</eng>
+      <eng class="prep">within</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">en</cat>
+      <cat class="prep">dins</cat>
+      <cat class="prep">dins de</cat>
+      <cat class="prep">a dins de</cat>
+      <cat class="prep">dintre</cat>
+      <cat class="prep">dintre de</cat>
+      <cat class="prep">a dintre de</cat>
+      <example sent_eng="No animal lives within this forest." sent_cat="Dins d'aquest bosc, no hi viu cap animal." />
+      <example sent_eng="You will find the answers within this book." sent_cat="Trobareu les respostes en aquest llibre." />
+      <example sent_eng="The keys are inside the drawer." sent_cat="Les claus són dintre del calaix." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica el temps que falta perquè passi quelcom.">
+      <eng class="prep">in</eng>
+      <eng class="prep">within</eng>
+      <cat class="prep">d'aquí a</cat>
+      <cat class="prep">dins de</cat>
+      <cat class="prep">dintre de</cat>
+      <example sent_eng="The match will start within five minutes." sent_cat="El partit començarà d'aquí a cinc minuts." />
+    </e>
+    <e src="" type="word" done="yes" remark="Indica el temps màxim que falta perquè passi quelcom.">
+      <eng class="prep">within</eng>
+      <cat class="prep">en menys de</cat>
+      <example sent_eng="I can read this book within two days." sent_cat="Puc llegir aquest llibre en menys de dos dies." />
+    </e>
+    <e src="" type="word" done="yes" remark="Distància.">
+      <eng class="prep">within</eng>
+      <cat class="prep">a menys de</cat>
+      <example sent_eng="The village is within five miles." sent_cat="El poble és a menys de vuit quilòmetres." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">instead of</eng>
+      <eng class="prep" tags="formal">in lieu of</eng>
+      <cat class="prep">en comptes de</cat>
+      <cat class="prep">en lloc de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be into</eng>
+      <cat class="expr" feminine="estar interessada en">estar interessat en</cat>
+      <cat class="expr" feminine="ser aficionada a">ser aficionat a</cat>
+      <cat class="expr" feminine="estar implicada en">estar implicat en</cat>
+      <cat class="expr">tenir afició a</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be into drugs</eng>
+      <cat class="expr">estar enganxat a les drogues</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">across from</eng>
+      <cat class="prep">davant per davant de</cat>
+      <cat class="prep">davant de</cat>
+      <example sent_eng="The gas station is across from the store." sent_cat="La gasolinera és davant per davant de la botiga." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">across</eng>
+      <eng class="prep">just across</eng>
+      <eng class="prep">straight across</eng>
+      <eng class="prep">right across</eng>
+      <cat class="prep">a l'altra banda de</cat>
+      <cat class="prep">a l'altre costat de</cat>
+      <cat class="prep">creuant</cat>
+      <cat class="prep">travessant</cat>
+      <cat class="prep">que creua</cat>
+      <cat class="prep">que travessa</cat>
+      <example sent_eng="You will find one just across this street." sent_cat="En trobaràs un a l'altra banda d'aquest carrer." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">like</eng>
+      <cat class="adv">com</cat>
+      <example sent_eng="This is for people like you." sent_cat="Això és per a gent com tu." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">like</eng>
+      <cat class="adj" feminine="pròpia de">propi de</cat>
+      <cat class="adj" feminine="típica de">típic de</cat>
+      <example sent_eng="That's just like him." sent_cat="Això és típic d'ell." />
+      <example sent_eng="This is not like her." sent_cat="Això no és propi d'ella." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep" tags="informal">minus</eng>
+      <cat class="prep">sense</cat>
+      <example sent_eng="I had to ride my bike minus my helmet." sent_cat="Vaig haver de pedalar sense casc." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">minus</eng>
+      <cat class="expr">sota zero</cat>
+      <example sent_eng="It was minus seven." sent_cat="Hi havia set graus sota zero." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">minus</eng>
+      <cat class="adv">menys</cat>
+      <example sent_eng="Ten minus four is six." sent_cat="Deu menys quatre fa sis." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">plus</eng>
+      <cat class="adv">més</cat>
+      <example sent_eng="Four plus six is ten." sent_cat="Quatre més sis fa deu." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">close to</eng>
+      <eng class="prep">near</eng>
+      <cat class="prep">arran de</cat>
+      <cat class="prep">prop</cat>
+      <cat class="prep">prop de</cat>
+      <cat class="prep">vora</cat>
+      <cat class="prep">vora de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">off</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="She fell off the chair." sent_cat="Va caure de la cadira." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">off</eng>
+      <cat class="prep">fora de</cat>
+      <example sent_eng="Please park your car off the red area." sent_cat="Aparqueu el cotxe fora de la zona vermella." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">on behalf of</eng>
+      <eng class="prep" tags="US">in behalf of</eng>
+      <cat class="prep">en nom de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">on top of</eng>
+      <eng class="prep">atop</eng>
+      <cat class="prep">damunt de</cat>
+      <cat class="prep">al cim de</cat>
+      <cat class="prep">al capdamunt de</cat>
+      <cat class="prep">a dalt de</cat>
+      <example sent_eng="There is a hut on top of the mountain." sent_cat="Hi ha un refugi a dalt de la muntanya." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">on top of</eng>
+      <cat class="prep">a sobre de</cat>
+      <cat class="prep">a més de</cat>
+      <example sent_eng="On top of insulting me, they also punched me." sent_cat="A més d'insultar-me, també em van clavar un cop de puny." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">on</eng>
+      <eng class="prep" tags="formal">upon</eng>
+      <cat class="prep">a</cat>
+      <cat class="prep">en</cat>
+      <example sent_eng="A poster hanging on the wall." sent_cat="Un pòster penjat a la paret." />
+      <example sent_eng="He has a tattoo on a finger." sent_cat="Porta un tatuatge en un dit." />
+      <example sent_eng="On the left." sent_cat="A l'esquerra." />
+      <example sent_eng="My teacher is on a plane right now." sent_cat="Ara mateix, el meu professor és en un avió." />
+    </e>
+    <e src="" type="word" done="yes" remark="Amb verbs de moviment.">
+      <eng class="prep">onto</eng>
+      <cat class="prep">sobre</cat>
+      <cat class="prep">a</cat>
+      <example sent_eng="The helicopter landed onto the roof." sent_cat="L'helicòpter va aterrar a la teulada." />
+      <example sent_eng="She jumped onto the platform." sent_cat="Va saltar sobre la plataforma." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">above</eng>
+      <eng class="prep">over</eng>
+      <cat class="prep">per sobre de</cat>
+      <cat class="prep">per damunt de</cat>
+      <cat class="prep">per damunt</cat>
+      <example sent_eng="The paper plane flew over the tree." sent_cat="L'avió de paper va passar volant per damunt de l'arbre." />
+      <example sent_eng="A general is above a colonel." sent_cat="El general està per sobre del coronel." />
+      <example sent_eng="Over my dead body." sent_cat="Per sobre del meu cadàver." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">above</eng>
+      <eng class="prep">over</eng>
+      <cat class="prep">dalt de</cat>
+      <cat class="prep">dalt</cat>
+      <cat class="prep">damunt de</cat>
+      <cat class="prep">damunt</cat>
+      <cat class="prep">sobre</cat>
+      <example sent_eng="I could see the clouds over the ridge." sent_cat="Podia veure els núvols sobre la serra." />
+      <example sent_eng="He placed a shelf above his desk." sent_cat="Va posar un prestatge damunt de l'escriptori." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">on</eng>
+      <eng class="prep" tags="formal">upon</eng>
+      <eng class="prep">on top of</eng>
+      <cat class="prep">damunt de</cat>
+      <cat class="prep">damunt</cat>
+      <cat class="prep">sobre</cat>
+      <cat class="prep">dalt de</cat>
+      <cat class="prep">dalt</cat>
+      <example sent_eng="He placed my letter on top of the others." sent_cat="Va deixar la meva carta damunt de les altres." />
+      <example sent_eng="I don't want to see anything on the table." sent_cat="No vull veure res sobre la taula." />
+      <example sent_eng="There's a doll on top of the car." sent_cat="Dalt del cotxe hi ha una nina." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">out of</eng>
+      <cat class="prep">fora de</cat>
+      <example sent_eng="Please get out of the classroom." sent_cat="Surt a fora de la classe, si us plau." />
+      <example sent_eng="Leave the book out of the box." sent_cat="Deixa el llibre fora de la caixa." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">out of</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="She appeared out of nowhere." sent_cat="Va aparèixer del no-res." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">out of</eng>
+      <cat class="prep">per</cat>
+      <example sent_eng="I helped you out of pity." sent_cat="T'he ajudat per compassió." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">out of</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="We found a statue made out of bones." sent_cat="Hem trobat una estàtua feta d'ossos." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">out of</eng>
+      <cat class="prep">de cada</cat>
+      <cat class="prep">entre</cat>
+      <cat class="prep">de</cat>
+      <example sent_eng="Three out of ten." sent_cat="Tres de cada deu." />
+      <example sent_eng="Two shots out of five." sent_cat="Dos tirs de cinc." />
+    </e>
+    <e src="" type="word" done="yes" remark="Moviment, de dins cap a fora.">
+      <eng class="prep">out</eng>
+      <cat class="prep">a través de</cat>
+      <cat class="prep">per</cat>
+      <example sent_eng="She was looking out the window." sent_cat="Estava mirant per la finestra." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">outside</eng>
+      <cat class="prep">fora de</cat>
+      <example sent_eng="She lived outside the old town." sent_cat="Vivia fora del casc antic." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">over</eng>
+      <cat class="prep">més de</cat>
+      <example sent_eng="There were over a thousand people." sent_cat="Hi havia més d'un miler de persones." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">over</eng>
+      <cat class="prep">durant</cat>
+      <example sent_eng="Over the month of January, we played 7 matches." sent_cat="Durant el mes de gener, vam disputar set partits." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">regardless of</eng>
+      <cat class="prep">malgrat</cat>
+      <cat class="prep">a pesar de</cat>
+      <cat class="prep">no obstant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">in front of</eng>
+      <eng class="prep">right in front of</eng>
+      <cat class="prep">just davant de</cat>
+      <cat class="prep">davant per davant de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">shortly after</eng>
+      <cat class="prep">poc després de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">shortly before</eng>
+      <cat class="prep">poc abans de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">since</eng>
+      <cat class="prep">des de</cat>
+      <cat class="prep">d'ençà de</cat>
+      <example sent_eng="My cousin was never the same since the accident." sent_cat="D'ençà de l'accident, el meu cosí no va tornar a ser el mateix." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">starting from</eng>
+      <cat class="prep">començant per</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">such as</eng>
+      <cat class="prep">com ara</cat>
+      <cat class="prep">com</cat>
+      <cat class="expr">com, per exemple,</cat>
+      <example sent_eng="There were wild animals such as lions." sent_cat="Hi havia animals salvatges com, per exemple, lleons." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">throughout</eng>
+      <eng class="prep">through</eng>
+      <cat class="prep">durant</cat>
+      <cat class="prep" feminine="al llarg de tota">al llarg de tot</cat>
+      <cat class="prep" feminine="durant tota">durant tot</cat>
+      <example sent_eng="She worked through the night." sent_cat="Ha treballat durant tota la nit." />
+      <example sent_eng="Some bears hibernate throughout the winter." sent_cat="Alguns ossos hibernen al llarg de tot l'hivern." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">through</eng>
+      <eng class="prep">by means of</eng>
+      <cat class="prep">mitjançant</cat>
+      <cat class="prep">per mitjà de</cat>
+      <example sent_eng="I contacted him through my mother." sent_cat="Vaig contactar amb ell per mitjà de la meva mare." />
+      <example sent_eng="They bore a hole by means of a hammer." sent_cat="Van fer un forat mitjançant un martell." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">until</eng>
+      <eng class="prep" tags="US informal">through</eng>
+      <eng class="prep" tags="informal">til</eng>
+      <eng class="prep" tags="informal">till</eng>
+      <cat class="prep">fins</cat>
+      <cat class="prep">fins a</cat>
+      <cat class="prep">a</cat>
+      <example sent_eng="Open Monday through Friday." sent_cat="Obert de dilluns a divendres." />
+      <example sent_eng="We will train until the match." sent_cat="Ens entrenarem fins al partit." />
+      <example sent_eng="I'll help you til the end." sent_cat="T'ajudaré fins al final." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">to the detriment of</eng>
+      <cat class="prep">en detriment de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">to the extent of</eng>
+      <cat class="prep">fins al punt de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">to</eng>
+      <eng class="prep">up to</eng>
+      <cat class="prep">fins</cat>
+      <cat class="prep">fins a</cat>
+      <cat class="expr" remark="En quantitats.">un màxim de</cat>
+      <example sent_eng="Reviewers may submit up to 10 requests." sent_cat="Els revisors poden enviar un màxim de deu sol·licituds." />
+      <example sent_eng="He went up to the forest searching for her." sent_cat="Va arribar fins al bosc buscant-la." />
+    </e>
+    <e src="" type="word" done="yes" def_cat="Direcció.">
+      <eng class="prep" tags="US">toward</eng>
+      <eng class="prep" tags="UK">towards</eng>
+      <eng class="prep">to</eng>
+      <cat class="prep">cap a</cat>
+      <cat class="prep">vers</cat>
+      <cat class="prep">envers</cat>
+      <cat class="prep">devers</cat>
+      <example sent_eng="We took the train towards Abisko." sent_cat="Vam agafar el tren que anava cap a Abisko." />
+      <example sent_eng="The children started to run toward the lake." sent_cat="La canalla arrencà a córrer vers el llac." />
+    </e>
+    <e done="yes" src="" type="word" remark="En relació amb.">
+      <eng class="prep" tags="US">toward</eng>
+      <eng class="prep" tags="UK">towards</eng>
+      <cat class="prep">envers</cat>
+      <example sent_eng="He supported a helpful movement towards the project." sent_cat="Va donar suport a un moviment útil envers el projecte." />
+    </e>
+    <e done="yes" src="" type="word" remark="Al voltant de, aproximadament.">
+      <eng class="prep" tags="US">toward</eng>
+      <eng class="prep" tags="UK">towards</eng>
+      <cat class="prep">cap a</cat>
+      <cat class="prep">vers</cat>
+      <example sent_eng="She lives toward the church." sent_cat="Viu vers l'església." />
+      <example sent_eng="My grandad was born towards the 1930s." sent_cat="El meu avi va néixer cap als anys trenta." />
+    </e>
+    <e src="" type="word" done="yes" remark="Amb l'objectiu de, pensant en.">
+      <eng class="prep" tags="US">toward</eng>
+      <eng class="prep" tags="UK">towards</eng>
+      <cat class="prep">per</cat>
+      <cat class="prep">per a</cat>
+      <example sent_eng="I am studying hard toward the exam." sent_cat="Estic estudiant de valent per a l'examen." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">under</eng>
+      <eng class="prep">underneath</eng>
+      <eng class="prep">below</eng>
+      <eng class="prep">beneath</eng>
+      <cat class="prep">sota</cat>
+      <cat class="prep">a sota</cat>
+      <cat class="prep">sota de</cat>
+      <cat class="prep">a sota de</cat>
+      <cat class="prep" tags="dialectal">davall</cat>
+      <cat class="prep" tags="dialectal">davall de</cat>
+      <example sent_eng="Below ground." sent_cat="Sota terra." />
+      <example sent_eng="There is a termite nest underneath the tree." sent_cat="A sota de l'arbre hi ha un niu de tèrmits." />
+      <example sent_eng="There are secrets buried beneath the surface." sent_cat="Hi ha secrets enterrats sota la superfície." />
+      <example sent_eng="Leave it under the chair." sent_cat="Deixa-ho sota la cadira." />
+      <example sent_eng="A house was built underneath the bridge." sent_cat="Varen construir una casa davall del pont." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">unlike</eng>
+      <cat class="prep">a diferència de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">unlike</eng>
+      <cat class="prep">al contrari de</cat>
+      <cat class="prep">contràriament a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">unlike</eng>
+      <cat class="adj">diferent de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">unlike</eng>
+      <cat class="adj" feminine="impròpia de">impropi de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">up</eng>
+      <cat class="prep">cap amunt de</cat>
+      <cat class="prep">dalt</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">up</eng>
+      <cat class="v" grammar="intr_pron">enfilar-se</cat>
+      <cat class="v" grammar="intr">pujar</cat>
+      <example sent_eng="The squirrel climbed up the tree." sent_cat="L'esquirol es va enfilar a l'arbre." />
+      <example sent_eng="She ran up the stairs." sent_cat="Va pujar l'escala corrent." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">versus</eng>
+      <eng class="prep">vs.</eng>
+      <cat class="prep" tags="llatí">versus</cat>
+      <cat class="prep" tags="llatí">vs.</cat>
+      <cat class="prep">contra</cat>
+      <cat class="prep">en contra de</cat>
+      <cat class="prep">enfront de</cat>
+      <cat class="prep">en oposició a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">with a view to</eng>
+      <cat class="prep">amb vista a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">with reference to</eng>
+      <cat class="prep">amb referència a</cat>
+      <cat class="prep">en referència a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">with the exception of</eng>
+      <cat class="prep">a excepció de</cat>
+      <cat class="prep">llevat de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">without prejudice to</eng>
+      <cat class="prep">sense perjudici de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">with</eng>
+      <cat class="prep">de</cat>
+      <example sent_eng="Filled with water." sent_cat="Ple d'aigua." />
+      <example sent_eng="Covered with blood." sent_cat="Cobert de sang." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="prep">outside</eng>
+      <cat class="prep">al marge de</cat>
+    </e>
+    <e done="yes" src="" def_cat="Preposició utilitzada per a marcar els verbs en infinitiu." type="word">
+      <eng class="prep" remark="infinitive marker">to</eng>
+      <cat class="prep">∅</cat>
+      <example sent_eng="The verb &quot;to sing&quot; can be transitive or intransitive." sent_cat="El verb «cantar» pot ser transitiu o intransitiu." />
+      <example sent_eng="She asked me what to do." sent_cat="Em va preguntar què fer." />
+    </e>
+  </entries>
+</root>

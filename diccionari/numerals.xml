@@ -1,0 +1,2551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" type="word">
+      <eng class="num">0</eng>
+      <eng class="num">zero</eng>
+      <eng class="num" tags="UK">nought</eng>
+      <eng class="num" remark="only verbally">oh</eng>
+      <eng class="num" tags="informal">zilch</eng>
+      <eng class="num" tags="slang">zip</eng>
+      <eng class="num" remark="Used in sports scores.">nil</eng>
+      <eng class="num" tags="old">cipher</eng>
+      <eng class="num" tags="old">cypher</eng>
+      <cat class="num">0</cat>
+      <cat class="num">zero</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1</eng>
+      <eng class="num" tags="Roman">I</eng>
+      <eng class="num">one</eng>
+      <eng class="num">unity</eng>
+      <cat class="num">1</cat>
+      <cat class="num" tags="romà">I</cat>
+      <cat class="num">u</cat>
+      <cat class="num" feminine="una">un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2</eng>
+      <eng class="num" tags="Roman">II</eng>
+      <eng class="num">two</eng>
+      <eng class="num">deuce</eng>
+      <cat class="num">2</cat>
+      <cat class="num" tags="romà">II</cat>
+      <cat class="num" feminine="dues">dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3</eng>
+      <eng class="num" tags="Roman">III</eng>
+      <eng class="num">three</eng>
+      <cat class="num">3</cat>
+      <cat class="num" tags="romà">III</cat>
+      <cat class="num">tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4</eng>
+      <eng class="num" tags="Roman">IV</eng>
+      <eng class="num">four</eng>
+      <cat class="num">4</cat>
+      <cat class="num" tags="romà">IV</cat>
+      <cat class="num">quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5</eng>
+      <eng class="num" tags="Roman">V</eng>
+      <eng class="num">five</eng>
+      <cat class="num">5</cat>
+      <cat class="num" tags="romà">V</cat>
+      <cat class="num">cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6</eng>
+      <eng class="num" tags="Roman">VI</eng>
+      <eng class="num">six</eng>
+      <eng class="n">half a dozen</eng>
+      <eng class="n">half dozen</eng>
+      <eng class="n">half-dozen</eng>
+      <cat class="num">6</cat>
+      <cat class="num" tags="romà">VI</cat>
+      <cat class="num">sis</cat>
+      <cat class="f">mitja dotzena</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7</eng>
+      <eng class="num" tags="Roman">VII</eng>
+      <eng class="num">seven</eng>
+      <cat class="num">7</cat>
+      <cat class="num" tags="romà">VII</cat>
+      <cat class="num">set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8</eng>
+      <eng class="num" tags="Roman">VIII</eng>
+      <eng class="num">eight</eng>
+      <cat class="num">8</cat>
+      <cat class="num" tags="romà">VIII</cat>
+      <cat class="num">vuit</cat>
+      <cat class="num" tags="valencià">huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9</eng>
+      <eng class="num" tags="Roman">IX</eng>
+      <eng class="num">nine</eng>
+      <eng class="num" remark="ICAO spelling alphabet">niner</eng>
+      <eng class="num" tags="old">ennead</eng>
+      <cat class="num">9</cat>
+      <cat class="num" tags="romà">IX</cat>
+      <cat class="num">nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">10</eng>
+      <eng class="num" tags="Roman">X</eng>
+      <eng class="num">ten</eng>
+      <eng class="num">tenner</eng>
+      <eng class="n">decade</eng>
+      <cat class="num">10</cat>
+      <cat class="num" tags="romà">X</cat>
+      <cat class="num">deu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">11</eng>
+      <eng class="num" tags="Roman">XI</eng>
+      <eng class="num">eleven</eng>
+      <cat class="num">11</cat>
+      <cat class="num" tags="romà">XI</cat>
+      <cat class="num">onze</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">12</eng>
+      <eng class="num" tags="Roman">XII</eng>
+      <eng class="num">twelve</eng>
+      <eng class="n">dozen</eng>
+      <cat class="num">12</cat>
+      <cat class="num" tags="romà">XII</cat>
+      <cat class="num">dotze</cat>
+      <cat class="f">dotzena</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">13</eng>
+      <eng class="num" tags="Roman">XIII</eng>
+      <eng class="num">thirteen</eng>
+      <eng class="n">baker's dozen</eng>
+      <eng class="n">long dozen</eng>
+      <cat class="num">12</cat>
+      <cat class="num">tretze</cat>
+      <cat class="f">dotzena de frare</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">14</eng>
+      <eng class="num" tags="Roman">XIV</eng>
+      <eng class="num">fourteen</eng>
+      <cat class="num">14</cat>
+      <cat class="num" tags="romà">XIV</cat>
+      <cat class="num">catorze</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">15</eng>
+      <eng class="num" tags="Roman">XV</eng>
+      <eng class="num">fifteen</eng>
+      <cat class="num">15</cat>
+      <cat class="num" tags="romà">XV</cat>
+      <cat class="num">quinze</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">16</eng>
+      <eng class="num" tags="Roman">XVI</eng>
+      <eng class="num">sixteen</eng>
+      <cat class="num">16</cat>
+      <cat class="num" tags="romà">XVI</cat>
+      <cat class="num">setze</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">17</eng>
+      <eng class="num" tags="Roman">XVII</eng>
+      <eng class="num">seventeen</eng>
+      <cat class="num">17</cat>
+      <cat class="num" tags="romà">XVII</cat>
+      <cat class="num">disset</cat>
+      <cat class="num" tags="valencià">dèsset</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">18</eng>
+      <eng class="num" tags="Roman">XVIII</eng>
+      <eng class="num">eighteen</eng>
+      <cat class="num">18</cat>
+      <cat class="num" tags="romà">XVIII</cat>
+      <cat class="num">divuit</cat>
+      <cat class="num" tags="valencià">díhuit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">19</eng>
+      <eng class="num">nineteen</eng>
+      <cat class="num">19</cat>
+      <cat class="num" tags="romà">XIX</cat>
+      <cat class="num">dinou</cat>
+      <cat class="num" tags="valencià">dènou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">20</eng>
+      <eng class="num" tags="Roman">XX</eng>
+      <eng class="num">twenty</eng>
+      <cat class="num">20</cat>
+      <cat class="num" tags="romà">XX</cat>
+      <cat class="num">vint</cat>
+      <cat class="f">vintena</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">21</eng>
+      <eng class="num" tags="Roman">XXI</eng>
+      <eng class="num">twenty-one</eng>
+      <cat class="num">21</cat>
+      <cat class="num" tags="romà">XXI</cat>
+      <cat class="num">vint-i-u</cat>
+      <cat class="num" feminine="vint-i-una">vint-i-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">22</eng>
+      <eng class="num" tags="Roman">XXII</eng>
+      <eng class="num">twenty-two</eng>
+      <cat class="num">22</cat>
+      <cat class="num" tags="romà">XXII</cat>
+      <cat class="num" feminine="vint-i-dues">vint-i-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">23</eng>
+      <eng class="num" tags="Roman">XXIII</eng>
+      <eng class="num">twenty-three</eng>
+      <cat class="num">23</cat>
+      <cat class="num" tags="romà">XXIII</cat>
+      <cat class="num">vint-i-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">24</eng>
+      <eng class="num" tags="Roman">XXIV</eng>
+      <eng class="num">twenty-four</eng>
+      <eng class="n">two dozen</eng>
+      <cat class="num">24</cat>
+      <cat class="num" tags="romà">XXIV</cat>
+      <cat class="num">vint-i-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">25</eng>
+      <eng class="num" tags="Roman">XXV</eng>
+      <eng class="num">twenty-five</eng>
+      <cat class="num">25</cat>
+      <cat class="num" tags="romà">XXV</cat>
+      <cat class="num">vint-i-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">26</eng>
+      <eng class="num" tags="Roman">XXVI</eng>
+      <eng class="num">twenty-six</eng>
+      <cat class="num">26</cat>
+      <cat class="num" tags="romà">XXVI</cat>
+      <cat class="num">vint-i-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">27</eng>
+      <eng class="num" tags="Roman">XXVII</eng>
+      <eng class="num">twenty-seven</eng>
+      <cat class="num">27</cat>
+      <cat class="num" tags="romà">XXVII</cat>
+      <cat class="num">vint-i-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">28</eng>
+      <eng class="num" tags="Roman">XXVIII</eng>
+      <eng class="num">twenty-eight</eng>
+      <cat class="num">28</cat>
+      <cat class="num" tags="romà">XXVIII</cat>
+      <cat class="num">vint-i-vuit</cat>
+      <cat class="num" tags="valencià">vint-i-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">29</eng>
+      <eng class="num" tags="Roman">XXIX</eng>
+      <eng class="num">twenty-nine</eng>
+      <cat class="num">29</cat>
+      <cat class="num" tags="romà">XXIX</cat>
+      <cat class="num">vint-i-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">30</eng>
+      <eng class="num" tags="Roman">XXX</eng>
+      <eng class="num">thirty</eng>
+      <cat class="num">30</cat>
+      <cat class="num" tags="romà">XXX</cat>
+      <cat class="num">trenta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">31</eng>
+      <eng class="num" tags="Roman">XXXI</eng>
+      <eng class="num">thirty-one</eng>
+      <cat class="num">31</cat>
+      <cat class="num" tags="romà">XXXI</cat>
+      <cat class="num">trenta-u</cat>
+      <cat class="num" feminine="trenta-una">trenta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">32</eng>
+      <eng class="num" tags="Roman">XXXII</eng>
+      <eng class="num">thirty-two</eng>
+      <cat class="num">32</cat>
+      <cat class="num" tags="romà">XXXII</cat>
+      <cat class="num" feminine="trenta-dues">trenta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">33</eng>
+      <eng class="num" tags="Roman">XXXIII</eng>
+      <eng class="num">thirty-three</eng>
+      <cat class="num">33</cat>
+      <cat class="num" tags="romà">XXXIII</cat>
+      <cat class="num">trenta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">34</eng>
+      <eng class="num" tags="Roman">XXXIV</eng>
+      <eng class="num">thirty-four</eng>
+      <cat class="num">34</cat>
+      <cat class="num" tags="romà">XXXIV</cat>
+      <cat class="num">trenta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">35</eng>
+      <eng class="num" tags="Roman">XXXV</eng>
+      <eng class="num">thirty-five</eng>
+      <cat class="num">35</cat>
+      <cat class="num" tags="romà">XXXV</cat>
+      <cat class="num">trenta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">36</eng>
+      <eng class="num" tags="Roman">XXXVI</eng>
+      <eng class="num">thirty-six</eng>
+      <cat class="num">36</cat>
+      <cat class="num" tags="romà">XXXVI</cat>
+      <cat class="num">trenta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">37</eng>
+      <eng class="num" tags="Roman">XXXVII</eng>
+      <eng class="num">thirty-seven</eng>
+      <cat class="num">37</cat>
+      <cat class="num" tags="romà">XXXVII</cat>
+      <cat class="num">trenta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">38</eng>
+      <eng class="num" tags="Roman">XXXVIII</eng>
+      <eng class="num">thirty-eight</eng>
+      <cat class="num">38</cat>
+      <cat class="num" tags="romà">XXXVIII</cat>
+      <cat class="num">trenta-vuit</cat>
+      <cat class="num" tags="valencià">trenta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">39</eng>
+      <eng class="num" tags="Roman">XXXIX</eng>
+      <eng class="num">thirty-nine</eng>
+      <cat class="num">39</cat>
+      <cat class="num" tags="romà">XXXIX</cat>
+      <cat class="num">trenta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">40</eng>
+      <eng class="num" tags="Roman">XL</eng>
+      <eng class="num">forty</eng>
+      <eng class="num" tags="old">twoscore</eng>
+      <cat class="num">40</cat>
+      <cat class="num" tags="romà">XL</cat>
+      <cat class="num">quaranta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">41</eng>
+      <eng class="num" tags="Roman">XLI</eng>
+      <eng class="num">forty-one</eng>
+      <cat class="num">41</cat>
+      <cat class="num" tags="romà">XLI</cat>
+      <cat class="num">quaranta-u</cat>
+      <cat class="num" feminine="quaranta-una">quaranta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">42</eng>
+      <eng class="num" tags="Roman">XLII</eng>
+      <eng class="num">forty-two</eng>
+      <cat class="num">42</cat>
+      <cat class="num" tags="romà">XLII</cat>
+      <cat class="num" feminine="quaranta-dues">quaranta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">43</eng>
+      <eng class="num" tags="Roman">XLIII</eng>
+      <eng class="num">forty-three</eng>
+      <cat class="num">43</cat>
+      <cat class="num" tags="romà">XLIII</cat>
+      <cat class="num">quaranta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">44</eng>
+      <eng class="num" tags="Roman">XLIV</eng>
+      <eng class="num">forty-four</eng>
+      <cat class="num">44</cat>
+      <cat class="num" tags="romà">XLIV</cat>
+      <cat class="num">quaranta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">45</eng>
+      <eng class="num" tags="Roman">XLV</eng>
+      <eng class="num">forty-five</eng>
+      <cat class="num">45</cat>
+      <cat class="num" tags="romà">XLV</cat>
+      <cat class="num">quaranta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">46</eng>
+      <eng class="num" tags="Roman">XLVI</eng>
+      <eng class="num">forty-six</eng>
+      <cat class="num">46</cat>
+      <cat class="num" tags="romà">XLVI</cat>
+      <cat class="num">quaranta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">47</eng>
+      <eng class="num" tags="Roman">XLVII</eng>
+      <eng class="num">forty-seven</eng>
+      <cat class="num">47</cat>
+      <cat class="num" tags="romà">XLVII</cat>
+      <cat class="num">quaranta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">48</eng>
+      <eng class="num" tags="Roman">XLVIII</eng>
+      <eng class="num">forty-eight</eng>
+      <cat class="num">48</cat>
+      <cat class="num" tags="romà">XLVIII</cat>
+      <cat class="num">quaranta-vuit</cat>
+      <cat class="num" tags="valencià">quaranta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">49</eng>
+      <eng class="num" tags="Roman">XLIX</eng>
+      <eng class="num">forty-nine</eng>
+      <cat class="num">49</cat>
+      <cat class="num" tags="romà">XLIX</cat>
+      <cat class="num">quaranta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">50</eng>
+      <eng class="num" tags="Roman">L</eng>
+      <eng class="num">fifty</eng>
+      <cat class="num">50</cat>
+      <cat class="num" tags="romà">L</cat>
+      <cat class="num">cinquanta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">51</eng>
+      <eng class="num" tags="Roman">LI</eng>
+      <eng class="num">fifty-one</eng>
+      <cat class="num">51</cat>
+      <cat class="num" tags="romà">LI</cat>
+      <cat class="num">cinquanta-u</cat>
+      <cat class="num" feminine="cinquanta-una">cinquanta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">52</eng>
+      <eng class="num" tags="Roman">LII</eng>
+      <eng class="num">fifty-two</eng>
+      <cat class="num">52</cat>
+      <cat class="num" tags="romà">LII</cat>
+      <cat class="num" feminine="cinquanta-dues">cinquanta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">53</eng>
+      <eng class="num" tags="Roman">LIII</eng>
+      <eng class="num">fifty-three</eng>
+      <cat class="num">53</cat>
+      <cat class="num" tags="romà">LIII</cat>
+      <cat class="num">cinquanta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">54</eng>
+      <eng class="num" tags="Roman">LIV</eng>
+      <eng class="num">fifty-four</eng>
+      <cat class="num">54</cat>
+      <cat class="num" tags="romà">LIV</cat>
+      <cat class="num">cinquanta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">55</eng>
+      <eng class="num" tags="Roman">LV</eng>
+      <eng class="num">fifty-five</eng>
+      <cat class="num">55</cat>
+      <cat class="num" tags="romà">LV</cat>
+      <cat class="num">cinquanta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">56</eng>
+      <eng class="num" tags="Roman">LVI</eng>
+      <eng class="num">fifty-six</eng>
+      <cat class="num">56</cat>
+      <cat class="num" tags="romà">LVI</cat>
+      <cat class="num">cinquanta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">57</eng>
+      <eng class="num" tags="Roman">LVII</eng>
+      <eng class="num">fifty-seven</eng>
+      <cat class="num">57</cat>
+      <cat class="num" tags="romà">LVII</cat>
+      <cat class="num">cinquanta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">58</eng>
+      <eng class="num" tags="Roman">LVIII</eng>
+      <eng class="num">fifty-eight</eng>
+      <cat class="num">58</cat>
+      <cat class="num" tags="romà">LVIII</cat>
+      <cat class="num">cinquanta-vuit</cat>
+      <cat class="num" tags="valencià">cinquanta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">59</eng>
+      <eng class="num" tags="Roman">LIX</eng>
+      <eng class="num">fifty-nine</eng>
+      <cat class="num">59</cat>
+      <cat class="num" tags="romà">LIX</cat>
+      <cat class="num">cinquanta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">60</eng>
+      <eng class="num" tags="Roman">LX</eng>
+      <eng class="num">sixty</eng>
+      <eng class="num" tags="old">threescore</eng>
+      <cat class="num">60</cat>
+      <cat class="num" tags="romà">LX</cat>
+      <cat class="num">seixanta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">61</eng>
+      <eng class="num" tags="Roman">LXI</eng>
+      <eng class="num">sixty-one</eng>
+      <cat class="num">61</cat>
+      <cat class="num" tags="romà">LXI</cat>
+      <cat class="num">seixanta-u</cat>
+      <cat class="num" feminine="seixanta-una">seixanta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">62</eng>
+      <eng class="num" tags="Roman">LXII</eng>
+      <eng class="num">sixty-two</eng>
+      <cat class="num">62</cat>
+      <cat class="num" tags="romà">LXII</cat>
+      <cat class="num" feminine="seixanta-dues">seixanta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">63</eng>
+      <eng class="num" tags="Roman">LXIII</eng>
+      <eng class="num">sixty-three</eng>
+      <cat class="num">63</cat>
+      <cat class="num" tags="romà">LXIII</cat>
+      <cat class="num">seixanta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">64</eng>
+      <eng class="num" tags="Roman">LXIV</eng>
+      <eng class="num">sixty-four</eng>
+      <cat class="num">64</cat>
+      <cat class="num" tags="romà">LXIV</cat>
+      <cat class="num">seixanta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">65</eng>
+      <eng class="num" tags="Roman">LXV</eng>
+      <eng class="num">sixty-five</eng>
+      <cat class="num">65</cat>
+      <cat class="num" tags="romà">LXV</cat>
+      <cat class="num">seixanta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">66</eng>
+      <eng class="num" tags="Roman">LXVI</eng>
+      <eng class="num">sixty-six</eng>
+      <cat class="num">66</cat>
+      <cat class="num" tags="romà">LXVI</cat>
+      <cat class="num">seixanta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">67</eng>
+      <eng class="num" tags="Roman">LXVII</eng>
+      <eng class="num">sixty-seven</eng>
+      <cat class="num">67</cat>
+      <cat class="num" tags="romà">LXVII</cat>
+      <cat class="num">seixanta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">68</eng>
+      <eng class="num" tags="Roman">LXVIII</eng>
+      <eng class="num">sixty-eight</eng>
+      <cat class="num">68</cat>
+      <cat class="num" tags="romà">LXVIII</cat>
+      <cat class="num">seixanta-vuit</cat>
+      <cat class="num" tags="valencià">seixanta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">69</eng>
+      <eng class="num" tags="Roman">LXIX</eng>
+      <eng class="num">sixty-nine</eng>
+      <cat class="num">69</cat>
+      <cat class="num" tags="romà">LXIX</cat>
+      <cat class="num">seixanta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">70</eng>
+      <eng class="num" tags="Roman">LXX</eng>
+      <eng class="num">seventy</eng>
+      <cat class="num">70</cat>
+      <cat class="num" tags="romà">LXX</cat>
+      <cat class="num">setanta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">71</eng>
+      <eng class="num" tags="Roman">LXXI</eng>
+      <eng class="num">seventy-one</eng>
+      <cat class="num">71</cat>
+      <cat class="num" tags="romà">LXXI</cat>
+      <cat class="num">setanta-u</cat>
+      <cat class="num" feminine="setanta-una">setanta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">72</eng>
+      <eng class="num" tags="Roman">LXXII</eng>
+      <eng class="num">seventy-two</eng>
+      <cat class="num">72</cat>
+      <cat class="num" tags="romà">LXXII</cat>
+      <cat class="num" feminine="setanta-dues">setanta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">73</eng>
+      <eng class="num" tags="Roman">LXXII</eng>
+      <eng class="num">seventy-three</eng>
+      <cat class="num">73</cat>
+      <cat class="num" tags="romà">LXXIII</cat>
+      <cat class="num">setanta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">74</eng>
+      <eng class="num" tags="Roman">LXXIV</eng>
+      <eng class="num">seventy-four</eng>
+      <cat class="num">74</cat>
+      <cat class="num" tags="romà">LXXIV</cat>
+      <cat class="num">setanta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">75</eng>
+      <eng class="num" tags="Roman">LXXV</eng>
+      <eng class="num">seventy-five</eng>
+      <cat class="num">75</cat>
+      <cat class="num" tags="romà">LXXV</cat>
+      <cat class="num">setanta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">76</eng>
+      <eng class="num" tags="Roman">LXXVI</eng>
+      <eng class="num">seventy-six</eng>
+      <cat class="num">76</cat>
+      <cat class="num" tags="romà">LXXVI</cat>
+      <cat class="num">setanta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">77</eng>
+      <eng class="num" tags="Roman">LXXVII</eng>
+      <eng class="num">seventy-seven</eng>
+      <cat class="num">77</cat>
+      <cat class="num" tags="romà">LXXVII</cat>
+      <cat class="num">setanta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">78</eng>
+      <eng class="num" tags="Roman">LXXVIII</eng>
+      <eng class="num">seventy-eight</eng>
+      <cat class="num">78</cat>
+      <cat class="num" tags="romà">LXXVIII</cat>
+      <cat class="num">setanta-vuit</cat>
+      <cat class="num" tags="valencià">setanta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">79</eng>
+      <eng class="num" tags="Roman">LXXIX</eng>
+      <eng class="num">seventy-nine</eng>
+      <cat class="num">79</cat>
+      <cat class="num" tags="romà">LXXIX</cat>
+      <cat class="num">setanta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">80</eng>
+      <eng class="num" tags="Roman">LXXX</eng>
+      <eng class="num">eighty</eng>
+      <eng class="num" tags="old">fourscore</eng>
+      <cat class="num">80</cat>
+      <cat class="num" tags="romà">LXXX</cat>
+      <cat class="num">vuitanta</cat>
+      <cat class="num" tags="valencià">huitanta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">81</eng>
+      <eng class="num" tags="Roman">LXXXI</eng>
+      <eng class="num">eighty-one</eng>
+      <cat class="num">81</cat>
+      <cat class="num" tags="romà">LXXXI</cat>
+      <cat class="num">vuitanta-u</cat>
+      <cat class="num" feminine="vuitanta-una">vuitanta-un</cat>
+      <cat class="num" tags="valencià">huitanta-u</cat>
+      <cat class="num" feminine="huitanta-una" tags="valencià">huitanta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">82</eng>
+      <eng class="num" tags="Roman">LXXXII</eng>
+      <eng class="num">eighty-two</eng>
+      <cat class="num">82</cat>
+      <cat class="num" tags="romà">LXXXII</cat>
+      <cat class="num" feminine="vuitanta-dues">vuitanta-dos</cat>
+      <cat class="num" feminine="huitanta-dues" tags="valencià">huitanta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">83</eng>
+      <eng class="num" tags="Roman">LXXXIII</eng>
+      <eng class="num">eighty-three</eng>
+      <cat class="num">83</cat>
+      <cat class="num" tags="romà">LXXXIII</cat>
+      <cat class="num">vuitanta-tres</cat>
+      <cat class="num" tags="valencià">huitanta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">84</eng>
+      <eng class="num" tags="Roman">LXXXIV</eng>
+      <eng class="num">eighty-four</eng>
+      <cat class="num">84</cat>
+      <cat class="num" tags="romà">LXXXIV</cat>
+      <cat class="num">vuitanta-quatre</cat>
+      <cat class="num" tags="valencià">huitanta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">85</eng>
+      <eng class="num" tags="Roman">LXXXV</eng>
+      <eng class="num">eighty-five</eng>
+      <cat class="num">85</cat>
+      <cat class="num" tags="romà">LXXXV</cat>
+      <cat class="num">vuitanta-cinc</cat>
+      <cat class="num" tags="valencià">huitanta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">86</eng>
+      <eng class="num" tags="Roman">LXXXVI</eng>
+      <eng class="num">eighty-six</eng>
+      <cat class="num">86</cat>
+      <cat class="num" tags="romà">LXXXVI</cat>
+      <cat class="num">vuitanta-sis</cat>
+      <cat class="num" tags="valencià">huitanta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">87</eng>
+      <eng class="num" tags="Roman">LXXXVII</eng>
+      <eng class="num">eighty-seven</eng>
+      <cat class="num">87</cat>
+      <cat class="num" tags="romà">LXXXVII</cat>
+      <cat class="num">vuitanta-set</cat>
+      <cat class="num" tags="valencià">huitanta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">88</eng>
+      <eng class="num" tags="Roman">LXXXVIII</eng>
+      <eng class="num">eighty-eight</eng>
+      <cat class="num">88</cat>
+      <cat class="num" tags="romà">LXXXVIII</cat>
+      <cat class="num">vuitanta-vuit</cat>
+      <cat class="num" tags="valencià">huitanta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">89</eng>
+      <eng class="num" tags="Roman">LXXXIX</eng>
+      <eng class="num">eighty-nine</eng>
+      <cat class="num">89</cat>
+      <cat class="num" tags="romà">LXXXIX</cat>
+      <cat class="num">vuitanta-nou</cat>
+      <cat class="num" tags="valencià">huitanta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">90</eng>
+      <eng class="num" tags="Roman">XC</eng>
+      <eng class="num">ninety</eng>
+      <cat class="num">90</cat>
+      <cat class="num" tags="romà">XC</cat>
+      <cat class="num">noranta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">91</eng>
+      <eng class="num" tags="Roman">XCI</eng>
+      <eng class="num">ninety-one</eng>
+      <cat class="num">91</cat>
+      <cat class="num" tags="romà">XCI</cat>
+      <cat class="num">noranta-u</cat>
+      <cat class="num" feminine="noranta-una">noranta-un</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">92</eng>
+      <eng class="num" tags="Roman">XCII</eng>
+      <eng class="num">ninety-two</eng>
+      <cat class="num">92</cat>
+      <cat class="num" tags="romà">XCII</cat>
+      <cat class="num" feminine="noranta-dues">noranta-dos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">93</eng>
+      <eng class="num" tags="Roman">XCIII</eng>
+      <eng class="num">ninety-three</eng>
+      <cat class="num">93</cat>
+      <cat class="num" tags="romà">XCIII</cat>
+      <cat class="num">noranta-tres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">94</eng>
+      <eng class="num" tags="Roman">XCIV</eng>
+      <eng class="num">ninety-four</eng>
+      <cat class="num">94</cat>
+      <cat class="num" tags="romà">XCIV</cat>
+      <cat class="num">noranta-quatre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">95</eng>
+      <eng class="num" tags="Roman">XCV</eng>
+      <eng class="num">ninety-five</eng>
+      <cat class="num">95</cat>
+      <cat class="num" tags="romà">XCV</cat>
+      <cat class="num">noranta-cinc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">96</eng>
+      <eng class="num" tags="Roman">XCVI</eng>
+      <eng class="num">ninety-six</eng>
+      <cat class="num">96</cat>
+      <cat class="num" tags="romà">XCVI</cat>
+      <cat class="num">noranta-sis</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">97</eng>
+      <eng class="num" tags="Roman">XCVII</eng>
+      <eng class="num">ninety-seven</eng>
+      <cat class="num">97</cat>
+      <cat class="num" tags="romà">XCVII</cat>
+      <cat class="num">noranta-set</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">98</eng>
+      <eng class="num" tags="Roman">XCVIII</eng>
+      <eng class="num">ninety-eight</eng>
+      <cat class="num">98</cat>
+      <cat class="num" tags="romà">XCVIII</cat>
+      <cat class="num">noranta-vuit</cat>
+      <cat class="num" tags="valencià">noranta-huit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">99</eng>
+      <eng class="num" tags="Roman">XCIX</eng>
+      <eng class="num">ninety-nine</eng>
+      <cat class="num">99</cat>
+      <cat class="num" tags="romà">XCIX</cat>
+      <cat class="num">noranta-nou</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">100</eng>
+      <eng class="num" tags="Roman">C</eng>
+      <eng class="num">one hundred</eng>
+      <eng class="num">a hundred</eng>
+      <eng class="num">hundred</eng>
+      <eng class="num">century</eng>
+      <cat class="num">100</cat>
+      <cat class="num" tags="romà">C</cat>
+      <cat class="num">cent</cat>
+      <cat class="f">centena</cat>
+      <cat class="m">centenar</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">200</eng>
+      <eng class="num" tags="Roman">CC</eng>
+      <eng class="num">two hundred</eng>
+      <cat class="num">200</cat>
+      <cat class="num" tags="romà">CC</cat>
+      <cat class="num" feminine="dues-centes">dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">300</eng>
+      <eng class="num" tags="Roman">CCC</eng>
+      <eng class="num">three hundred</eng>
+      <cat class="num">300</cat>
+      <cat class="num" tags="romà">CCC</cat>
+      <cat class="num" feminine="tres-centes">tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">400</eng>
+      <eng class="num" tags="Roman">CD</eng>
+      <eng class="num">four hundred</eng>
+      <cat class="num">400</cat>
+      <cat class="num" tags="romà">CD</cat>
+      <cat class="num" feminine="quatre-centes">quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">500</eng>
+      <eng class="num" tags="Roman">D</eng>
+      <eng class="num">five hundred</eng>
+      <cat class="num">500</cat>
+      <cat class="num" tags="romà">D</cat>
+      <cat class="num" feminine="cinc-centes">cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">600</eng>
+      <eng class="num" tags="Roman">DC</eng>
+      <eng class="num">six hundred</eng>
+      <cat class="num">600</cat>
+      <cat class="num" tags="romà">DC</cat>
+      <cat class="num" feminine="sis-centes">sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">700</eng>
+      <eng class="num" tags="Roman">DCC</eng>
+      <eng class="num">seven hundred</eng>
+      <cat class="num">700</cat>
+      <cat class="num" tags="romà">DCC</cat>
+      <cat class="num" feminine="set-centes">set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">800</eng>
+      <eng class="num" tags="Roman">DCCC</eng>
+      <eng class="num">eight hundred</eng>
+      <cat class="num">800</cat>
+      <cat class="num" tags="romà">DCCC</cat>
+      <cat class="num" feminine="vuit-centes">vuit-cents</cat>
+      <cat class="num" feminine="huit-centes" tags="valencià">huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">900</eng>
+      <eng class="num" tags="Roman">CM</eng>
+      <eng class="num">nine hundred</eng>
+      <cat class="num">900</cat>
+      <cat class="num" tags="romà">CM</cat>
+      <cat class="num" feminine="nou-centes">nou-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000</eng>
+      <eng class="num" tags="Roman">M</eng>
+      <eng class="num">a thousand</eng>
+      <eng class="num">one thousand</eng>
+      <eng class="num">thousand</eng>
+      <eng class="num" tags="colloquial">ten hundred</eng>
+      <eng class="num" tags="US">grand</eng>
+      <eng class="num" tags="US symbol">G</eng>
+      <eng class="num" remark="after a number">k</eng>
+      <eng class="num" remark="after a number">m</eng>
+      <eng class="num" tags="slang">thou</eng>
+      <cat class="num">1.000</cat>
+      <cat class="num" tags="romà">M</cat>
+      <cat class="num">mil</cat>
+      <cat class="num">un miler</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,100</eng>
+      <eng class="num">one thousand one hundred</eng>
+      <eng class="num" tags="colloquial">eleven hundred</eng>
+      <cat class="num">1.100</cat>
+      <cat class="num">mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,200</eng>
+      <eng class="num">one thousand two hundred</eng>
+      <eng class="num" tags="colloquial">twelve hundred</eng>
+      <cat class="num">1.200</cat>
+      <cat class="num" feminine="mil dues-centes">mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,300</eng>
+      <eng class="num">one thousand three hundred</eng>
+      <eng class="num" tags="colloquial">thirteen hundred</eng>
+      <cat class="num">1.300</cat>
+      <cat class="num" feminine="mil tres-centes">mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,400</eng>
+      <eng class="num">one thousand four hundred</eng>
+      <eng class="num" tags="colloquial">fourteen hundred</eng>
+      <cat class="num">1.400</cat>
+      <cat class="num" feminine="mil quatre-centes">mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,500</eng>
+      <eng class="num">one thousand five hundred</eng>
+      <eng class="num" tags="colloquial">fifteen hundred</eng>
+      <cat class="num">1.500</cat>
+      <cat class="num" feminine="mil cinc-centes">mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,600</eng>
+      <eng class="num">one thousand six hundred</eng>
+      <eng class="num" tags="colloquial">sixteen hundred</eng>
+      <cat class="num">1.600</cat>
+      <cat class="num" feminine="mil sis-centes">mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,700</eng>
+      <eng class="num">one thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">seventeen hundred</eng>
+      <cat class="num">1.700</cat>
+      <cat class="num" feminine="mil set-centes">mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,800</eng>
+      <eng class="num">one thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">eighteen hundred</eng>
+      <cat class="num">1.800</cat>
+      <cat class="num" feminine="mil vuit-centes">mil vuit-cents</cat>
+      <cat class="num" feminine="mil huit-centes" tags="valencià">mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,900</eng>
+      <eng class="num">one thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">nineteen hundred</eng>
+      <cat class="num">1.900</cat>
+      <cat class="num" feminine="mil nou-centes">mil nou-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,000</eng>
+      <eng class="num">two thousand</eng>
+      <eng class="num" tags="unusual">twenty hundred</eng>
+      <cat class="num">2.000</cat>
+      <cat class="num" feminine="dues mil">dos mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,100</eng>
+      <eng class="num">two thousand one hundred</eng>
+      <eng class="num" tags="colloquial">twenty-one hundred</eng>
+      <cat class="num">2.100</cat>
+      <cat class="num">dos mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,200</eng>
+      <eng class="num">two thousand two hundred</eng>
+      <eng class="num" tags="colloquial">twenty-two hundred</eng>
+      <cat class="num">2.200</cat>
+      <cat class="num">dos mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,300</eng>
+      <eng class="num">two thousand three hundred</eng>
+      <eng class="num" tags="colloquial">twenty-three hundred</eng>
+      <cat class="num">2.300</cat>
+      <cat class="num">dos mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,400</eng>
+      <eng class="num">two thousand four hundred</eng>
+      <eng class="num" tags="colloquial">twenty-four hundred</eng>
+      <cat class="num">2.400</cat>
+      <cat class="num">dos mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,500</eng>
+      <eng class="num">two thousand five hundred</eng>
+      <eng class="num" tags="colloquial">twenty-five hundred</eng>
+      <cat class="num">2.500</cat>
+      <cat class="num">dos mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,600</eng>
+      <eng class="num">two thousand six hundred</eng>
+      <eng class="num" tags="colloquial">twenty-six hundred</eng>
+      <cat class="num">2.600</cat>
+      <cat class="num">dos mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,700</eng>
+      <eng class="num">two thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">twenty-seven hundred</eng>
+      <cat class="num">2.700</cat>
+      <cat class="num">dos mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,800</eng>
+      <eng class="num">two thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">twenty-eight hundred</eng>
+      <cat class="num">2.800</cat>
+      <cat class="num">dos mil vuit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">2,900</eng>
+      <eng class="num">two thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">twenty-nine hundred</eng>
+      <cat class="num">2.900</cat>
+      <cat class="num">dos mil nou-cents</cat>
+      <cat class="num" tags="valencià">dos mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,000</eng>
+      <eng class="num">three thousand</eng>
+      <eng class="num" tags="colloquial">thirty hundred</eng>
+      <cat class="num">3.000</cat>
+      <cat class="num">tres mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,100</eng>
+      <eng class="num">three thousand one hundred</eng>
+      <eng class="num" tags="colloquial">thirty-one hundred</eng>
+      <cat class="num">3.100</cat>
+      <cat class="num">tres mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,200</eng>
+      <eng class="num">three thousand two hundred</eng>
+      <eng class="num" tags="colloquial">thirty-two hundred</eng>
+      <cat class="num">3.200</cat>
+      <cat class="num">tres mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,300</eng>
+      <eng class="num">three thousand three hundred</eng>
+      <eng class="num" tags="colloquial">thirty-three hundred</eng>
+      <cat class="num">3.300</cat>
+      <cat class="num">tres mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,400</eng>
+      <eng class="num">three thousand four hundred</eng>
+      <eng class="num" tags="colloquial">thirty-four hundred</eng>
+      <cat class="num">3.400</cat>
+      <cat class="num">tres mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,500</eng>
+      <eng class="num">three thousand five hundred</eng>
+      <eng class="num" tags="colloquial">thirty-five hundred</eng>
+      <cat class="num">3.500</cat>
+      <cat class="num">tres mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,600</eng>
+      <eng class="num">three thousand six hundred</eng>
+      <eng class="num" tags="colloquial">thirty-six hundred</eng>
+      <cat class="num">3.600</cat>
+      <cat class="num">tres mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,700</eng>
+      <eng class="num">three thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">thirty-seven hundred</eng>
+      <cat class="num">3.700</cat>
+      <cat class="num">tres mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,800</eng>
+      <eng class="num">three thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">thirty-eight hundred</eng>
+      <cat class="num">3.800</cat>
+      <cat class="num">tres mil vuit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">3,900</eng>
+      <eng class="num">three thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">thirty-nine hundred</eng>
+      <cat class="num">3.900</cat>
+      <cat class="num">tres mil nou-cents</cat>
+      <cat class="num" tags="valencià">tres mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,000</eng>
+      <eng class="num">four thousand</eng>
+      <eng class="num" tags="colloquial">forty hundred</eng>
+      <cat class="num">4.000</cat>
+      <cat class="num">quatre mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,100</eng>
+      <eng class="num">four thousand one hundred</eng>
+      <eng class="num" tags="colloquial">forty-one hundred</eng>
+      <cat class="num">4.100</cat>
+      <cat class="num">quatre mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,200</eng>
+      <eng class="num">four thousand two hundred</eng>
+      <eng class="num" tags="colloquial">forty-two hundred</eng>
+      <cat class="num">4.200</cat>
+      <cat class="num">quatre mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,300</eng>
+      <eng class="num">four thousand three hundred</eng>
+      <eng class="num" tags="colloquial">forty-three hundred</eng>
+      <cat class="num">4.300</cat>
+      <cat class="num">quatre mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,400</eng>
+      <eng class="num">four thousand four hundred</eng>
+      <eng class="num" tags="colloquial">forty-four hundred</eng>
+      <cat class="num">4.400</cat>
+      <cat class="num">quatre mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,500</eng>
+      <eng class="num">four thousand five hundred</eng>
+      <eng class="num" tags="colloquial">forty-five hundred</eng>
+      <cat class="num">4.500</cat>
+      <cat class="num">quatre mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,600</eng>
+      <eng class="num">four thousand six hundred</eng>
+      <eng class="num" tags="colloquial">forty-six hundred</eng>
+      <cat class="num">4.600</cat>
+      <cat class="num">quatre mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,700</eng>
+      <eng class="num">four thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">forty-seven hundred</eng>
+      <cat class="num">4.700</cat>
+      <cat class="num">quatre mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,800</eng>
+      <eng class="num">four thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">forty-eight hundred</eng>
+      <cat class="num">4.800</cat>
+      <cat class="num">quatre mil vuit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">4,900</eng>
+      <eng class="num">four thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">forty-nine hundred</eng>
+      <cat class="num">4.900</cat>
+      <cat class="num">quatre mil nou-cents</cat>
+      <cat class="num" tags="valencià">quatre mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,000</eng>
+      <eng class="num" tags="Roman">V̅</eng>
+      <eng class="num">five thousand</eng>
+      <eng class="num" tags="colloquial">fifty hundred</eng>
+      <cat class="num">5.000</cat>
+      <cat class="num" tags="romà">V̅</cat>
+      <cat class="num">cinc mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,100</eng>
+      <eng class="num">five thousand one hundred</eng>
+      <eng class="num" tags="colloquial">fifty-one hundred</eng>
+      <cat class="num">5.100</cat>
+      <cat class="num">cinc mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,200</eng>
+      <eng class="num">five thousand two hundred</eng>
+      <eng class="num" tags="colloquial">fifty-two hundred</eng>
+      <cat class="num">5.200</cat>
+      <cat class="num">cinc mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,300</eng>
+      <eng class="num">five thousand three hundred</eng>
+      <eng class="num" tags="colloquial">fifty-three hundred</eng>
+      <cat class="num">5.300</cat>
+      <cat class="num">cinc mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,400</eng>
+      <eng class="num">five thousand four hundred</eng>
+      <eng class="num" tags="colloquial">fifty-four hundred</eng>
+      <cat class="num">5.400</cat>
+      <cat class="num">cinc mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,500</eng>
+      <eng class="num">five thousand five hundred</eng>
+      <eng class="num" tags="colloquial">fifty-five hundred</eng>
+      <cat class="num">5.500</cat>
+      <cat class="num">cinc mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,600</eng>
+      <eng class="num">five thousand six hundred</eng>
+      <eng class="num" tags="colloquial">fifty-six hundred</eng>
+      <cat class="num">5.600</cat>
+      <cat class="num">cinc mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,700</eng>
+      <eng class="num">five thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">fifty-seven hundred</eng>
+      <cat class="num">5.700</cat>
+      <cat class="num">cinc mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,800</eng>
+      <eng class="num">five thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">fifty-eight hundred</eng>
+      <cat class="num">5.800</cat>
+      <cat class="num">cinc mil vuit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">5,900</eng>
+      <eng class="num">five thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">fifty-nine hundred</eng>
+      <cat class="num">5.900</cat>
+      <cat class="num">cinc mil nou-cents</cat>
+      <cat class="num" tags="valencià">cinc mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,000</eng>
+      <eng class="num">six thousand</eng>
+      <eng class="num" tags="colloquial">sixty hundred</eng>
+      <cat class="num">6.000</cat>
+      <cat class="num">sis mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,100</eng>
+      <eng class="num">six thousand one hundred</eng>
+      <eng class="num" tags="colloquial">sixty-one hundred</eng>
+      <cat class="num">6.100</cat>
+      <cat class="num">sis mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,200</eng>
+      <eng class="num">six thousand two hundred</eng>
+      <eng class="num" tags="colloquial">sixty-two hundred</eng>
+      <cat class="num">6.200</cat>
+      <cat class="num">sis mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,300</eng>
+      <eng class="num">six thousand three hundred</eng>
+      <eng class="num" tags="colloquial">sixty-three hundred</eng>
+      <cat class="num">6.300</cat>
+      <cat class="num">sis mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,400</eng>
+      <eng class="num">six thousand four hundred</eng>
+      <eng class="num" tags="colloquial">sixty-four hundred</eng>
+      <cat class="num">6.400</cat>
+      <cat class="num">sis mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,500</eng>
+      <eng class="num">six thousand five hundred</eng>
+      <eng class="num" tags="colloquial">sixty-five hundred</eng>
+      <cat class="num">6.500</cat>
+      <cat class="num">sis mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,600</eng>
+      <eng class="num">six thousand six hundred</eng>
+      <eng class="num" tags="colloquial">sixty-six hundred</eng>
+      <cat class="num">6.600</cat>
+      <cat class="num">sis mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,700</eng>
+      <eng class="num">six thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">sixty-seven hundred</eng>
+      <cat class="num">6.700</cat>
+      <cat class="num">sis mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,800</eng>
+      <eng class="num">six thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">sixty-eight hundred</eng>
+      <cat class="num">6.800</cat>
+      <cat class="num">sis mil vuit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">6,900</eng>
+      <eng class="num">six thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">sixty-nine hundred</eng>
+      <cat class="num">6.900</cat>
+      <cat class="num">sis mil nou-cents</cat>
+      <cat class="num" tags="valencià">sis mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,000</eng>
+      <eng class="num">seven thousand</eng>
+      <eng class="num" tags="colloquial">seventy hundred</eng>
+      <cat class="num">7.000</cat>
+      <cat class="num">set mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,100</eng>
+      <eng class="num">seven thousand one hundred</eng>
+      <eng class="num" tags="colloquial">seventy-one hundred</eng>
+      <cat class="num">7.100</cat>
+      <cat class="num">set mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,200</eng>
+      <eng class="num">seven thousand two hundred</eng>
+      <eng class="num" tags="colloquial">seventy-two hundred</eng>
+      <cat class="num">7.200</cat>
+      <cat class="num">set mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,300</eng>
+      <eng class="num">seven thousand three hundred</eng>
+      <eng class="num" tags="colloquial">seventy-three hundred</eng>
+      <cat class="num">7.300</cat>
+      <cat class="num">set mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,400</eng>
+      <eng class="num">seven thousand four hundred</eng>
+      <eng class="num" tags="colloquial">seventy-four hundred</eng>
+      <cat class="num">7.400</cat>
+      <cat class="num">set mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,500</eng>
+      <eng class="num">seven thousand five hundred</eng>
+      <eng class="num" tags="colloquial">seventy-five hundred</eng>
+      <cat class="num">7.500</cat>
+      <cat class="num">set mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,600</eng>
+      <eng class="num">seven thousand six hundred</eng>
+      <eng class="num" tags="colloquial">seventy-six hundred</eng>
+      <cat class="num">7.600</cat>
+      <cat class="num">set mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,700</eng>
+      <eng class="num">seven thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">seventy-seven hundred</eng>
+      <cat class="num">7.700</cat>
+      <cat class="num">set mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,800</eng>
+      <eng class="num">seven thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">seventy-eight hundred</eng>
+      <cat class="num">7.800</cat>
+      <cat class="num">set mil vuit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">7,900</eng>
+      <eng class="num">seven thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">seventy-nine hundred</eng>
+      <cat class="num">7.900</cat>
+      <cat class="num">set mil nou-cents</cat>
+      <cat class="num" tags="valencià">set mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,000</eng>
+      <eng class="num">eight thousand</eng>
+      <eng class="num" tags="colloquial">eighty hundred</eng>
+      <cat class="num">8.000</cat>
+      <cat class="num">vuit mil</cat>
+      <cat class="num" tags="valencià">huit mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,100</eng>
+      <eng class="num">eight thousand one hundred</eng>
+      <eng class="num" tags="colloquial">eighty-one hundred</eng>
+      <cat class="num">8.100</cat>
+      <cat class="num">vuit mil cent</cat>
+      <cat class="num" tags="valencià">huit mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,200</eng>
+      <eng class="num">eight thousand two hundred</eng>
+      <eng class="num" tags="colloquial">eighty-two hundred</eng>
+      <cat class="num">8.200</cat>
+      <cat class="num">vuit mil dos-cents</cat>
+      <cat class="num" tags="valencià">huit mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,300</eng>
+      <eng class="num">eight thousand three hundred</eng>
+      <eng class="num" tags="colloquial">eighty-three hundred</eng>
+      <cat class="num">8.300</cat>
+      <cat class="num">vuit mil tres-cents</cat>
+      <cat class="num" tags="valencià">huit mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,400</eng>
+      <eng class="num">eight thousand four hundred</eng>
+      <eng class="num" tags="colloquial">eighty-four hundred</eng>
+      <cat class="num">8.400</cat>
+      <cat class="num">vuit mil quatre-cents</cat>
+      <cat class="num" tags="valencià">huit mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,500</eng>
+      <eng class="num">eight thousand five hundred</eng>
+      <eng class="num" tags="colloquial">eighty-five hundred</eng>
+      <cat class="num">8.500</cat>
+      <cat class="num">vuit mil cinc-cents</cat>
+      <cat class="num" tags="valencià">huit mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,600</eng>
+      <eng class="num">eight thousand six hundred</eng>
+      <eng class="num" tags="colloquial">eighty-six hundred</eng>
+      <cat class="num">8.600</cat>
+      <cat class="num">vuit mil sis-cents</cat>
+      <cat class="num" tags="valencià">huit mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,700</eng>
+      <eng class="num">eight thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">eighty-seven hundred</eng>
+      <cat class="num">8.700</cat>
+      <cat class="num">vuit mil set-cents</cat>
+      <cat class="num" tags="valencià">huit mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,800</eng>
+      <eng class="num">eight thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">eighty-eight hundred</eng>
+      <cat class="num">8.800</cat>
+      <cat class="num">vuit mil vuit-cents</cat>
+      <cat class="num" tags="valencià">huit mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">8,900</eng>
+      <eng class="num">eight thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">eighty-nine hundred</eng>
+      <cat class="num">8.900</cat>
+      <cat class="num">vuit mil nou-cents</cat>
+      <cat class="num" tags="valencià">huit mil nou-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,000</eng>
+      <eng class="num">nine thousand</eng>
+      <eng class="num" tags="colloquial">ninety hundred</eng>
+      <cat class="num">9.000</cat>
+      <cat class="num">nou mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,100</eng>
+      <eng class="num">nine thousand one hundred</eng>
+      <eng class="num" tags="colloquial">ninety-one hundred</eng>
+      <cat class="num">9.100</cat>
+      <cat class="num">nou mil cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,200</eng>
+      <eng class="num">nine thousand two hundred</eng>
+      <eng class="num" tags="colloquial">ninety-two hundred</eng>
+      <cat class="num">9.200</cat>
+      <cat class="num">nou mil dos-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,300</eng>
+      <eng class="num">nine thousand three hundred</eng>
+      <eng class="num" tags="colloquial">ninety-three hundred</eng>
+      <cat class="num">9.300</cat>
+      <cat class="num">nou mil tres-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,400</eng>
+      <eng class="num">nine thousand four hundred</eng>
+      <eng class="num" tags="colloquial">ninety-four hundred</eng>
+      <cat class="num">9.400</cat>
+      <cat class="num">nou mil quatre-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,500</eng>
+      <eng class="num">nine thousand five hundred</eng>
+      <eng class="num" tags="colloquial">ninety-five hundred</eng>
+      <cat class="num">9.500</cat>
+      <cat class="num">nou mil cinc-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,600</eng>
+      <eng class="num">nine thousand six hundred</eng>
+      <eng class="num" tags="colloquial">ninety-six hundred</eng>
+      <cat class="num">9.600</cat>
+      <cat class="num">nou mil sis-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,700</eng>
+      <eng class="num">nine thousand seven hundred</eng>
+      <eng class="num" tags="colloquial">ninety-seven hundred</eng>
+      <cat class="num">9.700</cat>
+      <cat class="num">nou mil set-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,800</eng>
+      <eng class="num" tags="colloquial">ninety-eight hundred</eng>
+      <eng class="num">nine thousand eight hundred</eng>
+      <cat class="num">9.800</cat>
+      <cat class="num">nou mil vuit-cents</cat>
+      <cat class="num" tags="valencià">nou mil huit-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">9,900</eng>
+      <eng class="num" tags="colloquial">ninety-nine hundred</eng>
+      <eng class="num">nine thousand nine hundred</eng>
+      <cat class="num">9.900</cat>
+      <cat class="num">nou mil nou-cents</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">10,000</eng>
+      <eng class="num" tags="Roman">X̅</eng>
+      <eng class="num">ten thousand</eng>
+      <eng class="num" tags="old">myriad</eng>
+      <cat class="num">10.000</cat>
+      <cat class="num" tags="romà">X̅</cat>
+      <cat class="num">deu mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">11,000</eng>
+      <eng class="num">eleven thousand</eng>
+      <cat class="num">11.000</cat>
+      <cat class="num">onze mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">12,000</eng>
+      <eng class="num">twelve thousand</eng>
+      <cat class="num">12.000</cat>
+      <cat class="num">dotze mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">13,000</eng>
+      <eng class="num">thirteen thousand</eng>
+      <cat class="num">13.000</cat>
+      <cat class="num">tretze mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">14,000</eng>
+      <eng class="num">fourteen thousand</eng>
+      <cat class="num">14.000</cat>
+      <cat class="num">catorze mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">15,000</eng>
+      <eng class="num">fifteen thousand</eng>
+      <cat class="num">15.000</cat>
+      <cat class="num">quinze mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">16,000</eng>
+      <eng class="num">sixteen thousand</eng>
+      <cat class="num">16.000</cat>
+      <cat class="num">setze mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">17,000</eng>
+      <eng class="num">seventeen thousand</eng>
+      <cat class="num">17.000</cat>
+      <cat class="num">disset mil</cat>
+      <cat class="num" tags="valencià">dèsset mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">18,000</eng>
+      <eng class="num">eighteen thousand</eng>
+      <cat class="num">18.000</cat>
+      <cat class="num">divuit mil</cat>
+      <cat class="num" tags="valencià">díhuit mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">19,000</eng>
+      <eng class="num">nineteen thousand</eng>
+      <cat class="num">19.000</cat>
+      <cat class="num">dinou mil</cat>
+      <cat class="num" tags="valencià">dènou mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">20,000</eng>
+      <eng class="num">twenty thousand</eng>
+      <cat class="num">20.000</cat>
+      <cat class="num">vint mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">50,000</eng>
+      <eng class="num" tags="Roman">L̅</eng>
+      <eng class="num">fifty thousand</eng>
+      <cat class="num">50.000</cat>
+      <cat class="num" tags="romà">L̅</cat>
+      <cat class="num">cinquanta mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">100,000</eng>
+      <eng class="num" tags="Roman">C̅</eng>
+      <eng class="num">one hundred thousand</eng>
+      <eng class="num">a hundred thousand</eng>
+      <eng class="num">hundred thousand</eng>
+      <eng class="num" tags="IN">lakh</eng>
+      <cat class="num">100.000</cat>
+      <cat class="num" tags="romà">C̅</cat>
+      <cat class="num">cent mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">500,000</eng>
+      <eng class="num" tags="Roman">D̅</eng>
+      <eng class="num">five hundred thousand</eng>
+      <cat class="num">500.000</cat>
+      <cat class="num" tags="romà">D̅</cat>
+      <cat class="num">cinc-cents mil</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000</eng>
+      <eng class="num" tags="Roman">M̅</eng>
+      <eng class="num">a million</eng>
+      <eng class="num">one million</eng>
+      <eng class="num">million</eng>
+      <eng class="num" remark="after a number">M</eng>
+      <cat class="num">1.000.000</cat>
+      <cat class="num" tags="romà">M̅</cat>
+      <cat class="num">un milió</cat>
+      <cat class="num">milió</cat>
+      <example sent_eng="A million people." sent_cat="Un milió de persones." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000</eng>
+      <eng class="num">10⁹</eng>
+      <eng class="num">one thousand million</eng>
+      <eng class="num" remark="long scale">a milliard</eng>
+      <eng class="num" remark="long scale">one milliard</eng>
+      <eng class="num" remark="long scale">milliard</eng>
+      <eng class="num" remark="short scale">a billion</eng>
+      <eng class="num" remark="short scale">one billion</eng>
+      <eng class="num" remark="short scale">billion</eng>
+      <cat class="num">1.000.000.000</cat>
+      <cat class="num">10⁹</cat>
+      <cat class="num">mil milions</cat>
+      <cat class="num" tags="inusual">miliard</cat>
+      <cat class="num" tags="inusual">un miliard</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000</eng>
+      <eng class="num">10¹²</eng>
+      <eng class="num">one million million</eng>
+      <eng class="num" remark="long scale">a billion</eng>
+      <eng class="num" remark="long scale">one billion</eng>
+      <eng class="num" remark="long scale">billion</eng>
+      <eng class="num" remark="short scale">a trillion</eng>
+      <eng class="num" remark="short scale">one trillion</eng>
+      <eng class="num" remark="short scale">trillion</eng>
+      <cat class="num">1.000.000.000.000</cat>
+      <cat class="num">10¹²</cat>
+      <cat class="num">un bilió</cat>
+      <cat class="num">bilió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000,000</eng>
+      <eng class="num">10¹⁵</eng>
+      <eng class="num">one thousand million million</eng>
+      <eng class="num" remark="long scale">a billiard</eng>
+      <eng class="num" remark="long scale">one billiard</eng>
+      <eng class="num" remark="long scale">billiard</eng>
+      <eng class="num" remark="short scale">a quadrillion</eng>
+      <eng class="num" remark="short scale">one quadrillion</eng>
+      <eng class="num" remark="short scale">quadrillion</eng>
+      <cat class="num">1.000.000.000.000.000</cat>
+      <cat class="num">10¹⁵</cat>
+      <cat class="num">un biliard</cat>
+      <cat class="num">biliard</cat>
+      <cat class="num">mil bilions</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000,000,000</eng>
+      <eng class="num">10¹⁸</eng>
+      <eng class="num">one million million million</eng>
+      <eng class="num" remark="long scale">a trillion</eng>
+      <eng class="num" remark="long scale">one trillion</eng>
+      <eng class="num" remark="long scale">trillion</eng>
+      <eng class="num" remark="short scale">a quintillion</eng>
+      <eng class="num" remark="short scale">one quintillion</eng>
+      <eng class="num" remark="short scale">quintillion</eng>
+      <cat class="num">1.000.000.000.000.000.000</cat>
+      <cat class="num">10¹⁸</cat>
+      <cat class="num">un trilió</cat>
+      <cat class="num">trilió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000,000,000,000</eng>
+      <eng class="num">10²¹</eng>
+      <eng class="num">one thousand million million million</eng>
+      <eng class="num" remark="long scale">a billiard</eng>
+      <eng class="num" remark="long scale">one billiard</eng>
+      <eng class="num" remark="long scale">billiard</eng>
+      <eng class="num" remark="short scale">a quadrillion</eng>
+      <eng class="num" remark="short scale">one quadrillion</eng>
+      <eng class="num" remark="short scale">quadrillion</eng>
+      <cat class="num">1.000.000.000.000.000.000.000</cat>
+      <cat class="num">10²¹</cat>
+      <cat class="num">un triliard</cat>
+      <cat class="num">triliard</cat>
+      <cat class="num">mil trilions</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000,000,000,000,000</eng>
+      <eng class="num">10²⁴</eng>
+      <eng class="num">one million million million million</eng>
+      <eng class="num" remark="long scale">a quadrillion</eng>
+      <eng class="num" remark="long scale">one quadrillion</eng>
+      <eng class="num" remark="long scale">quadrillion</eng>
+      <eng class="num" remark="short scale">a septillion</eng>
+      <eng class="num" remark="short scale">one septillion</eng>
+      <eng class="num" remark="short scale">septillion</eng>
+      <cat class="num">1.000.000.000.000.000.000.000.000</cat>
+      <cat class="num">10²⁴</cat>
+      <cat class="num">un quadrilió</cat>
+      <cat class="num">quadrilió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000,000,000,000,000,000</eng>
+      <eng class="num">10²⁷</eng>
+      <eng class="num">one thousand million million million million</eng>
+      <eng class="num" remark="long scale">a quadrilliard</eng>
+      <eng class="num" remark="long scale">one quadrilliard</eng>
+      <eng class="num" remark="long scale">quadrilliard</eng>
+      <eng class="num" remark="short scale">an octilion</eng>
+      <eng class="num" remark="short scale">one octilion</eng>
+      <eng class="num" remark="short scale">octilion</eng>
+      <cat class="num">1.000.000.000.000.000.000.000.000.000</cat>
+      <cat class="num">10²⁷</cat>
+      <cat class="num">un quadriliard</cat>
+      <cat class="num">quadriliard</cat>
+      <cat class="num">mil quadrilions</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">1,000,000,000,000,000,000,000,000,000,000</eng>
+      <eng class="num">10³⁰</eng>
+      <eng class="num">one million million million million million</eng>
+      <eng class="num" remark="long scale">a quintillion</eng>
+      <eng class="num" remark="long scale">one quintillion</eng>
+      <eng class="num" remark="long scale">quintillion</eng>
+      <eng class="num" remark="short scale">a nonillion</eng>
+      <eng class="num" remark="short scale">one nonillion</eng>
+      <eng class="num" remark="short scale">nonillion</eng>
+      <cat class="num">1.000.000.000.000.000.000.000.000.000.000</cat>
+      <cat class="num">10³⁰</cat>
+      <cat class="num">un quintilió</cat>
+      <cat class="num">quintilió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">one half</eng>
+      <eng class="num">half</eng>
+      <eng class="num">fifty percent</eng>
+      <cat class="num">la meitat</cat>
+      <cat class="num">cinquanta per cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">one third</eng>
+      <eng class="num">a third</eng>
+      <eng class="num">a tierce</eng>
+      <cat class="num">un terç</cat>
+      <cat class="num">una tercera part</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">one fourth</eng>
+      <eng class="num">a fourth</eng>
+      <eng class="num">one quarter</eng>
+      <eng class="num">a quarter</eng>
+      <eng class="num">a quartern</eng>
+      <eng class="num">the fourth part</eng>
+      <eng class="num">twenty-five percent</eng>
+      <cat class="num">un quart</cat>
+      <cat class="num">una quarta part</cat>
+      <cat class="num">vint-i-cinc per cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="num">one tenth</eng>
+      <eng class="num">a tenth</eng>
+      <eng class="num">the tenth part</eng>
+      <eng class="num">ten percent</eng>
+      <cat class="num">un desè</cat>
+      <cat class="num">un dècim</cat>
+      <cat class="num">una desena part</cat>
+      <cat class="num">una dècima part</cat>
+      <cat class="num">deu per cent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">1st</eng>
+      <eng class="adj">first</eng>
+      <cat class="adj" feminine="1a">1r</cat>
+      <cat class="adj" feminine="primera">primer</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">2nd</eng>
+      <eng class="adj">second</eng>
+      <cat class="adj" feminine="2a">2n</cat>
+      <cat class="adj" feminine="segona">segon</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">2nd</eng>
+      <eng class="adj">third</eng>
+      <cat class="adj" feminine="3a">3r</cat>
+      <cat class="adj" feminine="tercera">tercer</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">4th</eng>
+      <eng class="adj">fourth</eng>
+      <cat class="adj" feminine="4a">4t</cat>
+      <cat class="adj" feminine="quarta">quart</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">14th</eng>
+      <eng class="adj">fourteenth</eng>
+      <cat class="adj" feminine="14a">14è</cat>
+      <cat class="adj" feminine="catorzena">catorzè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">100th</eng>
+      <eng class="adj">hundredth</eng>
+      <cat class="adj" feminine="100a">100è</cat>
+      <cat class="adj" feminine="centena">centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">500th</eng>
+      <eng class="adj">five-hundredth</eng>
+      <cat class="adj" feminine="500a">500è</cat>
+      <cat class="adj" feminine="cinc-centena">cinc-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">55th</eng>
+      <eng class="adj">fifty-fifth</eng>
+      <cat class="adj" feminine="55a">55è</cat>
+      <cat class="adj" feminine="cinquanta-cinquena">cinquanta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">59th</eng>
+      <eng class="adj">fifty-ninth</eng>
+      <cat class="adj" feminine="59a">59è</cat>
+      <cat class="adj" feminine="cinquanta-novena">cinquanta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">54th</eng>
+      <eng class="adj">fifty-fourth</eng>
+      <cat class="adj" feminine="54a">54è</cat>
+      <cat class="adj" feminine="cinquanta-quatrena">cinquanta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">57th</eng>
+      <eng class="adj">fifty-seventh</eng>
+      <cat class="adj" feminine="57a">57è</cat>
+      <cat class="adj" feminine="cinquanta-setena">cinquanta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">56th</eng>
+      <eng class="adj">fifty-sixth</eng>
+      <cat class="adj" feminine="56a">56è</cat>
+      <cat class="adj" feminine="cinquanta-sisena">cinquanta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">58th</eng>
+      <eng class="adj">fifty-eighth</eng>
+      <cat class="adj" feminine="58a">58è</cat>
+      <cat class="adj" feminine="cinquanta-vuitena">cinquanta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="cinquanta-huitena">cinquanta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">50th</eng>
+      <eng class="adj">fiftieth</eng>
+      <cat class="adj" feminine="50a">50è</cat>
+      <cat class="adj" feminine="cinquantena">cinquantè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">5th</eng>
+      <eng class="adj">fifth</eng>
+      <cat class="adj" feminine="5a">5è</cat>
+      <cat class="adj" feminine="cinquena">cinquè</cat>
+      <cat class="adj" feminine="quinta">quint</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">10th</eng>
+      <eng class="adj">tenth</eng>
+      <cat class="adj" feminine="10a">10è</cat>
+      <cat class="adj" feminine="desena">desè</cat>
+      <cat class="adj" feminine="dècima">dècim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">19th</eng>
+      <eng class="adj">nineteenth</eng>
+      <cat class="adj" feminine="19a">19è</cat>
+      <cat class="adj" feminine="dinovena">dinovè</cat>
+      <cat class="adj" tags="valencià" feminine="denovena">denové</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">17th</eng>
+      <eng class="adj">seventeenth</eng>
+      <cat class="adj" feminine="17a">17è</cat>
+      <cat class="adj" feminine="dissetena">dissetè</cat>
+      <cat class="adj" tags="valencià" feminine="dessetena">desseté</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">18th</eng>
+      <eng class="adj">eighteenth</eng>
+      <cat class="adj" feminine="18a">18è</cat>
+      <cat class="adj" feminine="divuitena">divuitè</cat>
+      <cat class="adj" tags="valencià" feminine="dihuitena">dihuitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">200th</eng>
+      <eng class="adj">two-hundredth</eng>
+      <cat class="adj" feminine="200a">200è</cat>
+      <cat class="adj" feminine="dos-centena">dos-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">12th</eng>
+      <eng class="adj">twelfth</eng>
+      <cat class="adj" feminine="12a">12è</cat>
+      <cat class="adj" feminine="dotzena">dotzè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">1000th</eng>
+      <eng class="adj">thousandth</eng>
+      <cat class="adj" feminine="1000a">1000è</cat>
+      <cat class="adj" feminine="milena">milè</cat>
+      <cat class="adj" feminine="mil·lèsima">mil·lèsim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">95th</eng>
+      <eng class="adj">ninety-fifth</eng>
+      <cat class="adj" feminine="95a">95è</cat>
+      <cat class="adj" feminine="noranta-cinquena">noranta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">99th</eng>
+      <eng class="adj">ninety-ninth</eng>
+      <cat class="adj" feminine="99a">99è</cat>
+      <cat class="adj" feminine="noranta-novena">noranta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">94th</eng>
+      <eng class="adj">ninety-fourth</eng>
+      <cat class="adj" feminine="94a">94è</cat>
+      <cat class="adj" feminine="noranta-quatrena">noranta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">97th</eng>
+      <eng class="adj">ninety-seventh</eng>
+      <cat class="adj" feminine="97a">97è</cat>
+      <cat class="adj" feminine="noranta-setena">noranta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">96th</eng>
+      <eng class="adj">ninety-sixth</eng>
+      <cat class="adj" feminine="96a">96è</cat>
+      <cat class="adj" feminine="noranta-sisena">noranta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">98th</eng>
+      <eng class="adj">ninety-eighth</eng>
+      <cat class="adj" feminine="98a">98è</cat>
+      <cat class="adj" feminine="noranta-vuitena">noranta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="noranta-huitena">noranta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">90th</eng>
+      <eng class="adj">ninetieth</eng>
+      <cat class="adj" feminine="90a">90è</cat>
+      <cat class="adj" feminine="norantena">norantè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">900th</eng>
+      <eng class="adj">nine hundredth</eng>
+      <cat class="adj" feminine="900a">900è</cat>
+      <cat class="adj" feminine="nou-centena">nou-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">9th</eng>
+      <eng class="adj">ninth</eng>
+      <cat class="adj" feminine="9a">9è</cat>
+      <cat class="adj" feminine="novena">novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">11th</eng>
+      <eng class="adj">eleventh</eng>
+      <cat class="adj" feminine="11a">11è</cat>
+      <cat class="adj" feminine="onzena">onzè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">45th</eng>
+      <eng class="adj">forty-fifth</eng>
+      <cat class="adj" feminine="45a">45è</cat>
+      <cat class="adj" feminine="quaranta-cinquena">quaranta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">49th</eng>
+      <eng class="adj">forty-ninth</eng>
+      <cat class="adj" feminine="49a">49è</cat>
+      <cat class="adj" feminine="quaranta-novena">quaranta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">44th</eng>
+      <eng class="adj">forty-fourth</eng>
+      <cat class="adj" feminine="44a">44è</cat>
+      <cat class="adj" feminine="quaranta-quatrena">quaranta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">47th</eng>
+      <eng class="adj">forty-seventh</eng>
+      <cat class="adj" feminine="47a">47è</cat>
+      <cat class="adj" feminine="quaranta-setena">quaranta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">46th</eng>
+      <eng class="adj">forty-sixth</eng>
+      <cat class="adj" feminine="46a">46è</cat>
+      <cat class="adj" feminine="quaranta-sisena">quaranta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">48th</eng>
+      <eng class="adj">forty-eighth</eng>
+      <cat class="adj" feminine="48a">48è</cat>
+      <cat class="adj" feminine="quaranta-vuitena">quaranta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="quaranta-huitena">quaranta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">40th</eng>
+      <eng class="adj">fortieth</eng>
+      <cat class="adj" feminine="40a">40è</cat>
+      <cat class="adj" feminine="quarantena">quarantè</cat>
+      <cat class="adj" feminine="quadragèsima">quadragèsim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">400th</eng>
+      <eng class="adj">four hundredth</eng>
+      <cat class="adj" feminine="400a">400è</cat>
+      <cat class="adj" feminine="quatre-centena">quatre-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">15th</eng>
+      <eng class="adj">fifteenth</eng>
+      <cat class="adj" feminine="15a">15è</cat>
+      <cat class="adj" feminine="quinzena">quinzè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">65th</eng>
+      <eng class="adj">sixty-fifth</eng>
+      <cat class="adj" feminine="65a">65è</cat>
+      <cat class="adj" feminine="seixanta-cinquena">seixanta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">69th</eng>
+      <eng class="adj">sixty-ninth</eng>
+      <cat class="adj" feminine="59a">59è</cat>
+      <cat class="adj" feminine="seixanta-novena">seixanta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">64th</eng>
+      <eng class="adj">sixty-fourth</eng>
+      <cat class="adj" feminine="64a">64è</cat>
+      <cat class="adj" feminine="seixanta-quatrena">seixanta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">67th</eng>
+      <eng class="adj">sixty-seventh</eng>
+      <cat class="adj" feminine="67a">67è</cat>
+      <cat class="adj" feminine="seixanta-setena">seixanta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">66th</eng>
+      <eng class="adj">sixty-sixth</eng>
+      <cat class="adj" feminine="66a">66è</cat>
+      <cat class="adj" feminine="seixanta-sisena">seixanta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">68th</eng>
+      <eng class="adj">sixty-eighth</eng>
+      <cat class="adj" feminine="68a">68è</cat>
+      <cat class="adj" feminine="seixanta-vuitena">seixanta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="seixanta-huitena">seixanta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">60th</eng>
+      <eng class="adj">sixtieth</eng>
+      <cat class="adj" feminine="60a">60è</cat>
+      <cat class="adj" feminine="seixantena">seixantè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">700th</eng>
+      <eng class="adj">seven hundredth</eng>
+      <cat class="adj" feminine="700a">700è</cat>
+      <cat class="adj" feminine="set-centena">set-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">75th</eng>
+      <eng class="adj">seventy-fifth</eng>
+      <cat class="adj" feminine="75a">75è</cat>
+      <cat class="adj" feminine="setanta-cinquena">setanta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">79th</eng>
+      <eng class="adj">seventy-ninth</eng>
+      <cat class="adj" feminine="79a">79è</cat>
+      <cat class="adj" feminine="setanta-novena">setanta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">74th</eng>
+      <eng class="adj">seventy-fourth</eng>
+      <cat class="adj" feminine="74a">74è</cat>
+      <cat class="adj" feminine="setanta-quatrena">setanta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">77th</eng>
+      <eng class="adj">seventy-seventh</eng>
+      <cat class="adj" feminine="77a">77è</cat>
+      <cat class="adj" feminine="setanta-setena">setanta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">76th</eng>
+      <eng class="adj">seventy-sixth</eng>
+      <cat class="adj" feminine="76a">76è</cat>
+      <cat class="adj" feminine="setanta-sisena">setanta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">78th</eng>
+      <eng class="adj">seventy-eighth</eng>
+      <cat class="adj" feminine="78a">78è</cat>
+      <cat class="adj" feminine="setanta-vuitena">setanta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="setanta-huitena">setanta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">70th</eng>
+      <eng class="adj">seventieth</eng>
+      <cat class="adj" feminine="70a">70è</cat>
+      <cat class="adj" feminine="setantena">setantè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">16th</eng>
+      <eng class="adj">sixteenth</eng>
+      <cat class="adj" feminine="16a">16è</cat>
+      <cat class="adj" feminine="setzena">setzè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">7th</eng>
+      <eng class="adj">seventh</eng>
+      <cat class="adj" feminine="7a">7è</cat>
+      <cat class="adj" feminine="setena">setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">600th</eng>
+      <eng class="adj">six hundredth</eng>
+      <cat class="adj" feminine="600a">600è</cat>
+      <cat class="adj" feminine="sis-centena">sis-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">6th</eng>
+      <eng class="adj">sixth</eng>
+      <cat class="adj" feminine="6a">6è</cat>
+      <cat class="adj" feminine="sisena">sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">35th</eng>
+      <eng class="adj">thirty-fifth</eng>
+      <cat class="adj" feminine="35a">35è</cat>
+      <cat class="adj" feminine="trenta-cinquena">trenta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">39th</eng>
+      <eng class="adj">thirty-ninth</eng>
+      <cat class="adj" feminine="39a">39è</cat>
+      <cat class="adj" feminine="trenta-novena">trenta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">34th</eng>
+      <eng class="adj">thirty-fourth</eng>
+      <cat class="adj" feminine="34a">34è</cat>
+      <cat class="adj" feminine="trenta-quatrena">trenta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">37th</eng>
+      <eng class="adj">thirty-seventh</eng>
+      <cat class="adj" feminine="37a">37è</cat>
+      <cat class="adj" feminine="trenta-setena">trenta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">36th</eng>
+      <eng class="adj">thirty-sixth</eng>
+      <cat class="adj" feminine="36a">36è</cat>
+      <cat class="adj" feminine="trenta-sisena">trenta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">38th</eng>
+      <eng class="adj">thirty-eighth</eng>
+      <cat class="adj" feminine="38a">38è</cat>
+      <cat class="adj" feminine="trenta-vuitena">trenta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="trenta-huitena">trenta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">30th</eng>
+      <eng class="adj">thirtieth</eng>
+      <cat class="adj" feminine="30a">30è</cat>
+      <cat class="adj" feminine="trentena">trentè</cat>
+      <cat class="adj" feminine="trigèsima">trigèsim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">300th</eng>
+      <eng class="adj">three hundredth</eng>
+      <cat class="adj" feminine="300a">300è</cat>
+      <cat class="adj" feminine="tres-centena">tres-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">13th</eng>
+      <eng class="adj">thirteenth</eng>
+      <cat class="adj" feminine="13a">13è</cat>
+      <cat class="adj" feminine="tretzena">tretzè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">25th</eng>
+      <eng class="adj">twenty-fifth</eng>
+      <cat class="adj" feminine="25a">25è</cat>
+      <cat class="adj" feminine="vint-i-cinquena">vint-i-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">29th</eng>
+      <eng class="adj">twenty-ninth</eng>
+      <cat class="adj" feminine="29a">29è</cat>
+      <cat class="adj" feminine="vint-i-novena">vint-i-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">24th</eng>
+      <eng class="adj">twenty-fourth</eng>
+      <cat class="adj" feminine="24a">24è</cat>
+      <cat class="adj" feminine="vint-i-quatrena">vint-i-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">27th</eng>
+      <eng class="adj">twenty-seventh</eng>
+      <cat class="adj" feminine="27a">27è</cat>
+      <cat class="adj" feminine="vint-i-setena">vint-i-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">26th</eng>
+      <eng class="adj">twenty-sixth</eng>
+      <cat class="adj" feminine="26a">26è</cat>
+      <cat class="adj" feminine="vint-i-sisena">vint-i-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">28th</eng>
+      <eng class="adj">twenty-eighth</eng>
+      <cat class="adj" feminine="28a">28è</cat>
+      <cat class="adj" feminine="vint-i-vuitena">vint-i-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="vint-i-huitena">vint-i-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">20th</eng>
+      <eng class="adj">twentieth</eng>
+      <cat class="adj" feminine="20a">20è</cat>
+      <cat class="adj" feminine="vintena">vintè</cat>
+      <cat class="adj" feminine="vigèsima">vigèsim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">800th</eng>
+      <eng class="adj">eight hundredth</eng>
+      <cat class="adj" feminine="800a">800è</cat>
+      <cat class="adj" feminine="vuit-centena">vuit-centè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">85th</eng>
+      <eng class="adj">eighty-fifth</eng>
+      <cat class="adj" feminine="85a">85è</cat>
+      <cat class="adj" feminine="vuitanta-cinquena">vuitanta-cinquè</cat>
+      <cat class="adj" tags="valencià" feminine="huitanta-cinquena">huitanta-cinquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">89th</eng>
+      <eng class="adj">eighty-ninth</eng>
+      <cat class="adj" feminine="89a">89è</cat>
+      <cat class="adj" feminine="vuitanta-novena">vuitanta-novè</cat>
+      <cat class="adj" tags="valencià" feminine="huitanta-novena">huitanta-novè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">84th</eng>
+      <eng class="adj">eighty-fourth</eng>
+      <cat class="adj" feminine="84a">84è</cat>
+      <cat class="adj" feminine="vuitanta-quatrena">vuitanta-quatrè</cat>
+      <cat class="adj" tags="valencià" feminine="huitanta-quatrena">huitanta-quatrè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">87th</eng>
+      <eng class="adj">eighty-seventh</eng>
+      <cat class="adj" feminine="87a">87è</cat>
+      <cat class="adj" feminine="vuitanta-setena">vuitanta-setè</cat>
+      <cat class="adj" tags="valencià" feminine="huitanta-setena">huitanta-setè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">86th</eng>
+      <eng class="adj">eighty-sixth</eng>
+      <cat class="adj" feminine="86a">86è</cat>
+      <cat class="adj" feminine="vuitanta-sisena">vuitanta-sisè</cat>
+      <cat class="adj" tags="valencià" feminine="huitanta-sisena">huitanta-sisè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">88th</eng>
+      <eng class="adj">eighty-eighth</eng>
+      <cat class="adj" feminine="88a">88è</cat>
+      <cat class="adj" feminine="vuitanta-vuitena">vuitanta-vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="huitanta-huitena">huitanta-huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">80th</eng>
+      <eng class="adj">eightieth</eng>
+      <cat class="adj" feminine="80a">80è</cat>
+      <cat class="adj" feminine="vuitantena">vuitantè</cat>
+      <cat class="adj" tags="valencià" feminine="huitantena">huitanté</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">8th</eng>
+      <eng class="adj">eighth</eng>
+      <cat class="adj" feminine="8a">8è</cat>
+      <cat class="adj" feminine="vuitena">vuitè</cat>
+      <cat class="adj" tags="valencià" feminine="huitena">huitè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">71st</eng>
+      <eng class="adj">seventy-first</eng>
+      <cat class="adj" feminine="71a">71è</cat>
+      <cat class="adj" feminine="setanta-unena">setanta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">72nd</eng>
+      <eng class="adj">seventy-second</eng>
+      <cat class="adj" feminine="72a">72è</cat>
+      <cat class="adj" feminine="setanta-dosena">setanta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">73rd</eng>
+      <eng class="adj">seventy-third</eng>
+      <cat class="adj" feminine="73a">73è</cat>
+      <cat class="adj" feminine="setanta-tresena">setanta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">81st</eng>
+      <eng class="adj">eighty-first</eng>
+      <cat class="adj" feminine="81a">81è</cat>
+      <cat class="adj" feminine="vuitanta-unena">vuitanta-unè</cat>
+      <cat class="adj" feminine="huitanta-unena" tags="valencià">huitanta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">82nd</eng>
+      <eng class="adj">eighty-second</eng>
+      <cat class="adj" feminine="82a">82è</cat>
+      <cat class="adj" feminine="vuitanta-dosena">vuitanta-dosè</cat>
+      <cat class="adj" feminine="huitanta-dosena" tags="valencià">huitanta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">83rd</eng>
+      <eng class="adj">eighty-third</eng>
+      <cat class="adj" feminine="83a">83è</cat>
+      <cat class="adj" feminine="vuitanta-tresena">vuitanta-tresè</cat>
+      <cat class="adj" feminine="huitanta-tresena" tags="valencià">huitanta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">51st</eng>
+      <eng class="adj">fifty-first</eng>
+      <cat class="adj" feminine="51a">51è</cat>
+      <cat class="adj" feminine="cinquanta-unena">cinquanta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">52nd</eng>
+      <eng class="adj">fifty-second</eng>
+      <cat class="adj" feminine="52a">52è</cat>
+      <cat class="adj" feminine="cinquanta-dosena">cinquanta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">53rd</eng>
+      <eng class="adj">fifty-third</eng>
+      <cat class="adj" feminine="53a">53è</cat>
+      <cat class="adj" feminine="cinquanta-tresena">cinquanta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">41st</eng>
+      <eng class="adj">forty-first</eng>
+      <cat class="adj" feminine="41a">41è</cat>
+      <cat class="adj" feminine="quaranta-unena">quaranta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">42nd</eng>
+      <eng class="adj">forty-second</eng>
+      <cat class="adj" feminine="42a">42è</cat>
+      <cat class="adj" feminine="quaranta-dosena">quaranta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">43rd</eng>
+      <eng class="adj">forty-third</eng>
+      <cat class="adj" feminine="43a">43è</cat>
+      <cat class="adj" feminine="quaranta-tresena">quaranta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">91st</eng>
+      <eng class="adj">ninety-first</eng>
+      <cat class="adj" feminine="91a">91è</cat>
+      <cat class="adj" feminine="noranta-unena">noranta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">92nd</eng>
+      <eng class="adj">ninety-second</eng>
+      <cat class="adj" feminine="92a">92è</cat>
+      <cat class="adj" feminine="noranta-dosena">noranta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">93rd</eng>
+      <eng class="adj">ninety-third</eng>
+      <cat class="adj" feminine="93a">93è</cat>
+      <cat class="adj" feminine="noranta-tresena">noranta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">61st</eng>
+      <eng class="adj">sixty-first</eng>
+      <cat class="adj" feminine="61a">61è</cat>
+      <cat class="adj" feminine="seixanta-unena">seixanta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">62nd</eng>
+      <eng class="adj">sixty-second</eng>
+      <cat class="adj" feminine="62a">62è</cat>
+      <cat class="adj" feminine="seixanta-dosena">seixanta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">63rd</eng>
+      <eng class="adj">sixty-third</eng>
+      <cat class="adj" feminine="63a">63è</cat>
+      <cat class="adj" feminine="seixanta-tresena">seixanta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">31st</eng>
+      <eng class="adj">thirty-first</eng>
+      <cat class="adj" feminine="31a">31è</cat>
+      <cat class="adj" feminine="trenta-unena">trenta-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">32nd</eng>
+      <eng class="adj">thirty-second</eng>
+      <cat class="adj" feminine="32a">32è</cat>
+      <cat class="adj" feminine="trenta-dosena">trenta-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">33rd</eng>
+      <eng class="adj">thirty-third</eng>
+      <cat class="adj" feminine="33a">33è</cat>
+      <cat class="adj" feminine="trenta-tresena">trenta-tresè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">21st</eng>
+      <eng class="adj">twenty-first</eng>
+      <cat class="adj" feminine="21a">21è</cat>
+      <cat class="adj" feminine="vint-i-unena">vint-i-unè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">22nd</eng>
+      <eng class="adj">twenty-second</eng>
+      <cat class="adj" feminine="22a">22è</cat>
+      <cat class="adj" feminine="vint-i-dosena">vint-i-dosè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">23rd</eng>
+      <eng class="adj">twenty-third</eng>
+      <cat class="adj" feminine="23a">23è</cat>
+      <cat class="adj" feminine="vint-i-tresena">vint-i-tresè</cat>
+    </e>
+  </entries>
+</root>

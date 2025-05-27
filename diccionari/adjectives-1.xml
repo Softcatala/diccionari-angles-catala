@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="adj">bye</eng>
+      <cat class="adj" feminine="exempta">exempt</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">crisp</eng>
+      <eng class="adj">crispy</eng>
+      <cat class="adj">cruixent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">crisp</eng>
+      <cat class="adj">cruixent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">crisp</eng>
+      <cat class="adj" feminine="fresca">fresc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">divided</eng>
+      <eng class="adj">divided up</eng>
+      <eng class="adj">shared</eng>
+      <eng class="adj">shared out</eng>
+      <cat class="adj" feminine="dividida">dividit</cat>
+      <cat class="adj" feminine="fraccionada">fraccionat</cat>
+      <cat class="adj" feminine="fragmentada">fragmentat</cat>
+      <cat class="adj" feminine="partida">partit</cat>
+      <cat class="adj" feminine="repartida">repartit</cat>
+      <cat class="adj" feminine="segmentada">segmentat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">included</eng>
+      <cat class="adj" feminine="inclosa">inclòs</cat>
+    </e>
+    <e done="yes" src="" def_eng="Between two values." def_cat="Entre dos valors." type="word">
+      <eng class="adj">included</eng>
+      <cat class="adj" feminine="compresa">comprès</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Not excluding a specific date or time." def_cat="Sense excloure una data o hora específiques.">
+      <eng class="adj">included</eng>
+      <cat class="adj" feminine="inclosa">inclòs</cat>
+      <cat class="adv">inclusivament</cat>
+      <example sent_eng="The shop will close until October 2nd included." sent_cat="La botiga romandrà tancada fins al 2 d'octubre inclusivament." />
+    </e>
+    <e area="medicina" done="yes" src="" type="word" oldarea="ciències de la salut">
+      <eng class="adj">nonresponder</eng>
+      <eng class="adj">non-responder</eng>
+      <cat class="adj" feminine="no responsiva">no responsiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">shared</eng>
+      <cat class="adj" feminine="col·lectiva">col·lectiu</cat>
+      <cat class="adj" feminine="conjunta">conjunt</cat>
+      <cat class="adj" feminine="comunitària">comunitari</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="adj">shared</eng>
+      <cat class="adj" feminine="compartida">compartit</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="adj">shared</eng>
+      <cat class="adj" feminine="mitgera">mitger</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">located</eng>
+      <eng class="adj">situated</eng>
+      <cat class="adj" feminine="ubicada">ubicat</cat>
+      <cat class="adj" feminine="sítia">siti</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">such</eng>
+      <cat class="adj" feminine="tanta">tant</cat>
+      <cat class="adj">tal</cat>
+      <cat class="adj">d'aquesta mena</cat>
+      <cat class="adv">així</cat>
+      <cat class="adj">semblant</cat>
+      <example sent_eng="Where are you going in such a hurry?" sent_cat="On vas amb tanta pressa?" />
+      <example sent_eng="Had you ever seen such beauty?" sent_cat="Havies vist mai tanta bellesa?" />
+      <example sent_eng="Do you really believe you can write such a book?" sent_cat="De debò creus que pots escriure un llibre semblant?" />
+      <example sent_eng="Such wisdom is only found in the old classics." sent_cat="Tal saviesa només la trobem en els clàssics antics." />
+      <example sent_eng="Such a bike would be very expensive." sent_cat="Una bici d'aquesta mena seria molt cara." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">like that</eng>
+      <cat class="adv">així</cat>
+      <cat class="adj">semblant</cat>
+      <example sent_eng="Had you ever seen something like that?" sent_cat="Havies vist mai res semblant?" />
+      <example sent_eng="Seeing a forest like that makes me sad." sent_cat="M'entristeix veure un bosc així." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">such</eng>
+      <cat class="adj" feminine="quanta">quant</cat>
+      <cat class="adj" feminine="quin">quin</cat>
+      <example sent_eng="Such strength!" sent_cat="Quanta força!" />
+      <example sent_eng="Such display of power!" sent_cat="Quina mostra de poder!" />
+    </e>
+    </entries>
+</root>

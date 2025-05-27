@@ -1,0 +1,3041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="something or someone">to have a stranglehold on</eng>
+      <cat class="expr">tenir sotmès</cat>
+      <cat class="expr">tenir subjugat</cat>
+      <cat class="expr">tenir endogalat</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">not to pull punches</eng>
+      <cat class="expr">no mossegar-se la llengua</cat>
+      <cat class="expr">no tenir pèls a la llengua</cat>
+      <cat class="expr">anar de cara</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to break even</eng>
+      <cat class="expr">fer la pau</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to break even</eng>
+      <cat class="expr">cobrir despeses</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">on the chopping block</eng>
+      <cat class="expr">en perill de ser retallat</cat>
+      <example sent_eng="government programs on the chopping block" sent_cat="programes governamentals en perill de ser retallats" />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be a fool</eng>
+      <eng class="expr">to be an idiot</eng>
+      <cat class="expr">ser un moniato</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to be cooked</eng>
+      <cat class="expr">estar ben llest</cat>
+      <cat class="expr">estar llest</cat>
+      <cat class="expr">estar perdut</cat>
+      <cat class="expr" tags="vulgar">estar fotut</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in memory of</eng>
+      <cat class="expr">en record de</cat>
+      <cat class="expr">a la memòria de</cat>
+      <cat class="expr">en commemoració de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in my declining years</eng>
+      <cat class="expr">a les meves velleses</cat>
+      <cat class="expr">al tombat de la vida</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in my judgement</eng>
+      <eng class="expr">in my opinion</eng>
+      <eng class="expr">from my point of view</eng>
+      <eng class="expr">in my view</eng>
+      <cat class="expr">segons el meu punt de vista</cat>
+      <cat class="expr">a parer meu</cat>
+      <cat class="expr">en opinió meva</cat>
+      <cat class="expr">al meu entendre</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in kind</eng>
+      <cat class="expr">en espècie</cat>
+      <example sent_eng="payment in kind" sent_cat="pagament en espècie" />
+      <example sent_eng="benefit in kind" sent_cat="beneficis en espècie" />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I'm afraid</eng>
+      <cat class="expr">la veritat és que</cat>
+      <cat class="expr">trobo que</cat>
+      <cat class="expr">em pareix que</cat>
+      <cat class="expr">em sembla que</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">I'm afraid...</eng>
+      <cat class="expr">perdoni...</cat>
+      <cat class="expr">perdoni, però...</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to buy time</eng>
+      <cat class="expr">guanyar temps</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to call a spade a spade</eng>
+      <cat class="expr">dir les coses pel seu nom</cat>
+      <cat class="expr">dir al pa pa i al vi vi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">feel your oats</eng>
+      <cat class="expr">estar de vena</cat>
+      <cat class="expr">sentir-se de vena</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">feel your oats</eng>
+      <cat class="expr">sentir-se important</cat>
+      <cat class="expr">sentir-se algú</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be unapologetic</eng>
+      <cat class="expr">no presentar disculpes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no disrespect, but</eng>
+      <cat class="expr">sense ànim d'ofendre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at the head</eng>
+      <cat class="expr">a l'avantguarda</cat>
+      <example sent_eng="to be at the head of civilization " sent_cat="ser a l'avantguarda de la civilització" />
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">how often</eng>
+      <cat class="expr">quantes vegades</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">how often</eng>
+      <cat class="expr">cada quant de temps</cat>
+      <cat class="expr">cada quant</cat>
+      <cat class="expr">amb quina freqüència</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">how often</eng>
+      <cat class="f">freqüència</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for present purposes</eng>
+      <cat class="expr">per a l'ocasió</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for research purposes</eng>
+      <cat class="expr">amb finalitats científiques</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for safety</eng>
+      <cat class="expr">per precaució</cat>
+      <cat class="expr">per si de cas</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for remedial action</eng>
+      <cat class="expr">per a posar-hi remei</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to lie through one's teeth</eng>
+      <cat class="expr">mentir descaradament</cat>
+      <cat class="expr">mentir per la gola</cat>
+      <cat class="expr">mentir per la barba</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to save face</eng>
+      <eng class="expr">to save the appearances</eng>
+      <cat class="expr">guardar les aparences</cat>
+      <cat class="expr">salvar les aparences</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be rudderless</eng>
+      <cat class="expr">perdre la carta de navegar</cat>
+      <cat class="expr">sentir-se perdut</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">hindsight is 20/20</eng>
+      <cat class="expr">a joc vist, tothom és savi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">be my guest</eng>
+      <cat class="expr">només faltaria</cat>
+      <cat class="expr">no faltaria més</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">be my guest</eng>
+      <cat class="ij">endavant</cat>
+      <cat class="ij">avant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">be my guest</eng>
+      <cat class="expr">si és servit</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's incredible</eng>
+      <cat class="expr">sembla mentida</cat>
+      <cat class="expr">sembla que no pugui ser</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's indefensible</eng>
+      <cat class="expr">no té justificació</cat>
+      <cat class="expr">no té perdó</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's inexcusable</eng>
+      <cat class="expr">no té perdó</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr" tags="informal">laughing my ass off</eng>
+      <eng class="expr" tags="abbreviation informal">LMAO</eng>
+      <cat class="expr">pixar-se de riure</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">laugh out loud</eng>
+      <eng class="expr">laughing out loud</eng>
+      <eng class="expr" tags="abbreviation">LOL</eng>
+      <cat class="expr">petar-se de riure</cat>
+      <cat class="expr">baquejar-se de riure</cat>
+      <cat class="expr">trencar-se de riure</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to walk into a buzz saw</eng>
+      <eng class="expr">to run into a buzz saw</eng>
+      <cat class="expr">topar amb un mur infranquejable</cat>
+      <cat class="expr">ficar-se en la gola del llop</cat>
+      <cat class="expr">sortir-ne escaldat</cat>
+      <cat class="expr">ensopegar amb una resistència ferotge</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to turn on a dime</eng>
+      <cat class="expr">girar-se com un mitjó</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">on a dime</eng>
+      <cat class="expr">en un tres i no res</cat>
+      <cat class="expr">en un ai</cat>
+      <cat class="expr">en un dir ai</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr" tags="informal">in a flash</eng>
+      <cat class="expr">en un instant</cat>
+      <cat class="expr">en un girar d'ulls</cat>
+      <cat class="expr">com una exhalació</cat>
+      <cat class="adv">de sobte</cat>
+      <cat class="adv">de cop i volta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in the wink of an eye</eng>
+      <cat class="expr">en un tancar i obrir d'ulls</cat>
+      <cat class="expr">en un girar d'ulls</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">behind the scenes</eng>
+      <cat class="expr">a porta tancada</cat>
+      <cat class="expr">de portes endins</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr" after="on">to be reliant</eng>
+      <cat class="v" after="en">confiar</cat>
+      <cat class="expr" after="en">tenir confiançaa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">so far and no further</eng>
+      <cat class="expr">fins aquí</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">so far so good</eng>
+      <cat class="expr">per ara bé</cat>
+      <cat class="expr">bé fins ara</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">the tooth fairy</eng>
+      <cat class="expr">l'angelet de les dents</cat>
+      <cat class="expr">els angelets</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to have skin in the game</eng>
+      <cat class="expr">jugar-s'hi la pell</cat>
+      <cat class="expr">jugar-s'hi el coll</cat>
+      <cat class="expr">anar-li-hi la pell</cat>
+      <cat class="expr">tenir-hi molt a perdre</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to hit the skids</eng>
+      <cat class="expr">anar-se'n en orris</cat>
+      <cat class="expr">anar-se'n a can Pistraus</cat>
+      <cat class="expr">anar-se'n a la pífia</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be a contradiction in terms</eng>
+      <cat class="expr">ser contradictori</cat>
+      <cat class="expr">ser un contrasentit</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to be a good omen</eng>
+      <cat class="expr">ser senyal de bon averany</cat>
+      <cat class="expr">ser bon senyal</cat>
+      <cat class="expr">donar bona sort</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to be a bad omen</eng>
+      <cat class="expr">ser senyal de mal averany</cat>
+      <cat class="expr">cridar el mal temps</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="to do something">to have the wherewithal</eng>
+      <cat class="expr" after="per a fer alguna cosa">tenir els mitjans</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">loosely speaking</eng>
+      <cat class="expr">grosso modo</cat>
+      <cat class="expr">per dir-ho així</cat>
+      <cat class="expr">per dir-ho d'alguna manera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">by starlight</eng>
+      <cat class="expr">a la claror de la celístia</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to blown someone's mind</eng>
+      <cat class="expr">deixar bocabadat</cat>
+      <cat class="expr">deixar de pedra</cat>
+      <cat class="expr">deixar d'una peça</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in solitary confinement</eng>
+      <cat class="expr">en confinament</cat>
+      <cat class="adj" feminine="incomunicada">incomunicat</cat>
+      <cat class="expr">en règim d'incomunicació</cat>
+      <cat class="expr">en règim d'aïllament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">per divine regulation</eng>
+      <cat class="expr">per decret diví</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to be on the same page</eng>
+      <cat class="expr">estar d'acord</cat>
+      <cat class="expr">anar a l'una</cat>
+      <cat class="expr">estar en sintonia</cat>
+      <example sent_eng="Before we start the project, let's make sure we're on the same page." sent_cat="Abans de començar el projecte, assegurem-nos que estem d'acord." />
+      <example sent_eng="The team is finally on the same page." sent_cat="L'equip finalment va a l'una." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="figurative">to get rid of the deadwood</eng>
+      <cat class="expr" tags="figurat">fer una esporgada</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">the buck stops here</eng>
+      <cat class="expr">jo me'n faig càrrec</cat>
+      <cat class="expr">jo me n'ocupo</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to pass the buck</eng>
+      <cat class="expr">carregar el mort</cat>
+      <cat class="v" grammar="tr">endossar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to work undercover</eng>
+      <cat class="expr">treballar com a agent secret</cat>
+      <cat class="expr">treballar com a infiltrat</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr" tags="slang">to trip balls</eng>
+      <cat class="expr" tags="col·loquial">flipar fort</cat>
+      <cat class="expr" tags="col·loquial">anar molt passat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to cut to it</eng>
+      <cat class="expr">anar al gra</cat>
+      <cat class="expr">anar a la idea</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="v" grammar="intr" after="of something">to have a high opinion</eng>
+      <cat class="v" grammar="tr">tenir en bon concepte</cat>
+      <cat class="v" grammar="intr" after="d'alguna cosa">tenir bona opinió</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be a dime a dozen</eng>
+      <cat class="expr">haver-n'hi per a donar i vendre</cat>
+      <cat class="expr">haver-n'hi per a triar i remenar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">a dime a dozen</eng>
+      <cat class="expr">la cosa més corrent del món</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">the golden goose</eng>
+      <cat class="expr">la gallina dels ous d'or</cat>
+      <example sent_eng="to kill the golden goose" sent_cat="matar la gallina dels ous d'or" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in the gravy</eng>
+      <cat class="expr">nedar en l'abundància</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be unlike</eng>
+      <cat class="v" grammar="tr">desdir</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">to stand to reason</eng>
+      <cat class="expr">ser lògic</cat>
+      <cat class="expr">ser raonable</cat>
+      <cat class="expr">resultar evident</cat>
+      <example sent_eng=" It stands to reason that if you don't study, you won't pass the exam." sent_cat="És lògic que, si no estudies, no aprovaràs l'examen." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">go it alone</eng>
+      <cat class="v" grammar="intr_pron">independitzar-se</cat>
+      <cat class="expr">fer (una cosa) per compte propi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to go berserk</eng>
+      <cat class="expr">perdre els estreps</cat>
+      <cat class="v" grammar="intr_pron">enrabiar-se</cat>
+      <cat class="v" grammar="intr_pron">enutjar-se</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to go berserk</eng>
+      <cat class="expr">tornar-se boig d'alegria</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="argot">go ape</eng>
+      <eng class="expr" tags="vulgar">to go apeshit</eng>
+      <eng class="expr" tags="argot">to go ballistic</eng>
+      <cat class="expr" tags="col·loquial">empipar-se com una mona</cat>
+      <cat class="expr" tags="col·loquial">posar-se com una mona</cat>
+      <cat class="expr" tags="vulgar">emprenyar-se com una mona</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="argot">go ballistic</eng>
+      <cat class="expr">perdre els estreps</cat>
+      <cat class="v" grammar="intr_pron">empipar-se</cat>
+      <cat class="v" grammar="intr_pron" tags="vulgar">emprenyar-se</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be cautious not to</eng>
+      <cat class="expr">anar amb compte de no</cat>
+      <cat class="expr">mirar de no</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">if it can't be helped</eng>
+      <cat class="expr">si és imprescindible</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">if you pardon me</eng>
+      <cat class="expr">si em permets</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">if you will excuse the expression</eng>
+      <cat class="expr">si se'm permet l'expresió</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">if you will</eng>
+      <cat class="expr">diguem-ne</cat>
+      <cat class="expr">per dir-ho així</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">at will</eng>
+      <cat class="expr">a voluntat</cat>
+      <cat class="expr">a discreció</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="of something">to be unsuspicious</eng>
+      <cat class="expr" after="d'una cosa">no tenir indici</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be unwelcome</eng>
+      <cat class="expr">no ser ben rebut</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">pursuant to</eng>
+      <cat class="expr">d'acord amb</cat>
+      <cat class="expr">de conformitat amb</cat>
+      <cat class="expr">conforme a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">nothing short of</eng>
+      <eng class="expr">nothing less than</eng>
+      <cat class="adv">absolutament</cat>
+      <cat class="adv">completament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">nothing short of</eng>
+      <eng class="expr">nothing less than</eng>
+      <cat class="expr">ni més ni menys que</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hold to account</eng>
+      <eng class="expr">to hold accountable</eng>
+      <cat class="expr">fer retre compte</cat>
+      <cat class="expr">demanar compte</cat>
+      <cat class="v" grammar="tr">responsabilitzar</cat>
+      <example sent_eng="The manager was held to account for the team's poor performance." sent_cat="El gestor va ser responsabilitzat del mal rendiment de l'equip." />
+      <example sent_eng="The government must be held to account for its decisions." sent_cat="El govern ha de retre comptes per les seves decisions." />
+    </e>
+    <e src="" type="word" done="yes" area="recerca">
+      <eng class="expr">at baseline</eng>
+      <cat class="expr">al començament de l'estudi</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">all the more so</eng>
+      <eng class="expr">the more so</eng>
+      <cat class="expr">més que més</cat>
+      <cat class="expr">amb més motiu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to become panicky</eng>
+      <cat class="expr">agafar por</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to become popular</eng>
+      <cat class="v" grammar="intr_pron">popularitzar-se</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to become overweight</eng>
+      <cat class="expr">guanyar pes</cat>
+      <cat class="v" grammar="pron">engreixar-se</cat>
+      <cat class="expr">agafar sobrepès</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be overweight</eng>
+      <cat class="expr">tenir excés de pes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="at something">to take umbrage</eng>
+      <cat class="v" grammar="pron">ofendre's</cat>
+      <cat class="v" grammar="pron">picar-se</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">on the line</eng>
+      <cat class="expr">en joc</cat>
+      <example sent_eng="My future was on the line." sent_cat="Estava en joc el meu futur." />
+      <example sent_eng="His life was on the line." sent_cat="S'hi jugava la vida." />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to put one's life on the line</eng>
+      <cat class="expr">jugar-se la vida</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to lay it on the line</eng>
+      <cat class="expr">deixar les coses clares</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">unbeknown to</eng>
+      <eng class="expr">unbeknownst to</eng>
+      <cat class="expr">sense el coneixement de</cat>
+      <cat class="expr">sense coneixement de</cat>
+      <cat class="expr" feminine="desconeguda per a">desconegut per a</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to make a mess of things</eng>
+      <cat class="expr">armar-ne una de grossa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to make a miscalculation</eng>
+      <cat class="expr" tags="informal">pifiar-la</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="of">to make a mockery</eng>
+      <cat class="expr">deixar en ridícul</cat>
+      <cat class="v" grammar="tr">ridiculitzar</cat>
+      <cat class="expr">tirar per terra</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a mountain out of a molehill</eng>
+      <cat class="expr">fer una muntanya d'un gra de sorra</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be roasted over many fires</eng>
+      <cat class="expr">haver-ne vist de tots colors</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">that's disgusting</eng>
+      <cat class="expr">no tens vergonya</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">that's easily seen</eng>
+      <cat class="expr">salta a la vista</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">in stitches</eng>
+      <cat class="expr">petar-se de riure</cat>
+      <cat class="expr">partir-se de riure</cat>
+      <cat class="expr">pixar-se de riure</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">bar none</eng>
+      <cat class="expr">sense cap mena de dubte</cat>
+      <cat class="expr">sens dubte</cat>
+      <cat class="expr">indiscutiblement</cat>
+      <cat class="expr">sense excepció</cat>
+      <example sent_eng="" sent_cat="" />
+      <example sent_eng="It's the best restaurant in town, bar none." sent_cat="És el millor restaurant de la ciutat, sense cap mena de dubte." />
+      <example sent_eng="He is, bar none, the best player on the team." sent_cat="És, sens dubte, el millor jugador de l'equip." />
+      <example sent_eng="It is, bar none, the best product on the market." sent_cat="És el millor producte del mercat, indiscutiblement." />
+      <example sent_eng="He is the fastest of them all, bar none." sent_cat="És el més ràpid de tots, sense excepció." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to run shoulder to shoulder</eng>
+      <cat class="expr">córrer aparellats</cat>
+      <cat class="expr">anar frec a frec</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">when that's done</eng>
+      <eng class="expr">when they were done</eng>
+      <cat class="expr">en acabat</cat>
+      <cat class="expr">fet això</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">as an afterthought</eng>
+      <cat class="expr">com de més a més</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">as an afterthought</eng>
+      <cat class="expr">a l'últim moment</cat>
+      <cat class="expr">a última hora</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">as an afterthought</eng>
+      <cat class="expr">després d'un moment de reflexió</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to pass muster</eng>
+      <cat class="expr">rebre el vistiplau</cat>
+      <cat class="expr">passar revista</cat>
+      <example sent_eng="He didn't pass muster during the final evaluation." sent_cat="No va rebre el vistiplau durant l'avaluació final." />
+      <example sent_eng="The proposal didn't pass muster with the committee." sent_cat="La proposta no va rebre el vistiplau del comitè." />
+      <example sent_eng="She had to pass muster before joining the elite team." sent_cat="Havia de passar revista abans d'unir-se a l'equip d'elit." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be uncomfortable discussing something</eng>
+      <cat class="expr" after="d'alguna cosa">causar escrúpol parlar</cat>
+      <cat class="expr" after="d'alguna cosa">fer escrúpol parlar</cat>
+      <cat class="expr">sentir malestar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to be under someone's thumb</eng>
+      <eng class="v" grammar="tr">to have under someone's thumb</eng>
+      <cat class="v" grammar="intr" after="d'algú">estar sota el jou</cat>
+      <cat class="v" grammar="tr">tenir dins el puny</cat>
+      <example sent_eng="He's completely under his boss's thumb." sent_cat="Està completament sota el jou del seu cap." />
+      <example sent_eng="She has him under her thumb." sent_cat="El té dins el puny." />
+      <example sent_eng="The dictator kept the country under his thumb for decades." sent_cat="El dictador va mantenir el país sota el jou durant dècades." />
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to sneak a peek</eng>
+      <cat class="expr">fer una ullada d'amagat</cat>
+      <cat class="expr">ullar discretament</cat>
+      <cat class="expr">espiar breument</cat>
+      <example sent_eng="He sneaked a peek at the answers." sent_cat="Va fer una ullada d'amagat a les respostes." />
+      <example sent_eng="She sneaked a peek at the gift." sent_cat="Va ullar discretament el regal." />
+      <example sent_eng="The kids sneaked a peek at their Christmas presents." sent_cat="Els nens van espiar un moment els seus regals de Nadal." />
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to blow someone's mind</eng>
+      <cat class="expr">deixar bocabadat</cat>
+      <cat class="expr">deixar de pedra</cat>
+      <cat class="v" grammar="tr">al·lucinar</cat>
+      <cat class="v" grammar="tr">trasbalsar</cat>
+      <cat class="expr">sorprendre molt</cat>
+      <cat class="expr">impactar profundament</cat>
+      <example sent_eng="That movie blew my mind!" sent_cat="Aquella pel·lícula em va deixar bocabadat!" />
+      <example sent_eng="His performance blew my mind!" sent_cat="La seva actuació em va fer al·lucinar!" />
+      <example sent_eng="The plot twist blew my mind!" sent_cat="El gir de guió em va deixar de pedra!" />
+      <example sent_eng="This idea blows my mind!" sent_cat="Aquesta idea em sorprèn molt!" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">you're full of bullshit</eng>
+      <cat class="expr">no em vinguis amb romanços</cat>
+      <cat class="expr">no em vinguis amb històries</cat>
+      <cat class="expr">no em vinguis amb rotllos</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to feel out of one's depth</eng>
+      <cat class="expr">sentir-se perdut</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be out of one's depth</eng>
+      <cat class="expr" after="a l'aigua">no fer peu</cat>
+      <cat class="expr">ja no tocar de peus</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to get out of one's depth</eng>
+      <eng class="expr">to be out of one's depth</eng>
+      <cat class="expr">no estar a l'altura</cat>
+      <cat class="expr">no tenir prou talla</cat>
+      <cat class="expr">ja no tocar de peus</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr" tags="old humorous">methinks</eng>
+      <cat class="expr">em penso</cat>
+      <cat class="expr">trobo</cat>
+      <example sent_eng="It's been deliberate, methinks." sent_cat="Ha estat deliberat, em penso." />
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">in the lurch</eng>
+      <cat class="expr">a l'estacada</cat>
+      <cat class="adj" feminine="tirada">tirat</cat>
+      <cat class="expr" tags="col·loquial">amb el cul a l'aire</cat>
+      <example sent_eng="He left me in the lurch when I needed him the most." sent_cat="Em va deixar a l'estacada quan més el necessitava." />
+      <example sent_eng="He left me in the lurch at the last moment." sent_cat="Em va deixar penjat a l'últim moment." />
+      <example sent_eng="They left us in the lurch when they canceled the project." sent_cat="Ens van deixar amb el cul a l'aire quan van cancel·lar el projecte." />
+      <example sent_eng="Don't leave me in the lurch now that the difficult moment is coming!" sent_cat="No em deixis tirat ara que ve el moment difícil!" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in one's right mind</eng>
+      <cat class="expr">tenir el cap a lloc</cat>
+      <cat class="expr">tenir seny</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no one in their right mind...</eng>
+      <cat class="expr">ningú amb dos dits de seny...</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">who in their right mind...?</eng>
+      <cat class="expr">a qui se li acut...?</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr" tags="separable">to catch unawares</eng>
+      <eng class="v" grammar="tr" tags="separable">to take unawares</eng>
+      <eng class="v" grammar="tr" tags="separable">to catch off-guard</eng>
+      <eng class="v" grammar="tr" tags="separable">to take by surprise</eng>
+      <cat class="v" grammar="tr">agafar desprevingut</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in spite of everything</eng>
+      <cat class="expr">malgrat les circumstàncies</cat>
+      <cat class="expr">a desgrat de les circumstàncies</cat>
+      <cat class="adv">així i tot</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">even as</eng>
+      <cat class="expr">en el mateix moment que</cat>
+      <cat class="expr">en el precis instant que</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be clueless</eng>
+      <cat class="expr">no tenir ni idea</cat>
+      <cat class="expr">estar en blanc</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to keep (something) at bay</eng>
+      <cat class="expr" after="amb alguna cosa">saber conviure</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">at bay</eng>
+      <cat class="expr">al marge</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr" tags="separable">to keep at bay</eng>
+      <cat class="v" grammar="tr">tenir a distància</cat>
+      <cat class="v" grammar="intr" after="amb algú">guardar les distàncies</cat>
+      <cat class="v" grammar="tr">tenir a ratlla</cat>
+      <cat class="v" grammar="tr">posar a ratlla</cat>
+      <cat class="v" grammar="intr" after="a algú">parar els peus</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">every cloud has a silver lining</eng>
+      <eng class="expr">there's always a silver lining</eng>
+      <cat class="expr">no tot han de ser desgràcies en aquest món</cat>
+      <cat class="expr">Déu escanya però no ofega</cat>
+      <cat class="expr">després de la pluja ve el bon temps</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to act as guarantor for</eng>
+      <eng class="expr">to act as a guarantor for</eng>
+      <cat class="expr">fer-se garant de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="n">woman with a child out of wedlock</eng>
+      <cat class="f">dona que ha tingut un fill sense ser casada</cat>
+      <cat class="f">mare soltera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be suicidal</eng>
+      <cat class="expr">tenir tendències suïcides</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in hindsight</eng>
+      <eng class="expr">with hindsight</eng>
+      <cat class="expr">vist amb perspectiva</cat>
+      <cat class="expr">vist amb els ulls d'ara</cat>
+      <cat class="expr">vist retrospectivament</cat>
+      <cat class="expr">vist a posteriori</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">that takes the cake</eng>
+      <eng class="expr">that takes the gold-plated gingerbread</eng>
+      <cat class="expr">això és el súmmum</cat>
+      <cat class="expr">això passa de mida</cat>
+      <cat class="expr">només faltava això</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">under a shadow</eng>
+      <cat class="expr">d'una manera fosca</cat>
+      <cat class="expr">d'una manera misteriosa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">of course not</eng>
+      <cat class="expr">de cap manera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">dead letter</eng>
+      <cat class="expr">lletra morta</cat>
+      <cat class="expr">paper mullat</cat>
+      <example sent_eng="The old regulation has become a dead letter, as nobody follows it anymore." sent_cat="El reglament antic s'ha convertit en lletra morta, ja que ningú el segueix." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">out-of-the-box</eng>
+      <cat class="expr">amb configuració predeterminada</cat>
+      <example sent_eng="an out-of-the-box computer" sent_cat="un ordinador amb configuració predeterminada" />
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="expr">to be down the slippery slope</eng>
+      <cat class="expr">anar de baixa</cat>
+      <cat class="expr">anar a mal borràs</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="UK informal">to do a moonlight flit</eng>
+      <cat class="expr">tocar el dos sense pagar</cat>
+      <cat class="expr">fotre el camp sense pagar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to turn upside down</eng>
+      <cat class="expr">canviar radicalment</cat>
+      <cat class="v" grammar="tr">capgirar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">take up the gauntlet</eng>
+      <cat class="expr">recollir el guant</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to throw down the gauntlet</eng>
+      <cat class="expr">llançar el guant</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to run the gauntlet of</eng>
+      <cat class="expr">passar l'escrutini de</cat>
+      <cat class="expr">passar el filtre de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to spread like wildfire</eng>
+      <cat class="expr">córrer com un reguerot de pólvora</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to spread like wildfire</eng>
+      <cat class="expr">escampar-se com una taca d'oli</cat>
+      <example sent_eng="The rumor spread like wildfire." sent_cat="El rumor es va escampar com una taca d'oli." />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no holds barred</eng>
+      <cat class="expr">sense límits</cat>
+      <cat class="expr">sense embuts</cat>
+      <example sent_eng="It is comedy with no holds barred." sent_cat="És una comèdia sense embuts" />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">slap on the wrist</eng>
+      <cat class="expr">advertència lleugera</cat>
+      <cat class="expr">càstig simbòlic</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to the bitter end</eng>
+      <cat class="expr">fins al final</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to no avail</eng>
+      <cat class="adv">en va</cat>
+      <cat class="adv">inútilment</cat>
+      <cat class="expr">sense resultats</cat>
+      <cat class="expr">sense cap resultat</cat>
+      <example sent_eng="He tried to negotiate, but to no avail." sent_cat="Va provar de negociar, però no en va treure res." />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">of no avail</eng>
+      <cat class="adj">inútil</cat>
+      <cat class="adj" feminine="infructuosa">infructuós</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">in dribs and drabs</eng>
+      <cat class="expr">de mica en mica</cat>
+      <example sent_eng="stories released in dribs and drabs" sent_cat="històries publicades de mica en mica" />
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">dribs and drabs</eng>
+      <cat class="mp">trossos</cat>
+      <cat class="fp">miques</cat>
+      <example sent_eng="There are only dribs and drabs of information at the moment." sent_cat="Només hi ha trossos d'informació." />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be mindful of</eng>
+      <cat class="expr">atenir-se a</cat>
+      <cat class="expr">tenir present</cat>
+      <cat class="expr">tenir en compte</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="figurative">to be up in the air</eng>
+      <cat class="expr" tags="figurat">estar (una cosa) enlaire</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be booked up</eng>
+      <cat class="expr">estar ple</cat>
+      <cat class="expr">tenir totes les habitacions ocupades</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be intimidating</eng>
+      <cat class="expr">fer respecte</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">in the firing line</eng>
+      <eng class="expr">on the firing line</eng>
+      <eng class="expr">in the line of fire</eng>
+      <cat class="expr">en la línia de foc</cat>
+      <cat class="expr">a primera línia de combat</cat>
+      <cat class="expr">a primera línia</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">in the firing line</eng>
+      <eng class="expr">on the firing line</eng>
+      <eng class="expr">in the spotlight</eng>
+      <eng class="expr">under scrutiny</eng>
+      <cat class="expr">en el punt de mira</cat>
+      <example sent_eng="The politician is under scrutiny for his controversies" sent_cat="El polític està en el punt de mira per les seves controvèrsies." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="French">comme il faut</eng>
+      <cat class="expr">com cal</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">comings and goings</eng>
+      <cat class="expr">anades i vingudes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">comings and goings</eng>
+      <cat class="expr">vida i miracles</cat>
+      <cat class="expr">aventures i desventures</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in consequence of</eng>
+      <cat class="expr">a conseqüència de</cat>
+      <cat class="expr">com a resultat de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">bitchy mouth</eng>
+      <cat class="expr">llengua d'escurçó</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to pave the way</eng>
+      <cat class="expr">aplanar el camí</cat>
+      <cat class="expr">preparar el terreny</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to up the ante</eng>
+      <cat class="expr">apujar l'aposta</cat>
+      <example sent_eng="They decided to up the ante by adding a new feature to the product." sent_cat="Van decidir apujar l'aposta afegint una nova funció al producte." />
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to up the ante</eng>
+      <cat class="expr">apujar el nivell</cat>
+      <cat class="expr">fer un pas endavant</cat>
+      <cat class="expr">anar més enllà</cat>
+      <example sent_eng="If we want to win this game, we'll need to up the ante." sent_cat="Si volem guanyar aquest partit, haurem de fer un pas endavant." />
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to have it comming</eng>
+      <cat class="expr">tenir el que es mereix</cat>
+      <cat class="expr">tenir-ho ben merescut</cat>
+      <cat class="expr">buscar-s'ho</cat>
+      <cat class="expr">guanyar-s'ho</cat>
+      <cat class="expr">rebre el que es mereix</cat>
+      <cat class="expr">això li passa per...</cat>
+      <example sent_eng="He really had it coming after all those lies." sent_cat="Realment ho tenia ben merescut després de totes aquelles mentides." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to take the bait</eng>
+      <cat class="expr">picar l'ham</cat>
+      <cat class="expr">mossegar l'ham</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hit a plateau</eng>
+      <cat class="v" grammar="intr_pron">estancar-se</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hit home</eng>
+      <cat class="v" grammar="tr">encertar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hit home</eng>
+      <cat class="expr">arribar al cor</cat>
+      <cat class="expr">arribar a l'ànima</cat>
+      <cat class="v" grammar="tr">colpir</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hit the bullseye</eng>
+      <cat class="expr">fer diana</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hit the nail on the head</eng>
+      <cat class="expr">encertar-la de ple</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">blood and gore</eng>
+      <eng class="expr">blood and guts</eng>
+      <cat class="expr">sang i fetge</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">as dead as a doornail</eng>
+      <cat class="expr">mort i ben mort</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">a marathon task</eng>
+      <cat class="expr">un esforç sobrehumà</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr" tags="UK">to be in favour of</eng>
+      <eng class="expr" tags="US">to be in favor of</eng>
+      <cat class="expr">ser partidari de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be on the increase</eng>
+      <cat class="expr">anar a més</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="US">to be on the lam</eng>
+      <cat class="expr">fugir de la justícia</cat>
+      <cat class="expr">ser un fugitiu de la justícia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be on the lookout</eng>
+      <eng class="expr">to be on alert</eng>
+      <eng class="expr">to lie in wait</eng>
+      <eng class="expr">to be on watch</eng>
+      <cat class="expr">estar a l'aguait</cat>
+      <cat class="expr">estar alerta</cat>
+      <cat class="expr">anar alerta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">to be mercenary</eng>
+      <cat class="expr">ser de la pela</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">whereabouts unknown</eng>
+      <cat class="expr">en parador desconegut</cat>
+      <cat class="adj" feminine="il·localitzada">il·localitzat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be truthful</eng>
+      <cat class="expr">si haig de ser sincer</cat>
+      <cat class="expr">la veritat sigui dita</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">in a very funny way</eng>
+      <cat class="adv">amb molta gràcia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no fixed abode</eng>
+      <cat class="expr">sense domicili fix</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="expr">the well-off society</eng>
+      <cat class="expr">la societat del benestar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be a non-starter</eng>
+      <cat class="expr">ser un impossible</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be a non-starter</eng>
+      <cat class="expr">ser un mal negoci</cat>
+      <cat class="expr">ser un fracàs</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr" tags="US">to run afoul of</eng>
+      <eng class="expr" tags="US">to fall afoul of</eng>
+      <cat class="v" grammar="tr">infringir</cat>
+      <cat class="v" grammar="tr">contravenir</cat>
+      <cat class="v" grammar="intr" after="amb">topar</cat>
+      <example sent_eng="He ran afoul of the law." sent_cat="Va infringir la llei." />
+      <example sent_eng="The company ran afoul of environmental regulations." sent_cat="L'empresa va contravenir les regulacions mediambientals." />
+      <example sent_eng="She ran afoul of her boss." sent_cat="Va topar amb el seu cap." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">money talks</eng>
+      <cat class="expr">qui paga mana</cat>
+      <cat class="expr">qui té diners sempre té raó</cat>
+      <cat class="expr">qui té diners vola</cat>
+      <cat class="expr">pagant, sant Pere canta</cat>
+      <cat class="expr">amb diners, carxofes</cat>
+      <cat class="expr">amb diners, torrons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">he who pays the piper calls the tune</eng>
+      <cat class="expr">qui paga mana</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to call the shots</eng>
+      <cat class="expr">portar la batuta</cat>
+      <example sent_eng="She's the one who calls the shots in the company." sent_cat="És ella qui porta la batuta a l'empresa." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to call the tune</eng>
+      <cat class="expr">tallar el bacallà</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to head inland</eng>
+      <cat class="expr">entrar cap a terra</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">through and through</eng>
+      <eng class="expr">from A to Z</eng>
+      <cat class="expr">amb tots els ets i uts</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">through and through</eng>
+      <cat class="expr">fins al moll de l'os</cat>
+      <cat class="expr">de soca-rel</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to put it in a nutshell</eng>
+      <cat class="expr">per dir-ho en poques paraules</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to come to the point</eng>
+      <eng class="expr">to get to the point</eng>
+      <cat class="expr">anar al gra</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to come to the point</eng>
+      <cat class="expr">arribar el moment</cat>
+      <example sent_eng="She always promises to help, but when it comes to the point she's never there." sent_cat="Sempre promet ajudar, però quan arriba el moment no hi és mai." />
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">off the beaten path</eng>
+      <eng class="expr">off the beaten track</eng>
+      <cat class="expr">fora del camí fressat</cat>
+      <cat class="expr">fora del camí conegut</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">on this earth</eng>
+      <cat class="expr">en aquest món</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">it goes without saying that</eng>
+      <cat class="expr">no cal dir que</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">this is it</eng>
+      <cat class="expr">ja està</cat>
+      <cat class="expr">s'ha acabat</cat>
+      <cat class="expr">s'ha acabat el bròquil</cat>
+      <cat class="expr">ha arribat l'hora</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">this is it</eng>
+      <cat class="expr">això mateix</cat>
+      <cat class="expr">vet-ho aquí</cat>
+      <cat class="expr">ni més ni menys</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">this is it</eng>
+      <cat class="expr">ja som al cap del carrer</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">there's no telling</eng>
+      <cat class="expr">no se sap mai</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">this is not an everyday thing</eng>
+      <cat class="expr">això no és qualsevol cosa</cat>
+      <cat class="expr">això no és poca cosa</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">that would be most kind</eng>
+      <cat class="expr">t'ho agrairia molt</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">that'd be telling</eng>
+      <cat class="expr">ja t'agradaria saber-ho</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">that'd be telling</eng>
+      <cat class="expr">això no es pot dir</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">habits die hard</eng>
+      <cat class="expr">l'home és un animal de costums</cat>
+      <cat class="expr">geni i figura fins a la sepultura</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">something big</eng>
+      <cat class="expr" tags="col·loquial">una cosa sonada</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">you're welcome</eng>
+      <eng class="expr">you're quite welcome</eng>
+      <eng class="expr">you're very welcome</eng>
+      <eng class="expr">you're most welcome</eng>
+      <eng class="expr">no problem</eng>
+      <eng class="expr">my pleasure</eng>
+      <eng class="expr">sure thing</eng>
+      <eng class="expr">sure</eng>
+      <eng class="expr">of course</eng>
+      <eng class="expr">no worries</eng>
+      <eng class="expr">don't mention it</eng>
+      <eng class="expr">anytime</eng>
+      <eng class="expr">I'm happy to</eng>
+      <eng class="expr">it was nothing</eng>
+      <eng class="expr">no sweat</eng>
+      <cat class="expr">no es mereixen</cat>
+      <cat class="expr">no s'ho val</cat>
+      <cat class="expr">vostè les té totes</cat>
+      <cat class="expr">de res</cat>
+      <cat class="expr" tags="antic">a Déu sien dades</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">sure</eng>
+      <eng class="expr">of course</eng>
+      <cat class="expr">naturalment</cat>
+      <cat class="expr">per descomptat</cat>
+      <cat class="expr">i tant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be unsettling</eng>
+      <cat class="expr">fer angúnia</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to be on the knife edge</eng>
+      <cat class="expr">penjar d'un fil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be outspoken</eng>
+      <cat class="expr">parlar clar</cat>
+      <cat class="expr">dir les coses pel seu nom</cat>
+      <cat class="expr">ser directe</cat>
+      <cat class="expr">no tenir pèls a la llengua</cat>
+      <cat class="expr">parlar sense embuts</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">out of sight, out of mind</eng>
+      <cat class="expr">lluny dels ulls, lluny del cor</cat>
+      <cat class="expr">del que els ulls no veuen, el cor no se'n dol</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to get cold feet</eng>
+      <cat class="v" grammar="intr">arronsar-se</cat>
+      <cat class="v" grammar="pron">acovardir-se</cat>
+      <cat class="expr">agafar por</cat>
+      <cat class="expr">tirar-se enrere</cat>
+      <cat class="v" grammar="intr">desdir-se</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in shambles</eng>
+      <cat class="expr">ser un desastre</cat>
+      <cat class="expr">ser un caos</cat>
+      <cat class="expr">estar destarotat</cat>
+      <cat class="expr">estar fet una pena</cat>
+      <cat class="expr">estar fet un desastre</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in a million years</eng>
+      <cat class="expr">mai de la vida</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">the last thing to do</eng>
+      <cat class="expr">el que sobretot no has de fer</cat>
+      <cat class="expr">el que no has de fer de cap manera</cat>
+      <cat class="expr">el que no has de fer mai de la vida</cat>
+      <cat class="expr">el que no has de fer per res del món</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">over my dead body</eng>
+      <cat class="expr">mai de la vida</cat>
+      <cat class="expr">ni que em matin</cat>
+      <cat class="expr">de cap manera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">not by a jugful</eng>
+      <cat class="expr">de cap manera</cat>
+      <cat class="expr" tags="vulgar">ni de conya</cat>
+      <cat class="expr">mai de la vida</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">not ever</eng>
+      <cat class="expr">mai de la vida</cat>
+      <cat class="expr">de cap de les maneres</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be able-bodied</eng>
+      <cat class="expr">valdre's</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be about to fall down</eng>
+      <cat class="expr">amenaçar ruïna</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be unconscionable</eng>
+      <cat class="expr">passar de mida</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="expr">on countless occasions</eng>
+      <cat class="expr">infinitat de vegades</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in the family way</eng>
+      <cat class="expr">esperar una criatura</cat>
+      <cat class="expr">estar embarassada</cat>
+      <cat class="expr">estar en estat</cat>
+      <cat class="expr">estar en estat de bona esperança</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="to something">to pay lip service</eng>
+      <cat class="expr" after="alguna cosa">defensar només de boca</cat>
+    </e>
+    <e src="" type="word" done="yes" def_cat="cosa o acció inútil, que no serveix per a res">
+      <eng class="expr">as tits on a rooster</eng>
+      <cat class="expr">com un pegat en un banc</cat>
+      <cat class="expr">com un pegat foradat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to peddle a wooden nutmeg</eng>
+      <eng class="expr">to sell a wooden nutmeg</eng>
+      <cat class="expr">donar gat per llebre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">relating to</eng>
+      <eng class="expr">to do with</eng>
+      <cat class="expr" feminine="relativa a">relatiu a</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">crying wolf</eng>
+      <cat class="expr">cridar que ve el llop</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">with the naked eye</eng>
+      <cat class="expr">a ull nu</cat>
+      <cat class="expr">a simple vista</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">not in the least</eng>
+      <eng class="expr">not the least</eng>
+      <eng class="expr">not at all</eng>
+      <cat class="expr">de cap manera</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">not in the least</eng>
+      <eng class="expr">not the least</eng>
+      <eng class="expr">not at all</eng>
+      <cat class="expr">gens ni mica</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">not one iota</eng>
+      <cat class="expr">gens ni mica</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">at point-blank range</eng>
+      <cat class="expr">a boca de canó</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">and all that jazz</eng>
+      <cat class="expr">i tota la pesca</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">in-between</eng>
+      <cat class="expr">ni una cosa ni l'altra</cat>
+      <cat class="expr">ni carn ni peix</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">in-between</eng>
+      <cat class="expr">ni d'aquí ni d'allà</cat>
+      <cat class="expr">d'enlloc</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">under the circumstances</eng>
+      <cat class="expr">en aquestes circumstàncies</cat>
+      <cat class="expr">en aquest cas</cat>
+      <cat class="expr">tenint en compte les circumstàncies</cat>
+      <cat class="expr">ateses les circumstàncies</cat>
+      <cat class="expr">vista la situació</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">under normal circumstances</eng>
+      <eng class="expr">in normal circumstances</eng>
+      <cat class="expr">en circumstàncies normals</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">under certain circumstances</eng>
+      <cat class="expr">en alguns casos</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">under no circumstances</eng>
+      <cat class="expr">en cap circumstància</cat>
+      <cat class="expr">per cap motiu</cat>
+      <cat class="expr">de cap de les maneres</cat>
+      <cat class="expr">en cap dels casos</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in the doldrums</eng>
+      <cat class="expr" before="l'economia, el mercat">estar en calma</cat>
+      <cat class="expr">estar inactiu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in the doldrums</eng>
+      <cat class="expr" before="una persona">estar abatut</cat>
+      <cat class="expr" before="una persona">estar aixafat</cat>
+      <cat class="expr" before="una persona">estar fet pols</cat>
+      <cat class="expr">anar de capa caiguda</cat>
+      <cat class="expr">anar de baixa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to go off one's rocker</eng>
+      <cat class="v" grammar="intr">trastocar-se</cat>
+      <cat class="v" grammar="intr_pron">tornar-se boig</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">please turn over</eng>
+      <eng class="expr" tags="abbreviation">PTO</eng>
+      <cat class="expr">vegeu el revers</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">what a steal!</eng>
+      <cat class="expr">quina ganga!</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">in the thick of</eng>
+      <cat class="prep">enmig de</cat>
+      <cat class="expr">molt implicat en</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="US">dead to rights</eng>
+      <eng class="expr" tags="UK">bang to rights</eng>
+      <cat class="expr">in fraganti</cat>
+      <cat class="expr">amb les mans a la pasta</cat>
+      <cat class="expr">en flagrant delicte</cat>
+      <cat class="expr">amb els pixats al ventre</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">toe-to-toe</eng>
+      <cat class="expr">cara a cara</cat>
+      <cat class="expr">cos a cos</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="expr">toe-to-toe</eng>
+      <cat class="expr">d'igual a igual</cat>
+      <cat class="expr">en peu d'igualtat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to spread like measles</eng>
+      <eng class="expr">to spread virally</eng>
+      <cat class="expr">escampar-se com una taca d'oli</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be delusional</eng>
+      <cat class="v" grammar="intr">desvariejar</cat>
+      <cat class="v" grammar="intr">delirar</cat>
+      <cat class="expr">no tocar-hi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">of sorts</eng>
+      <cat class="expr">diguem-ne</cat>
+      <cat class="expr">si se'n pot dir així</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">and the like</eng>
+      <cat class="expr">etcètera</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to foot the bill</eng>
+      <cat class="expr">pagar la factura</cat>
+      <cat class="expr">assumir els costos</cat>
+      <cat class="expr">pagar el compte</cat>
+      <cat class="expr">fer-se càrrec</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="for someone">to feel overwhelmingly sorry</eng>
+      <cat class="expr" after="per algú">sentir una pena immensa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to feel powerless</eng>
+      <cat class="expr" after="de fer una cosa">no veure's amb cor</cat>
+      <cat class="expr" after="de fer una cosa">sentir-se incapaç</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to take a gamble</eng>
+      <cat class="v" grammar="intr_pron">arriscar-se</cat>
+      <cat class="expr">jugar-se-la</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to take a hard line</eng>
+      <eng class="expr">to take a strong line</eng>
+      <cat class="expr">aplicar mà dura</cat>
+      <cat class="expr">pendre mesures enèrgiques</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to go haywire</eng>
+      <cat class="expr">ser un merder</cat>
+      <cat class="expr">desgavell</cat>
+      <cat class="v" grammar="intr">desbocar-se</cat>
+      <cat class="v" grammar="intr">descontrolar-se</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">couldn't give a fuck</eng>
+      <eng class="expr">don't give a fuck</eng>
+      <eng class="expr">couldn't give a monkey's</eng>
+      <eng class="expr">don't give a monkey's</eng>
+      <cat class="expr">importar un rave</cat>
+      <cat class="expr" after="a algú">no interessar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be fun-loving</eng>
+      <cat class="expr">ser de la broma</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">in straitened circumstances</eng>
+      <cat class="expr">en circumstàncies precàries</cat>
+      <cat class="expr">en necessitat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in an explanatory tone</eng>
+      <cat class="expr">com a aclariment</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in an eyeblink</eng>
+      <cat class="expr">en un tancar i obrir d'ulls</cat>
+      <cat class="expr">vist i no vist</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to fall on bad times</eng>
+      <cat class="expr">anar a menys</cat>
+      <cat class="expr">anar de baixa</cat>
+      <cat class="expr">anar a mal borràs</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to fall into disrepute</eng>
+      <cat class="v" grammar="intr_pron">desprestigiar-se</cat>
+      <cat class="expr">anar a menys</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to go to the bad</eng>
+      <cat class="expr">anar a mal borràs</cat>
+      <cat class="expr">anar a menys</cat>
+      <cat class="expr">anar al baix</cat>
+      <cat class="v" grammar="intr">declinar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to go to the bad</eng>
+      <cat class="expr">fer-se malbé</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at some ungodly hour</eng>
+      <cat class="expr">a hores intempestives</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">fat chance of that</eng>
+      <cat class="expr">en dubto</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="ij">fat chance</eng>
+      <cat class="ij">ara li fan el mànec</cat>
+      <cat class="ij">és improbable</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">my own flesh and blood</eng>
+      <cat class="expr">os dels meus ossos i carn de la meva carn</cat>
+      <cat class="expr">carn de la meva carn</cat>
+      <cat class="expr">la meva família</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to get his comeuppance</eng>
+      <cat class="expr">rebre el que es mereix</cat>
+      <cat class="expr">rebre el que el càstig que es mereix</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at breakneck speed</eng>
+      <cat class="expr">a una velocitat vertiginosa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">yeah?</eng>
+      <cat class="expr">vols dir?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be profitable</eng>
+      <cat class="expr">sortir a compte</cat>
+      <cat class="expr">eixir a compte</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="in something">to be proficient</eng>
+      <cat class="expr" after="alguna cosa">tenir per la mà</cat>
+      <cat class="expr" after="en alguna cosa">tenir la mà trencada</cat>
+      <cat class="expr" after="en alguna cosa">tenir traça</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="for something">to be legally accountable</eng>
+      <cat class="expr" after="d'un fet">respondre davant la llei</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="to somebody for something">to be accountable</eng>
+      <cat class="expr" after="d'alguna cosa davant d'algú">haver de retre comptes</cat>
+      <cat class="expr" after="d'alguna cosa davant d'algú">ser responsable</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's unorthodox</eng>
+      <cat class="expr">no és normal</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to keep (someone) from sleep</eng>
+      <cat class="expr" after="a algú">llevar la son</cat>
+      <cat class="expr" after="a algú">fer perdre la son</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to keep (someone) in view</eng>
+      <cat class="expr" after="a algú">no llevar els ulls de damunt</cat>
+      <cat class="expr" after="a algú">tenir l'ull a sobre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to keep (someone) safe</eng>
+      <cat class="expr" after="d'algú">vetllar per la seguretat</cat>
+      <cat class="expr" after="per algú">vetllar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">as it turns out</eng>
+      <cat class="expr">resulta que</cat>
+      <cat class="expr">sembla que</cat>
+      <cat class="expr">es veu que</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to have got chutzpah</eng>
+      <eng class="expr">to have chutzpah</eng>
+      <cat class="expr">tenir barra</cat>
+      <cat class="expr">ser un barrut</cat>
+      <cat class="expr">tenir galtes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">by my book</eng>
+      <eng class="expr">in my book</eng>
+      <cat class="expr">al meu entendre</cat>
+      <cat class="expr">jo trobo</cat>
+      <cat class="expr">jo opino</cat>
+      <cat class="expr">per mi</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at the suggestion of</eng>
+      <eng class="expr">by the suggestion of</eng>
+      <cat class="expr">per recomanació de</cat>
+      <cat class="expr">per indicació de</cat>
+      <cat class="expr">a proposta de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at the edge of the crowd</eng>
+      <eng class="expr">on the edge of the crowd</eng>
+      <cat class="expr">a l'exterior de la pinya de gent</cat>
+      <cat class="expr">a l'exterior de la rotllana</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at night all cats are grey</eng>
+      <eng class="expr">in the night all cats are grey</eng>
+      <cat class="expr">de nit tots els gats són negres</cat>
+      <cat class="expr">de nit tots els gats són foscos</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a saint on earth</eng>
+      <cat class="expr">un sant a la terra</cat>
+      <cat class="expr">una santa a la terra</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">are you with me?</eng>
+      <cat class="expr">em segueix?</cat>
+      <cat class="expr">comprèn això que li explico?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="someone">a pox on</eng>
+      <cat class="expr">mal vent se l'endugui</cat>
+      <cat class="expr">mal llamp el mati</cat>
+      <cat class="expr">mal llamp l'encengui</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to go to great lengths</eng>
+      <eng class="expr">to go to any length</eng>
+      <cat class="expr">fer tot el possible</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to have an inkling of</eng>
+      <cat class="v" grammar="tr">pressentir</cat>
+      <cat class="v" grammar="tr">veure a venir</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">down to earth</eng>
+      <cat class="expr">de peus a terra</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">considering the circumstances</eng>
+      <cat class="expr">vistes les circumstàncies</cat>
+      <cat class="expr">ateses les circumstàncies</cat>
+      <cat class="expr">donades les circumstàncies</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hide in plain sight</eng>
+      <cat class="expr">passar desapercebut</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in plain sight</eng>
+      <cat class="expr">a la vista</cat>
+      <cat class="expr">a la vista de tothom</cat>
+      <cat class="expr">al descobert</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">as a safeguard</eng>
+      <cat class="expr">per precaució</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for the most part</eng>
+      <cat class="expr">en general</cat>
+      <cat class="expr">per regla general</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">as a rule</eng>
+      <cat class="expr">per regla general</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in general</eng>
+      <cat class="expr">tothom</cat>
+      <cat class="expr" after="de la gent">el comú</cat>
+      <cat class="expr" after="de la gent">la massa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="figurative">to put out feelers</eng>
+      <cat class="expr" tags="figurat">sondar el terreny</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">accidents will happen in the best-regulated families</eng>
+      <eng class="IND">mistakes will happen in the best-regulated families</eng>
+      <cat class="IND">aquestes coses passen en les millors famílies</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">a fizzing stick of dynamite</eng>
+      <cat class="IND">un cartutxo de dinamita amb la metxa encesa</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">this story is dynamite</eng>
+      <cat class="IND">aquesta notícia és una bomba</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to play with dynamite</eng>
+      <cat class="expr">jugar amb foc</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to do the trick</eng>
+      <cat class="expr">fer el fet</cat>
+      <cat class="expr">funcionar</cat>
+      <cat class="expr">fer efecte</cat>
+      <cat class="expr">fer el seu efecte</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">pared to the bone</eng>
+      <cat class="adj" feminine="pelada">pelat</cat>
+      <cat class="expr">no tenir de què fer estelles</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">by trial and error</eng>
+      <cat class="expr">a força de provar</cat>
+      <cat class="expr">a força d'equivocar-se</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to fall between two stools</eng>
+      <cat class="v">estar indecís</cat>
+      <cat class="v">dubtar</cat>
+      <cat class="v">vacil·lar</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">as far as it goes</eng>
+      <cat class="expr">pel que és</cat>
+      <cat class="expr">vist el que és</cat>
+      <cat class="expr">pel que era d'esperar</cat>
+      <cat class="expr">pel que podíém esperar</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to lose one's shirt</eng>
+      <cat class="expr">perdre la camisa</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">a lump in one's throat</eng>
+      <cat class="expr">un nus a la gola</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">time is against us</eng>
+      <cat class="expr">el temps corre en contra nostre</cat>
+      <cat class="expr">anem contra el rellotge</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to live on a knife-edge</eng>
+      <cat class="expr">veure-se'n un bull</cat>
+      <cat class="expr">estar en un destret</cat>
+      <cat class="expr">estar en una situació compromesa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no comment</eng>
+      <cat class="expr">sense comentaris</cat>
+      <cat class="expr">no penso fer cap declaració</cat>
+      <cat class="expr">em reservo l'opinió</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no comment</eng>
+      <cat class="expr">no penso fer cap declaració</cat>
+      <cat class="expr">em reservo l'opinió</cat>
+      <cat class="expr">sense comentaris</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="n">a start</eng>
+      <cat class="m">un primer pas</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to turn heads</eng>
+      <cat class="expr">atraure mirades</cat>
+      <cat class="expr">atreure mirades</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to serve someone right</eng>
+      <cat class="expr">trobar sabata de son peu</cat>
+      <cat class="expr">tenir el que es mereix</cat>
+      <cat class="expr">trobar escarment</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">neck to neck</eng>
+      <cat class="expr">cama a cama</cat>
+      <cat class="expr" feminine="igualades">igualats</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">none other than X</eng>
+      <cat class="expr">X en persona</cat>
+      <cat class="expr">ni més ni menys que X</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">largely speaking</eng>
+      <cat class="expr">en termes generals</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be out of the woods</eng>
+      <cat class="expr">estar fora de perill</cat>
+      <cat class="expr">poder respirar tranquil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">under the influence</eng>
+      <cat class="expr">sota els efectes de l'alcohol</cat>
+      <cat class="adj" feminine="beguda">begut</cat>
+      <cat class="adj" feminine="èbria">ebri</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">under the influence</eng>
+      <cat class="expr">sota els efectes de les drogues</cat>
+      <cat class="adj" feminine="drogada">drogat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be in rut</eng>
+      <cat class="expr" after="una femella">anar alta</cat>
+      <cat class="expr">anar calenta</cat>
+      <cat class="expr">estar en zel</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr" tags="separable">to give a piggyback</eng>
+      <cat class="v" grammar="tr">portar a collibè</cat>
+      <example sent_eng="He gave his son a piggyback." sent_cat="Portava el seu fill a collibè." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to go piggyback</eng>
+      <cat class="expr">anar a collibè</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to think outside the box</eng>
+      <cat class="expr">pensar de manera no convencional</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to risk one's neck</eng>
+      <eng class="expr">to risk life and limb</eng>
+      <cat class="expr">jugar-se la pell</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to put one's neck in the noose</eng>
+      <cat class="expr">jugar-se el coll</cat>
+      <cat class="expr">jugar-se la vida</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">sow the wind and reap the whirlwind</eng>
+      <cat class="expr">sembra vents i cull tempestats</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">what goes around comes around</eng>
+      <cat class="expr">tal faràs tal trobaràs</cat>
+      <cat class="expr">qui la fa la paga</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">crime doesn't pay</eng>
+      <cat class="expr">qui la fa la paga</cat>
+      <cat class="expr">delinquir no surt a compte</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">you do the crime, you do the time</eng>
+      <cat class="expr">qui la fa la paga</cat>
+      <cat class="expr">tal faràs tal trobaràs</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">sow the wind and reap the whirlwind</eng>
+      <cat class="expr">sembra vents i cull tempestats</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to turn a blind eye</eng>
+      <cat class="expr">fer els ullls grossos</cat>
+      <cat class="expr">tancar els ulls</cat>
+      <cat class="expr">passar per alt</cat>
+      <cat class="expr">fingir no adonar-se</cat>
+      <cat class="expr">fer com qui no ho veu</cat>
+      <cat class="expr">fer l'orni</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr" tags="US informal">my bad</eng>
+      <cat class="expr">culpa meva</cat>
+      <cat class="expr">culpa meua</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I'm on it</eng>
+      <cat class="expr">hi treballo</cat>
+      <cat class="expr">ho tinc present</cat>
+      <cat class="expr">ho faré</cat>
+      <cat class="expr">vaig fent</cat>
+      <cat class="expr">hi estic a sobre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be in the offing</eng>
+      <cat class="expr">tenir a la vista</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's not in the cards</eng>
+      <cat class="expr">és molt improbable</cat>
+      <cat class="expr">n'estic convençut que (una cosa) no passarà</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">the floor is yours</eng>
+      <cat class="expr">té la paraula</cat>
+      <cat class="expr">endavant</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to put a match to X</eng>
+      <cat class="expr">calar foc a X amb un misto</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">that's all well and good</eng>
+      <eng class="expr">it's all well and good</eng>
+      <cat class="expr">tot això està molt bé</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">given</eng>
+      <cat class="expr">atès que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">given</eng>
+      <cat class="expr">atenent</cat>
+      <cat class="expr">considerant</cat>
+      <cat class="expr">en vista de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to lose touch with one's feet</eng>
+      <cat class="expr" tags="figurat">no tocar de peus a terra</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">per l'interès de</cat>
+      <cat class="expr">pel bé de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">headed by</eng>
+      <cat class="expr">sota el comandament de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">in accordance with</eng>
+      <cat class="expr">d'acord amb</cat>
+      <cat class="prep">segons</cat>
+      <cat class="expr">conforme a</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">per tal de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">per raó de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">respecte a</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">per consideració a</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">en benefici de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">en honor a</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">en nom de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of</eng>
+      <cat class="expr">tot per</cat>
+      <cat class="expr">per salvar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of brevity</eng>
+      <cat class="expr">per amor a la brevetat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of appearances</eng>
+      <cat class="expr">en nom de les aparences</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of decency</eng>
+      <cat class="expr">en nom de la decència</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of order</eng>
+      <cat class="expr">en nom de l'ordre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in the full sense of the word</eng>
+      <cat class="expr">en el sentit propi de la paraula</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in the fullness of time</eng>
+      <cat class="expr">en el seu moment</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in the fullness of time</eng>
+      <cat class="expr">quan arribi el moment</cat>
+      <cat class="expr">quan sigui el moment</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to be straight</eng>
+      <cat class="expr">anar amb el cor a la mà</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without further ado</eng>
+      <cat class="expr">sense més preàmbuls</cat>
+      <cat class="expr">no m'allargo més</cat>
+      <cat class="expr">sense dilació</cat>
+      <cat class="expr">sense cap entrebanc</cat>
+      <cat class="expr">sense entretenir-se més</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without further discussion</eng>
+      <cat class="expr">sense més preàmbuls</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without a check</eng>
+      <cat class="expr" before="fer un trajecte">d'una tirada</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without a fuss</eng>
+      <cat class="expr">sense fer escarafalls</cat>
+      <cat class="expr">sense protestar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without any damage to its soul</eng>
+      <cat class="expr">sense fer-ne malbé l'essència</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without any question</eng>
+      <cat class="expr">sense cap estira-i-arronsa</cat>
+      <cat class="expr">sense necessitat de cap estira-i-arronsa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without apparent anger</eng>
+      <cat class="expr">sense mostrar-se enfadat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without batting an eyelash</eng>
+      <cat class="expr">com aquell qui res</cat>
+      <cat class="expr">sense immutar-se</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without blinking an eye</eng>
+      <cat class="expr">com si res</cat>
+      <cat class="expr">sense esforç</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without concern</eng>
+      <cat class="expr">amb indiferència</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without demur</eng>
+      <cat class="expr">sense resistir-s'hi</cat>
+      <cat class="expr">sense posar-hi objeccions</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without detection</eng>
+      <cat class="expr">sense que es descobreixi</cat>
+      <cat class="expr">sense que es noti</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without difficulty</eng>
+      <cat class="expr">com si res</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without dimension</eng>
+      <cat class="expr">sense entitat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without effort</eng>
+      <cat class="expr">com si res</cat>
+      <cat class="expr">sense esforç</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to give free rein</eng>
+      <cat class="expr">donar lliure curs</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="v" grammar="tr" tags="separable">to avoid like the plague</eng>
+      <cat class="v" grammar="tr">evitar com la pesta</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">not to mention...</eng>
+      <cat class="expr">... no cal dir-ho</cat>
+      <cat class="expr">naturalment</cat>
+      <cat class="expr">evidentment</cat>
+      <cat class="expr">i per descomptat...</cat>
+      <cat class="expr">i a sobre...</cat>
+      <cat class="expr">a part de...</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">rooted in</eng>
+      <cat class="expr">ancorat en</cat>
+      <cat class="expr">procedent de</cat>
+      <cat class="expr">fonamentat en</cat>
+      <cat class="expr">fill de</cat>
+      <cat class="expr">producte de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">there's no escaping the fact that</eng>
+      <cat class="expr">és un fet innegable que</cat>
+      <cat class="expr">no es pot oblidar que</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">there is no missing the fact that</eng>
+      <cat class="expr">no es pot passar per alt el fet que</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to walk around all one's life</eng>
+      <cat class="expr">passar-se tota la vida</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">why stop there?</eng>
+      <cat class="expr">tant per tant</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">faster than you could blink</eng>
+      <cat class="expr">en un tancar i obrir d'ulls</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">as it stands</eng>
+      <cat class="expr">tal com és en realitat</cat>
+      <cat class="expr">com a tal</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">as was to be expected</eng>
+      <cat class="expr">com era previsible</cat>
+      <cat class="expr">com era d'esperar</cat>
+      <cat class="expr">d'acord amb les previsions</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">and to wrap it all up</eng>
+      <cat class="expr">i per a acabar d'arrodonir-ho</cat>
+      <cat class="expr">i per a rematar la cosa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a folder labelled</eng>
+      <cat class="expr">una carpeta amb el títol</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a leader who leads</eng>
+      <cat class="expr">un líder amb capacitat de lideratge</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a piece of cake</eng>
+      <eng class="expr">to walk in the park</eng>
+      <cat class="expr">bufar i fer ampolles</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="n">a pinch</eng>
+      <cat class="f">una misèria</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to take something with a pinch of salt</eng>
+      <cat class="expr">agafar-se una cosa amb reserva</cat>
+      <cat class="expr">agafar-se una cosa amb escepticisme</cat>
+      <cat class="expr">agafar-se una cosa amb prevenció</cat>
+      <cat class="expr">no agafar una cosa al peu de la lletra</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">at a pinch</eng>
+      <eng class="expr">in a pinch</eng>
+      <cat class="expr">si convé</cat>
+      <cat class="expr">si fa falta</cat>
+      <cat class="expr">si cal</cat>
+      <cat class="expr">en cas de necessitat</cat>
+      <cat class="expr">en un destret</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it calls for</eng>
+      <cat class="expr" before="una cosa">demana</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it didn't work</eng>
+      <cat class="expr">no va servir de res</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it doesn't feel right</eng>
+      <eng class="expr">it doesn't sound right to me</eng>
+      <cat class="expr">no m'acaba de convèncer</cat>
+      <cat class="expr">no m'acaba d'agradar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it hurts my heart</eng>
+      <cat class="expr">em parteix el cor</cat>
+      <cat class="expr">em trenca el cor</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it hurts my heart</eng>
+      <cat class="expr">em reca</cat>
+      <cat class="expr">em sap greu</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it is needed</eng>
+      <eng class="expr">it is necessary</eng>
+      <cat class="expr">cal</cat>
+      <cat class="expr">fa falta</cat>
+      <cat class="expr">és necessari</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it is not listed</eng>
+      <cat class="expr">no hi figura</cat>
+      <cat class="expr">no consta en la llista</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it is pressing down on me like a stone</eng>
+      <cat class="expr">em pesa damunt com una pedra</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it just stays with you</eng>
+      <cat class="expr">se't fica a l'ànima</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it pales beside</eng>
+      <cat class="expr">és una petitesa al costat de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it rings true to this day</eng>
+      <cat class="expr">continua sent vàlid avui dia</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it shows in</eng>
+      <cat class="expr">es nota per</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it slipped my memory</eng>
+      <eng class="expr">it slipped my mind</eng>
+      <cat class="expr">m'ha fugit del cap</cat>
+      <cat class="expr">se me n'ha anat del cap</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it sounds like a good thing</eng>
+      <cat class="expr">la cosa pinta bé</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it strikes me as absurd</eng>
+      <cat class="expr">em sembla absurd</cat>
+      <cat class="expr">ho trobo absurd</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it was all flooding back to her</eng>
+      <cat class="expr">tots els records li van venir de cop</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it was feared lost</eng>
+      <cat class="expr">se l'havia donat per perdut</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it was marked by</eng>
+      <cat class="expr">va ser objecte de</cat>
+      <cat class="expr">es va caracteritzar per</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it will be wasted on me</eng>
+      <cat class="expr">serà un esforç inútil</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it won't hurt to try</eng>
+      <cat class="expr">no costa gens provar-ho</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it would never do</eng>
+      <cat class="expr">no convé</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's just a short walk</eng>
+      <cat class="expr">és molt a prop</cat>
+      <cat class="expr">és a tocar</cat>
+      <cat class="expr">és molt poc tros</cat>
+      <cat class="expr">no és lluny</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">in every walk of life</eng>
+      <cat class="expr">en tots els estaments socials</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's not all it's cracked up to be</eng>
+      <cat class="expr">no és tan meravellós com diuen</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's not as good as it sounds</eng>
+      <cat class="expr">no és cap meravella</cat>
+      <cat class="expr">no et pensis</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's not too late to hope</eng>
+      <cat class="expr">encara hi ha l'esperança</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's ruined</eng>
+      <cat class="expr">ha quedat fet una desgràcia</cat>
+      <cat class="expr">ha quedat fet malbé</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's time to move on</eng>
+      <cat class="expr">és hora de girar full</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's too good to miss</eng>
+      <cat class="expr">és una cosa que s'ha de veure</cat>
+      <cat class="expr">és una cosa que no et pots perdre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's trying to rain</eng>
+      <cat class="expr">amenaça pluja</cat>
+      <cat class="expr">sembla que vol ploure</cat>
+      <cat class="expr">pareix que vol ploure</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="informal">to play catch-up</eng>
+      <cat class="expr">posar-se al dia</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="with">to be out of touch</eng>
+      <cat class="expr">estar desfasat</cat>
+      <cat class="expr">estar desconnectat de la realitat</cat>
+      <cat class="expr">no estar al dia</cat>
+      <cat class="expr" after="d'alguna cosa">no estar al corrent</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="with someone">to be out of touch</eng>
+      <cat class="expr" after="amb algú">haver perdut el contacte</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be out of your depth</eng>
+      <cat class="expr">no estar a l'altura</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">if anything</eng>
+      <cat class="expr">més aviat</cat>
+      <cat class="expr" tags="valencià">més aïna</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be hellbent to</eng>
+      <eng class="expr">to be hell-bent to</eng>
+      <cat class="expr">tenir el vici de</cat>
+      <cat class="expr">tenir l'obsessió de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to put it mildly</eng>
+      <cat class="expr">per no dir una altra cosa</cat>
+      <cat class="expr">per no dir-la més grossa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to put it mildly</eng>
+      <cat class="expr">per dir-ho suaument</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no matter what</eng>
+      <cat class="expr">per cap concepte</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no matter what</eng>
+      <cat class="expr" tags="col·loquial">peti qui peti</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no matter what</eng>
+      <cat class="expr">per damunt de tot</cat>
+    </e>
+    <e type="expression" src="" done="yes">
+      <eng class="expr">no matter what</eng>
+      <cat class="expr">tant sí com no</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be undeterred</eng>
+      <cat class="expr">no deixar-se intimidar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it turns out</eng>
+      <cat class="expr">es dona el cas que</cat>
+      <cat class="expr">resulta que</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it won't hurt</eng>
+      <cat class="expr">no passarà res</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to work one's passage on a boat</eng>
+      <cat class="expr">embarcar-se treballant i menjant</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a few seconds passed, and...</eng>
+      <cat class="expr">passats uns quants segons...</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">expecting no harm</eng>
+      <cat class="expr">sense maliciar res</cat>
+      <cat class="expr">sense cap malfiança</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">how things work in the real world</eng>
+      <cat class="expr">tal com rutlla el món</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">you live and learn</eng>
+      <eng class="expr">you live and you learn</eng>
+      <cat class="expr">cada dia s'aprèn una cosa nova</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to have a word</eng>
+      <cat class="expr">parlar un moment</cat>
+      <example sent_eng="May I have a word with you?" sent_cat="Puc parlar un moment amb tu?" />
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">to live in a fool's paradise</eng>
+      <cat class="expr">viure a la lluna</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">at a crossroad</eng>
+      <cat class="expr">en una cruïlla</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">deep down</eng>
+      <eng class="expr">deep down inside</eng>
+      <cat class="expr">en el fons</cat>
+      <cat class="expr">molt en el fons</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">right, are you ready to go?</eng>
+      <cat class="expr">què, som-hi?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">game over</eng>
+      <cat class="expr">s'ha acabat el bròquil</cat>
+      <cat class="expr">adeu-siau</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">and that's the end of it</eng>
+      <cat class="expr">i adeu-siau</cat>
+      <cat class="expr">i ja està</cat>
+      <cat class="expr">i s'ha acabat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to get up the nerve</eng>
+      <cat class="expr">fer el cor fort</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to go Dutch</eng>
+      <cat class="expr">pagar a escot</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to go be in the soup</eng>
+      <cat class="expr">veure-se'n un bull</cat>
+      <cat class="expr">veure's negre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">on a whim</eng>
+      <cat class="expr">per capritx</cat>
+      <cat class="expr">sense més ni més</cat>
+      <cat class="expr">a voluntat</cat>
+      <cat class="expr">a discreció</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">on a wing and a prayer</eng>
+      <cat class="expr">amb una mà davant i una mà darrere</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">on the house</eng>
+      <cat class="expr">convida la casa</cat>
+      <cat class="expr">paga la casa</cat>
+      <cat class="expr">cortesia de la casa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="ironically">no good deed goes unpunished</eng>
+      <cat class="expr" tags="irònic">no hi ha bé sense càstig</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">working with</eng>
+      <cat class="expr">en col·laboració amb</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without half trying</eng>
+      <cat class="expr">quasi sense haver d'esforçar-s'hi</cat>
+      <cat class="expr">quasi sense proposar-s'ho</cat>
+      <cat class="expr">quasi sense ni proposar-s'ho</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">without fail</eng>
+      <cat class="expr">t'ho juro</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">we must just hope</eng>
+      <cat class="expr">hem de confiar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" after="+ direct object">we have to expect</eng>
+      <cat class="expr" after="+ objecte directe">és de preveure que hi hagi</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">watch your step!</eng>
+      <cat class="expr">vigila què fas!</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">voice choked with emotion</eng>
+      <cat class="expr">veu nuada per l'emoció</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">try me</eng>
+      <cat class="expr">vols que t'ho demostri?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">try me</eng>
+      <cat class="expr">vejam</cat>
+      <cat class="expr">a veure</cat>
+      <cat class="expr" tags="col·loquial">a vore</cat>
+      <cat class="expr" tags="col·loquial">aviam</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">try my life</eng>
+      <cat class="expr">posa't al meu lloc</cat>
+      <cat class="expr">posa't a la meva pell</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="ironically">trust him!</eng>
+      <cat class="expr" tags="irònic">deixa'l anar!</cat>
+      <cat class="expr" tags="irònic">fia-te'n!</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="n">a painful train of events</eng>
+      <cat class="f">una dolorosa successió d'esdeveniments</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to take (something) at face value</eng>
+      <cat class="expr">donar per bo</cat>
+      <cat class="expr">donar per bo sense més ni més</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">you can talk</eng>
+      <cat class="expr">mira qui parla</cat>
+      <cat class="expr">qui ets tu per donar lliçons?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">you can't miss it</eng>
+      <cat class="expr">es veu de seguida</cat>
+      <cat class="expr">es nota de seguida</cat>
+      <cat class="expr">és fàcil de percebre</cat>
+      <cat class="expr">és fàcil de trobar</cat>
+      <cat class="expr">segur que la trobes</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">to be walking on air</eng>
+      <cat class="expr">ser feliç com un gínjol</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">waste not, want not</eng>
+      <cat class="expr">qui guarda quan té menja quan vol</cat>
+      <cat class="expr">a qui no gasta, poc li basta</cat>
+      <cat class="expr">el qui té dos i gasta u, no ha de menester res de ningú</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to talk a blue streak</eng>
+      <cat class="expr">parlar pels descosits</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I hope so</eng>
+      <eng class="expr">I certainly hope so</eng>
+      <cat class="expr">segurament</cat>
+      <cat class="expr">sens dubte</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">I am fully stretched</eng>
+      <cat class="IND">no dono per a més</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">I can only hope to imitate him.</eng>
+      <cat class="IND">Només puc aspirar a imitar-lo</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">my only hope is</eng>
+      <eng class="expr">I can only hope</eng>
+      <cat class="expr">espero que almenys</cat>
+      <cat class="expr">prego perquè</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I cannot face it</eng>
+      <cat class="expr">no m'hi veig amb cor</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I can't place that</eng>
+      <cat class="expr">això no em lliga</cat>
+      <cat class="expr">la cosa no em lliga</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I can't believe it</eng>
+      <eng class="expr">I don't believe it</eng>
+      <cat class="expr">no me'n sé avenir</cat>
+      <cat class="expr">sembla mentida</cat>
+      <cat class="expr">sembla que no pugui ser</cat>
+      <cat class="expr">em ve de nou</cat>
+      <cat class="expr">ves per on</cat>
+      <cat class="expr">aquesta sí que és bona</cat>
+      <cat class="expr">qui ho havia de dir</cat>
+      <cat class="expr" tags="col·loquial">no fotis</cat>
+    </e>
+    <e done="yes" src="" type="expression">
+      <eng class="expr">you are very kind</eng>
+      <cat class="expr">t'ho agraeixo</cat>
+      <cat class="expr">t'ho agrairé</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it never rains but it pours</eng>
+      <cat class="expr">quan no hi plou, hi degota</cat>
+      <cat class="expr">sempre plou sobre banyat</cat>
+      <cat class="expr">sempre plou sobre mullat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">if it's not one thing it's another</eng>
+      <cat class="expr">si no és una cosa, és l'altra</cat>
+      <cat class="expr">si no són naps, són cols</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="old">to be all the rage</eng>
+      <eng class="expr" tags="old">to be the rage</eng>
+      <cat class="expr">fer forrolla</cat>
+      <cat class="expr">estar en voga</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="old">all the rage</eng>
+      <eng class="expr" tags="old">the rage</eng>
+      <cat class="expr">en voga</cat>
+      <cat class="expr">de moda</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="US informal">to go hell in a handbasket</eng>
+      <eng class="expr" tags="UK informal">go to hell in a handcart</eng>
+      <cat class="expr" tags="informal">anar-se'n en orris</cat>
+      <cat class="expr" tags="informal">anar-se'n a can Pistraus</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">fair enough</eng>
+      <eng class="expr">okay</eng>
+      <eng class="expr">OK</eng>
+      <eng class="expr">okey dokey</eng>
+      <eng class="expr">okey-doke</eng>
+      <eng class="expr">okey doke</eng>
+      <eng class="expr">okey-dokey</eng>
+      <eng class="expr">sure</eng>
+      <eng class="expr">very well</eng>
+      <cat class="expr">ho comprenc</cat>
+      <cat class="expr">entesos</cat>
+      <cat class="expr">doncs molt bé</cat>
+      <cat class="expr">ho accepto</cat>
+      <cat class="expr">ja està bé</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="ij" tags="vulgar">fuck off</eng>
+      <cat class="ij" tags="vulgar">vés-te'n a la merda</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="ij" tags="vulgar">fuck off</eng>
+      <cat class="ij" tags="vulgar">fot el camp</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="ij" tags="vulgar">fuck off</eng>
+      <cat class="ij" tags="vulgar">a fer la mà</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="ij">fuck you</eng>
+      <cat class="ij">vés-te'n a la merda</cat>
+      <cat class="ij">que et bombin</cat>
+      <cat class="ij">vés-te'n a fer punyetes</cat>
+      <cat class="ij">vés-te'n a pastar fang</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">by the day</eng>
+      <cat class="expr">cada dia que passa</cat>
+      <cat class="expr">cada dia més</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's arguable</eng>
+      <cat class="expr">podria ser</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">needless to say</eng>
+      <cat class="expr">és clar</cat>
+      <cat class="expr">és clar que</cat>
+      <cat class="expr">no cal dir-ho</cat>
+      <cat class="expr">no cal dir que</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's about time</eng>
+      <cat class="expr">ja era hora</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">What the fuck are you doing?</eng>
+      <cat class="expr">Què fots?</cat>
+      <cat class="expr">Què collons fas?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a lump in one's throat</eng>
+      <cat class="expr">un nus a la gola</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to heave a sigh of relief</eng>
+      <cat class="expr">deixar anar un sospir d'alleujament</cat>
+      <cat class="expr">fer un sospir d'alleujament</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to walk a tightrope</eng>
+      <cat class="expr">caminar per la corda fluixa</cat>
+      <cat class="expr" tags="figurat">fer equilibris</cat>
+      <cat class="expr">ballar damunt la corda</cat>
+      <cat class="expr">estar a la corda fluixa</cat>
+      <cat class="expr">anar per la corda fluixa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it is enough to say...</eng>
+      <cat class="expr">basti dir...</cat>
+      <cat class="expr">bastarà dir...</cat>
+      <cat class="expr">n'hi ha prou de dir...</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be good sport about something</eng>
+      <cat class="expr">agafar-se una cosa amb filosofia</cat>
+      <cat class="expr">agafar-se una cosa amb esportivitat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a humbling experience</eng>
+      <cat class="expr">una lliçó d'humilitat</cat>
+      <cat class="expr">un exercici d'humilitat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">never mind</eng>
+      <cat class="expr">tant se val</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">never mind</eng>
+      <cat class="expr">encara menys</cat>
+      <example sent_eng="I can barely understand it, never mind explain it." sent_cat="Amb prou feines ho puc entendre, encara menys explicar-ho" />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">never mind that</eng>
+      <cat class="expr">no t'hi amoïnis</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">never mind the expense</eng>
+      <eng class="expr">regardless of expense</eng>
+      <cat class="expr">sense escatimar diners</cat>
+      <cat class="expr">no mirar prim</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">never mind</eng>
+      <eng class="expr">don't worry</eng>
+      <eng class="expr">it's fine</eng>
+      <cat class="expr">no passa res</cat>
+      <cat class="expr">no pateixis</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a brand-new year</eng>
+      <cat class="expr">un any per estrenar</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">bait-and-switch</eng>
+      <eng class="expr">bait and switch</eng>
+      <cat class="expr">donar gat per llebre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for better or worse</eng>
+      <cat class="expr">jugant-te el tot pel tot</cat>
+      <cat class="expr">jugant-t'ho tot a una carta</cat>
+      <cat class="expr">i que sigui el que Déu vulgui</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" before="date">and onwards</eng>
+      <cat class="expr" after="data">a partir de</cat>
+      <cat class="expr" before="de + data">endavant</cat>
+      <cat class="expr" before="data">i dies posteriors</cat>
+      <cat class="expr" before="data">i mesos posteriors</cat>
+      <cat class="expr" before="data">i anys posteriors</cat>
+      <cat class="expr" before="data">i més enllà</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">Are you agreeable</eng>
+      <cat class="IND">Et sembla bé?</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a lot of</eng>
+      <eng class="expr">lots of</eng>
+      <eng class="expr">a load of</eng>
+      <eng class="expr">loads of</eng>
+      <eng class="expr">heaps of</eng>
+      <eng class="expr">a crop of</eng>
+      <cat class="expr" tags="col·loquial">un fotimer de</cat>
+      <cat class="expr">una pila de</cat>
+      <cat class="expr">un munt de</cat>
+      <cat class="expr">piles de</cat>
+      <cat class="expr">munts de</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I see</eng>
+      <cat class="expr">és clar</cat>
+      <cat class="expr">me'n faig càrrec</cat>
+      <cat class="expr">cert</cat>
+      <cat class="expr">ah</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">Oh, I see</eng>
+      <cat class="expr">ara m'ho explico</cat>
+      <cat class="expr" comment="per comprovar, en un diccionari valencià?">gran mal</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">true to form</eng>
+      <cat class="expr" after="d'ell, etc.">com era propi</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">quote-unquote</eng>
+      <eng class="expr">quote, unquote</eng>
+      <cat class="expr">entre cometes</cat>
+      <cat class="expr">textualment</cat>
+      <cat class="expr">amb aquestes mateixes paraules</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="acronym">BTW</eng>
+      <eng class="expr">by the way</eng>
+      <cat class="expr">per cert</cat>
+      <cat class="expr">una cosa</cat>
+      <cat class="expr">ara que hi penso</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">a headlong sprint into an abyss</eng>
+      <cat class="expr">un salt al buit</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">Sally's toast</eng>
+      <cat class="IND" before="una relació de parella">amb la Sally es va acabar</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="IND">He is so, so kind.</eng>
+      <eng class="IND">She is so, so kind.</eng>
+      <cat class="IND">És una bellíssima persona.</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">no pun intended</eng>
+      <cat class="expr">no és cap joc de paraules</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">tit for tat</eng>
+      <eng class="expr">quid pro quo</eng>
+      <eng class="expr">give and take</eng>
+      <eng class="expr">one hand washes the other</eng>
+      <eng class="expr">you scratch my back, and I'll scratch yours</eng>
+      <cat class="expr">tal faràs, tal trobaràs</cat>
+      <cat class="expr">avui per mi demà per tu</cat>
+      <cat class="expr">favor que et faig favor que em deus</cat>
+      <cat class="expr">favor per favor</cat>
+      <cat class="expr">una mà renta l'altra</cat>
+      <cat class="expr" tags="llatí">do et des</cat>
+      <cat class="expr">pagar amb la mateixa moneda</cat>
+      <cat class="expr">dóna-me'n que te'n donaré</cat>
+      <cat class="expr">ull per ull</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">once upon a time</eng>
+      <cat class="expr">una vegada hi havia</cat>
+      <cat class="expr">temps era temps</cat>
+      <cat class="expr">una vegada</cat>
+      <cat class="expr">això diu que era</cat>
+      <cat class="expr">vet aquí una vegada</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" tags="abbreviation">ICYMI</eng>
+      <eng class="expr">in case you missed it</eng>
+      <cat class="expr">per si us ho heu perdut</cat>
+      <cat class="expr">per si us ho havíeu perdut</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">neither fish nor fowl</eng>
+      <cat class="expr">ni carn ni peix</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="adv">admittedly</eng>
+      <cat class="expr">és cert que...</cat>
+      <cat class="expr">cal admetre que...</cat>
+      <cat class="expr">tothom reconeix que...</cat>
+      <cat class="expr">d'acord que...</cat>
+      <example sent_eng="Admittedly, he took a change." sent_cat="Cal admetre que es va arriscar." />
+      <example sent_eng="This country is admittedly ill-governed." sent_cat="Tothom reconeix que aquest país està mal governat." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">admittedly</eng>
+      <cat class="expr">tot sigui dit</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="n">low-hanging fruit</eng>
+      <cat class="fp">oportunitats fàcils</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be low-hanging fruit</eng>
+      <cat class="expr">ser a l'abast</cat>
+      <cat class="expr">ser a mà</cat>
+      <cat class="expr">ser a tir</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">I don't care</eng>
+      <cat class="expr">tant me fa</cat>
+      <cat class="expr">tant se me'n dóna</cat>
+      <cat class="expr">m'és indiferent</cat>
+      <cat class="expr">m'és igual</cat>
+      <cat class="expr">tant me fa</cat>
+      <cat class="expr">alabat siga Déu</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for the sake of God</eng>
+      <cat class="expr">per l'amor de Déu</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">he is pretending</eng>
+      <eng class="expr">she is pretending</eng>
+      <cat class="expr">fa comèdia</cat>
+      <cat class="expr">fa teatre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">so be it</eng>
+      <cat class="expr">així sigui</cat>
+      <cat class="expr">així sia</cat>
+      <cat class="expr">així siga</cat>
+    </e>
+    <e type="expression" src="" done="yes">
+      <eng class="expr">so much so that</eng>
+      <cat class="expr">tant és així que</cat>
+      <example sent_eng="The twins look alike—so much so that even their parents sometimes confuse them." sent_cat="Els bessons s'assemblen; tant és així que fins i tot els pares els confonen." />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">the hell</eng>
+      <eng class="expr">the devil</eng>
+      <eng class="expr">on earth</eng>
+      <cat class="expr">diantre</cat>
+      <cat class="expr" tags="vulgar">collons</cat>
+      <example sent_eng="What the hell are you doing?" sent_cat="Què diantre fas?" />
+      <example sent_eng="What on earth are you doing?" sent_cat="Què collons fas?" />
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">there is</eng>
+      <cat class="expr">heus ací</cat>
+      <cat class="expr">vet ací</cat>
+      <cat class="expr">heus aquí</cat>
+      <cat class="expr">vet aquí</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" remark="letter closing">yours sincerely</eng>
+      <eng class="expr" remark="letter closing">yours faithfully</eng>
+      <cat class="expr" remark="fórmula de comiat">atentament</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" remark="letter closing">best wishes</eng>
+      <cat class="expr" remark="fórmula de comiat">afectuosament</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to be beyond the pale</eng>
+      <cat class="expr">ser impresentable</cat>
+      <cat class="expr">ser imperdonable</cat>
+      <cat class="expr">ser inacceptable</cat>
+      <cat class="expr">ser ofensiu</cat>
+      <cat class="expr">estar fora de lloc</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to fall on deaf ears</eng>
+      <cat class="expr">entrar per una orella i sortir per l'altra</cat>
+      <cat class="expr">caure en sac foradat</cat>
+      <cat class="expr">no ser atès</cat>
+      <cat class="expr">no ser tingut en compte</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">when I grow old</eng>
+      <cat class="expr">de gran</cat>
+      <cat class="expr">quan sigui gran</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">as a child</eng>
+      <eng class="expr">as a kid</eng>
+      <eng class="expr" feminine="as a girl">as a boy</eng>
+      <cat class="expr" feminine="quan era petita">quan era petit</cat>
+      <cat class="expr">quan era jove</cat>
+      <cat class="expr" feminine="de petita">de petit</cat>
+      <cat class="expr">de jove</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">over the course of</eng>
+      <cat class="expr">en el transcurs de</cat>
+      <cat class="prep">durant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">more than</eng>
+      <cat class="expr">més de</cat>
+      <example sent_eng="More than you can imagine." sent_cat="Més del que et pots imaginar." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">more than</eng>
+      <cat class="expr">més que</cat>
+      <example sent_eng="More than you and me." sent_cat="Més que tu i jo." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no more than</eng>
+      <eng class="expr">not more than</eng>
+      <cat class="expr">no pas més de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no less than</eng>
+      <eng class="expr">not less than</eng>
+      <cat class="expr">no pas menys de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">as much as</eng>
+      <cat class="expr">ni més ni menys que</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">less than</eng>
+      <cat class="expr">menys de</cat>
+      <example sent_eng="Less than five minutes ago." sent_cat="Fa menys de cinc minuts." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">less than</eng>
+      <cat class="expr">menys que</cat>
+      <example sent_eng="Less than you and me." sent_cat="Menys que tu i jo." />
+    </e>
+  </entries>
+</root>

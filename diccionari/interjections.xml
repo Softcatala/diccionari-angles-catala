@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" type="word">
+      <eng class="ij">welcome home</eng>
+      <eng class="ij">welcome back</eng>
+      <cat class="ij">ben tornat</cat>
+      <cat class="ij" feminine="benvinguda a casa">benvingut a casa</cat>
+      <cat class="ij">hola una altra vegada</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">hello</eng>
+      <eng class="ij">hi</eng>
+      <cat class="ij">hola</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="informal">hey</eng>
+      <eng class="ij" tags="UK informal">hiya</eng>
+      <eng class="ij" tags="UK old">hullo</eng>
+      <eng class="ij" tags="UK">hallo</eng>
+      <eng class="n" tags="US informal">howdy</eng>
+      <cat class="ij">hola</cat>
+      <cat class="ij">ei</cat>
+      <cat class="ij">ep</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">hallo there</eng>
+      <cat class="ij">hola</cat>
+      <cat class="ij">com anem?</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">ahoy</eng>
+      <cat class="ij">a la vista</cat>
+      <example sent_eng="ship ahoy" sent_cat="vaixell a la vista" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">happy Easter</eng>
+      <cat class="ij">bona Pasqua</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">thank goodness</eng>
+      <cat class="ij">sort</cat>
+      <cat class="ij">encara sort</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">thank goodness</eng>
+      <eng class="ij">thank God</eng>
+      <eng class="ij">thank heaven</eng>
+      <eng class="ij">thank heavens</eng>
+      <eng class="ij">thank the Lord</eng>
+      <cat class="ij">gràcies a Déu</cat>
+      <cat class="ij">mercè a Déu</cat>
+      <cat class="ij">en nom de Déu</cat>
+      <cat class="ij">en bona hora</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">glory</eng>
+      <eng class="ij">glory be</eng>
+      <cat class="ij">gràcies a Déu</cat>
+      <cat class="ij">al·leluia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="literary">Godspeed</eng>
+      <cat class="ij">bona sort</cat>
+      <cat class="ij">Déu l'acompanyi i l'àngel bo</cat>
+      <cat class="ij">Déu l'empari</cat>
+      <cat class="ij">Déu el beneeixi</cat>
+      <cat class="ij">aneu en nom de Déu</cat>
+      <cat class="ij">adeu-siau</cat>
+      <example sent_eng="Sir, I wish you Godspeed." sent_cat="Senyor, us desitjo bona sort." />
+    </e>
+    <e src="" type="word" done="yes" area="música">
+      <eng class="ij">to swing it!</eng>
+      <cat class="ij">tots al compàs!</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">good riddance</eng>
+      <cat class="ij">bon vent i barca nova</cat>
+      <cat class="ij">ja s'ho farà</cat>
+      <cat class="ij">que li faci bon profit</cat>
+      <cat class="ij" tags="vulgar">que el bombin</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">good riddance to all of that</eng>
+      <cat class="expr">sort que ja s'ha acabat</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">good riddance to bad rubbish</eng>
+      <cat class="expr">bon vent, bon vent i foc al cul</cat>
+      <cat class="expr">a la merda</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">hooray</eng>
+      <eng class="ij" tags="UK">hurrah</eng>
+      <eng class="ij" tags="US">hoorah</eng>
+      <cat class="ij">hurra</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">yippee</eng>
+      <cat class="ij">iupi</cat>
+      <cat class="ij">hurra</cat>
+      <cat class="ij">visca</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">enter</eng>
+      <cat class="ij">avant</cat>
+      <cat class="ij">endavant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="informal">long time no see</eng>
+      <cat class="ij">quant de temps sense veure'ns</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="ij">holy moly</eng>
+      <cat class="ij">Mare de Déu</cat>
+      <cat class="ij">caram</cat>
+      <cat class="ij">alça</cat>
+      <cat class="ij">alça, Manela</cat>
+      <cat class="ij">déu-n'hi-do</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="ij">heads up</eng>
+      <cat class="ij">alerta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">yes and no</eng>
+      <cat class="ij">sí i no</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">yes</eng>
+      <eng class="ij" tags="argot">yeah</eng>
+      <eng class="ij" tags="argot">yep</eng>
+      <eng class="ij" tags="argot">uh-huh</eng>
+      <eng class="ij">absolutely</eng>
+      <eng class="ij">that's right</eng>
+      <cat class="ij">sí</cat>
+      <cat class="ij" tags="col·loquial">oi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">wow</eng>
+      <eng class="ij" tags="UK">blimey</eng>
+      <cat class="ij">renoi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">wow</eng>
+      <eng class="ij">that's impressive</eng>
+      <cat class="ij">Déu n'hi do</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">wow</eng>
+      <cat class="ij">quina passada</cat>
+      <cat class="ij">que fort</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">unspeakable</eng>
+      <cat class="ij">monstruós</cat>
+      <cat class="ij">quin desastre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">see you later</eng>
+      <cat class="ij">fins després</cat>
+      <cat class="ij">fins ara</cat>
+      <cat class="ij">ja ens veurem</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">watch me!</eng>
+      <eng class="ij">just watch me!</eng>
+      <cat class="ij">com que no?</cat>
+      <cat class="ij">ja ho veuràs sinó!</cat>
+      <cat class="ij">què t'hi jugues?</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">live and learn</eng>
+      <cat class="ij">qui ho havia de dir</cat>
+    </e>
+    <e done="yes" src="" type="word" area="telecomunicacions">
+      <eng class="ij">over and out</eng>
+      <cat class="ij">canvi i fora</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">goodbye</eng>
+      <eng class="ij">good-bye</eng>
+      <eng class="ij">bye</eng>
+      <eng class="ij">bye-bye</eng>
+      <eng class="ij">bye bye</eng>
+      <eng class="ij">farewell</eng>
+      <eng class="ij" tags="UK informal">cheerio</eng>
+      <eng class="ij" tags="rare">good-by</eng>
+      <eng class="ij" tags="rare">goodby</eng>
+      <eng class="ij" tags="formal old">good day</eng>
+      <eng class="ij" tags="informal">so long</eng>
+      <eng class="ij" tags="UK">tata</eng>
+      <eng class="ij" tags="UK">ta-ta</eng>
+      <cat class="ij">adeu</cat>
+      <cat class="ij">adeu-siau</cat>
+      <cat class="ij">a reveure</cat>
+      <cat class="ij">fins ara</cat>
+      <cat class="ij">fins aviat</cat>
+      <cat class="ij">fins després</cat>
+      <cat class="ij" tags="col·loquial valencià">au</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="vulgar">holy crap</eng>
+      <eng class="ij" tags="vulgar">goddam</eng>
+      <cat class="ij" tags="vulgar">me cago en Déu</cat>
+    </e>
+    <e done="yes" src="" type="word" remark="quan s'ha comès un error">
+      <eng class="ij">whoops</eng>
+      <eng class="ij">oops</eng>
+      <cat class="ij">ai</cat>
+      <cat class="ij">ui</cat>
+      <cat class="ij">perdó</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">son of a gun</eng>
+      <cat class="ij">fill de sa mare</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="vulgar">damn it</eng>
+      <eng class="ij" tags="vulgar">God damn it</eng>
+      <eng class="ij" tags="vulgar">damnit</eng>
+      <cat class="ij" tags="vulgar">collons</cat>
+      <cat class="ij" tags="vulgar">merda</cat>
+      <cat class="ij" tags="vulgar">quina putada</cat>
+      <cat class="ij" tags="vulgar">mecagon la puta</cat>
+      <cat class="ij" tags="vulgar">cagon la puta</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="ij">for crying out loud!</eng>
+      <cat class="ij">per l'amor de Déu!</cat>
+      <cat class="ij">punyeta!</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">lo and behold</eng>
+      <eng class="ij">lo</eng>
+      <cat class="ij">heus ací</cat>
+      <cat class="ij">heus aquí</cat>
+      <cat class="ij">vet ací</cat>
+      <cat class="ij">vet aquí</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">lo and behold</eng>
+      <eng class="ij">lo</eng>
+      <cat class="ij">ves per on</cat>
+      <cat class="adv">com per art d'encantament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">great</eng>
+      <cat class="ij" tags="col·loquial">collonut</cat>
+      <cat class="ij" tags="col·loquial">de conya</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">enough</eng>
+      <cat class="ij">deixem-ho estar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">aha</eng>
+      <eng class="ij">eureka</eng>
+      <cat class="ij">eureka</cat>
+      <cat class="ij">ja ho tinc</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">aha</eng>
+      <cat class="expr">moment d'il·luminació</cat>
+      <cat class="expr">se li encén la bombeta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">aha</eng>
+      <cat class="ij">que bé</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">aha</eng>
+      <cat class="ij">vaja</cat>
+      <cat class="ij">ah caram</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="vulgar">shut the fuck up</eng>
+      <eng class="ij" tags="informal" remark="to keep a secret">mum's the word</eng>
+      <eng class="ij">keep you voice down</eng>
+      <eng class="ij">sh</eng>
+      <eng class="ij">shush</eng>
+      <eng class="ij">zip it</eng>
+      <cat class="ij">a callar</cat>
+      <cat class="ij">silenci</cat>
+      <cat class="ij">que callem</cat>
+      <cat class="ij">muts i a la gàbia</cat>
+      <cat class="ij">mut</cat>
+      <cat class="ij">mutis</cat>
+      <cat class="ij">xit</cat>
+      <cat class="ij" tags="valencià">mut i callosa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">damn</eng>
+      <eng class="ij">dammit</eng>
+      <cat class="ij">punyeta</cat>
+      <cat class="ij">òndia</cat>
+      <cat class="ij">ostres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">come on</eng>
+      <eng class="ij">let's go</eng>
+      <eng class="ij">chop chop</eng>
+      <eng class="ij">chop-chop</eng>
+      <cat class="ij">som-hi</cat>
+      <cat class="ij">va</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">devil</eng>
+      <eng class="ij">deuce</eng>
+      <eng class="ij">dickens</eng>
+      <cat class="ij">diable</cat>
+      <cat class="ij">diantre</cat>
+      <cat class="ij">dimoni</cat>
+      <cat class="ij">dimonis</cat>
+      <cat class="ij">redéu</cat>
+      <cat class="ij">redimoni</cat>
+      <cat class="ij">redimonis</cat>
+      <cat class="ij">vatua l'olla</cat>
+      <cat class="ij">vatua</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">certainly not</eng>
+      <cat class="ij">no pas</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">certainly</eng>
+      <cat class="ij">ara mateix</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">Christ</eng>
+      <cat class="ij">hòstia noi</cat>
+      <cat class="ij">hòstia puta</cat>
+      <cat class="ij">collons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">bloody hell</eng>
+      <eng class="ij">bollocks</eng>
+      <cat class="ij">collons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">bollocks</eng>
+      <cat class="ij">collons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">bollocks</eng>
+      <cat class="ij">i una merda</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">good afternoon</eng>
+      <eng class="ij">afternoon</eng>
+      <cat class="ij">bona tarda</cat>
+      <cat class="ij" tags="valencià">bona vesprada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">good morning</eng>
+      <eng class="ij">morning</eng>
+      <cat class="ij">bon dia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">well!</eng>
+      <eng class="ij" tags="UK">blimey!</eng>
+      <eng class="ij">gosh!</eng>
+      <cat class="ij">vaja</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">well</eng>
+      <eng class="ij">so</eng>
+      <cat class="ij">doncs</cat>
+      <cat class="ij">bé</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">you're a star</eng>
+      <eng class="ij">you're wonderful</eng>
+      <cat class="ij">ets un sol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">puff</eng>
+      <cat class="ij">puf</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">lucky you!</eng>
+      <cat class="ij">tu rai!</cat>
+      <cat class="ij">quina sort!</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">go!</eng>
+      <cat class="ij">go to it!</cat>
+      <cat class="ij">som-hi!</cat>
+      <cat class="ij">mans a l'obra!</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">there</eng>
+      <cat class="ij">ja està</cat>
+      <cat class="ij">apa</cat>
+      <example sent_eng="There. I've said it." sent_cat="Apa, ja ho he dit." />
+      <example sent_eng="There. Happy?" sent_cat="Ja està. Estàs contenta?" />
+    </e>
+  </entries>
+</root>

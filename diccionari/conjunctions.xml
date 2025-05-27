@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" type="word" def_eng="Conjunction introducing a clause denoting a cause or reason." def_cat="Conjunció que introdueix una clàusula que indica causa o motiu.">
+      <eng class="conj" tags="colloquial">cause</eng>
+      <eng class="conj" tags="informal UK">cos</eng>
+      <eng class="conj" tags="informal">cuz</eng>
+      <eng class="conj">as</eng>
+      <eng class="conj">because</eng>
+      <eng class="conj">due to the fact that</eng>
+      <eng class="conj">for</eng>
+      <eng class="conj">given that</eng>
+      <eng class="conj">given</eng>
+      <eng class="conj">inasmuch as</eng>
+      <eng class="conj">seeing as</eng>
+      <eng class="conj">since</eng>
+      <cat class="conj">a causa que</cat>
+      <cat class="conj">atès que</cat>
+      <cat class="conj">car</cat>
+      <cat class="conj">com que</cat>
+      <cat class="conj">ja que</cat>
+      <cat class="conj">perquè</cat>
+      <cat class="conj">puix que</cat>
+      <cat class="conj">puix</cat>
+      <example sent_eng="I write because I like it." sent_cat="Escric perquè m'agrada." />
+      <example sent_eng="Since you are so tired, we are heading home." sent_cat="Ja que esteu tan cansades, tornem cap a casa." />
+      <example sent_eng="Seeing as you won't help us, you may go now." sent_cat="Com que no ens ajudaràs, ja te'n pots anar." />
+      <example sent_eng="Given that there is only one hour left, we will finish this another day." sent_cat="Atès que només ens queda una hora, ho acabarem un altre dia." />
+      <example sent_eng="We must hurry, for a storm is approaching." sent_cat="Cal que ens afanyem, car s'acosta una tempesta." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">insofar as</eng>
+      <eng class="conj">in so far as</eng>
+      <eng class="conj">to the extent that</eng>
+      <cat class="conj">en la mesura que</cat>
+      <cat class="conj">en tant que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj" after="+ subjunctive mood">lest</eng>
+      <cat class="conj" after="+ infinitiu">per por de</cat>
+      <cat class="conj" after="+ subjuntiu">per por que</cat>
+      <cat class="conj" after="+ subjuntiu">perquè no</cat>
+      <example sent_eng="They fled the place lest they become infected." sent_cat="Van fugir del lloc per por d'infectar-se." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">unless</eng>
+      <cat class="conj">llevat que</cat>
+      <cat class="conj">tret que</cat>
+      <cat class="conj">excepte si</cat>
+      <cat class="conj">fora que</cat>
+      <cat class="conj">a menys que</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="For this reason." def_cat="Per aquesta raó.">
+      <eng class="conj">consequently</eng>
+      <eng class="conj">in that case</eng>
+      <eng class="conj">so</eng>
+      <eng class="conj">that is why</eng>
+      <eng class="conj">then</eng>
+      <eng class="conj">therefore</eng>
+      <eng class="conj">thus</eng>
+      <eng class="conj" tags="old">wherefore</eng>
+      <cat class="conj">aleshores</cat>
+      <cat class="conj">doncs</cat>
+      <cat class="conj">llavors</cat>
+      <cat class="conj">així que</cat>
+      <cat class="conj">per això</cat>
+      <cat class="conj">per tant</cat>
+      <cat class="conj">per la qual cosa</cat>
+      <cat class="conj">és per això que</cat>
+      <cat class="conj">per consegüent</cat>
+      <cat class="conj" tags="balear">idò</cat>
+    </e>
+    <e done="yes" src="" def_eng="Conjunction introducing a clause denoting an obstacle that can be surpassed." def_cat="Conjunció que introdueix una clàusula que denota un obstacle que es pot superar." type="word">
+      <eng class="conj">albeit</eng>
+      <eng class="conj">although</eng>
+      <eng class="conj">even though</eng>
+      <eng class="conj">though</eng>
+      <cat class="conj">a pesar que</cat>
+      <cat class="conj">baldament</cat>
+      <cat class="conj">encara que</cat>
+      <cat class="conj">mal que</cat>
+      <cat class="conj">malgrat que</cat>
+      <cat class="conj">tot i que</cat>
+      <example sent_eng="Even though he ran as fast as he could, he was late." sent_cat="Malgrat que va córrer tan ràpid com va poder, va fer tard." />
+      <example sent_eng="There's an easy, albeit expensive way of getting in." sent_cat="Hi ha una manera fàcil, tot i que cara, d'entrar-hi." />
+    </e>
+    <e done="yes" src="" def_eng="At the same time." def_cat="En el mateix instant." type="word">
+      <eng class="conj" tags="AU UK">whilst</eng>
+      <eng class="conj">as</eng>
+      <eng class="conj">while</eng>
+      <cat class="conj">mentre</cat>
+      <cat class="conj">alhora que</cat>
+      <cat class="conj">al mateix temps que</cat>
+      <example sent_eng="A nation died as another one was born." sent_cat="Una nació moria al mateix temps que en naixia una altra." />
+      <example sent_eng="She left while I slept." sent_cat="Se'n va anar mentre jo dormia." />
+    </e>
+    <e done="yes" src="" def_eng="Conjunction denoting contrast." def_cat="Conjunció que denota contrast." type="word">
+      <eng class="conj" tags="AU UK">whilst</eng>
+      <eng class="conj">whereas</eng>
+      <eng class="conj">while</eng>
+      <cat class="conj">mentre que</cat>
+      <cat class="conj">però</cat>
+    </e>
+    <e done="yes" src="" def_eng="In proportion." def_cat="A proporció de." type="word">
+      <eng class="conj">as</eng>
+      <cat class="conj">a mesura que</cat>
+      <example sent_eng="As the year goes, you will earn more money." sent_cat="A mesura que l'any avanci, guanyaràs més diners." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">after</eng>
+      <eng class="conj">once</eng>
+      <eng class="conj">when</eng>
+      <cat class="conj">després que</cat>
+      <cat class="conj">un cop</cat>
+      <cat class="conj">una vegada que</cat>
+      <cat class="conj">una vegada</cat>
+      <cat class="conj" tags="antic">pus</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">when</eng>
+      <cat class="conj">quan</cat>
+      <cat class="conj">a l'hora de</cat>
+      <example sent_eng="When cleaning the product, use a damp cloth." sent_cat="A l'hora de netejar el producte, feu servir un drap humit." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">before</eng>
+      <cat class="conj">abans que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">in order that</eng>
+      <eng class="conj">in order to</eng>
+      <eng class="conj">so as to</eng>
+      <eng class="conj">so that</eng>
+      <eng class="conj">so</eng>
+      <cat class="conj">a fi de</cat>
+      <cat class="conj">a fi que</cat>
+      <cat class="conj">de manera que</cat>
+      <cat class="conj">per tal de</cat>
+      <cat class="conj">per tal que</cat>
+      <cat class="conj">perquè</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">according to whether</eng>
+      <cat class="conj">segons que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">and neither</eng>
+      <cat class="conj">ni tampoc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">and yet</eng>
+      <cat class="conj">i no obstant això</cat>
+    </e>
+    <e done="yes" src="" def_eng="Conjunction marking doubt between possibilities." def_cat="Conjunció que denota dubte entre possibilitats." type="word">
+      <eng class="conj">whether</eng>
+      <cat class="conj">si</cat>
+      <example sent_eng="I don't know how I won, whether by skill or by luck." sent_cat="No sé com vaig guanyar, si per habilitat o per sort." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">if</eng>
+      <cat class="conj">si</cat>
+    </e>
+    <e done="yes" src="" def_eng="Conjunction marking alternative." def_cat="Conjunció que marca alternativa." type="word">
+      <eng class="conj">be it</eng>
+      <eng class="conj">whether it be</eng>
+      <eng class="conj">whether</eng>
+      <cat class="conj">sia</cat>
+      <cat class="conj">tant si</cat>
+      <example sent_eng="Please notify me in advance, whether you come or not." sent_cat="Aviseu-me amb antel·lació, si us plau, tant si veniu com si no." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">and</eng>
+      <eng class="conj">&amp;</eng>
+      <eng class="conj">both ... and</eng>
+      <eng class="conj">as well as</eng>
+      <eng class="conj">in addition to</eng>
+      <eng class="conj">plus</eng>
+      <eng class="conj">together with</eng>
+      <cat class="conj">i</cat>
+      <cat class="conj">així com</cat>
+      <cat class="conj">tant ... com</cat>
+      <cat class="conj">més</cat>
+      <example sent_eng="The pillow is soft and warm." sent_cat="El coixí és tou i càlid." />
+      <example sent_eng="I want both coffee and tea." sent_cat="Vull tant cafè com te." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">or</eng>
+      <cat class="conj">o</cat>
+      <cat class="conj">o bé</cat>
+      <cat class="conj">bé</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">apart from the fact that</eng>
+      <cat class="conj">a part del fet que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj" remark="before the first term of a series">neither</eng>
+      <eng class="conj" remark="before terms which are not the first one of a series">nor</eng>
+      <cat class="conj">ni</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">as if</eng>
+      <cat class="conj">com si</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Amb la condició que.">
+      <eng class="conj">as long as</eng>
+      <eng class="conj">on condition that</eng>
+      <eng class="conj">on the condition that</eng>
+      <eng class="conj">provided that</eng>
+      <eng class="conj">provided</eng>
+      <cat class="conj">a condició que</cat>
+      <cat class="conj">amb la condició que</cat>
+      <cat class="conj">mentre</cat>
+      <cat class="conj">sempre que</cat>
+      <cat class="conj">si</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">as though</eng>
+      <cat class="conj">com si</cat>
+    </e>
+    <e done="yes" src="" def_eng="In a certain manner, according to someone or something." def_cat="D'una manera determinada, d'acord amb algú o alguna cosa." type="word">
+      <eng class="conj">as</eng>
+      <cat class="conj">segons</cat>
+      <cat class="conj">tal com</cat>
+      <example sent_eng="I danced as you taught me." sent_cat="Vaig ballar tal com em vas ensenyar." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">either ... or</eng>
+      <cat class="conj">o bé</cat>
+      <cat class="conj">o</cat>
+      <cat class="conj">o ... o</cat>
+      <example sent_eng="It will either rain or be cloudy." sent_cat="Plourà o estarà ennuvolat." />
+    </e>
+    <e done="yes" src="" def_cat="En cas contrari." type="word">
+      <eng class="conj">or else</eng>
+      <eng class="conj">else</eng>
+      <eng class="conj">otherwise</eng>
+      <cat class="conj">altrament</cat>
+      <cat class="conj">d'altra banda</cat>
+      <cat class="conj">d'altra manera</cat>
+      <cat class="conj">si no</cat>
+      <cat class="conj">o bé</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">in case</eng>
+      <cat class="conj">per si</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">it could be the case that</eng>
+      <cat class="conj">pot ser que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">since</eng>
+      <cat class="conj">d'ençà que</cat>
+      <cat class="conj">des que</cat>
+      <example sent_eng="Since we lost that match." sent_cat="Des que vam perdre aquell partit." />
+      <example sent_eng="She has done a lot since she became president." sent_cat="Ha fet moltes coses d'ençà que va esdevenir presidenta." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj" tags="colloquial">til</eng>
+      <eng class="conj" tags="colloquial">till</eng>
+      <eng class="conj">until</eng>
+      <cat class="conj">fins que</cat>
+      <cat class="conj">mentre no</cat>
+      <example sent_eng="We will stay here until we reach a deal." sent_cat="Ens quedarem aquí fins que arribem a un acord." />
+      <example sent_eng="I will love you til you betray me." sent_cat="T'estimaré mentre no em traeixis." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">than</eng>
+      <cat class="conj">que</cat>
+      <example sent_eng="She is taller than I am." sent_cat="És més alta que jo." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">that</eng>
+      <cat class="conj">que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">whenever</eng>
+      <cat class="conj">quan sigui que</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="conj">rather than</eng>
+      <cat class="conj">més que</cat>
+    </e>
+  </entries>
+</root>

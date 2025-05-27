@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="root">
+    <xs:complexType>
+      <xs:choice minOccurs="1" maxOccurs="1">
+        <xs:element ref="entries" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="entries">
+    <xs:complexType>
+      <xs:choice minOccurs="1" maxOccurs="unbounded">
+        <xs:element ref="e" />
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="e">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="eng" minOccurs="1" maxOccurs="unbounded" />
+        <xs:element ref="cat" minOccurs="1" maxOccurs="unbounded" />
+        <xs:element ref="example" minOccurs="0" maxOccurs="unbounded" />
+      </xs:sequence>
+      <xs:attribute name="src" use="required">
+        <xs:annotation>
+          <xs:documentation>original source of data</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:list>
+            <xs:simpleType>
+              <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="jaume" />
+                <xs:enumeration value="marc" />
+                <xs:enumeration value="david" />
+                <xs:enumeration value="laura" />
+                <xs:enumeration value="dacco-eng" />
+                <xs:enumeration value="dacco-cat" />
+                <xs:enumeration value="enwiktionary" />
+                <xs:enumeration value="xpamies" />
+                <xs:enumeration value="wordnet" />
+                <xs:enumeration value="termcat" />
+                <xs:enumeration value="apertium" />
+                <xs:enumeration value="visca" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:list>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="area">
+        <xs:annotation>
+          <xs:documentation>tematic area</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:list>
+            <xs:simpleType>
+              <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="indústria_energia_" />
+                <xs:enumeration value="biologia_" />
+                <xs:enumeration value="enginyeria_forestal_" />
+                <xs:enumeration value="enginyeria_forestal" />
+                <xs:enumeration value="medicina_" />
+                <xs:enumeration value="paraules_clau_" />
+                <xs:enumeration value="telecomunicacions_" />
+                <xs:enumeration value="humanitats_" />
+                <xs:enumeration value="informàtica_" />
+                <xs:enumeration value="agricultura_" />
+                <xs:enumeration value="_" />
+                <xs:enumeration value="topònim" />
+                <xs:enumeration value="administració" />
+                <xs:enumeration value="aeronàutica" />
+                <xs:enumeration value="agricultura" />
+                <xs:enumeration value="alimentació" />
+                <xs:enumeration value="pastisseria" />
+                <xs:enumeration value="alquímia" />
+                <xs:enumeration value="ampelonímia" />
+                <xs:enumeration value="anatomia" />
+                <xs:enumeration value="antropologia" />
+                <xs:enumeration value="apicultura" />
+                <xs:enumeration value="aqüicultura" />
+                <xs:enumeration value="armament" />
+                <xs:enumeration value="arqueologia" />
+                <xs:enumeration value="arquitectura" />
+                <xs:enumeration value="art" />
+                <xs:enumeration value="arts_gràfiques" />
+                <xs:enumeration value="astrologia" />
+                <xs:enumeration value="astronàutica" />
+                <xs:enumeration value="astronomia" />
+                <xs:enumeration value="audiovisuals" />
+                <xs:enumeration value="automobilisme" />
+                <xs:enumeration value="avicultura" />
+                <xs:enumeration value="basquetbol" />
+                <xs:enumeration value="begudes" />
+                <xs:enumeration value="bibliologia" />
+                <xs:enumeration value="biblioteconomia" />
+                <xs:enumeration value="biologia" />
+                <xs:enumeration value="bioquímica" />
+                <xs:enumeration value="bombers" />
+                <xs:enumeration value="borsa" />
+                <xs:enumeration value="botànica" />
+                <xs:enumeration value="caça" />
+                <xs:enumeration value="calçat" />
+                <xs:enumeration value="cartes" />
+                <xs:enumeration value="cartografia" />
+                <xs:enumeration value="castells" />
+                <xs:enumeration value="cavalleria" />
+                <xs:enumeration value="ceràmica" />
+                <xs:enumeration value="ciclisme" />
+                <xs:enumeration value="cinematografia" />
+                <xs:enumeration value="cítrics" />
+                <xs:enumeration value="colors" />
+                <xs:enumeration value="comerç" />
+                <xs:enumeration value="còmic" />
+                <xs:enumeration value="comptabilitat" />
+                <xs:enumeration value="comunicació" />
+                <xs:enumeration value="confecció" />
+                <xs:enumeration value="construcció" />
+                <xs:enumeration value="corpus" />
+                <xs:enumeration value="correus" />
+                <xs:enumeration value="cristal·lografia" />
+                <xs:enumeration value="cronologia" />
+                <xs:enumeration value="cuina" />
+                <xs:enumeration value="dansa" />
+                <xs:enumeration value="dibuix" />
+                <xs:enumeration value="dret" />
+                <xs:enumeration value="ecologia" />
+                <xs:enumeration value="economia" />
+                <xs:enumeration value="electricitat_i_electrònica" />
+                <xs:enumeration value="electrotècnia" />
+                <xs:enumeration value="finances" />
+                <xs:enumeration value="empresa" />
+                <xs:enumeration value="energia" />
+                <xs:enumeration value="enginyeria" />
+                <xs:enumeration value="enologia" />
+                <xs:enumeration value="ensenyament" />
+                <xs:enumeration value="escacs" />
+                <xs:enumeration value="escoltisme" />
+                <xs:enumeration value="escriptura" />
+                <xs:enumeration value="espectacles" />
+                <xs:enumeration value="circ" />
+                <xs:enumeration value="esports" />
+                <xs:enumeration value="judo" />
+                <xs:enumeration value="hoquei" />
+                <xs:enumeration value="voleibol" />
+                <xs:enumeration value="esgrima" />
+                <xs:enumeration value="esquí" />
+                <xs:enumeration value="golf" />
+                <xs:enumeration value="beisbol" />
+                <xs:enumeration value="tenis" />
+                <xs:enumeration value="pilota_valenciana" />
+                <xs:enumeration value="futbol_americà" />
+                <xs:enumeration value="futbol" />
+                <xs:enumeration value="estadística" />
+                <xs:enumeration value="estètica" />
+                <xs:enumeration value="ètica" />
+                <xs:enumeration value="etnologia" />
+                <xs:enumeration value="farmàcia" />
+                <xs:enumeration value="ferreteria" />
+                <xs:enumeration value="ferrocarrils" />
+                <xs:enumeration value="filosofia" />
+                <xs:enumeration value="física" />
+                <xs:enumeration value="fisiologia" />
+                <xs:enumeration value="fotografia" />
+                <xs:enumeration value="fusteria" />
+                <xs:enumeration value="genealogia" />
+                <xs:enumeration value="genètica" />
+                <xs:enumeration value="gentilicis" />
+                <xs:enumeration value="geografia" />
+                <xs:enumeration value="geologia" />
+                <xs:enumeration value="geometria" />
+                <xs:enumeration value="handbol" />
+                <xs:enumeration value="heràldica" />
+                <xs:enumeration value="hidrologia" />
+                <xs:enumeration value="hípica" />
+                <xs:enumeration value="història" />
+                <xs:enumeration value="homeopatia" />
+                <xs:enumeration value="ictiologia" />
+                <xs:enumeration value="indumentària" />
+                <xs:enumeration value="indústria" />
+                <xs:enumeration value="informàtica" />
+                <xs:enumeration value="internet" />
+                <xs:enumeration value="jardineria" />
+                <xs:enumeration value="jocs" />
+                <xs:enumeration value="joieria" />
+                <xs:enumeration value="lingüística" />
+                <xs:enumeration value="literatura" />
+                <xs:enumeration value="llengües" />
+                <xs:enumeration value="lleure" />
+                <xs:enumeration value="lògica" />
+                <xs:enumeration value="màrqueting" />
+                <xs:enumeration value="matemàtiques" />
+                <xs:enumeration value="mecànica" />
+                <xs:enumeration value="medi_ambient" />
+                <xs:enumeration value="medicina" />
+                <xs:enumeration value="metal·lúrgia" />
+                <xs:enumeration value="meteorologia" />
+                <xs:enumeration value="metrologia" />
+                <xs:enumeration value="micologia" />
+                <xs:enumeration value="militar" />
+                <xs:enumeration value="mineralogia" />
+                <xs:enumeration value="mineria" />
+                <xs:enumeration value="mitologia" />
+                <xs:enumeration value="mobiliari" />
+                <xs:enumeration value="motociclisme" />
+                <xs:enumeration value="muixeranga" />
+                <xs:enumeration value="música" />
+                <xs:enumeration value="nàutica" />
+                <xs:enumeration value="nucleònica" />
+                <xs:enumeration value="numismàtica" />
+                <xs:enumeration value="obres_públiques" />
+                <xs:enumeration value="oceanografia" />
+                <xs:enumeration value="ocultisme" />
+                <xs:enumeration value="odontologia" />
+                <xs:enumeration value="oficis" />
+                <xs:enumeration value="oftalmologia" />
+                <xs:enumeration value="oleïcultura" />
+                <xs:enumeration value="òptica" />
+                <xs:enumeration value="orfebreria" />
+                <xs:enumeration value="ornitologia" />
+                <xs:enumeration value="paleografia" />
+                <xs:enumeration value="paleontologia" />
+                <xs:enumeration value="papereria" />
+                <xs:enumeration value="patologia" />
+                <xs:enumeration value="pedagogia" />
+                <xs:enumeration value="peixos" />
+                <xs:enumeration value="pell" />
+                <xs:enumeration value="perfumeria" />
+                <xs:enumeration value="periodisme" />
+                <xs:enumeration value="perruqueria" />
+                <xs:enumeration value="pesca" />
+                <xs:enumeration value="pintura" />
+                <xs:enumeration value="pirotècnia" />
+                <xs:enumeration value="poètica" />
+                <xs:enumeration value="política" />
+                <xs:enumeration value="professions_i_oficis" />
+                <xs:enumeration value="psicologia" />
+                <xs:enumeration value="psiquiatria" />
+                <xs:enumeration value="publicacions" />
+                <xs:enumeration value="publicitat" />
+                <xs:enumeration value="química" />
+                <xs:enumeration value="ramaderia" />
+                <xs:enumeration value="recerca" />
+                <xs:enumeration value="religió" />
+                <xs:enumeration value="judaisme" />
+                <xs:enumeration value="cristianisme" />
+                <xs:enumeration value="catolicisme" />
+                <xs:enumeration value="islam" />
+                <xs:enumeration value="rellotgeria" />
+                <xs:enumeration value="retòrica" />
+                <xs:enumeration value="sericicultura" />
+                <xs:enumeration value="sexualitat" />
+                <xs:enumeration value="silvicultura" />
+                <xs:enumeration value="sociologia" />
+                <xs:enumeration value="suro" />
+                <xs:enumeration value="tauromàquia" />
+                <xs:enumeration value="teatre" />
+                <xs:enumeration value="tecnologia" />
+                <xs:enumeration value="telecomunicacions" />
+                <xs:enumeration value="tèxtil" />
+                <xs:enumeration value="tipografia" />
+                <xs:enumeration value="topografia" />
+                <xs:enumeration value="tractaments" />
+                <xs:enumeration value="transports" />
+                <xs:enumeration value="turisme" />
+                <xs:enumeration value="urbanisme" />
+                <xs:enumeration value="vehicle" />
+                <xs:enumeration value="veterinària" />
+                <xs:enumeration value="videojocs" />
+                <xs:enumeration value="vidre" />
+                <xs:enumeration value="zoologia" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:list>
+        </xs:simpleType>
+      </xs:attribute>
+      <!--<xs:attribute name="cat_tags"/>
+      <xs:attribute name="eng_tags"/>-->
+      <xs:attribute name="oldarea">
+        <xs:annotation>
+          <xs:documentation>for internal use only; it won't be shown to the reader</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="comment">
+        <xs:annotation>
+          <xs:documentation>for internal use only; it won't be shown to the reader</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="def_cat">
+        <xs:annotation>
+          <xs:documentation>catalan definition of the concept</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="def_eng">
+        <xs:annotation>
+          <xs:documentation>english definition of the concept</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="done" use="required">
+        <xs:annotation>
+          <xs:documentation>for internal use only; it won't be shown to the reader</xs:documentation>
+        </xs:annotation>
+        <xs:simpleType>
+          <xs:restriction base="xs:NMTOKEN">
+            <xs:enumeration value="yes" />
+            <xs:enumeration value="no" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+      <xs:attribute name="remark">
+        <xs:annotation>
+          <xs:documentation>remark that will be shown to the reader</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="type" use="optional">
+        <xs:simpleType>
+          <xs:restriction base="xs:NMTOKEN">
+            <xs:enumeration value="word" />
+            <xs:enumeration value="expression" />
+            <xs:enumeration value="sentence" />
+          </xs:restriction>
+        </xs:simpleType>
+      </xs:attribute>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="eng">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="class" use="required">
+            <xs:simpleType>
+              <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="adj" />
+                <xs:enumeration value="adv" />
+                <xs:enumeration value="n" />
+                <xs:enumeration value="n_p" />
+                <xs:enumeration value="np" />
+                <xs:enumeration value="v" />
+                <xs:enumeration value="ij" />
+                <xs:enumeration value="pfx" />
+                <xs:enumeration value="sfx" />
+                <xs:enumeration value="prep" />
+                <xs:enumeration value="pron" />
+                <xs:enumeration value="conj" />
+                <xs:enumeration value="det" />
+                <xs:enumeration value="num" />
+                <xs:enumeration value="expr" />
+                <xs:enumeration value="IND" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="grammar">
+            <!--intr, tr, pron -->
+            <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:enumeration value="tr" />
+                <xs:enumeration value="ditr" />
+                <xs:enumeration value="intr" />
+                <xs:enumeration value="ref" />
+                <xs:enumeration value="tr_ref" />
+                <xs:enumeration value="" />
+                <xs:enumeration value="aux" />
+                <xs:enumeration value="cop" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="comment">
+            <xs:annotation>
+              <xs:documentation>for internal use only; it won't be shown to the reader</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="remark">
+            <xs:annotation>
+              <xs:documentation>remark that will be shown to the reader</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="tags">
+            <xs:simpleType>
+              <xs:list>
+                <xs:simpleType>
+                  <xs:restriction base="xs:NMTOKEN">
+                    <xs:enumeration value="US" />
+                    <xs:enumeration value="UK" />
+                    <xs:enumeration value="AU" />
+                    <xs:enumeration value="IN" />
+                    <xs:enumeration value="Scottish" />
+                    <xs:enumeration value="formal" />
+                    <xs:enumeration value="vulgar" />
+                    <xs:enumeration value="informal" />
+                    <xs:enumeration value="argot" />
+                    <xs:enumeration value="slang" />
+                    <xs:enumeration value="colloquial" />
+                    <xs:enumeration value="figurative" />
+                    <xs:enumeration value="literary" />
+                    <xs:enumeration value="old" />
+                    <xs:enumeration value="archaic" />
+                    <xs:enumeration value="separable" />
+                    <xs:enumeration value="rare" />
+                    <xs:enumeration value="pejorative" />
+                    <xs:enumeration value="Latin" />
+                    <xs:enumeration value="Italian" />
+                    <xs:enumeration value="French" />
+                    <xs:enumeration value="German" />
+                    <xs:enumeration value="Spanish" />
+                    <xs:enumeration value="Japanese" />
+                    <xs:enumeration value="Swedish" />
+                    <xs:enumeration value="humorous" />
+                    <xs:enumeration value="abbreviation" />
+                    <xs:enumeration value="acronym" />
+                    <xs:enumeration value="symbol" />
+                    <xs:enumeration value="contraction" />
+                    <xs:enumeration value="dialectal" />
+                    <xs:enumeration value="preferred" />
+                    <xs:enumeration value="childish" />
+                    <xs:enumeration value="obsolete" />
+                    <xs:enumeration value="derogatory" />
+                    <xs:enumeration value="offensive" />
+                    <xs:enumeration value="disapproving" />
+                    <xs:enumeration value="attributive" />
+                    <xs:enumeration value="technical" />
+                    <xs:enumeration value="ironically" />
+                    <xs:enumeration value="scientific_name" />
+                    <xs:enumeration value="by_extension" />
+                    <xs:enumeration value="euphemism" />
+                    <xs:enumeration value="nonstandard" />
+                    <xs:enumeration value="trademark" />
+                    <xs:enumeration value="Korean" />
+                    <xs:enumeration value="Roman" /><!-- Per als numerals romans -->
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:list>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="feminine" />
+          <xs:attribute name="plural" />
+          <xs:attribute name="before" />
+          <xs:attribute name="after" />
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="cat">
+    <xs:complexType>
+      <xs:simpleContent>
+        <xs:extension base="xs:string">
+          <xs:attribute name="class" use="required">
+            <xs:simpleType>
+              <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="adj" />
+                <xs:enumeration value="adjinv" />
+                <xs:enumeration value="adv" />
+                <xs:enumeration value="m" />
+                <xs:enumeration value="ms" />
+                <xs:enumeration value="mp" />
+                <xs:enumeration value="f" />
+                <xs:enumeration value="fs" />
+                <xs:enumeration value="fp" />
+                <xs:enumeration value="mf" />
+                <xs:enumeration value="mfp" />
+                <xs:enumeration value="np">
+                  <xs:annotation>
+                    <xs:documentation>Nom propi sense indicació de gènere i nombre</xs:documentation>
+                  </xs:annotation>
+                </xs:enumeration>
+                <xs:enumeration value="np_m" />
+                <xs:enumeration value="np_f" />
+                <xs:enumeration value="np_mp" />
+                <xs:enumeration value="np_fp" />
+                <xs:enumeration value="v" />
+                <!--<xs:enumeration value="v_tr"/>
+                <xs:enumeration value="v_intr"/>
+                <xs:enumeration value="v_pron"/>-->
+                <xs:enumeration value="ij" />
+                <xs:enumeration value="nom_científic" />
+                <xs:enumeration value="pfx" />
+                <xs:enumeration value="sfx" />
+                <xs:enumeration value="prep" />
+                <xs:enumeration value="pron" />
+                <xs:enumeration value="conj" />
+                <xs:enumeration value="det" />
+                <xs:enumeration value="num" />
+                <xs:enumeration value="IND" />
+                <xs:enumeration value="expr" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="grammar">
+            <!--intr, tr, pron -->
+            <xs:simpleType>
+              <xs:restriction base="xs:string">
+                <xs:enumeration value="tr" />
+                <xs:enumeration value="tr_pron" />
+                <xs:enumeration value="intr" />
+                <xs:enumeration value="pron" />
+                <xs:enumeration value="intr_pron" />
+                <xs:enumeration value="" />
+                <xs:enumeration value="aux" />
+                <xs:enumeration value="cop" />
+                <xs:enumeration value="cop_pron" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="comment">
+            <xs:annotation>
+              <xs:documentation>cometari per a ús intern; no es mostrarà al lector</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="remark">
+            <xs:annotation>
+              <xs:documentation>observació que es mostrarà al lector</xs:documentation>
+            </xs:annotation>
+          </xs:attribute>
+          <xs:attribute name="tags">
+            <xs:simpleType>
+              <xs:list>
+                <xs:simpleType>
+                  <xs:restriction base="xs:NMTOKEN">
+                    <xs:enumeration value="valencià" />
+                    <xs:enumeration value="balear" />
+                    <xs:enumeration value="rossellonès" />
+                    <xs:enumeration value="col·loquial" />
+                    <xs:enumeration value="figurat" />
+                    <xs:enumeration value="inusual" />
+                    <xs:enumeration value="llatí" />
+                    <xs:enumeration value="anglès" />
+                    <xs:enumeration value="alemany" />
+                    <xs:enumeration value="italià" />
+                    <xs:enumeration value="francès" />
+                    <xs:enumeration value="castellà" />
+                    <xs:enumeration value="japonès" />
+                    <xs:enumeration value="castellanisme" />
+                    <xs:enumeration value="antic" />
+                    <xs:enumeration value="dialectal" />
+                    <xs:enumeration value="formal" />
+                    <xs:enumeration value="informal" />
+                    <xs:enumeration value="vulgar" />
+                    <xs:enumeration value="sarcàstic" />
+                    <xs:enumeration value="pejoratiu" />
+                    <xs:enumeration value="irònic" />
+                    <xs:enumeration value="literari" />
+                    <xs:enumeration value="obsolet" />
+                    <xs:enumeration value="popular" />
+                    <xs:enumeration value="abreviació" />
+                    <xs:enumeration value="sigla" />
+                    <xs:enumeration value="símbol" />
+                    <xs:enumeration value="contracció" />
+                    <xs:enumeration value="recomanat" />
+                    <xs:enumeration value="infantil" />
+                    <xs:enumeration value="despectiu" />
+                    <xs:enumeration value="per_extensió" />
+                    <xs:enumeration value="valor_adverbial" />
+                    <xs:enumeration value="generalització" />
+                    <xs:enumeration value="eufemisme" />
+                    <xs:enumeration value="hiperbòlic" />
+                    <xs:enumeration value="scientific_name" />
+                    <xs:enumeration value="impròpiament" />
+                    <xs:enumeration value="coreà" />
+                    <xs:enumeration value="diacrítics_tradicionals" />
+                    <xs:enumeration value="tècnicament" />
+                    <xs:enumeration value="romà" /><!-- Per als numerals romans -->
+                    <xs:enumeration value="onomatopeia" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:list>
+            </xs:simpleType>
+          </xs:attribute>
+          <xs:attribute name="feminine" />
+          <xs:attribute name="before" />
+          <xs:attribute name="after" />
+          <!--<xs:attribute name="area"/>-->
+        </xs:extension>
+      </xs:simpleContent>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="example">
+    <xs:complexType>
+      <xs:attribute name="sent_eng" use="required" />
+      <xs:attribute name="sent_cat" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

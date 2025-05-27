@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="word" done="yes">
+      <eng class="adj" before="a country">-led</eng>
+      <cat class="adj" after="un país">encapçalat per</cat>
+      <example sent_eng="A United States-led offensive." sent_cat="Una ofensiva encapçalada pels Estats Units." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" tags="US">Ferris wheel</eng>
+      <eng class="n">observation wheel</eng>
+      <eng class="n" tags="UK">big wheel</eng>
+      <cat class="f">nòria</cat>
+      <cat class="f">roda de fira</cat>
+    </e>
+    <e src="" type="word" done="yes" def_cat="Batista de cotó amb petits claps imitant el brodat, però produïts en el mateix teler en fabricar la roba (DCVB).">
+      <eng class="n">Swiss muslin</eng>
+      <eng class="n">dotted Swiss</eng>
+      <cat class="m">plumetis</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="informal">by the by</eng>
+      <eng class="expr" tags="informal">by the bye</eng>
+      <cat class="expr">tot sigui dit</cat>
+      <cat class="expr">sigui dit de passada</cat>
+      <cat class="adv">per cert</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">cotton-wool</eng>
+      <eng class="n">cottonwool</eng>
+      <cat class="f">sensació d'atordiment</cat>
+      <cat class="v" grammar="intr">tenir el cap emboirat</cat>
+      <cat class="v" grammar="intr">tenir el cap espès</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj" before="as">cute as a button</eng>
+      <cat class="adj" before="persona">bonic com un sol</cat>
+      <cat class="adj" before="cosa">que llueix com un sol</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">deadly remark</eng>
+      <cat class="f">comentari categòric</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">deadly voice</eng>
+      <cat class="f">veu imperiosa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">downright bad</eng>
+      <cat class="adj">directament dolent</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">embroidered patch</eng>
+      <cat class="f">insígnia brodada</cat>
+      <cat class="f">insígnia de roba</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">end of story</eng>
+      <cat class="expr">s'ha acabat el bròquil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj" before="as">free as air</eng>
+      <cat class="adj">lliure com un ocell</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">going out of business</eng>
+      <cat class="expr">liquidació total</cat>
+      <cat class="expr">liquidació per tancament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">house-warming party</eng>
+      <eng class="n">house warming party</eng>
+      <cat class="f">festa d'inauguració d'una casa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" before="about">half the size</eng>
+      <cat class="adv" before="cap a">la meitat de gran</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">hand puppet</eng>
+      <cat class="m">titella de guant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" before="H. pilosella">hawkweed</eng>
+      <cat class="f">pelosella</cat>
+      <cat class="f">orella de rata</cat>
+      <cat class="f">herba cancera</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">ill becomes you</eng>
+      <cat class="expr">no t'escau</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="IND">inert gas</eng>
+      <cat class="IND">gas inert</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">interest group</eng>
+      <cat class="m">grup de pressió</cat>
+      <cat class="m">lobby</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">it's just a short walk</eng>
+      <cat class="expr" before="a peu">és molt a prop</cat>
+      <cat class="expr">és a tocar</cat>
+      <cat class="expr">és molt poc tros</cat>
+      <cat class="expr">no és lluny</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">knitting bag</eng>
+      <cat class="f">bossa de fer mitja</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">mind game</eng>
+      <cat class="f">estratègia psicològica</cat>
+      <cat class="f">maniobra psicològica</cat>
+      <cat class="m">joc psicològic</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" before="and">no wonder</eng>
+      <cat class="expr">és normal</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">privileged few</eng>
+      <cat class="f">minoria privilegiada</cat>
+    </e>
+    <e src="" type="sentence" area="economia" done="yes">
+      <eng class="n">shortage of employment</eng>
+      <cat class="f">falta d'ocupació</cat>
+    </e>
+    <e src="" type="word" area="economia" done="yes">
+      <eng class="n">job shortage</eng>
+      <eng class="n">shortage of work</eng>
+      <cat class="f">escassetat de feina</cat>
+      <cat class="f">manca de treball</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">site-specific art</eng>
+      <cat class="m">art in situ</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">telephone shop</eng>
+      <cat class="m">locutori telefònic</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" before="all">the makings of</eng>
+      <cat class="expr" before="tots">els ingredients característics de</cat>
+      <cat class="expr" before="tots">els trets característics de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" before="all">the world over</eng>
+      <cat class="adv">arreu del món</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">there are</eng>
+      <eng class="expr">there is</eng>
+      <cat class="expr">hi ha</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">thick and fast</eng>
+      <cat class="adv">seguits i de pressa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" before="something/someone" after="with someone">to be a great favourite</eng>
+      <cat class="expr" before="algú" after="per alguna cosa">tenir debilitat</cat>
+      <cat class="expr" before="una persona" after="d'algú">ser la nineta dels ulls</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr" after="on someone">to be hard</eng>
+      <cat class="v" grammar="intr" after="a algú">fer la vida impossible</cat>
+      <cat class="v" grammar="intr" after="a algú" remark="en altres contextos">buscar les pessigolles</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to come on strong</eng>
+      <cat class="v" grammar="intr_pron">mostrar-se estricte</cat>
+      <cat class="v" grammar="intr_pron">mostrar-se sever</cat>
+      <cat class="v" grammar="intr_pron">passar-se de la ratlla</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to fall sheer</eng>
+      <cat class="v" grammar="intr">caure a pic</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to run as fast as you can</eng>
+      <cat class="v" grammar="intr">córrer tant com pots</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to sleep rough</eng>
+      <cat class="v" grammar="intr">dormir al ras</cat>
+      <cat class="v" grammar="intr">dormir a la intempèrie</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr" before="something" after="for someone">to sound a distant chord</eng>
+      <cat class="v" grammar="intr" before="una cosa" after="a algú">sonar vagament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr" tags="separable" after="someone">to treat white</eng>
+      <cat class="v" grammar="tr" remark="reminiscència dels EUA esclavistes">tractar com a un senyor</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj" before="as">ugly as sin</eng>
+      <eng class="adj" tags="colloquial">pug ugly</eng>
+      <cat class="adj">lleig com un pecat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" before="but">we'll come to that</eng>
+      <cat class="expr" before="però">deixem això de moment</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr" before="at a certain age">you take what you can</eng>
+      <cat class="expr">amb poca cosa et conformes</cat>
+    </e>
+    </entries>
+</root>

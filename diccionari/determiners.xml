@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" type="word" def_eng="Small number, more than two." def_cat="Petit nombre indeterminat, més de dos.">
+      <eng class="det">a few</eng>
+      <eng class="det">not a lot of</eng>
+      <cat class="det" feminine="unes poques">uns pocs</cat>
+      <cat class="det" feminine="unes quantes">uns quants</cat>
+      <cat class="det">quatre</cat>
+      <example sent_eng="We discussed a few things." sent_cat="Vam parlar de quatre coses." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">a bit of</eng>
+      <eng class="det">a dab of</eng>
+      <eng class="det">a little of</eng>
+      <eng class="det">some</eng>
+      <cat class="det">una mica de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det" tags="colloquial">a load of</eng>
+      <eng class="det" tags="colloquial">loads of</eng>
+      <eng class="det" tags="slang">a shitload of</eng>
+      <eng class="det">a lot of</eng>
+      <cat class="det">una munt de</cat>
+      <cat class="det">una pila de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det" remark="before a vowel sound">an</eng>
+      <eng class="det">a single</eng>
+      <eng class="det">a</eng>
+      <cat class="det" feminine="una">un</cat>
+      <example sent_eng="She lives with a cat." sent_cat="Viu amb un gat." />
+      <example sent_eng="Maria ate an apple." sent_cat="Maria va menjar una poma." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det" after="plural noun">all the</eng>
+      <eng class="det" after="plural noun">all</eng>
+      <cat class="det" feminine="totes les">tots els</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det" after="singular noun">all the</eng>
+      <eng class="det" after="singular noun">all</eng>
+      <cat class="det" feminine="tota la">tot el</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">another</eng>
+      <cat class="det" feminine="una altra">un altre</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="At least one, in interrogative sentences." def_cat="Com a mínim un, en oracions interrogatives.">
+      <eng class="det">any</eng>
+      <eng class="det" tags="rare">either</eng>
+      <cat class="det">algun</cat>
+      <cat class="det">cap</cat>
+      <cat class="det">qualque</cat>
+      <example sent_eng="Are there any questions?" sent_cat="Teniu cap pregunta?" />
+    </e>
+    <e done="yes" src="" def_eng="First person singular possessive." def_cat="Possessiu de primera persona singular." type="word">
+      <eng class="det">my</eng>
+      <cat class="det" feminine="la meva">el meu</cat>
+      <cat class="det" feminine="la meua" tags="valencià">el meu</cat>
+      <cat class="det">mon</cat>
+    </e>
+    <e done="yes" src="" def_eng="Second person singular possessive." def_cat="Possessiu de segona persona singular." type="word">
+      <eng class="det">your</eng>
+      <eng class="det" tags="old literary">thy</eng>
+      <cat class="det" feminine="la teva">el teu</cat>
+      <cat class="det" feminine="la teua" tags="valencià">el teu</cat>
+      <cat class="det">ton</cat>
+    </e>
+    <e done="yes" src="" def_eng="Formal second person singular possessive." def_cat="Possessiu formal de segona persona singular." type="word">
+      <eng class="det">your</eng>
+      <cat class="det" feminine="la seva">el seu</cat>
+      <cat class="det" feminine="la seua" tags="valencià">el seu</cat>
+      <cat class="det" feminine="sa">son</cat>
+      <cat class="det" feminine="vostra">vostre</cat>
+      <example sent_eng="Ma'am, your son is waiting outside." sent_cat="Senyora, el seu fill l'espera a fora." />
+      <example sent_eng="Please look after your belongings." sent_cat="Tingueu cura dels vostres objectes personals." />
+    </e>
+    <e done="yes" src="" def_eng="Third person singular possessive." def_cat="Possessiu de tercera persona singular." type="word">
+      <eng class="det">her</eng>
+      <eng class="det">his</eng>
+      <eng class="det">its</eng>
+      <eng class="det">their</eng>
+      <cat class="det" feminine="la seva">el seu</cat>
+      <cat class="det" feminine="la seua" tags="valencià">el seu</cat>
+      <cat class="det" feminine="sa">son</cat>
+    </e>
+    <e done="yes" src="" def_eng="First person plural possessive." def_cat="Possessiu de primera persona plural." type="word">
+      <eng class="det">our</eng>
+      <cat class="det" feminine="la nostra">el nostre</cat>
+    </e>
+    <e done="yes" src="" def_eng="Second person plural possessive." def_cat="Possessiu de segona persona plural." type="word">
+      <eng class="det">your</eng>
+      <cat class="det" feminine="la vostra">el vostre</cat>
+    </e>
+    <e done="yes" src="" def_eng="Third person plural possessive." def_cat="Possessiu de tercera persona plural." type="word">
+      <eng class="det">their</eng>
+      <cat class="det" feminine="la seva">el seu</cat>
+      <cat class="det" feminine="la seua" tags="valencià">el seu</cat>
+      <cat class="det" feminine="sa">son</cat>
+      <cat class="det" tags="formal">llur</cat>
+    </e>
+    <e done="yes" src="" def_eng="Zero, not even one." def_cat="Zero, ni tan sols un." type="word">
+      <eng class="det" remark="in a negative clause">any</eng>
+      <eng class="det">no</eng>
+      <eng class="det">not a single</eng>
+      <cat class="det">cap</cat>
+      <cat class="det">gens de</cat>
+      <cat class="det" feminine="ni una sola">ni un sol</cat>
+      <example sent_eng="This makes no sense." sent_cat="Això no té gens de sentit." />
+      <example sent_eng="There is no supermarket in the area." sent_cat="No hi ha ni un sol supermercat a la zona." />
+    </e>
+    <e done="yes" src="" def_eng="One, no matter what kind." def_cat="Un, no importa quin." type="word">
+      <eng class="det">any</eng>
+      <cat class="det">qualsevol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">any and all</eng>
+      <cat class="det" feminine="totes i cada una de les">tots i cada un dels</cat>
+      <cat class="det" feminine="totes les">tots els</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">both</eng>
+      <cat class="det" feminine="totes dues">tots dos</cat>
+      <cat class="det" feminine="les dues">els dos</cat>
+      <cat class="det" feminine="ambdues">ambdós</cat>
+      <cat class="det" feminine="tant l'una com l'altra">tant l'un com l'altre</cat>
+    </e>
+    <e done="yes" src="" def_eng="One for each." def_cat="Un per a cadascun." type="word">
+      <eng class="det">both</eng>
+      <eng class="det">each</eng>
+      <cat class="det">sengles</cat>
+      <example sent_eng="Each member of the public was given a book." sent_cat="Obsequiaren el públic amb sengles llibres." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">each one of</eng>
+      <cat class="det" feminine="cada una de">cada un de</cat>
+      <cat class="det" feminine="cadascuna de">cadascun de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">all</eng>
+      <eng class="det">each</eng>
+      <eng class="det">every</eng>
+      <cat class="det">cada</cat>
+      <cat class="det" feminine="totes les">tots els</cat>
+      <cat class="det" feminine="tota">tot</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">either</eng>
+      <cat class="det">qualsevol</cat>
+      <example sent_eng="Either option looks good." sent_cat="Qualsevol de les opcions em sembla bé." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">every</eng>
+      <cat class="det" feminine="totes les">tots els</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">the</eng>
+      <cat class="det" feminine="la">el</cat>
+      <cat class="det" tags="antic dialectal">lo</cat>
+      <cat class="det" tags="dialectal balear" feminine="sa">es</cat>
+      <cat class="det">l'</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Article personal.">
+      <eng class="det">∅</eng>
+      <cat class="det" feminine="la">el</cat>
+      <cat class="det">l'</cat>
+      <cat class="det" feminine="na">en</cat>
+      <cat class="det">n'</cat>
+      <example sent_eng="Mark and Aina will help us." sent_cat="El MarK i l'Aina ens ajudaran." />
+      <example sent_eng="Clara and John are already here." sent_cat="Na Clara i en John ja han arribat." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">few</eng>
+      <eng class="det">not many</eng>
+      <cat class="det" feminine="poques">pocs</cat>
+      <cat class="det">no gaires</cat>
+      <example sent_eng="Few people have walked on the Moon." sent_cat="Poques persones han trepitjat la Lluna." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">the last</eng>
+      <cat class="det" feminine="l'última">l'últim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">little</eng>
+      <eng class="det">not much</eng>
+      <cat class="det">poc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">many</eng>
+      <eng class="det">a lot of</eng>
+      <cat class="det" feminine="moltes">molts</cat>
+      <cat class="det">força</cat>
+      <example sent_eng="Many houses were affected by the earthquake." sent_cat="El terratrèmol va afectar força cases." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">much</eng>
+      <eng class="det">a lot of</eng>
+      <cat class="det" feminine="molta">molt</cat>
+      <cat class="det">força</cat>
+      <cat class="det" tags="antic" feminine="manta">mant</cat>
+      <example sent_eng="After much discussion, we came to an agreement." sent_cat="Després de molta discussió, ens vam posar d'acord." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">many</eng>
+      <cat class="det">gaires</cat>
+      <example sent_eng="There aren't many bikes as cool as this one." sent_cat="No hi ha gaires bicicletes tan guais com aquesta." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">much</eng>
+      <cat class="det">gaire</cat>
+      <example sent_eng="There is not much chocolate left." sent_cat="No queda gaire xocolata." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">so many</eng>
+      <eng class="adj">as many</eng>
+      <cat class="adj" feminine="tantes">tants</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">so much</eng>
+      <eng class="det">as much</eng>
+      <cat class="det" feminine="tanta">tant</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng remark="before countable nouns" class="det">too many</eng>
+      <cat class="det">massa</cat>
+      <example sent_cat="massa persones" sent_eng="too many people" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng remark="before uncountable nouns" class="det">too much</eng>
+      <cat class="det">massa</cat>
+      <example sent_cat="massa soroll" sent_eng="too much noise" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">more than half of</eng>
+      <cat class="det">més de la meitat de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">most of the</eng>
+      <eng class="det">most</eng>
+      <cat class="det">la majoria de</cat>
+      <example sent_eng="Most orange cats are male." sent_cat="La majoria de gats rossos són mascles." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">other</eng>
+      <cat class="det">altres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">another</eng>
+      <cat class="det" feminine="una altra">un altre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">the same</eng>
+      <cat class="det" feminine="la mateixa">el mateix</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">several</eng>
+      <eng class="det">various</eng>
+      <cat class="det" feminine="diverses">diversos</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A certain, unspecified or unknown." def_cat="Determinat, no especificat o desconegut.">
+      <eng class="det">some</eng>
+      <cat class="det" feminine="alguna">algun</cat>
+      <cat class="det" feminine="certa">cert</cat>
+      <cat class="det" feminine="una">un</cat>
+      <cat class="det">qualque</cat>
+    </e>
+    <e done="yes" src="" def_eng="Demonstrative denoting something close." type="word">
+      <eng class="det" plural="these">this</eng>
+      <cat class="det" feminine="aquesta">aquest</cat>
+      <cat class="det" tags="valencià" feminine="esta">este</cat>
+    </e>
+    <e done="yes" src="" def_eng="Demonstrative denoting something remote from the speaker but close to the listener." type="word">
+      <eng class="det" plural="those">that</eng>
+      <eng class="det" plural="these">this</eng>
+      <cat class="det" feminine="aqueixa">aqueix</cat>
+      <cat class="det" tags="valencià" feminine="eixa">eixe</cat>
+    </e>
+    <e done="yes" src="" def_eng="Demonstrative denoting something remote." type="word">
+      <eng class="det" tags="dialectal">them</eng>
+      <eng class="det" plural="those">that</eng>
+      <eng class="det" tags="old">yonder</eng>
+      <cat class="det" feminine="aquella">aquell</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">umpteen</eng>
+      <cat class="det" feminine="moltíssimes">moltíssims</cat>
+      <cat class="det">un fotimer de</cat>
+      <cat class="det">un munt de</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">whatever</eng>
+      <eng class="det">whichever</eng>
+      <cat class="det">qualsevol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">whose</eng>
+      <cat class="pron">de qui</cat>
+      <example sent_eng="Whose cat is this?" sent_cat="De qui és aquest gat?" />
+    </e>
+  </entries>
+</root>

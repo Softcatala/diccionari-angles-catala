@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">200m backstroke</eng>
+      <cat class="mp">200 m esquena</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">200m breaststroke</eng>
+      <cat class="mp">200 m braça</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">200m butterfly</eng>
+      <cat class="mp">200 m papallona</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">200m freestyle</eng>
+      <cat class="mp">200 m lliures</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">200m individual medley</eng>
+      <eng class="n">200m medley</eng>
+      <cat class="mp">200 m estils</cat>
+      <cat class="mp">200 m estils individual</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">4 x 100m freestyle relay</eng>
+      <cat class="mp">relleus 4 x 100 m lliures</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">4 x 100m medley relay</eng>
+      <cat class="mp">relleus 4 x 100 m estils</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">4 x 200m freestyle relay</eng>
+      <cat class="mp">relleus 4 x 200 m lliures</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+      <eng class="n">400m individual medley</eng>
+      <eng class="n">400m medley</eng>
+      <cat class="mp">400 m estils</cat>
+      <cat class="mp">400 m estils individual</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">African plain martin</eng>
+      <eng class="n">brown-throated martin</eng>
+      <eng class="n">plain martin</eng>
+      <cat class="f">oreneta de ribera africana</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">African river martin</eng>
+      <cat class="f">oreneta de ribera ullvermella</cat>
+    </e>
+    <e src="" type="word" area="agricultura" done="yes">
+      <eng class="n">Alicante Bouschet</eng>
+      <cat class="f">garnatxa tintorera</cat>
+      <cat class="f">tintorera</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Andean swallow</eng>
+      <cat class="f">oreneta andina</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Angolan swallow</eng>
+      <cat class="f">oreneta d'Angola</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Asian house martin</eng>
+      <cat class="f">oreneta cuablanca asiàtica</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Asian plain martin</eng>
+      <eng class="n">grey-throated martin</eng>
+      <cat class="f">oreneta de ribera asiàtica</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Bahama swallow</eng>
+      <cat class="f">oreneta de les Bahames</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Brazza's martin</eng>
+      <cat class="f">oreneta de Brazzà</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Caribbean martin</eng>
+      <cat class="f">oreneta del Carib</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Chilean swallow</eng>
+      <cat class="f">oreneta de Xile</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Chironomidae</eng>
+      <eng class="n">family Chironomidae</eng>
+      <cat class="mp">quironòmids</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Congo martin</eng>
+      <eng class="n">Congo sand martin</eng>
+      <cat class="f">oreneta de ribera del Congo</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Cuban martin</eng>
+      <cat class="f">oreneta de Cuba</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Eastern house martin</eng>
+      <cat class="f">oreneta cuablanca oriental</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word">
+      <eng class="n">hawthorn</eng>
+      <eng class="n">quickthorn</eng>
+      <eng class="n">English hawthorn</eng>
+      <eng class="n">may</eng>
+      <cat class="m">arç blanc</cat>
+      <cat class="m">espinalb</cat>
+      <cat class="m">espí blanc</cat>
+      <cat class="m">cirerer de la Mare de Déu</cat>
+      <cat class="m">cirerer de pastor</cat>
+      <cat class="m">cirerer del bon pastor</cat>
+      <cat class="m">ram de Sant Pere</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Ethiopian swallow</eng>
+      <cat class="f">oreneta d'Etiòpia</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Galapagos martin</eng>
+      <cat class="f">oreneta de les Galápagos</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Madagascar plain martin</eng>
+      <cat class="f">oreneta de ribera de Madagascar</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Mascarene martin</eng>
+      <cat class="f">oreneta de les Mascarenyes</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Nepal house martin</eng>
+      <cat class="f">oreneta cuablanca del Nepal</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Northern rough-winged swallow</eng>
+      <cat class="f">oreneta eriçada septentrional</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Peruvian martin</eng>
+      <cat class="f">oreneta del Perú</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Preuss's swallow</eng>
+      <cat class="f">oreneta de Preuss</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Red sea swallow</eng>
+      <cat class="f">oreneta del mar Roig</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Ridgway's swallow</eng>
+      <eng class="n">Yucatan rough-winged swallow</eng>
+      <cat class="f">oreneta eriçada de Yucatán</cat>
+    </e>
+    <e src="" type="word" area="geologia" done="yes" oldarea="Ciència &gt; Ciències naturals i aplicades (3606)">
+      <eng class="n">San Andreas fault</eng>
+      <cat class="f">falla de San Andrés</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">Sinaloa martin</eng>
+      <cat class="f">oreneta de Sinaloa</cat>
+    </e>
+    <e src="" type="word" area="medicina" done="yes">
+      <eng class="n">agnosia</eng>
+      <cat class="f">agnòsia</cat>
+    </e>
+    <e src="" type="word" area="ensenyament" done="yes" oldarea="ensenyança">
+      <eng class="n">aptitude test</eng>
+      <cat class="f">prova d'aptitud personal</cat>
+      <cat class="f" tags="sigla">PAP</cat>
+    </e>
+    <e src="" type="word" area="ensenyament" done="yes" oldarea="economia; empresa">
+      <eng class="n">aptitude test</eng>
+      <cat class="f">prova d'aptitud</cat>
+      <cat class="m">test d'aptituds</cat>
+    </e>
+    <e src="" type="word" area="economia" done="yes">
+      <eng class="n">asset securitization fund</eng>
+      <cat class="m">fons de titulització d'actius</cat>
+    </e>
+    <e src="" type="word" area="geografia" done="yes">
+      <eng class="n">average age</eng>
+      <eng class="n">mean age</eng>
+      <cat class="f">edat mitjana</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">barn swallow</eng>
+      <cat class="f">oreneta comuna</cat>
+      <cat class="f">oreneta vulgar</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" def_cat="figura de natació artística">
+      <eng class="n">barracuda</eng>
+      <cat class="f">tintorera</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">base excess</eng>
+      <eng class="n" tags="acronym">BE</eng>
+      <cat class="m">excés de base</cat>
+      <cat class="m" tags="sigla">EB</cat>
+    </e>
+    <e src="" type="word" area="construcció" done="yes" oldarea="indústria; energia">
+      <eng class="n">basement wall</eng>
+      <eng class="n">foundation wall</eng>
+      <cat class="m">mur de fonament</cat>
+      <cat class="m">mur de soterrani</cat>
+    </e>
+    <e src="" type="word" area="zoologia" done="yes" oldarea="Ciències de la vida 1&gt;Biologia general, zoologia i botànica&gt;Zoologia">
+      <eng class="n_p">blind mosquitoes</eng>
+      <eng class="n_p">common midges</eng>
+      <eng class="n_p">midges</eng>
+      <eng class="n_p">non-biting midges</eng>
+      <cat class="mp">quironòmids</cat>
+    </e>
+    <e src="" type="word" area="farmàcia" done="yes">
+      <eng class="n">blockbuster drug</eng>
+      <cat class="m">medicament supervendes</cat>
+    </e>
+    <e src="" type="word" area="antropologia" done="yes">
+      <eng class="n">blood revenge</eng>
+      <eng class="n">blood vengeance</eng>
+      <eng class="n">revenge killing</eng>
+      <cat class="f">venjança de sang</cat>
+    </e>
+    <e src="" type="word" area="micologia" done="yes">
+      <eng class="n" remark="Terme general.">bolete</eng>
+      <cat class="m">cep</cat>
+      <cat class="m">sureny</cat>
+    </e>
+    <e src="" type="word" area="màrqueting" done="yes" oldarea="economia; empresa">
+      <eng class="n">brand reputation</eng>
+      <cat class="f">reputació de marca</cat>
+    </e>
+    <e src="" type="word" area="màrqueting" done="yes" oldarea="economia; empresa">
+      <eng class="n">brand review</eng>
+      <cat class="f">revisió de marca</cat>
+      <cat class="f">brand review</cat>
+    </e>
+    <e src="" type="word" area="màrqueting" done="yes" oldarea="societat de la informació; internet">
+      <eng class="n">brand storytelling</eng>
+      <eng class="n">storytelling</eng>
+      <cat class="m">relat de marca</cat>
+    </e>
+    <e src="" type="word" area="màrqueting" done="yes" oldarea="economia; empresa">
+      <eng class="n">brand strategy</eng>
+      <cat class="f">estratègia de marca</cat>
+    </e>
+    <e src="" type="word" area="màrqueting" done="yes" oldarea="economia; empresa">
+      <eng class="n">brand switching</eng>
+      <cat class="m">canvi de marca</cat>
+    </e>
+    <e src="" type="word" area="alimentació" def_eng="cod purée" done="yes" oldarea="alimentació; gastronomia">
+      <eng class="n">brandade</eng>
+      <cat class="f">brandada</cat>
+    </e>
+    <e src="" type="word" area="begudes" done="yes" def_eng="coffee, milk and brandy">
+      <eng class="n">brandy triphase</eng>
+      <cat class="m">trifàsic de brandi</cat>
+    </e>
+    <e src="" type="word" area="alimentació" done="yes" oldarea="Indústria &gt; Indústria alimentària">
+      <eng class="n">canning liquid</eng>
+      <eng class="n">covering liquid</eng>
+      <cat class="m">líquid de cobertura</cat>
+    </e>
+    <e src="" type="word" area="zoologia" done="yes" oldarea="Zoologia &gt; Insectes">
+      <eng class="n">cinnabar</eng>
+      <eng class="n">cinnabar moth</eng>
+      <cat class="m">àrctid del seneci</cat>
+      <cat class="f">jacobea</cat>
+    </e>
+    <e src="" type="word" area="medicina" done="yes">
+      <eng class="n">clinical history</eng>
+      <eng class="n">medical history</eng>
+      <eng class="n">medical record</eng>
+      <cat class="f">història clínica</cat>
+      <cat class="m">historial clínic</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word">
+      <eng class="n">coccyx</eng>
+      <eng class="n">coccygeal vertebra</eng>
+      <eng class="n">tailbone</eng>
+      <eng class="n">tail bone</eng>
+      <cat class="m">còccix</cat>
+      <cat class="f">vèrtebra coccígia</cat>
+    </e>
+    <e src="" type="word" area="ornitologia" done="yes">
+      <eng class="n">common house martin</eng>
+      <eng class="n">Northern house martin</eng>
+      <cat class="f">oreneta cuablanca comuna</cat>
+      <cat class="f">oreneta cuablanca</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">no-show</eng>
+      <cat class="m" feminine="no presentada">no presentat</cat>
+    </e>
+    <e src="" type="word" done="yes" area="ensenyament">
+      <eng class="n">absent</eng>
+      <cat class="m" feminine="no presentada">no presentat</cat>
+    </e>
+    <e done="yes" src="" area="medi_ambient" type="word">
+      <eng class="n">dissolved oxygen</eng>
+      <eng class="n" tags="acronym">DO</eng>
+      <cat class="m">oxigen dissolt</cat>
+      <cat class="m" tags="sigla">OD</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
+      <eng class="n">double double</eng>
+      <eng class="n">double-double</eng>
+      <cat class="m">doble doble</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
+      <eng class="n">quintuple-double</eng>
+      <eng class="n">quintuple double</eng>
+      <cat class="m">quíntuple doble</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
+      <eng class="n">quadruple-double</eng>
+      <eng class="n">quadruple double</eng>
+      <cat class="m">quàdruple doble</cat>
+    </e>
+    <e src="" type="word" area="política" done="yes">
+      <eng class="n">electoral participation</eng>
+      <eng class="n">electoral turnout</eng>
+      <eng class="n">voter participation</eng>
+      <eng class="n">voter turnout</eng>
+      <cat class="f">participació electoral</cat>
+    </e>
+    <e src="" type="word" area="química" done="yes" oldarea="Ciències&gt;Química&gt;Química analítica">
+      <eng class="n">elution</eng>
+      <cat class="f">elució</cat>
+    </e>
+    <e src="" type="word" area="mecànica" done="yes">
+      <eng class="n">fairing</eng>
+      <cat class="m">carenat</cat>
+    </e>
+    <e src="" type="word" area="medi_ambient" done="yes">
+      <eng class="n">flagship species</eng>
+      <cat class="f">espècie emblemàtica</cat>
+    </e>
+    <e src="" type="word" area="silvicultura vehicle" done="yes" oldarea="Enginyeria forestal">
+      <eng class="n">forest tractor</eng>
+      <eng class="n">haulage tractor</eng>
+      <eng class="n">skidder</eng>
+      <eng class="n">winch skidder</eng>
+      <cat class="m">tractor forestal</cat>
+      <cat class="m">tractor forestal arrossegador</cat>
+      <cat class="m">tractor forestal amb argue</cat>
+      <cat class="f">arrossegadora</cat>
+    </e>
+    <e src="" type="word" area="tecnologia" done="yes" oldarea="Indústria &gt; Indústria mecànica (6821)">
+      <eng class="n">coarse file</eng>
+      <eng class="n">rasp</eng>
+      <cat class="f">raspa</cat>
+    </e>
+    <e src="" type="word" area="zoologia" done="yes" oldarea="ciències de la vida">
+      <eng class="n">humpback whale</eng>
+      <cat class="f">balena amb gep</cat>
+      <cat class="f">balena geperuda</cat>
+      <cat class="m">rorqual geperut</cat>
+      <cat class="f">iubarta</cat>
+      <cat class="f">jubarta</cat>
+      <cat class="f">xibarta</cat>
+    </e>
+    <e src="" type="word" area="matemàtiques" done="yes">
+      <eng class="n">hyperbolic paraboloid</eng>
+      <cat class="m">paraboloide hiperbòlic</cat>
+    </e>
+    <e src="" type="word" area="medicina" done="yes" oldarea="Cronicitat">
+      <eng class="n">electronic health record</eng>
+      <eng class="n" tags="acronym">EHR</eng>
+      <cat class="f">història clínica informatitzada</cat>
+      <cat class="f" tags="sigla">HCI</cat>
+      <cat class="f">història clínica electrònica</cat>
+      <cat class="f" tags="sigla">HCE</cat>
+    </e>
+    <e src="" type="word" area="dret" done="yes">
+      <eng class="n">international child abduction</eng>
+      <cat class="m">segrest internacional de menors</cat>
+    </e>
+    <e src="" type="word" area="construcció" done="yes" oldarea="indústria; energia">
+      <eng class="n">load bearing wall</eng>
+      <cat class="f">paret de càrrega</cat>
+      <cat class="f">paret mestra</cat>
+      <cat class="f">paret portant</cat>
+    </e>
+    <e done="yes" src="" area="zoologia" type="word">
+      <eng class="n">meow</eng>
+      <eng class="n">meaow</eng>
+      <eng class="n">miaou</eng>
+      <eng class="n">miaow</eng>
+      <cat class="m">miol</cat>
+      <cat class="m">meu</cat>
+      <cat class="m">marrameu</cat>
+      <cat class="m">garrameu</cat>
+      <cat class="m">marramau</cat>
+    </e>
+    <e src="" type="word" area="ensenyament" done="yes" oldarea="ensenyança">
+      <eng class="n">official master's degree</eng>
+      <cat class="m">màster oficial</cat>
+    </e>
+    <e area="micologia" src="" type="word" done="yes">
+      <eng class="n">penny bun</eng>
+      <eng class="n">porcini</eng>
+      <eng class="n">porcini mushroom</eng>
+      <eng class="n">porcino</eng>
+      <eng class="n">porcino mushroom</eng>
+      <eng class="n" tags="scientific_name">Boletus edulis</eng>
+      <cat class="m">cep</cat>
+      <cat class="m">sureny</cat>
+      <cat class="m">bolet d'ou</cat>
+      <cat class="m">bolet de bou</cat>
+      <cat class="m">ceperó</cat>
+      <cat class="m">cigró</cat>
+      <cat class="m">molleró</cat>
+      <cat class="m">surenc</cat>
+      <cat class="m">siureny</cat>
+      <cat class="m">siuró</cat>
+      <cat class="m" tags="scientific_name">Boletus edulis</cat>
+    </e>
+    <e src="" type="word" area="energia" done="yes" oldarea="Energia &gt; Energia neta (6626)">
+      <eng class="n">photovoltaic panel</eng>
+      <eng class="n">PV panel</eng>
+      <eng class="n">solar panel</eng>
+      <cat class="f">placa solar</cat>
+    </e>
+    <e done="yes" src="" area="mecànica" type="word">
+      <eng class="n">planet gear</eng>
+      <eng class="n">planetary gear</eng>
+      <eng class="n">planetary reducer</eng>
+      <cat class="m">engranatge planetari</cat>
+      <cat class="m">planetari</cat>
+      <cat class="m">reductor planetari</cat>
+      <cat class="m">reductor epicicloidal</cat>
+    </e>
+    <e src="" type="word" area="dret" done="yes">
+      <eng class="n">posts that are vacant</eng>
+      <cat class="f">vacant de llocs</cat>
+    </e>
+    <e src="" type="word" area="electricitat_i_electrònica" done="yes" oldarea="indústria; energia">
+      <eng class="n">potential drop</eng>
+      <eng class="n">voltage drop</eng>
+      <cat class="f">caiguda de tensió</cat>
+      <cat class="f">caiguda de potencial</cat>
+    </e>
+    <e src="" type="word" area="dret" done="yes">
+      <eng class="n">relapse into crime</eng>
+      <eng class="n">repeat offending</eng>
+      <eng class="n">repetition of an offence</eng>
+      <cat class="f">recidiva</cat>
+      <cat class="f">reincidència</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">rhinorrhea</eng>
+      <eng class="n">runny nose</eng>
+      <cat class="f">rinorrea</cat>
+    </e>
+    <e src="" type="word" area="silvicultura" done="yes">
+      <eng class="n">seedling</eng>
+      <cat class="m">seminal</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">self-administered care</eng>
+      <eng class="n">self-care</eng>
+      <cat class="f">autocura</cat>
+    </e>
+    <e src="" type="word" area="silvicultura vehicle" done="yes" oldarea="Enginyeria forestal">
+      <eng class="n">skidder with log grips and loading crane</eng>
+      <cat class="m">tractor forestal amb grapa i grua</cat>
+    </e>
+    <e src="" type="word" area="silvicultura vehicle" done="yes" oldarea="Enginyeria forestal">
+      <eng class="n">skidder with log grips</eng>
+      <cat class="m">tractor forestal amb grapa</cat>
+    </e>
+    <e src="" type="word" area="silvicultura vehicle" done="yes" oldarea="Enginyeria forestal">
+      <eng class="n">skidder</eng>
+      <cat class="f">talladora-apiladora</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
+      <eng class="n">triple double</eng>
+      <eng class="n">triple-double</eng>
+      <cat class="m">triple doble</cat>
+    </e>
+    <e src="" type="word" area="botànica" done="yes">
+      <eng class="n">wild raspberry glade</eng>
+      <cat class="m">gerderar</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes">
+      <eng class="n">yellow card</eng>
+      <cat class="f">targeta groga</cat>
+    </e>
+    </entries>
+</root>

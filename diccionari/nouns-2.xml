@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" type="word">
+      <eng class="n">brainstorming</eng>
+      <cat class="f">pluja d'idees</cat>
+      <cat class="m">intercanvi d'idees</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">bullying</eng>
+      <cat class="m" after="escolar">assetjament</cat>
+      <cat class="m" after="escolar">acaçament</cat>
+    </e>
+    <e area="lingüística matemàtiques" src="" type="word" done="yes">
+      <eng class="n">cardinal number</eng>
+      <eng class="n">cardinal</eng>
+      <cat class="m">nombre cardinal</cat>
+      <cat class="m">numeral cardinal</cat>
+    </e>
+    <e area="tecnologia" src="" type="word" done="yes">
+      <eng class="n">chisel</eng>
+      <cat class="m">cisell</cat>
+    </e>
+    <e area="fusteria" src="" type="word" done="yes">
+      <eng class="n">chisel</eng>
+      <cat class="f">badaina</cat>
+      <cat class="m">badaine</cat>
+    </e>
+    <e area="colors" src="" type="word" done="yes">
+      <eng class="n">cinnabar</eng>
+      <cat class="m" before="color">cinabri</cat>
+    </e>
+    <e area="mineralogia" src="" type="word" done="yes">
+      <eng class="n">cinnabar</eng>
+      <cat class="m">cinabri</cat>
+    </e>
+    <e area="geologia" src="" type="word" done="yes">
+      <eng class="n">eon</eng>
+      <eng class="n">aeon</eng>
+      <cat class="m">eó</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">fa</eng>
+      <cat class="m">fa</cat>
+    </e>
+    <e area="lingüística" src="" type="word" done="yes">
+      <eng class="n">gerund</eng>
+      <cat class="m">gerundi</cat>
+    </e>
+    <e done="yes" src="" area="vehicle" type="word">
+      <eng class="n">glove box</eng>
+      <eng class="n">glove compartment</eng>
+      <cat class="f">guantera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">green lizard</eng>
+      <cat class="m">llangardaix verd</cat>
+      <cat class="m">lluert</cat>
+    </e>
+    <e src="" type="word" done="yes" area="colors">
+      <eng class="n">greenish blue</eng>
+      <eng class="n">aqua</eng>
+      <eng class="n">aquamarine</eng>
+      <eng class="n">turquoise</eng>
+      <eng class="n">peacock blue</eng>
+      <cat class="m">turquesa</cat>
+      <cat class="m">blau verd</cat>
+      <cat class="m">verd marí</cat>
+      <cat class="m">aiguamarina</cat>
+    </e>
+    <e src="" type="word" done="yes" area="colors">
+      <eng class="n">cobalt blue</eng>
+      <eng class="n">cobalt</eng>
+      <cat class="m">blau cobalt</cat>
+    </e>
+    </entries>
+</root>

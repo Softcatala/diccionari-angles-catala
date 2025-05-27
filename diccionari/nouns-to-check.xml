@@ -1,0 +1,4486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e area="història" src="" type="word" done="yes">
+      <eng class="n">Noucentisme</eng>
+      <eng class="n">Noucentisme movement</eng>
+      <cat class="m">noucentisme</cat>
+    </e>
+    <e src="" type="word" area="lingüística" done="yes">
+      <eng class="n">d</eng>
+      <cat class="f">d</cat>
+      <cat class="f">de</cat>
+    </e>
+    <e area="numismàtica" src="" type="word" done="yes">
+      <eng class="n">North Korean won</eng>
+      <eng class="n">won</eng>
+      <cat class="m">won de Corea del Nord</cat>
+      <cat class="m">won nord-coreà</cat>
+      <cat class="m">won</cat>
+    </e>
+    <e area="numismàtica" src="" type="word" done="yes">
+      <eng class="n">South Korean won</eng>
+      <eng class="n">won</eng>
+      <cat class="m">won de Corea del Sud</cat>
+      <cat class="m">won sud-coreà</cat>
+      <cat class="m">won</cat>
+    </e>
+    <e area="botànica" src="" type="word" done="yes">
+      <eng class="n">annual</eng>
+      <eng class="n">therophyte</eng>
+      <eng class="n">annual plant</eng>
+      <cat class="f">planta anual</cat>
+      <cat class="m">teròfit</cat>
+    </e>
+    <e area="bibliologia" src="" type="word" done="yes">
+      <eng class="n">annual</eng>
+      <eng class="n">yearly</eng>
+      <eng class="n">yearbook</eng>
+      <cat class="m">anuari</cat>
+    </e>
+    <e area="informàtica" src="" type="word" done="yes">
+      <eng class="n">at</eng>
+      <eng class="n" tags="symbol">@</eng>
+      <cat class="f">arrova</cat>
+      <cat class="f">rova</cat>
+      <cat class="f" tags="símbol">@</cat>
+    </e>
+    <e area="medicina" src="" type="word" done="yes">
+      <eng class="n">checkup</eng>
+      <eng class="n">check-up</eng>
+      <eng class="n">medical checkup</eng>
+      <eng class="n">medical examination</eng>
+      <eng class="n">medical exam</eng>
+      <eng class="n">medical</eng>
+      <eng class="n">medical control</eng>
+      <eng class="n">health check</eng>
+      <cat class="f">revisió mèdica</cat>
+      <cat class="m">reconeixement mèdic</cat>
+      <cat class="m">examen mèdic</cat>
+      <cat class="m">reconeixement sistemàtic</cat>
+      <cat class="m">control mèdic</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En bàdminton.">
+      <eng class="n">clear</eng>
+      <cat class="m" tags="anglès">clear</cat>
+    </e>
+    <e area="audiovisuals" done="yes" src="" type="word">
+      <eng class="n">closeup</eng>
+      <eng class="n">close-up</eng>
+      <cat class="m">primer pla</cat>
+    </e>
+    <e area="metrologia" src="" type="word" done="yes">
+      <eng class="n">calorie</eng>
+      <eng class="n" tags="symbol">cal</eng>
+      <cat class="f">caloria</cat>
+      <cat class="f" tags="símbol">cal</cat>
+    </e>
+    <e area="metrologia" src="" type="word" done="yes">
+      <eng class="n">calorie</eng>
+      <eng class="n">gram calorie</eng>
+      <eng class="n">small calorie</eng>
+      <cat class="f">caloria gram</cat>
+      <cat class="f">caloria</cat>
+      <cat class="f">petita caloria</cat>
+    </e>
+    <e src="" type="word" area="metrologia" done="yes">
+      <eng class="n">kilocalorie</eng>
+      <eng class="n">large calorie</eng>
+      <eng class="n" tags="symbol">kcal</eng>
+      <eng class="n">kilogram calorie</eng>
+      <eng class="n">nutritionist's calorie</eng>
+      <cat class="f">quilocaloria</cat>
+      <cat class="f">kilocaloria</cat>
+      <cat class="f" tags="símbol">kcal</cat>
+      <cat class="f">caloria</cat>
+      <cat class="f">gran caloria</cat>
+    </e>
+    <e src="" type="word" area="dret" done="yes" oldarea="Dret &gt; Justícia (1221)">
+      <eng class="n_p">costs</eng>
+      <eng class="n_p">legal charges</eng>
+      <eng class="n_p">legal costs</eng>
+      <eng class="n_p">legal expenses</eng>
+      <cat class="fp">costes</cat>
+      <cat class="fp">costes processals</cat>
+      <cat class="fp">despeses judicials</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">edge</eng>
+      <eng class="n">side</eng>
+      <eng class="n">border</eng>
+      <cat class="m">cantell</cat>
+      <cat class="m">cantó</cat>
+      <cat class="m">marge</cat>
+      <cat class="f">vora</cat>
+    </e>
+    <e area="informàtica" done="yes" src="" type="word">
+      <eng class="n">editor program</eng>
+      <eng class="n">editor</eng>
+      <cat class="m">editor</cat>
+    </e>
+    <e area="professions_i_oficis audiovisuals" done="yes" src="" type="word" oldarea="economia; empresa">
+      <eng class="n">editor</eng>
+      <cat class="m" feminine="muntadora">muntador</cat>
+    </e>
+    <e area="professions_i_oficis periodisme" done="yes" src="" type="word">
+      <eng class="n">editor</eng>
+      <cat class="m" feminine="redactora">redactor</cat>
+    </e>
+    <e area="professions_i_oficis periodisme" done="yes" src="" type="word">
+      <eng class="n">editor-in-chief</eng>
+      <cat class="m" feminine="redactora en cap">redactor en cap</cat>
+    </e>
+    <e done="yes" src="" def_eng="The result of being trained or educated in something." def_cat="Resultat de rebre ensenyament o educació sobre alguna cosa." area="ensenyament" type="word">
+      <eng class="n">breeding</eng>
+      <eng class="n">education</eng>
+      <eng class="n">training</eng>
+      <cat class="f">educació</cat>
+      <cat class="f">formació</cat>
+      <cat class="f">instrucció</cat>
+      <cat class="m">coneixement</cat>
+      <example sent_eng="Sarah has training in cryptography." sent_cat="La Sarah té formació en criptografia." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effect</eng>
+      <cat class="f">afectació</cat>
+      <cat class="f">conseqüència</cat>
+      <cat class="m">efecte</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effect</eng>
+      <cat class="f">sensació</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n">effect</eng>
+      <eng class="n">swerve</eng>
+      <eng class="n">spin</eng>
+      <cat class="m">efecte</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Part més important d'una cosa.">
+      <eng class="n">essence</eng>
+      <eng class="n">core</eng>
+      <eng class="n">gist</eng>
+      <cat class="m">cor</cat>
+      <cat class="f">essència</cat>
+      <cat class="m">nucli</cat>
+    </e>
+    <e area="indústria" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">efficiency</eng>
+      <eng class="n">performance</eng>
+      <cat class="f">eficiència</cat>
+      <cat class="m">rendiment</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">efficiency</eng>
+      <cat class="f">eficiència</cat>
+      <cat class="f">eficàcia</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effigy</eng>
+      <eng class="n">image</eng>
+      <eng class="n" tags="formal">simulacrum</eng>
+      <cat class="f">efígie</cat>
+      <cat class="m">simulacre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effort</eng>
+      <cat class="f">creació</cat>
+      <cat class="m">projecte</cat>
+      <cat class="f">iniciativa</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effort</eng>
+      <eng class="n" tags="informal">elbow grease</eng>
+      <eng class="n">exertion</eng>
+      <eng class="n" tags="French literary">travail</eng>
+      <eng class="n" tags="informal">sweat</eng>
+      <cat class="f">dedicació</cat>
+      <cat class="m">esforç</cat>
+      <cat class="f">feinada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effort</eng>
+      <cat class="m">esforç</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effort</eng>
+      <cat class="f">feina</cat>
+      <cat class="m">treball</cat>
+      <cat class="f">activitat</cat>
+      <cat class="f">tasca</cat>
+    </e>
+    <e area="física" done="yes" src="" type="word">
+      <eng class="n">effort</eng>
+      <eng class="n">pulling force</eng>
+      <cat class="f">potència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">effort</eng>
+      <cat class="m">sacrifici</cat>
+      <cat class="m">afany</cat>
+      <cat class="f">dedicació</cat>
+      <cat class="fp">ganes</cat>
+      <cat class="f">voluntat</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n">eight</eng>
+      <eng class="n">figure of eight</eng>
+      <cat class="m">vuit</cat>
+      <cat class="f">figura de vuit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">elder</eng>
+      <eng class="n" tags="US">senior</eng>
+      <eng class="n">senior citizen</eng>
+      <cat class="f">persona gran</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">elected</eng>
+      <cat class="m" feminine="elegida">elegit</cat>
+    </e>
+    <e area="política" done="yes" src="" type="word">
+      <eng class="n">election</eng>
+      <eng class="n_p">elections</eng>
+      <cat class="mp">comicis</cat>
+      <cat class="fp">eleccions</cat>
+    </e>
+    <e done="yes" src="" area="electricitat_i_electrònica" type="word">
+      <eng class="n">electric line</eng>
+      <eng class="n">line</eng>
+      <eng class="n">power line</eng>
+      <cat class="f">línia elèctrica</cat>
+    </e>
+    <e done="yes" src="" area="electricitat_i_electrònica" type="word">
+      <eng class="n">electric network</eng>
+      <eng class="n">network</eng>
+      <cat class="f">xarxa elèctrica</cat>
+      <cat class="f">xarxa</cat>
+    </e>
+    <e area="electricitat_i_electrònica" done="yes" src="" type="word">
+      <eng class="n">electric power</eng>
+      <eng class="n">wattage</eng>
+      <eng class="n">electrical power</eng>
+      <eng class="n">power</eng>
+      <cat class="f">potència</cat>
+      <cat class="f">potència elèctrica</cat>
+    </e>
+    <e area="electrotècnia" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">demand</eng>
+      <eng class="n">electric demand</eng>
+      <cat class="f">potència elèctrica</cat>
+      <cat class="f">potència</cat>
+    </e>
+    <e area="ferrocarrils" src="" type="word" done="yes">
+      <eng class="n">elevated railway</eng>
+      <eng class="n">elevated railroad</eng>
+      <eng class="n">elevated train</eng>
+      <eng class="n">elevated</eng>
+      <eng class="n" tags="abbreviation">el</eng>
+      <eng class="n">overhead railway</eng>
+      <cat class="m">ferrocarril elevat</cat>
+      <cat class="m">tren elevat</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" def_cat="Fase d'una competició en què s'eliminen alguns participants.">
+      <eng class="n">elimination heat</eng>
+      <eng class="n">elimination tournament</eng>
+      <eng class="n">heat</eng>
+      <eng class="n">knockout competition</eng>
+      <eng class="n">round</eng>
+      <eng class="n">series</eng>
+      <cat class="f">eliminatòria</cat>
+      <cat class="f">sèrie eliminatòria</cat>
+      <cat class="f">sèrie</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n">final</eng>
+      <eng class="n">play-off</eng>
+      <eng class="n">playoff</eng>
+      <eng class="n_p">play-offs</eng>
+      <eng class="n_p">playoffs</eng>
+      <cat class="f">fase eliminatòria</cat>
+      <cat class="m" tags="anglès">play-off</cat>
+      <cat class="f">eliminatòria</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n">final</eng>
+      <eng class="n">final round</eng>
+      <cat class="f">final</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En beisbol i criquet.">
+      <eng class="n">elimination</eng>
+      <eng class="n">out</eng>
+      <eng class="n">put-out</eng>
+      <cat class="f">eliminació</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Oficina i missió de l'ambaixador.">
+      <eng class="n">embassy</eng>
+      <cat class="f">ambaixada</cat>
+    </e>
+    <e area="geologia" done="yes" src="" type="word" oldarea="ciències de la terra">
+      <eng class="n">emergence</eng>
+      <eng class="n">outlet emergence</eng>
+      <eng class="n">rising</eng>
+      <eng class="n">rising spring</eng>
+      <cat class="f">surgència</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Acció de sortir d'un líquid.">
+      <eng class="n">emergence</eng>
+      <eng class="n">appearance</eng>
+      <cat class="m">sorgiment</cat>
+      <cat class="m">emergència</cat>
+    </e>
+    <e done="yes" src="" type="word" oldarea="ciències socials">
+      <eng class="n">emergency relief</eng>
+      <eng class="n">relief</eng>
+      <cat class="m">socors</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">emergency</eng>
+      <cat class="f">emergència</cat>
+      <cat class="f">urgència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exigency</eng>
+      <eng class="n">pinch</eng>
+      <cat class="f">destret</cat>
+      <cat class="f">emergència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">eminence</eng>
+      <eng class="n">distinction</eng>
+      <eng class="n">preeminence</eng>
+      <eng class="n">note</eng>
+      <cat class="f">distinció</cat>
+      <cat class="f">importància</cat>
+      <cat class="f">eminència</cat>
+      <cat class="f">preeminència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">agent</eng>
+      <eng class="n">emissary</eng>
+      <eng class="n">envoy</eng>
+      <cat class="m" feminine="emissària">emissari</cat>
+      <cat class="m" feminine="enviada">enviat</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n">employ</eng>
+      <eng class="n">employment</eng>
+      <eng class="n">job</eng>
+      <eng class="n">occupation</eng>
+      <eng class="n">work</eng>
+      <cat class="f">feina</cat>
+      <cat class="f">ocupació</cat>
+      <cat class="m">treball</cat>
+    </e>
+    <e area="botànica" done="yes" src="" type="word" oldarea="Enginyeria forestal">
+      <eng class="n">end piece</eng>
+      <eng class="n">small pitprop</eng>
+      <eng class="n">top</eng>
+      <cat class="m">torrat</cat>
+      <cat class="m">cap prim</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">desinence</eng>
+      <eng class="n">ending</eng>
+      <eng class="n">termination</eng>
+      <cat class="f">desinència</cat>
+      <cat class="f">terminació</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Estat final." def_eng="A final state.">
+      <eng class="n">end</eng>
+      <eng class="n">destruction</eng>
+      <eng class="n">death</eng>
+      <cat class="f">destrucció</cat>
+      <cat class="m">final</cat>
+      <cat class="f">fi</cat>
+      <cat class="f">mort</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="One of the sides of an object, in opposition to another." def_cat="Part extrema d'una cosa, en oposició a una altra.">
+      <eng class="n">end</eng>
+      <eng class="n">extreme</eng>
+      <cat class="f">cara</cat>
+      <cat class="m">cap</cat>
+      <cat class="m">costat</cat>
+      <cat class="m">extrem</cat>
+      <example sent_eng="He grabbed the wrapping from one end and pulled." sent_cat="Va agafar l'embolcall per un costat i va estirar." />
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="ciclisme" def_eng="Group of cyclists at the end of a group." def_cat="Conjunt de corredors situats al final d'un grup.">
+      <eng class="n">end</eng>
+      <cat class="f">cua</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="The farthest part of something." def_cat="Part més allunyada d'alguna cosa.">
+      <eng class="n">end</eng>
+      <cat class="m">fons</cat>
+      <cat class="m">capdavall</cat>
+    </e>
+    <e area="nàutica" done="yes" src="" type="word">
+      <eng class="n">end</eng>
+      <cat class="f">punta de cap</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">completion</eng>
+      <eng class="n">conclusion</eng>
+      <eng class="n">end</eng>
+      <eng class="n">ending</eng>
+      <eng class="n">finish</eng>
+      <cat class="f">acabança</cat>
+      <cat class="f">cloenda</cat>
+      <cat class="f">conclusió</cat>
+      <cat class="f">darreria</cat>
+      <cat class="f">terminació</cat>
+      <cat class="f">fi</cat>
+      <cat class="f">finalització</cat>
+      <cat class="fp">acaballes</cat>
+      <cat class="m">acabament</cat>
+      <cat class="m">final</cat>
+      <cat class="m">terme</cat>
+      <cat class="m">termini</cat>
+      <cat class="m">finiment</cat>
+    </e>
+    <e area="jocs" done="yes" src="" type="word" remark="En jocs de boles.">
+      <eng class="n">end</eng>
+      <eng class="n">round</eng>
+      <cat class="f">jugada</cat>
+      <cat class="f">mà</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" def_eng="Each half of a field divided by a net." def_cat="Cadascuna de les meitats en què la xarxa divideix la pista.">
+      <eng class="n">end</eng>
+      <eng class="n">side</eng>
+      <cat class="m">camp</cat>
+      <cat class="m">costat</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" def_cat="En tir amb arc.">
+      <eng class="n">end</eng>
+      <cat class="f">tanda</cat>
+    </e>
+    <e area="anatomia" done="yes" src="" type="word">
+      <eng class="n">nerve ending</eng>
+      <cat class="f">terminació nerviosa</cat>
+    </e>
+    <e area="fusteria" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">end</eng>
+      <cat class="f">testa</cat>
+      <cat class="m">cap</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">energy drink</eng>
+      <cat class="f">beguda energètica</cat>
+    </e>
+    <e area="biologia" done="yes" src="" type="word">
+      <eng class="n">energy metabolism</eng>
+      <cat class="f">metabolisme energètic</cat>
+    </e>
+    <e area="física química" done="yes" src="" type="word">
+      <eng class="n">energy</eng>
+      <cat class="f">energia</cat>
+    </e>
+    <e area="física química" done="yes" src="" type="word">
+      <eng class="n">free energy</eng>
+      <cat class="f">energia lliure</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">energy</eng>
+      <cat class="f">energia</cat>
+      <cat class="f" tags="figurat">empenta</cat>
+      <cat class="f" tags="figurat">espenta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">energy</eng>
+      <cat class="f">virulència</cat>
+    </e>
+    <e area="enginyeria" done="yes" src="" type="word">
+      <eng class="n">engineering</eng>
+      <eng class="n">engineering science</eng>
+      <cat class="f">enginyeria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">enlargement</eng>
+      <eng class="n">growth</eng>
+      <cat class="m">engrandiment</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="French">entrée</eng>
+      <eng class="n">entree</eng>
+      <eng class="n">access</eng>
+      <eng class="n">accession</eng>
+      <eng class="n">admission</eng>
+      <eng class="n">admittance</eng>
+      <cat class="f">acceptació</cat>
+      <cat class="f">admissió</cat>
+      <cat class="f">entrada</cat>
+      <cat class="f">ingrés</cat>
+      <cat class="m">accés</cat>
+    </e>
+    <e done="yes" src="" area="ecologia" type="word">
+      <eng class="n">environment</eng>
+      <cat class="m">ambient</cat>
+      <cat class="m">entorn</cat>
+      <cat class="m">medi ambient</cat>
+      <cat class="m">medi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">environment</eng>
+      <eng class="n_p">environs</eng>
+      <eng class="n_p">surroundings</eng>
+      <eng class="n">surround</eng>
+      <cat class="m">entorn</cat>
+      <cat class="m">voltant</cat>
+      <cat class="m">volt</cat>
+      <cat class="mp">volts</cat>
+    </e>
+    <e area="art" done="yes" src="" type="word">
+      <eng class="n">environment</eng>
+      <eng class="n">installation</eng>
+      <eng class="n">installation art</eng>
+      <cat class="m">environament</cat>
+      <cat class="f">instal·lació</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n" remark="En taekwondo.">eolgool</eng>
+      <eng class="n" remark="En taekwondo.">olgul</eng>
+      <eng class="n" remark="En karate.">jodan</eng>
+      <eng class="n">face</eng>
+      <eng class="n">head level</eng>
+      <cat class="f">cara</cat>
+      <cat class="m" remark="En karate.">jodan</cat>
+      <cat class="m">nivell alt</cat>
+      <cat class="m" remark="En taekwondo.">olgul</cat>
+      <cat class="m" remark="En taekwondo.">eolgool</cat>
+    </e>
+    <e area="medicina" done="yes" src="" type="word" oldarea="Ciències de la salut &gt; Conceptes troncals">
+      <eng class="n">episode</eng>
+      <cat class="m">episodi</cat>
+      <cat class="f">fase</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">episode</eng>
+      <cat class="m">esdeveniment</cat>
+      <cat class="m">incident</cat>
+      <cat class="m">episodi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="figurative">equipment</eng>
+      <cat class="m">bagatge</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">equipment</eng>
+      <cat class="m">equip</cat>
+      <cat class="m">equipament</cat>
+      <cat class="m">material</cat>
+      <cat class="m">utillatge</cat>
+      <cat class="mp">aparells</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n">equipment</eng>
+      <eng class="n">kit</eng>
+      <cat class="m">equip</cat>
+      <cat class="m">equipament</cat>
+    </e>
+    <e area="construcció" done="yes" src="" type="word">
+      <eng class="n">construction equipment</eng>
+      <eng class="n">building equipment</eng>
+      <cat class="f">maquinària de construcció</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">alarm equipment</eng>
+      <cat class="m">sistema d'alarma</cat>
+    </e>
+    <e done="yes" src="" def_eng="A time period marked by distinctive character or reckoned from a specific event." def_cat="Període de temps marcat per un caràcter distintiu o recordat per un esdeveniment concret." type="word">
+      <eng class="n">age</eng>
+      <eng class="n">epoch</eng>
+      <eng class="n">era</eng>
+      <cat class="f">era</cat>
+      <cat class="f">generació</cat>
+      <cat class="f">època</cat>
+    </e>
+    <e area="geologia" done="yes" src="" type="word">
+      <eng class="n">era</eng>
+      <eng class="n">geological era</eng>
+      <cat class="f">era</cat>
+    </e>
+    <e area="geologia" done="yes" src="" type="word">
+      <eng class="n">epoch</eng>
+      <cat class="f">època</cat>
+      <cat class="f">sèrie</cat>
+    </e>
+    <e area="geologia" done="yes" src="" type="word">
+      <eng class="n">supereon</eng>
+      <cat class="f">supereó</cat>
+    </e>
+    <e area="geologia" done="yes" src="" type="word">
+      <eng class="n">age</eng>
+      <cat class="f">estatge</cat>
+      <cat class="f">edat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">escape</eng>
+      <eng class="n">flight</eng>
+      <eng class="n">running away</eng>
+      <cat class="f">escapada</cat>
+      <cat class="m">escapament</cat>
+      <cat class="f">fuga</cat>
+      <cat class="f">fugida</cat>
+      <cat class="f">evasió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">escape</eng>
+      <cat class="f">escapatòria</cat>
+      <cat class="f">via de fuga</cat>
+    </e>
+    <e area="dret" done="yes" src="" type="word" oldarea="Dret (12)">
+      <eng class="n">estate</eng>
+      <cat class="m">patrimoni</cat>
+      <cat class="mp">propietats</cat>
+    </e>
+    <e area="dret" done="yes" src="" type="word">
+      <eng class="n">estate</eng>
+      <cat class="f">herència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">estate</eng>
+      <eng class="n">land</eng>
+      <eng class="n">landed estate</eng>
+      <eng class="n">ranch</eng>
+      <cat class="f">finca</cat>
+      <cat class="f">hisenda</cat>
+      <cat class="f">terra</cat>
+      <cat class="m">terreny</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">esteem</eng>
+      <eng class="n">regard</eng>
+      <eng class="n">respect</eng>
+      <cat class="f">estimació</cat>
+      <cat class="f">estima</cat>
+      <cat class="m">respecte</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">estuary</eng>
+      <eng class="n">bay</eng>
+      <cat class="m">si</cat>
+    </e>
+    <e area="numismàtica" done="yes" src="" type="word">
+      <eng class="n">euro</eng>
+      <cat class="m">euro</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evacuation</eng>
+      <eng class="n">rescue</eng>
+      <cat class="m">salvament</cat>
+      <cat class="f">evacuació</cat>
+    </e>
+    <e area="indumentària" done="yes" src="" type="word">
+      <eng class="n">evening dress</eng>
+      <cat class="m">vestit de mudar</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evening</eng>
+      <eng class="n" tags="French formal">soirée</eng>
+      <eng class="n" tags="French formal">soiree</eng>
+      <cat class="f">vetllada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evening</eng>
+      <cat class="f">sortida nocturna</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evening</eng>
+      <eng class="n" tags="literary">eve</eng>
+      <eng class="n" tags="literary">even</eng>
+      <eng class="n" tags="literary">eventide</eng>
+      <cat class="m">capvespre</cat>
+      <cat class="f">vesprada</cat>
+      <cat class="m">vespre</cat>
+      <cat class="f">vetlla</cat>
+    </e>
+    <e area="matemàtiques" done="yes" src="" type="word">
+      <eng class="n">even number</eng>
+      <eng class="n">even</eng>
+      <cat class="m">nombre parell</cat>
+      <cat class="m">parell</cat>
+    </e>
+    <e area="matemàtiques" done="yes" src="" type="word">
+      <eng class="n">odd number</eng>
+      <eng class="n">odd</eng>
+      <cat class="m">nombre imparell</cat>
+      <cat class="m">nombre senar</cat>
+      <cat class="m">imparell</cat>
+      <cat class="m">senar</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <cat class="m">supòsit</cat>
+      <cat class="m">cas</cat>
+      <example sent_cat="En cas que plogui, no se celebrarà la cursa." sent_eng="In the event of rain, the race will not take place." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">events</eng>
+      <cat class="fp">vicissituds</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <cat class="m" after="públic">acte</cat>
+      <cat class="f" after="social">activitat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <eng class="n">case</eng>
+      <cat class="m">cas</cat>
+      <cat class="f">ocasió</cat>
+      <example sent_cat="En aquella ocasió, vam decidir quedar-nos a casa." sent_eng="In that event, we decided to stay home." />
+    </e>
+    <e area="física" done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <cat class="m">esdeveniment</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <cat class="f">celebració</cat>
+      <cat class="f">efemèride</cat>
+      <cat class="m">esdeveniment</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <eng class="n">happening</eng>
+      <cat class="m">esdeveniment</cat>
+      <cat class="m">succés</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <cat class="m">fenomen</cat>
+      <cat class="m">fet extraordinari</cat>
+    </e>
+    <e area="informàtica" done="yes" src="" type="word" oldarea="electrònica; informàtica; telecomunicacions">
+      <eng class="n">event</eng>
+      <cat class="f">incidència</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word">
+      <eng class="n">event</eng>
+      <cat class="f">prova</cat>
+    </e>
+    <e done="yes" src="" type="word" oldarea="lleure; turisme">
+      <eng class="n">special event</eng>
+      <cat class="m">esdeveniment especial</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evidence</eng>
+      <cat class="f">constància</cat>
+      <example sent_cat="Tenim constància que s'hi va negar." sent_eng="We have evidence that he refused to do it." />
+    </e>
+    <e area="dret" done="yes" src="" type="word" oldarea="Dret &gt; Justícia (1221)">
+      <eng class="n">evidence</eng>
+      <cat class="f">declaració testifical</cat>
+    </e>
+    <e area="filosofia" done="yes" src="" type="word" oldarea="Humanitats&gt;Filosofia">
+      <eng class="n">evidence</eng>
+      <cat class="f">evidència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evidence</eng>
+      <cat class="f">expressió</cat>
+      <cat class="f">demostració</cat>
+      <cat class="f">manifestació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evidence</eng>
+      <eng class="n_p">grounds</eng>
+      <eng class="n">ground</eng>
+      <cat class="f" tags="figurat">base</cat>
+      <cat class="f">evidència</cat>
+      <cat class="m" tags="figurat">fonament</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evidence</eng>
+      <cat class="f">prova</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evidence</eng>
+      <cat class="f" tags="figurat">empremta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">evil</eng>
+      <cat class="m">mal</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exam</eng>
+      <eng class="n">examination</eng>
+      <eng class="n">test</eng>
+      <cat class="m">examen</cat>
+      <cat class="m">test</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Allò que passa a algú i li serveix de lliçó.">
+      <eng class="n">example</eng>
+      <eng class="n">deterrent example</eng>
+      <eng class="n">lesson</eng>
+      <eng class="n">object lesson</eng>
+      <cat class="m">escarment</cat>
+      <cat class="m">exemple</cat>
+      <cat class="f">lliçó</cat>
+    </e>
+    <e area="economia" done="yes" src="" type="word" oldarea=".PARAULES CLAU">
+      <eng class="n">exchange</eng>
+      <eng class="n">first market</eng>
+      <eng class="n">securities exchange</eng>
+      <eng class="n">stock exchange</eng>
+      <cat class="f">borsa</cat>
+      <cat class="f">borsa de valors</cat>
+      <cat class="m">mercat de valors</cat>
+      <cat class="m">primer mercat</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En escacs.">
+      <eng class="n">exchange</eng>
+      <cat class="m">canvi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exchange</eng>
+      <eng class="n">conversation</eng>
+      <cat class="m">diàleg</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En twirling.">
+      <eng class="n">exchange</eng>
+      <cat class="m">intercanvi</cat>
+    </e>
+    <e area="escacs" done="yes" src="" type="word" def_cat="Superioritat d'una torre respecte a un alfil o a un cavall.">
+      <eng class="n">exchange</eng>
+      <cat class="f">qualitat</cat>
+    </e>
+    <e area="història economia" done="yes" src="" type="word">
+      <eng class="n">exchange</eng>
+      <eng class="n">market</eng>
+      <cat class="f">llotja</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exchange</eng>
+      <cat class="f">manifestació mútua</cat>
+      <cat class="f">manifestació recíproca</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En esports de pilota i de raqueta.">
+      <eng class="n">exchange</eng>
+      <eng class="n">rally</eng>
+      <cat class="m">piloteig</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exchange</eng>
+      <eng class="n">interchange</eng>
+      <cat class="m">canvi</cat>
+      <cat class="m">intercanvi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exchange</eng>
+      <eng class="n">reversal</eng>
+      <eng class="n">swap</eng>
+      <cat class="f">permuta</cat>
+      <cat class="m">intercanvi</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Discussió entre dues o més persones.">
+      <eng class="n" after="of words">exchange</eng>
+      <cat class="f">topada</cat>
+      <cat class="f">enganxada</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n">executive director</eng>
+      <eng class="n">executive</eng>
+      <cat class="m" feminine="directiva">directiu</cat>
+      <cat class="m" feminine="directora executiva">director executiu</cat>
+      <cat class="m" feminine="executiva">executiu</cat>
+    </e>
+    <e area="dret" done="yes" src="" type="word">
+      <eng class="n">executive power</eng>
+      <eng class="n">executive branch</eng>
+      <eng class="n">executive</eng>
+      <cat class="m">poder executiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exemption</eng>
+      <eng class="n">freedom</eng>
+      <cat class="f">exempció</cat>
+      <cat class="f">llibertat</cat>
+    </e>
+    <e done="yes" src="" def_eng="Systematic training by multiple repetitions." def_cat="Entrenament o preparació sistemàtics a base de repeticions." type="word">
+      <eng class="n">exercise</eng>
+      <eng class="n">practice</eng>
+      <eng class="n">drill</eng>
+      <eng class="n">practice session</eng>
+      <eng class="n">recitation</eng>
+      <cat class="m">exercici</cat>
+      <cat class="f">pràctica</cat>
+    </e>
+    <e area="humanitats_" done="yes" src="" type="word" oldarea="Ciència &gt; Humanitats (3611)">
+      <eng class="n">pass</eng>
+      <cat class="m">passi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exit</eng>
+      <eng class="n">issue</eng>
+      <eng class="n">outlet</eng>
+      <eng class="n">way out</eng>
+      <cat class="f">sortida</cat>
+      <cat class="f">eixida</cat>
+    </e>
+    <e area="botànica" done="yes" src="" type="word" oldarea="agricultura; ramaderia; pesca">
+      <eng class="n">expansion</eng>
+      <eng class="n">spread</eng>
+      <cat class="f">expansió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">expending</eng>
+      <eng class="n">expenditure</eng>
+      <eng class="n">expense</eng>
+      <eng class="n">spending</eng>
+      <eng class="n_p">expenses</eng>
+      <cat class="f">despesa</cat>
+      <cat class="fp">despeses</cat>
+      <cat class="fp">expenses</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">experience</eng>
+      <cat class="f">experiència</cat>
+      <cat class="fp">coneixements</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">experience</eng>
+      <cat class="f">experiència</cat>
+      <cat class="f">vivència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">experience</eng>
+      <cat class="f">visió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">explanation</eng>
+      <eng class="n" tags="formal">explication</eng>
+      <cat class="f">explicació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exploitation</eng>
+      <eng class="n">development</eng>
+      <cat class="f">explotació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">exploitation</eng>
+      <eng class="n">using</eng>
+      <cat class="f">explotació</cat>
+      <cat class="m">abús</cat>
+    </e>
+    <e area="matemàtiques" done="yes" src="" type="word">
+      <eng class="n">exponent</eng>
+      <eng class="n">power</eng>
+      <eng class="n">index</eng>
+      <cat class="m">exponent</cat>
+      <cat class="m">índex</cat>
+    </e>
+    <e done="yes" src="" type="word" oldarea="indústria; energia" def_cat="Mercat extraordinari adreçat al públic professional.">
+      <eng class="n">exposition</eng>
+      <eng class="n">fair</eng>
+      <eng class="n">trade fair</eng>
+      <cat class="f">fira</cat>
+      <cat class="f">activitat firal</cat>
+    </e>
+    <e done="yes" src="" def_eng="The feelings expressed on a person's face." def_cat="Sentiments expressats en la cara d'una persona." type="word">
+      <eng class="n">expression</eng>
+      <eng class="n">look</eng>
+      <eng class="n">aspect</eng>
+      <eng class="n">facial expression</eng>
+      <eng class="n">face</eng>
+      <cat class="f">expressió</cat>
+      <cat class="f">expressió facial</cat>
+      <cat class="m">posat</cat>
+      <cat class="f">mirada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">expressive style</eng>
+      <cat class="m">estil d'expressió</cat>
+    </e>
+    <e area="ferrocarrils" done="yes" src="" type="word">
+      <eng class="n">express</eng>
+      <eng class="n">express train</eng>
+      <eng class="n">limited</eng>
+      <cat class="m">exprés</cat>
+      <cat class="m">tren exprés</cat>
+      <cat class="m">tren semidirecte</cat>
+    </e>
+    <e area="ferrocarrils" done="yes" src="" type="word">
+      <eng class="n">non-stop train</eng>
+      <eng class="n">direct train</eng>
+      <cat class="m">tren directe</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">extension</eng>
+      <eng class="n">expanse</eng>
+      <cat class="f">estesa</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">expanse</eng>
+      <cat class="f">superfície</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">enlargement</eng>
+      <eng class="n">expansion</eng>
+      <cat class="f">ampliació</cat>
+      <cat class="f">expansió</cat>
+      <cat class="m">desenvolupament</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">extension</eng>
+      <eng class="n">expansion</eng>
+      <cat class="f">ampliació</cat>
+      <cat class="f">extensió</cat>
+      <cat class="f">expansió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">extra</eng>
+      <eng class="n">bonus</eng>
+      <eng class="n">boost</eng>
+      <cat class="m">plus</cat>
+    </e>
+    <e area="anatomia" done="yes" src="" type="word">
+      <eng class="n">extremity</eng>
+      <eng class="n">appendage</eng>
+      <eng class="n">member</eng>
+      <cat class="f">extremitat</cat>
+      <cat class="m">membre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">extremity</eng>
+      <cat class="f">radicalitat</cat>
+      <cat class="f">severitat</cat>
+      <cat class="m">extrem</cat>
+      <cat class="m">extremitat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">extremity</eng>
+      <cat class="m">destret</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fabrication</eng>
+      <eng class="n">assembly</eng>
+      <cat class="m">assemblatge</cat>
+      <cat class="f">fabricació</cat>
+      <cat class="m">muntatge</cat>
+    </e>
+    <e area="construcció" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">face</eng>
+      <cat class="m">parament</cat>
+      <cat class="m" after="d'un mur">cara</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" def_cat="Part d'una raqueta.">
+      <eng class="n">face</eng>
+      <eng class="n_p">strings</eng>
+      <cat class="m">cordatge</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">face</eng>
+      <eng class="n">surface</eng>
+      <cat class="f">cara</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En tir amb arc.">
+      <eng class="n">face</eng>
+      <eng class="n">target face</eng>
+      <cat class="f">diana</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">face</eng>
+      <eng class="n">grimace</eng>
+      <eng class="n">wince</eng>
+      <cat class="f">ganyota</cat>
+      <cat class="f">carota</cat>
+      <cat class="f">ganya</cat>
+      <cat class="m">llambrot</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">face</eng>
+      <cat class="f">cara</cat>
+    </e>
+    <e area="botànica" done="yes" src="" type="word" oldarea="Botànica">
+      <eng class="n">face</eng>
+      <cat class="m">anvers foliar</cat>
+    </e>
+    <e area="anatomia" done="yes" src="" type="word">
+      <eng class="n">face</eng>
+      <cat class="f">cara</cat>
+      <cat class="m">rostre</cat>
+      <cat class="f">faç</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">face of the Earth</eng>
+      <cat class="f">faç de la Terra</cat>
+      <cat class="f">superfície de la Terra</cat>
+    </e>
+    <e area="bibliologia" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">face</eng>
+      <eng class="n">front side</eng>
+      <eng class="n">recto</eng>
+      <cat class="m">anvers</cat>
+      <cat class="f">cara</cat>
+      <cat class="m">recto</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">face</eng>
+      <cat class="m">aspecte</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">facet</eng>
+      <eng class="n">side</eng>
+      <eng class="n">aspect</eng>
+      <cat class="f">faceta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">side of personality</eng>
+      <cat class="f">faceta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">facilities</eng>
+      <cat class="fp">comoditats</cat>
+      <cat class="fp">prestacions</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">facilities</eng>
+      <eng class="n_p">installations</eng>
+      <cat class="fp">instal·lacions</cat>
+      <cat class="mp">serveis</cat>
+      <cat class="m">equipament</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">facilities</eng>
+      <cat class="mp">mitjans</cat>
+      <cat class="mp">recursos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fact</eng>
+      <cat class="f">evidència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fact</eng>
+      <cat class="f">realitat</cat>
+      <cat class="m">fet</cat>
+    </e>
+    <e area="patologia" done="yes" src="" type="word">
+      <eng class="n">cardiac arrest</eng>
+      <cat class="f">aturada cardíaca</cat>
+      <cat class="f">aturada cardiorespiratòria</cat>
+      <cat class="f">parada cardíaca</cat>
+      <cat class="f">parada cardiorespiratòria</cat>
+    </e>
+    <e area="patologia" done="yes" src="" type="word">
+      <eng class="n">heart failure</eng>
+      <cat class="f">insuficiència cardíaca</cat>
+      <cat class="f" tags="sigla">IC</cat>
+    </e>
+    <e area="patologia" src="" type="word" done="yes">
+      <eng class="n">renal insufficiency</eng>
+      <eng class="n">kidney failure</eng>
+      <eng class="n">renal failure</eng>
+      <cat class="f">insuficiència renal</cat>
+    </e>
+    <e area="patologia" src="" type="word" done="yes">
+      <eng class="n">liver failure</eng>
+      <eng class="n">hepatic failure</eng>
+      <cat class="f">insuficiència hepàtica</cat>
+    </e>
+    <e src="" type="word" area="patologia" done="yes" oldarea="Afers socials &gt; Sanitat (2841)">
+      <eng class="n">respiratory failure</eng>
+      <eng class="n" tags="acronym">RF</eng>
+      <cat class="f">insuficiència respiratòria</cat>
+    </e>
+    <e area="patologia" done="yes" src="" type="word">
+      <eng class="n">failure</eng>
+      <eng class="n">insufficiency</eng>
+      <cat class="f">aturada</cat>
+      <cat class="f">parada</cat>
+      <cat class="f">insuficiència</cat>
+    </e>
+    <e area="construcció" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">failure</eng>
+      <cat class="m">esgotament</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En trial.">
+      <eng class="n">failure</eng>
+      <cat class="m">fiasco</cat>
+    </e>
+    <e area="construcció" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">failure</eng>
+      <cat class="f">ruptura</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" after="to do something">failure</eng>
+      <cat class="f">mancança</cat>
+      <cat class="f">omissió</cat>
+      <cat class="m">mancament</cat>
+      <cat class="m">falta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" after="to do something">failure</eng>
+      <cat class="f" after="per fer alguna cosa">incapacitat</cat>
+      <cat class="f" after="per fer alguna cosa">incompetència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">failure</eng>
+      <cat class="f">fallada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">failure</eng>
+      <cat class="m">fracàs</cat>
+      <cat class="m">malguany</cat>
+      <cat class="m">fiasco</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">memory failure</eng>
+      <cat class="f">llacuna de memòria</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Persona que ha fracassat o fracassarà.">
+      <eng class="n">failure</eng>
+      <eng class="n">loser</eng>
+      <eng class="n">nonstarter</eng>
+      <eng class="n">unsuccessful person</eng>
+      <cat class="m" feminine="perdedora">perdedor</cat>
+      <cat class="f">persona fracassada</cat>
+      <cat class="m" feminine="fracassada">fracassat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">failure</eng>
+      <cat class="m">revés</cat>
+      <cat class="m">ensopegada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">failure</eng>
+      <cat class="f">temptativa fallida</cat>
+      <cat class="f">temptativa infructuosa</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En futbol americà.">
+      <eng class="n">fair catch</eng>
+      <cat class="f">agafada lliure</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes" remark="En rugbi.">
+      <eng class="n">fair catch</eng>
+      <eng class="n">mark</eng>
+      <cat class="f">agafada lliure</cat>
+      <cat class="f">parada al vol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fair</eng>
+      <eng class="n">market</eng>
+      <cat class="f">fira</cat>
+      <cat class="m">mercat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">faith</eng>
+      <eng class="n">trust</eng>
+      <cat class="f">confiança</cat>
+      <cat class="f">fe</cat>
+    </e>
+    <e area="religió" done="yes" src="" type="word">
+      <eng class="n">faith</eng>
+      <cat class="f">fe</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">faith</eng>
+      <eng class="n">faithfulness</eng>
+      <eng class="n">fidelity</eng>
+      <cat class="f">fidelitat</cat>
+    </e>
+    <e area="tèxtil" done="yes" src="" type="word" def_cat="Manera de caure un teixit.">
+      <eng class="n">fall</eng>
+      <eng class="n">drape</eng>
+      <cat class="f">caiguda</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">downfall</eng>
+      <eng class="n">fall</eng>
+      <eng class="n">ruin</eng>
+      <eng class="n">ruination</eng>
+      <cat class="f">caiguda</cat>
+      <cat class="f">decadència</cat>
+      <cat class="f">deperdició</cat>
+      <cat class="f">perdició</cat>
+      <cat class="f">ruïna</cat>
+      <cat class="m">decaïment</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En taekwondo.">
+      <eng class="n">fall</eng>
+      <eng class="n">knock down</eng>
+      <cat class="f">caiguda</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En lluita.">
+      <eng class="n">fall</eng>
+      <eng class="n">pin</eng>
+      <eng class="n">touch</eng>
+      <cat class="m">tocat</cat>
+    </e>
+    <e area="castells" done="yes" src="" type="word" def_cat="Fet de caure un castell.">
+      <eng class="n">fall</eng>
+      <cat class="f">xurriacada</cat>
+      <cat class="f">caiguda</cat>
+    </e>
+    <e done="yes" src="" area="sociologia" type="word">
+      <eng class="n">family unit</eng>
+      <cat class="f">unitat familiar</cat>
+    </e>
+    <e done="yes" src="" def_eng="A person closely related to another, by blood or law." def_cat="Persona amb una relació estreta amb una altra, per consanguinitat o afinitat." type="word">
+      <eng class="n">family</eng>
+      <eng class="n">family member</eng>
+      <cat class="mf">familiar</cat>
+      <cat class="f">parentela</cat>
+      <cat class="m" feminine="parenta">parent</cat>
+    </e>
+    <e area="història" done="yes" src="" type="word">
+      <eng class="n">phratry</eng>
+      <cat class="f">fratria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">sept</eng>
+      <cat class="m" after="escocès">clan</cat>
+      <cat class="m" after="irlandès">clan</cat>
+    </e>
+    <e done="yes" src="" def_eng="People descended from a common ancestor." def_cat="Persones desdencents d'un avantpassat comú." type="word">
+      <eng class="n">family</eng>
+      <eng class="n">family line</eng>
+      <eng class="n">folk</eng>
+      <eng class="n" tags="old">kinfolk</eng>
+      <eng class="n" tags="old">kinsfolk</eng>
+      <cat class="f">família</cat>
+      <cat class="f">línia familiar</cat>
+      <cat class="mp">parents</cat>
+    </e>
+    <e area="tipografia" done="yes" src="" type="word" oldarea="economia; empresa">
+      <eng class="n">family</eng>
+      <eng class="n">digital typeface</eng>
+      <eng class="n">typeface</eng>
+      <eng class="n">font family</eng>
+      <eng class="n">type family</eng>
+      <cat class="f">família tipogràfica</cat>
+      <cat class="f">tipografia</cat>
+    </e>
+    <e area="tipografia" done="yes" src="" type="word">
+      <eng class="n">font</eng>
+      <eng class="n" tags="UK old">fount</eng>
+      <eng class="n">type font</eng>
+      <eng class="n" tags="UK old">type fount</eng>
+      <cat class="f">font</cat>
+      <cat class="f">tipografia</cat>
+      <cat class="m">tipus de lletra</cat>
+    </e>
+    <e area="tipografia" done="yes" src="" type="word" oldarea="economia; empresa">
+      <eng class="n">face</eng>
+      <eng class="n">typeface</eng>
+      <cat class="m">ull</cat>
+    </e>
+    <e area="agricultura" done="yes" src="" type="word">
+      <eng class="n">agriculture</eng>
+      <eng class="n">farming</eng>
+      <cat class="f">agricultura</cat>
+    </e>
+    <e area="agricultura ramaderia" done="yes" src="" type="word">
+      <eng class="n">agriculture and livestock</eng>
+      <eng class="n">farming</eng>
+      <eng class="n">husbandry</eng>
+      <cat class="f">agricultura i ramaderia</cat>
+    </e>
+    <e area="construcció" done="yes" src="" type="word">
+      <eng class="n">farm</eng>
+      <eng class="n">farm estate</eng>
+      <cat class="m">mas</cat>
+      <cat class="f">finca</cat>
+      <cat class="f">finca rural</cat>
+      <cat class="f">hisenda</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="n">farm</eng>
+      <eng class="n">farmhouse</eng>
+      <eng class="n" tags="US">ranch</eng>
+      <cat class="f">granja</cat>
+    </e>
+    <e area="agricultura ramaderia" done="yes" src="" type="word">
+      <eng class="n">farm</eng>
+      <eng class="n" tags="US">ranch</eng>
+      <eng class="n">farming</eng>
+      <cat class="f">granja</cat>
+      <cat class="f">explotació agropecuària</cat>
+      <cat class="f">explotació ramadera</cat>
+      <cat class="f">explotació agrària</cat>
+    </e>
+    <e area="agricultura" done="yes" src="" type="word">
+      <eng class="n">farm</eng>
+      <cat class="f">plantació</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Estil passatger que dicta la manera la manera de viure, vestir-se, etc.">
+      <eng class="n">fashion</eng>
+      <eng class="n">trend</eng>
+      <eng class="n">mode</eng>
+      <eng class="n">style</eng>
+      <eng class="n">vogue</eng>
+      <cat class="f">moda</cat>
+      <cat class="f">voga</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fast</eng>
+      <eng class="n">fasting</eng>
+      <cat class="m">dejuni</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">father</eng>
+      <cat class="f">causa</cat>
+      <cat class="m">origen</cat>
+      <cat class="f">font</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">fathers</eng>
+      <cat class="mp">pares</cat>
+      <cat class="mp">avantpassats</cat>
+    </e>
+    <e area="geologia" done="yes" src="" type="word">
+      <eng class="n">fault</eng>
+      <eng class="n">faulting</eng>
+      <eng class="n">geological fault</eng>
+      <eng class="n">fault line</eng>
+      <eng class="n">fracture</eng>
+      <cat class="f">falla</cat>
+      <cat class="f">falla geològica</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fear</eng>
+      <eng class="n">fright</eng>
+      <cat class="f">por</cat>
+      <cat class="m">esglai</cat>
+      <cat class="m">espant</cat>
+      <cat class="m">terror</cat>
+      <cat class="f">temença</cat>
+      <cat class="m" tags="col·loquial">cangueli</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fearfulness</eng>
+      <cat class="f">pusil·lanimitat</cat>
+      <cat class="f">poruguesa</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fear</eng>
+      <eng class="n">reverence</eng>
+      <eng class="n">awe</eng>
+      <eng class="n">veneration</eng>
+      <cat class="f">veneració</cat>
+    </e>
+    <e area="filosofia" done="yes" src="" type="word">
+      <eng class="n">accidens</eng>
+      <eng class="n">accident</eng>
+      <cat class="m">accident</cat>
+    </e>
+    <e area="geografia" done="yes" src="" type="word">
+      <eng class="n">feature</eng>
+      <eng class="n">geographical feature</eng>
+      <cat class="m">accident</cat>
+      <cat class="m">accident geogràfic</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng before="distinguishing" class="n">feature</eng>
+      <eng class="n">badge</eng>
+      <eng class="n">symbol</eng>
+      <eng class="n">mark</eng>
+      <cat class="m">distintiu</cat>
+      <cat class="m" after="destacat">element</cat>
+    </e>
+    <e area="informàtica" done="yes" src="" type="word">
+      <eng class="n">feature</eng>
+      <cat class="f">característica</cat>
+      <cat class="f">funció</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">feature</eng>
+      <cat class="f">circumstància</cat>
+    </e>
+    <e area="arqueologia" done="yes" src="" type="word">
+      <eng class="n">feature</eng>
+      <cat class="m">fet</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">feature</eng>
+      <eng class="n">lineament</eng>
+      <eng class="n_p">features</eng>
+      <cat class="fp">faccions</cat>
+      <cat class="m">tret</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">feature</eng>
+      <cat class="f">prestació</cat>
+    </e>
+    <e area="geografia informàtica" done="yes" src="" type="word" oldarea="agricultura; ramaderia; pesca">
+      <eng class="n">feature</eng>
+      <eng class="n">spatial feature</eng>
+      <eng class="n">spatial object</eng>
+      <cat class="m">element espacial</cat>
+      <cat class="m">element geomètric</cat>
+      <cat class="m">objecte espacial</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">features</eng>
+      <cat class="m">estil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" tags="US informal">fed</eng>
+      <eng class="n" tags="US informal">FBI agent</eng>
+      <cat class="mf">agent de l'FBI</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" tags="US informal">fed</eng>
+      <eng class="n" tags="US informal">federal agent</eng>
+      <eng class="n" tags="US informal">federal officer</eng>
+      <cat class="mf">agent federal</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">feel</eng>
+      <cat class="m" tags="figurat">aire</cat>
+      <cat class="f">sensació</cat>
+      <cat class="f">aura</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">feel</eng>
+      <cat class="f">atmosfera</cat>
+      <cat class="m">ambient</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">feel</eng>
+      <cat class="f">sensibilitat</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En hoquei sobre patins i hoquei sobre herba.">
+      <eng class="n">feet</eng>
+      <eng class="n">kick</eng>
+      <eng class="n">kicking</eng>
+      <cat class="f">falta de peu</cat>
+    </e>
+    <e area="silvicultura" done="yes" src="" type="word">
+      <eng class="n">fell</eng>
+      <cat class="f">tala</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fellow</eng>
+      <cat class="mf">semblant</cat>
+    </e>
+    <e done="yes" src="" def_eng="A person part of an organisation, when referred to by another member." def_cat="Persona que forma part d'una organització, quan hi fa referència una altra persona que en forma part." type="word">
+      <eng class="n">fellow</eng>
+      <cat class="m" feminine="confraressa">confrare</cat>
+      <cat class="mf">membre</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n" tags="US">fellow</eng>
+      <cat class="m" feminine="metgessa resident">metge resident</cat>
+    </e>
+    <e area="tèxtil" done="yes" src="" type="word">
+      <eng class="n">felt</eng>
+      <cat class="m">feltre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">female child</eng>
+      <eng class="n">girl</eng>
+      <eng class="n">little girl</eng>
+      <eng class="n" tags="UK colloquial">lass</eng>
+      <cat class="f">nena</cat>
+      <cat class="f">xiqueta</cat>
+      <cat class="f">noia</cat>
+      <cat class="f">nina</cat>
+      <cat class="f">marreca</cat>
+      <cat class="f">minyona</cat>
+      <cat class="f">mossa</cat>
+      <cat class="f">pubilla</cat>
+      <cat class="f">xavala</cat>
+      <cat class="f">xicota</cat>
+      <cat class="f" tags="balear">al·lota</cat>
+      <cat class="m">xica</cat>
+      <cat class="m">xiqueta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">girl</eng>
+      <eng class="n" tags="informal">miss</eng>
+      <eng class="n" tags="US informal">missy</eng>
+      <eng class="n">young lady</eng>
+      <eng class="n">young woman</eng>
+      <cat class="f">noia</cat>
+      <cat class="f">senyoreta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">girl</eng>
+      <eng class="n">young woman</eng>
+      <cat class="f">noia</cat>
+      <cat class="f">xicota</cat>
+      <cat class="f">adolescent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fence</eng>
+      <eng class="n">fencing</eng>
+      <eng class="n">wall</eng>
+      <cat class="f">tanca</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">festival</eng>
+      <eng class="n">fete</eng>
+      <cat class="f">festa</cat>
+      <cat class="f">gala</cat>
+      <cat class="m">festival</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">festival</eng>
+      <cat class="f">diada</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A lie of small importance." def_cat="Mentida de poca importància.">
+      <eng class="n">story</eng>
+      <eng class="n">tale</eng>
+      <eng class="n" tags="informal">fib</eng>
+      <eng class="n" tags="informal">tarradiddle</eng>
+      <eng class="n" tags="informal">taradiddle</eng>
+      <cat class="fp">històries</cat>
+      <cat class="f">mentida</cat>
+      <cat class="f">invenció</cat>
+      <cat class="f" tags="col·loquial">bola</cat>
+      <cat class="f">fantasia</cat>
+      <cat class="fp">falòrnies</cat>
+    </e>
+    <e done="yes" src="" area="aeronàutica" type="word">
+      <eng class="n">airfield</eng>
+      <eng class="n">field</eng>
+      <eng class="n">drome</eng>
+      <eng class="n" tags="UK">aerodrome</eng>
+      <eng class="n" tags="US">airdrome</eng>
+      <eng class="n">landing field</eng>
+      <eng class="n">flying field</eng>
+      <cat class="m">aeròdrom</cat>
+      <cat class="m">camp d'aviació</cat>
+    </e>
+    <e done="yes" src="" area="metrologia" type="word">
+      <eng class="n" tags="US">fifth</eng>
+      <cat class="mp">tres quarts de litre</cat>
+      <cat class="m" after="de galó">cinquè</cat>
+    </e>
+    <e done="yes" src="" area="castells" type="word">
+      <eng class="n">fifth</eng>
+      <cat class="m" feminine="quinta">quint</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">combat</eng>
+      <eng class="n">fight</eng>
+      <eng class="n">fighting</eng>
+      <eng class="n">scrap</eng>
+      <eng class="n">quarrel</eng>
+      <cat class="f">baralla</cat>
+      <cat class="f">batussa</cat>
+      <cat class="f">brega</cat>
+      <cat class="f">lluita</cat>
+      <cat class="m">combat</cat>
+      <cat class="m">batalla</cat>
+    </e>
+    <e area="informàtica" done="yes" src="" type="word" oldarea="electrònica; informàtica; telecomunicacions">
+      <eng class="n">file</eng>
+      <cat class="m">fitxer</cat>
+      <cat class="m">arxiu</cat>
+    </e>
+    <e area="tecnologia" done="yes" src="" type="word">
+      <eng class="n">file</eng>
+      <cat class="f">llima</cat>
+    </e>
+    <e area="cinematografia" done="yes" src="" type="word">
+      <eng class="n">film strip</eng>
+      <eng class="n">leader</eng>
+      <eng class="n">leading end</eng>
+      <cat class="f">cua</cat>
+    </e>
+    <e done="yes" src="" area="arqueologia" type="word">
+      <eng class="n">film</eng>
+      <cat class="f">capa suport</cat>
+      <cat class="f">pel·lícula</cat>
+    </e>
+    <e done="yes" src="" area="arts_gràfiques" type="word">
+      <eng class="n">film offset</eng>
+      <eng class="n">film</eng>
+      <eng class="n">photolith film</eng>
+      <cat class="f">pel·lícula</cat>
+      <cat class="m">fotolit</cat>
+    </e>
+    <e done="yes" src="" area="fotografia" def_eng="A medium used to captures images in a càmera." def_cat="Suport utilitzat per a capturar imatges en una càmera." type="word">
+      <eng class="n">film</eng>
+      <eng class="n">photographic film</eng>
+      <cat class="f">pel·lícula fotogràfica</cat>
+      <cat class="f">pel·lícula</cat>
+    </e>
+    <e area="ensenyament" done="yes" src="" type="word">
+      <eng class="n">final examination</eng>
+      <eng class="n">final exam</eng>
+      <eng class="n_p" tags="UK">finals</eng>
+      <eng class="n" tags="US">final</eng>
+      <cat class="m">examen final</cat>
+      <cat class="m">examen global</cat>
+      <cat class="f">revàlida</cat>
+    </e>
+    <e done="yes" src="" area="dret" def_eng="A fee levied as punishment for breaking a law or rule." def_cat="Diners recaptats com a càstig per infringir una llei o norma." type="word">
+      <eng class="n">amercement</eng>
+      <eng class="n">fine</eng>
+      <eng class="n">mulct</eng>
+      <cat class="f">sanció</cat>
+      <cat class="f">multa</cat>
+      <cat class="m">ban</cat>
+    </e>
+    <e done="yes" src="" area="mineralogia" type="word">
+      <eng class="n">finish</eng>
+      <eng class="n">make</eng>
+      <cat class="m">acabat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fire</eng>
+      <cat class="m">foc</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fireplace</eng>
+      <eng class="n">hearth</eng>
+      <eng class="n">open fireplace</eng>
+      <cat class="f">llar de foc</cat>
+      <cat class="f" after="de foc">llar</cat>
+      <cat class="f">xemeneia</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">first</eng>
+      <eng class="n">number 1</eng>
+      <eng class="n">number one</eng>
+      <cat class="m" feminine="primera">primer</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fit of anger</eng>
+      <eng class="n">fit</eng>
+      <eng class="n">scene</eng>
+      <eng class="n">tantrum</eng>
+      <eng class="n" tags="UK informal">paddy</eng>
+      <eng class="n" tags="informal">hissy fit</eng>
+      <eng class="n" tags="informal">hissy</eng>
+      <eng class="n" tags="old US">conniption</eng>
+      <cat class="f">enrabiada</cat>
+      <cat class="f">marraneria</cat>
+      <cat class="f">rabiola</cat>
+      <cat class="f">rebequeria</cat>
+    </e>
+    <e area="indumentària" done="yes" src="" type="word">
+      <eng class="n_p">flannels</eng>
+      <cat class="mp">pantalons de franel·la</cat>
+    </e>
+    <e area="indumentària" done="yes" src="" type="word">
+      <eng class="n_p">flannels</eng>
+      <cat class="mp">pantalons blancs d'esport</cat>
+    </e>
+    <e area="tèxtil" done="yes" src="" type="word">
+      <eng class="n">flannel</eng>
+      <cat class="m">drap</cat>
+    </e>
+    <e area="tèxtil" done="yes" src="" type="word" oldarea="indústria; energia">
+      <eng class="n">flannel</eng>
+      <cat class="f">franel·la</cat>
+      <cat class="f">llaneta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">flatulence</eng>
+      <eng class="n">flatulency</eng>
+      <eng class="n" tags="UK">wind</eng>
+      <eng class="n" tags="US">gas</eng>
+      <cat class="f">flatulència</cat>
+      <cat class="f">ventositat</cat>
+      <cat class="fp">gasos</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">flight</eng>
+      <eng class="n">flying</eng>
+      <cat class="f">volada</cat>
+      <cat class="m">vol</cat>
+    </e>
+    <e done="yes" src="" area="arquitectura" type="word">
+      <eng class="n">floor</eng>
+      <eng class="n">level</eng>
+      <eng class="n" tags="UK">storey</eng>
+      <eng class="n" tags="US">story</eng>
+      <cat class="m">pis</cat>
+      <cat class="f">planta</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word">
+      <eng class="n">floor</eng>
+      <cat class="m">sòl</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="n">floor</eng>
+      <cat class="f">sola</cat>
+      <cat class="f">solera</cat>
+    </e>
+    <e done="yes" src="" area="òptica" type="word">
+      <eng class="n">focal distance</eng>
+      <eng class="n">focal length</eng>
+      <eng class="n">focus</eng>
+      <cat class="f">distància focal</cat>
+    </e>
+    <e done="yes" src="" area="òptica" type="word">
+      <eng class="n">hyperfocal distance</eng>
+      <cat class="f">distància hiperfocal</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">focal point</eng>
+      <eng class="n">central focus</eng>
+      <cat class="m">eix central</cat>
+      <cat class="m">concepte central</cat>
+    </e>
+    <e area="òptica" done="yes" src="" type="word">
+      <eng class="n">focus</eng>
+      <eng class="n">focal point</eng>
+      <cat class="m">focus</cat>
+      <cat class="m">punt focal</cat>
+    </e>
+    <e done="yes" src="" area="fotografia" type="word">
+      <eng class="n">focus</eng>
+      <eng class="n">focusing</eng>
+      <cat class="m">enfocament</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">focus</eng>
+      <eng class="n">input focus</eng>
+      <cat class="m">focus</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">focus</eng>
+      <cat class="m">interès</cat>
+      <cat class="m">objecte d'interès</cat>
+      <cat class="m">objectiu</cat>
+      <cat class="m">centre d'atenció</cat>
+      <cat class="m">objecte d'atenció</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">focus</eng>
+      <cat class="f">orientació</cat>
+      <cat class="m">enfocament</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">focus</eng>
+      <eng class="n">concentration</eng>
+      <cat class="f">atenció</cat>
+      <cat class="f">concentració</cat>
+      <example sent_eng="Keep your focus on the details." sent_cat="Mantén la concentració en els detalls." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">enemy</eng>
+      <eng class="n">foe</eng>
+      <eng class="n" tags="obsolete">fiend</eng>
+      <cat class="m" feminine="enemiga">enemic</cat>
+      <cat class="m" feminine="contrària">contrari</cat>
+      <cat class="m" feminine="enemiga">enemic</cat>
+      <cat class="mf">oponent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">follow-up</eng>
+      <cat class="f">revisió</cat>
+      <cat class="m">seguiment</cat>
+    </e>
+    <e area="internet" done="yes" src="" type="word" oldarea="societat de la informació; internet">
+      <eng class="n">followed</eng>
+      <eng class="n">followed user</eng>
+      <cat class="m" feminine="seguida">seguit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">following</eng>
+      <eng class="n_p">followers</eng>
+      <cat class="f">comitiva</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">following</eng>
+      <eng class="n_p">followers</eng>
+      <cat class="mfp">adeptes</cat>
+      <cat class="mp" feminine="seguidores">seguidors</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">force</eng>
+      <eng class="n">strength</eng>
+      <cat class="f">força</cat>
+    </e>
+    <e done="yes" src="" type="word" area="oficis">
+      <eng class="n" feminine="forewoman or forelady">foreman</eng>
+      <eng class="n">overseer</eng>
+      <eng class="n" tags="UK informal">gaffer</eng>
+      <eng class="n" tags="US informal">honcho</eng>
+      <cat class="m" feminine="contramestra">contramestre</cat>
+      <cat class="m" feminine="capatassa">capatàs</cat>
+      <cat class="m" feminine="encarregada">encarregat</cat>
+      <cat class="m" feminine="patrona">patró</cat>
+      <cat class="mf">sobreestant</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">format</eng>
+      <eng class="n">size</eng>
+      <cat class="f">escala</cat>
+      <cat class="f">mida</cat>
+      <cat class="fp">proporcions</cat>
+      <cat class="m">format</cat>
+    </e>
+    <e area="informàtica" done="yes" src="" type="word">
+      <eng class="n">file format</eng>
+      <eng class="n">format</eng>
+      <cat class="m">format de fitxer</cat>
+      <cat class="m">format</cat>
+    </e>
+    <e done="yes" src="" area="administració" type="word">
+      <eng class="n">form</eng>
+      <cat class="m">formulari</cat>
+      <cat class="m">imprès</cat>
+    </e>
+    <e done="yes" src="" area="esport medicina" type="word">
+      <eng class="n">physical condition</eng>
+      <eng class="n">form</eng>
+      <eng class="n">shape</eng>
+      <cat class="f">condició física</cat>
+      <cat class="m">estat de forma</cat>
+      <cat class="f">forma</cat>
+    </e>
+    <e area="biologia" done="yes" src="" type="word" oldarea="ciències de la terra" def_cat="Grup de classificació taxonòmica.">
+      <eng class="n">form</eng>
+      <eng class="n">forma</eng>
+      <cat class="f">forma</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="n">formwork</eng>
+      <eng class="n">form</eng>
+      <cat class="m">taulat d'encofrat</cat>
+    </e>
+    <e area="esports" done="yes" src="" type="word" remark="En esports de combat.">
+      <eng class="n">form</eng>
+      <eng class="n" tags="Japanese">kata</eng>
+      <cat class="m" tags="japonès">kata</cat>
+      <cat class="m" remark="En taekwondo.">pumse</cat>
+    </e>
+    <e area="lingüística" done="yes" src="" type="word">
+      <eng class="n">form</eng>
+      <eng class="n">word form</eng>
+      <eng class="n">signifier</eng>
+      <eng class="n">descriptor</eng>
+      <cat class="f">forma</cat>
+    </e>
+    <e done="yes" src="" def_eng="Show without substance, only appearance." def_cat="Demostració sense substància, només aparences." type="word">
+      <eng class="n">form</eng>
+      <eng class="n">formality</eng>
+      <cat class="f">educació</cat>
+      <cat class="f">cortesia</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">form</eng>
+      <cat class="m">format</cat>
+      <cat class="m">sistema</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">cast</eng>
+      <eng class="n">form</eng>
+      <eng class="n">shape</eng>
+      <cat class="f">forma</cat>
+      <cat class="fp">faccions</cat>
+      <cat class="f">fisonomia</cat>
+    </e>
+    <e done="yes" src="" def_eng="The particular way in which something is manifested." def_cat="Manera concreta com es manifesta alguna cosa." type="word">
+      <eng class="n">form</eng>
+      <cat class="f">manifestació</cat>
+    </e>
+    <e done="yes" src="" def_eng="Presumed cause that predetermines events." def_cat="Causa que suposadament predetermina els esdeveniments." type="word">
+      <eng class="n">chance</eng>
+      <eng class="n_p">circumstances</eng>
+      <eng class="n">destiny</eng>
+      <eng class="n">fate</eng>
+      <eng class="n">fortune</eng>
+      <eng class="n">lot</eng>
+      <eng class="n">luck</eng>
+      <eng class="n">portion</eng>
+      <cat class="f">fortuna</cat>
+      <cat class="f">sort</cat>
+      <cat class="f">ventura</cat>
+      <cat class="fp">circumstàncies</cat>
+      <cat class="m">destí</cat>
+      <cat class="m">fat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">forum</eng>
+      <eng class="n">assembly</eng>
+      <eng class="n">meeting place</eng>
+      <cat class="m">fòrum</cat>
+      <cat class="m">punt de reunió</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">forward</eng>
+      <cat class="m" feminine="davantera">davanter</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">forward</eng>
+      <eng class="n">forward contract</eng>
+      <cat class="m">contracte a termini</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">forward</eng>
+      <eng class="n">forward market</eng>
+      <cat class="m">mercat a termini</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="rugbi" type="word">
+      <eng class="n">forward</eng>
+      <eng class="n">knock-on</eng>
+      <cat class="m">avant</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Fundamental parts that support or allow the rest." def_cat="Parts fonamentals que donen suport o permeten la resta.">
+      <eng class="n">base</eng>
+      <eng class="n">basis</eng>
+      <eng class="n">foundation</eng>
+      <eng class="n">groundwork</eng>
+      <eng class="n">substructure</eng>
+      <eng class="n">ground</eng>
+      <cat class="f">base</cat>
+      <cat class="fp" tags="figurat">arrels</cat>
+      <cat class="m">fonament</cat>
+    </e>
+    <e done="yes" src="" def_eng="Lowest support of a structure." def_cat="Suport inferior d'una estructura." type="word">
+      <eng class="n">foundation</eng>
+      <eng class="n">base</eng>
+      <eng class="n">fundament</eng>
+      <eng class="n">foot</eng>
+      <eng class="n">groundwork</eng>
+      <eng class="n">substructure</eng>
+      <eng class="n">understructure</eng>
+      <cat class="f">base</cat>
+      <cat class="m">fonament</cat>
+      <cat class="m">peu</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="n">foundation</eng>
+      <cat class="f">fonamentació</cat>
+      <cat class="mp">fonaments</cat>
+    </e>
+    <e done="yes" src="" area="economia" def_eng="Non-profit institution." def_cat="Institució sense ànim de lucre." type="word">
+      <eng class="n">foundation</eng>
+      <eng class="n">fund</eng>
+      <cat class="f">fundació</cat>
+    </e>
+    <e done="yes" src="" def_eng="Person who establishes an institution or project." def_cat="Persona que estableix una institució o projecte." type="word">
+      <eng class="n" feminine="founding mother">founding father</eng>
+      <eng class="n" feminine="mother">father</eng>
+      <eng class="n">beginner</eng>
+      <eng class="n">founder</eng>
+      <cat class="m" feminine="fundadora">fundador</cat>
+      <cat class="m" feminine="mare">pare</cat>
+      <cat class="m" feminine="iniciadora">iniciador</cat>
+    </e>
+    <e done="yes" src="" area="hidrologia" type="word">
+      <eng class="n">fountainhead</eng>
+      <eng class="n">head</eng>
+      <eng class="n">headspring</eng>
+      <cat class="f">deu</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">fourth</eng>
+      <cat class="f">quarta</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">fourth</eng>
+      <cat class="m">quart</cat>
+      <cat class="m">quarter</cat>
+    </e>
+    <e done="yes" src="" area="castells" type="word">
+      <eng class="n">fourth</eng>
+      <cat class="m" feminine="quarta">quart</cat>
+    </e>
+    <e done="yes" src="" def_eng="Basic conceptual structure." def_cat="Estructura conceptual bàsica." type="word">
+      <eng class="n">framework</eng>
+      <eng class="n">setting</eng>
+      <cat class="m">marc</cat>
+    </e>
+    <e done="yes" src="" area="enginyeria" type="word">
+      <eng class="n">framework</eng>
+      <eng class="n">structure</eng>
+      <cat class="m">entramat</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n">franchise</eng>
+      <eng class="n">suffrage</eng>
+      <eng class="n">vote</eng>
+      <cat class="m">sufragi</cat>
+      <cat class="m">vot</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word">
+      <eng class="n">frankincense</eng>
+      <eng class="n">gum olibanum</eng>
+      <eng class="n">olibanum</eng>
+      <eng class="n">thus</eng>
+      <cat class="m">encens</cat>
+      <cat class="m">olíban</cat>
+    </e>
+    <e done="yes" src="" area="sociologia" type="word">
+      <eng class="n">freedom</eng>
+      <eng class="n">liberty</eng>
+      <cat class="f">autonomia</cat>
+      <cat class="f">llibertat</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">freedom</eng>
+      <cat class="f">franquesa</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="paracaigudisme" type="word">
+      <eng class="n">freefall style</eng>
+      <eng class="n">speed style</eng>
+      <eng class="n">style</eng>
+      <cat class="m">estil clàssic</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">freefall</eng>
+      <cat class="f">caiguda lliure</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">freelancer</eng>
+      <eng class="n">freelance</eng>
+      <eng class="n">free-lance</eng>
+      <eng class="n">free lance</eng>
+      <eng class="n">independent</eng>
+      <eng class="n">self-employed person</eng>
+      <cat class="m" feminine="treballadora per compte propi">treballador per compte propi</cat>
+      <cat class="m" feminine="autònoma">autònom</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">frequency</eng>
+      <cat class="f">freqüència</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">friend</eng>
+      <cat class="m" tags="anglès">Friend</cat>
+      <cat class="m">encastador d'expansió</cat>
+    </e>
+    <e done="yes" src="" def_eng="Person who backs an idea." def_cat="Persona que simpatitza amb una idea." type="word">
+      <eng class="n">friend</eng>
+      <eng class="n">ally</eng>
+      <cat class="m" feminine="partidària">partidari</cat>
+      <cat class="mf">simpatitzant</cat>
+    </e>
+    <e done="yes" src="" def_eng="Short state of fear." def_cat="Estat curt de por." type="word">
+      <eng class="n">fright</eng>
+      <eng class="n">panic</eng>
+      <eng class="n">scare</eng>
+      <eng class="n">terror</eng>
+      <cat class="f">esgarrifor</cat>
+      <cat class="m">esglai</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n">front</eng>
+      <cat class="f">primera línia</cat>
+      <cat class="m">front</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">front door</eng>
+      <cat class="f">porta del carrer</cat>
+    </e>
+    <e done="yes" src="" area="papereria" type="word">
+      <eng class="n">front</eng>
+      <cat class="m">anvers</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Outward appearance." def_cat="Aspecte exterior.">
+      <eng class="n">effect</eng>
+      <eng class="n">front</eng>
+      <eng class="n">impression</eng>
+      <cat class="f">aparença</cat>
+      <cat class="f">impressió</cat>
+      <cat class="m">efecte</cat>
+    </e>
+    <e done="yes" src="" area="publicacions" type="word">
+      <eng class="n">front</eng>
+      <cat class="f">coberta</cat>
+      <cat class="f">portada</cat>
+    </e>
+    <e done="yes" src="" def_eng="Foremost side of something." def_cat="Part que hi ha davant de tot d'una cosa." type="word">
+      <eng class="n">forepart</eng>
+      <eng class="n">front end</eng>
+      <eng class="n">front</eng>
+      <cat class="f">cara</cat>
+      <cat class="f">part anterior</cat>
+      <cat class="f">part davantera</cat>
+      <cat class="f">part de davant</cat>
+      <cat class="m">capdavant</cat>
+      <cat class="m">davant</cat>
+      <cat class="m">front</cat>
+      <cat class="m">frontal</cat>
+    </e>
+    <e done="yes" src="" area="fusteria" type="word">
+      <eng class="n">front</eng>
+      <cat class="m">davant</cat>
+      <cat class="m">frontis</cat>
+    </e>
+    <e done="yes" src="" area="arquitectura" type="word">
+      <eng class="n">front</eng>
+      <eng class="n">façade</eng>
+      <cat class="m">enfront</cat>
+    </e>
+    <e done="yes" src="" area="meteorologia" type="word">
+      <eng class="n">front</eng>
+      <eng class="n">frontal surface</eng>
+      <cat class="f">superfície frontal</cat>
+      <cat class="m">front</cat>
+    </e>
+    <e done="yes" src="" area="arqueologia" type="word">
+      <eng class="n">front</eng>
+      <eng class="n">frontispiece</eng>
+      <cat class="m">frontis</cat>
+      <cat class="m">frontispici</cat>
+    </e>
+    <e done="yes" src="" def_eng="Something or someone acting as the public face of something covert." type="word">
+      <eng class="n">front</eng>
+      <cat class="f" tags="figurat">tapadora</cat>
+    </e>
+    <e done="yes" src="" def_eng="Sentiment accompanying the experience of failing to attain a goal." def_cat="Sentiment que acompanya l'experiència de no assolir un objectiu." type="word">
+      <eng class="n">defeat</eng>
+      <eng class="n">frustration</eng>
+      <cat class="f">frustració</cat>
+      <cat class="m">fracàs</cat>
+    </e>
+    <e done="yes" src="" area="astronomia" type="word">
+      <eng class="n">full moon</eng>
+      <eng class="n">full phase of the moon</eng>
+      <eng class="n">full-of-the-moon</eng>
+      <eng class="n">full</eng>
+      <cat class="f">lluna plena</cat>
+      <cat class="m">pleniluni</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" type="word">
+      <eng class="n">full professor</eng>
+      <eng class="n" before="full">professor</eng>
+      <cat class="m" feminine="catedràtica d'universitat">catedràtic d'universitat</cat>
+      <cat class="m" feminine="catedràtica">catedràtic</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">full twist</eng>
+      <eng class="n" after="twist">full</eng>
+      <eng class="n" before="full">twist</eng>
+      <cat class="f">pirueta</cat>
+      <cat class="m">mortal amb pirueta</cat>
+    </e>
+    <e done="yes" src="" area="química" type="word">
+      <eng class="n">chemical group</eng>
+      <eng class="n">functional group</eng>
+      <eng class="n">group</eng>
+      <eng class="n">radical</eng>
+      <cat class="m">grup funcional</cat>
+      <cat class="m">grup</cat>
+      <cat class="m">radical</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n">constitution</eng>
+      <eng class="n">fundamental law</eng>
+      <eng class="n">organic law</eng>
+      <cat class="f">constitució</cat>
+      <cat class="f">llei fonamental</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word" def_eng="Act of collecting money for a cause." def_cat="Acció de recollir diners per una causa.">
+      <eng class="n">fund</eng>
+      <cat class="f">col·lecta</cat>
+    </e>
+    <e done="yes" src="" def_eng="A source of money." area="economia" type="word">
+      <eng class="n">fund</eng>
+      <eng class="n">monetary fund</eng>
+      <cat class="m">finançament</cat>
+      <cat class="m">fons monetari</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A large supply of something." def_cat="Gran provisió d'alguna cosa.">
+      <eng class="n">fund</eng>
+      <cat class="m">fons</cat>
+      <cat class="m" tags="figurat">repertori</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n_p">funds</eng>
+      <eng class="n_p">finances</eng>
+      <eng class="n">monetary resource</eng>
+      <eng class="n" tags="UK informal">cash in hand</eng>
+      <eng class="n">pecuniary resource</eng>
+      <cat class="mp">cabals</cat>
+      <cat class="mp">diners</cat>
+      <cat class="fp">finances</cat>
+      <cat class="mp">fons</cat>
+      <cat class="mp">possibles</cat>
+      <cat class="mp">recursos</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">fun</eng>
+      <eng class="n">play</eng>
+      <eng class="n">sport</eng>
+      <cat class="f">befa</cat>
+      <cat class="f">broma</cat>
+      <cat class="f">conya</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">future</eng>
+      <eng class="n">futurity</eng>
+      <eng class="n">hereafter</eng>
+      <eng class="n">time to come</eng>
+      <cat class="m">avenir</cat>
+      <cat class="m">esdevenidor</cat>
+      <cat class="m">esdevenir</cat>
+      <cat class="m">futur</cat>
+      <cat class="m">temps a venir</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">future tense</eng>
+      <eng class="n">future</eng>
+      <cat class="m">futur</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" def_eng="The imperfective future tense." def_cat="Temps futur imperfet." type="word">
+      <eng class="n">future simple</eng>
+      <cat class="m">futur imperfet</cat>
+      <cat class="m">futur simple</cat>
+      <cat class="m">futur</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Act of acquiring.">
+      <eng class="n">gain</eng>
+      <cat class="f">adquisició</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">gain</eng>
+      <cat class="m">augment</cat>
+      <cat class="m">increment</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">gain</eng>
+      <cat class="m">benefici</cat>
+      <cat class="m">guany</cat>
+      <cat class="m">lucre</cat>
+    </e>
+    <e done="yes" src="" area="telecomunicacions" type="word">
+      <eng class="n">gain</eng>
+      <cat class="m">guany</cat>
+    </e>
+    <e done="yes" src="" area="jocs" def_eng="An activity where a bet is placed." def_cat="Activitat en què es fa una aposta." type="word">
+      <eng class="n">gambling</eng>
+      <eng class="n">gaming</eng>
+      <eng class="n">play</eng>
+      <cat class="m">joc d'aposta</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n">crew</eng>
+      <eng class="n">gang</eng>
+      <eng class="n">work party</eng>
+      <cat class="f">brigada</cat>
+      <cat class="f">partida</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="n">gasket</eng>
+      <eng class="n">joint</eng>
+      <eng class="n">packing</eng>
+      <cat class="f">estopada</cat>
+    </e>
+    <e done="yes" src="" area="fisiologia" type="word">
+      <eng class="n">gas</eng>
+      <cat class="mp">còlics</cat>
+    </e>
+    <e done="yes" src="" area="física" type="word">
+      <eng class="n">gas state</eng>
+      <eng class="n">gas</eng>
+      <eng class="n">gaseous state</eng>
+      <cat class="m">estat gasós</cat>
+      <cat class="m">gas</cat>
+    </e>
+    <e done="yes" src="" area="energia" type="word">
+      <eng class="n">gas</eng>
+      <cat class="m">gas</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">gathering</eng>
+      <eng class="n">meeting</eng>
+      <cat class="f">reunió</cat>
+    </e>
+    <e done="yes" src="" area="publicacions" type="word">
+      <eng class="n">gazette</eng>
+      <eng class="n">journal</eng>
+      <eng class="n">magazine</eng>
+      <eng class="n">newspaper</eng>
+      <cat class="f">gaseta</cat>
+    </e>
+    <e done="yes" src="" area="mecànica" type="word">
+      <eng class="n">gear</eng>
+      <eng class="n">gearing</eng>
+      <eng class="n">geartrain</eng>
+      <eng class="n">power train</eng>
+      <eng class="n">train</eng>
+      <cat class="m">engranatge</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n" tags="informal">full general</eng>
+      <eng class="n">general</eng>
+      <cat class="mf">general</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Person with extraordinary power or skills." def_cat="Persona amb poders o aptituds extraordinaris.">
+      <eng class="n">big name</eng>
+      <cat class="f">figura eminent</cat>
+      <cat class="f">gran figura</cat>
+      <cat class="m" feminine="gran dona">gran home</cat>
+      <cat class="m">homenot</cat>
+    </e>
+    <e done="yes" src="" type="word" def_cat="Persona de gran importància.">
+      <eng class="n">giant</eng>
+      <eng class="n">heavyweight</eng>
+      <eng class="n">colossus</eng>
+      <eng class="n">behemoth</eng>
+      <eng class="n">titan</eng>
+      <cat class="m" feminine="geganta">gegant</cat>
+      <cat class="m">colós</cat>
+      <cat class="m" feminine="dona de pes">home de pes</cat>
+      <cat class="m">tità</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">heavyweight</eng>
+      <cat class="m">pes pesant</cat>
+    </e>
+    <e done="yes" src="" type="word" area="nàutica">
+      <eng class="n">hulk</eng>
+      <cat class="f">desferra</cat>
+      <cat class="m">vaixell abandonat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">hulk</eng>
+      <cat class="m">gegant</cat>
+      <cat class="m">colós</cat>
+      <cat class="m">homenàs</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">hulk</eng>
+      <cat class="f">còrpora</cat>
+      <cat class="f">tossa</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">hulk</eng>
+      <cat class="f">baluerna</cat>
+    </e>
+    <e done="yes" src="" area="biologia" type="word">
+      <eng class="n">giant</eng>
+      <cat class="m" feminine="geganta">gegant</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="figurative">giant</eng>
+      <cat class="m" tags="figurat">gegant</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">given</eng>
+      <eng class="n">precondition</eng>
+      <eng class="n">presumption</eng>
+      <cat class="f">pressuposició</cat>
+      <cat class="f">presumpció</cat>
+      <cat class="m">pressupòsit</cat>
+    </e>
+    <e done="yes" src="" def_eng="The act of bestowing as a gift." def_cat="Acció de donar sense esperar res a canvi." type="word">
+      <eng class="n">giving</eng>
+      <cat class="f">donació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">giving</eng>
+      <eng class="n">gift</eng>
+      <cat class="m">obsequi</cat>
+      <cat class="m">regal</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">goal net</eng>
+      <eng class="n">net</eng>
+      <cat class="f">xarxa</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Intention or purpose." def_cat="Terme a què es vol arribar.">
+      <eng class="n">aim</eng>
+      <eng class="n">end</eng>
+      <eng class="n">goal</eng>
+      <eng class="n">objective</eng>
+      <cat class="f">finalitat</cat>
+      <cat class="f">fita</cat>
+      <cat class="f">meta</cat>
+      <cat class="m">fi</cat>
+      <cat class="m">objectiu</cat>
+      <cat class="m">propòsit</cat>
+    </e>
+    <e done="yes" src="" area="esports" def_eng="Area in which the players attempt to put an object to score." type="word">
+      <eng class="n">goal</eng>
+      <eng class="n">goalpost</eng>
+      <cat class="f">meta</cat>
+      <cat class="f">porta</cat>
+      <cat class="f">porteria</cat>
+    </e>
+    <e done="yes" src="" area="esports" def_eng="Act of placing an object (such as a ball) into the goal." type="word">
+      <eng class="n">goal</eng>
+      <eng class="n">marker</eng>
+      <cat class="m">gol</cat>
+    </e>
+    <e done="yes" src="" area="economia empresa" type="word">
+      <eng class="n">goal</eng>
+      <cat class="f">meta</cat>
+      <cat class="m">objectiu general</cat>
+    </e>
+    <e done="yes" src="" def_eng="Act of moving towards a place." def_cat="Acció de dirigir-se a un lloc." type="word">
+      <eng class="n">going</eng>
+      <cat class="f">anada</cat>
+    </e>
+    <e done="yes" src="" def_eng="Act of departing a place." def_cat="Acció de deixar un lloc." type="word">
+      <eng class="n">leaving</eng>
+      <cat class="f">anada</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="tir amb arc">
+      <eng class="n">gold</eng>
+      <cat class="m">groc</cat>
+    </e>
+    <e done="yes" src="" area="economia" def_eng="An object made of gold used as a currency, either formally or informally." type="word">
+      <eng class="n" tags="old">gold</eng>
+      <cat class="f">moneda d'or</cat>
+      <cat class="f">peça d'or</cat>
+    </e>
+    <e done="yes" src="" area="jocs" type="word">
+      <eng class="n">go</eng>
+      <cat class="m">go</cat>
+    </e>
+    <e done="yes" src="" def_eng="Time period to do something, after which one is relieved by someone else." def_cat="Període de temps durant el qual es fa alguna cosa, dins d'una sèrie d'accions." type="word">
+      <eng class="n">go</eng>
+      <eng class="n">spell</eng>
+      <eng class="n">tour</eng>
+      <eng class="n">turn</eng>
+      <cat class="f">tanda</cat>
+      <cat class="m">torn</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">go</eng>
+      <eng class="n">try</eng>
+      <cat class="f">tanda</cat>
+    </e>
+    <e done="yes" src="" area="filosofia" type="word">
+      <eng class="n">good</eng>
+      <eng class="n">goodness</eng>
+      <cat class="f">bondat</cat>
+      <cat class="m">bé</cat>
+    </e>
+    <e done="yes" src="" def_eng="Positive purpose of something." def_cat="Propòsit positiu d'alguna cosa." type="word">
+      <eng class="n">good</eng>
+      <cat class="f">utilitat</cat>
+      <cat class="m">benefici</cat>
+      <cat class="m">bé</cat>
+      <cat class="m">interès</cat>
+    </e>
+    <e done="yes" src="" area="comerç" type="word">
+      <eng class="n_p">good</eng>
+      <eng class="n_p">goods</eng>
+      <cat class="fp">mercaderies</cat>
+      <cat class="m">gènere</cat>
+      <cat class="mp">articles</cat>
+      <cat class="mp">béns</cat>
+      <cat class="mp">productes</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n_p">assets</eng>
+      <eng class="n_p">goods</eng>
+      <cat class="fp">possessions</cat>
+      <cat class="mp">béns</cat>
+      <cat class="m">cabal</cat>
+      <cat class="mp">béns</cat>
+    </e>
+    <e done="yes" src="" def_eng="Benefit of someone or something." def_cat="Benifici d'algú o d'alguna cosa." type="word">
+      <eng class="n">sake</eng>
+      <cat class="m">bé</cat>
+      <cat class="m">amor</cat>
+      <example sent_eng="For goodness sake, turn off the TV!" sent_cat="Per l'amor de Déu, apaga el televisor!" />
+    </e>
+    <e done="yes" src="" def_eng="Report, often malicious, about the behaviour of other people." def_cat="Murmuracions sobre el comportament d'altres persones." type="word">
+      <eng class="n">gossip</eng>
+      <eng class="n">comment</eng>
+      <eng class="n">scuttlebutt</eng>
+      <cat class="mp">comentaris</cat>
+      <cat class="fp">tafaneries</cat>
+    </e>
+    <e done="yes" src="" area="dret política" type="word" def_eng="The state and its administration as the ruling political power." def_cat="Conjunt de poders mitjançant els quals s'exerceix la direcció política d'un estat.">
+      <eng class="n">government</eng>
+      <cat class="f">administració</cat>
+      <cat class="f">organització política</cat>
+      <cat class="m">estat</cat>
+      <cat class="m">govern</cat>
+    </e>
+    <e done="yes" src="" area="dret" def_eng="Organization that is the governing authority of a political unit." def_cat="Organització que és l'autoritat de govern d'una unitat política." type="word">
+      <eng class="n">government</eng>
+      <eng class="n_p">authorities</eng>
+      <eng class="n">regime</eng>
+      <cat class="m">govern</cat>
+      <cat class="m">règim</cat>
+      <cat class="f">autoritat</cat>
+    </e>
+    <e done="yes" src="" area="política" type="word" def_eng="Act of exercising authority." def_cat="Acció d'exercir autoritat.">
+      <eng class="n">administration</eng>
+      <eng class="n">governance</eng>
+      <eng class="n">governing</eng>
+      <eng class="n">government activity</eng>
+      <eng class="n">government</eng>
+      <cat class="f">governació</cat>
+      <cat class="m">govern</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">government</eng>
+      <cat class="m">règim</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n">governor</eng>
+      <cat class="m" feminine="directora">director</cat>
+      <cat class="mf">membre de la junta directiva</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" type="word">
+      <eng class="n">governor</eng>
+      <cat class="mf">membre del consell de govern</cat>
+    </e>
+    <e done="yes" src="" def_eng="Official responsible responsible for law enforcement ion a specific jurisdiction." def_cat="Oficial responsable de fer complir la llei en una jurisdicció específica." type="word">
+      <eng class="n">governor</eng>
+      <eng class="n">sheriff</eng>
+      <cat class="m" feminine="governadora">governador</cat>
+      <cat class="m" tags="anglès">xèrif</cat>
+      <cat class="m">algutzir</cat>
+    </e>
+    <e done="yes" src="" def_eng="Relative position in a graded series." type="word">
+      <eng class="n">gradation</eng>
+      <eng class="n">step</eng>
+      <cat class="f">gradació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">grade</eng>
+      <eng class="n">level</eng>
+      <eng class="n">tier</eng>
+      <cat class="m">grau</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" def_eng="A number or letter indicating a student's performance in a test." def_cat="Xifra o lletra que indica el rendiment d'un estudiant en una prova d'avaluació" type="word">
+      <eng class="n">grade</eng>
+      <eng class="n">score</eng>
+      <eng class="n">mark</eng>
+      <eng class="n">qualification</eng>
+      <cat class="f">nota</cat>
+      <cat class="f">qualificació</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" type="word" def_eng="Level of education." def_cat="Nivell educatiu.">
+      <eng class="n" tags="UK old">form</eng>
+      <eng class="n">grade</eng>
+      <eng class="n">year</eng>
+      <cat class="m">grau</cat>
+      <cat class="m">curs</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">grand</eng>
+      <cat class="fp">mil lliures</cat>
+      <cat class="mp" before="numeral">dels grossos</cat>
+      <cat class="mp">mil dòlars</cat>
+      <example sent_eng="They paid him twenty grand." sent_cat="Van pagar-li vint dels grossos." />
+    </e>
+    <e done="yes" src="" def_eng="A person of major significance." def_cat="Persona de gran rellevància." type="word">
+      <eng class="n">great</eng>
+      <cat class="m">gran personatge</cat>
+    </e>
+    <e done="yes" src="" area="colors" type="word">
+      <eng class="n">green</eng>
+      <cat class="m">verd</cat>
+    </e>
+    <e done="yes" src="" area="colors" type="word">
+      <eng class="n">greenness</eng>
+      <eng class="n">viridity</eng>
+      <eng class="n">verdancy</eng>
+      <cat class="f">verdor</cat>
+    </e>
+    <e done="yes" src="" area="urbanisme" type="word">
+      <eng class="n" tags="UK">green</eng>
+      <cat class="f">plaça</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="golf" type="word">
+      <eng class="n">green</eng>
+      <eng class="n">putting green</eng>
+      <eng class="n">putting surface</eng>
+      <cat class="m" tags="anglès">green</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="ciclisme" type="word">
+      <eng class="n">green</eng>
+      <eng class="n">turf</eng>
+      <cat class="f" tags="francès">pelouse</cat>
+      <cat class="f">zona central</cat>
+    </e>
+    <e done="yes" src="" area="política" type="word">
+      <eng class="n">green</eng>
+      <cat class="mf">ecologista</cat>
+      <cat class="m" feminine="verda">verd</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n">grievance</eng>
+      <eng class="n">protest</eng>
+      <eng class="n">remonstrance</eng>
+      <cat class="m">recurs</cat>
+    </e>
+    <e done="yes" src="" def_eng="Contorted facial expression." def_cat="Expressió facial contorsionada." type="word">
+      <eng class="n">face</eng>
+      <eng class="n">grimace</eng>
+      <cat class="f">carassa</cat>
+      <cat class="f">carota</cat>
+      <cat class="f">ganyota</cat>
+      <cat class="m">rictus</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">grip</eng>
+      <eng class="n">hold</eng>
+      <eng class="n">kumikata</eng>
+      <cat class="m">kumikata</cat>
+      <cat class="f">agafada</cat>
+      <cat class="f">presa</cat>
+      <cat class="f">tècnica d'agafada</cat>
+      <cat class="f">guàrdia</cat>
+    </e>
+    <e done="yes" src="" def_eng="A long, narrow slot or depression cut into a hard material." def_cat="Sot llarg i estret en un material." type="word">
+      <eng class="n">channel</eng>
+      <eng class="n">groove</eng>
+      <cat class="m">solc</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">gross</eng>
+      <eng class="n">revenue</eng>
+      <eng class="n_p">receipts</eng>
+      <cat class="f">renda bruta</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">ground</eng>
+      <cat class="m">estadi</cat>
+    </e>
+    <e done="yes" src="" def_eng="The lowest part of a container" def_cat="Part inferior d'un receptacle." type="word">
+      <eng class="n">ground</eng>
+      <eng class="n">floor</eng>
+      <eng class="n">bottom</eng>
+      <cat class="m">sòl</cat>
+      <cat class="m">fons</cat>
+    </e>
+    <e done="yes" src="" area="electricitat_i_electrònica" type="word">
+      <eng class="n">ground</eng>
+      <cat class="f">massa</cat>
+    </e>
+    <e done="yes" src="" area="geologia" type="word">
+      <eng class="n">ground</eng>
+      <cat class="m">sòl</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n" remark="fencing">pool</eng>
+      <eng class="n">group competition</eng>
+      <eng class="n">league</eng>
+      <cat class="f" remark="esgrima" tags="francès">poule</cat>
+      <cat class="f">lliga</cat>
+      <cat class="m">sistema de tots contra tots</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A set of elements or actions in a series of different sets." def_cat="Conjunt d'elements o accions en una sèrie de diversos conjunts.">
+      <eng class="n">batch</eng>
+      <eng class="n">group</eng>
+      <eng class="n">rash</eng>
+      <eng class="n">spate</eng>
+      <cat class="f">tongada</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">group</eng>
+      <cat class="f" remark="tir amb arc">colla</cat>
+      <cat class="m" remark="gimnàstica">conjunt</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A number of people with some relation to one another." def_cat="Grup de persones amb alguna cosa en comú.">
+      <eng class="n">band</eng>
+      <eng class="n">fleet</eng>
+      <eng class="n">gang</eng>
+      <eng class="n">group</eng>
+      <eng class="n">herd</eng>
+      <cat class="f">banda</cat>
+      <cat class="f">bandola</cat>
+      <cat class="f">colla</cat>
+      <cat class="f">comitiva</cat>
+      <cat class="f">comunitat</cat>
+      <cat class="f">quadrilla</cat>
+      <cat class="m">col·lectiu</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n">fleet</eng>
+      <eng class="n">group</eng>
+      <cat class="m">estol</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word">
+      <eng class="n">group</eng>
+      <eng class="n">stand</eng>
+      <cat class="f">mola</cat>
+      <cat class="m">grup</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A number of people who meet to engage in a common interest." def_cat="Conjunt de persones que s'apleguen formalment per a perseguir un interès comú.">
+      <eng class="n" tags="UK">organisation</eng>
+      <eng class="n" tags="US">organization</eng>
+      <eng class="n">circle of people</eng>
+      <eng class="n">circle</eng>
+      <eng class="n">guild</eng>
+      <eng class="n">club</eng>
+      <eng class="n">group</eng>
+      <eng class="n">lodge</eng>
+      <eng class="n">social club</eng>
+      <eng class="n">society</eng>
+      <cat class="f">associació</cat>
+      <cat class="f">societat</cat>
+      <cat class="m">cenacle</cat>
+      <cat class="m">cercle</cat>
+      <cat class="m">club</cat>
+    </e>
+    <e done="yes" src="" def_eng="A section of stairs between one landing and another." def_cat="Secció d'escales entre un replà i un altre." area="arquitectura" type="word">
+      <eng class="n">group</eng>
+      <eng class="n">flight</eng>
+      <cat class="m">tram</cat>
+      <cat class="m">ram</cat>
+      <cat class="m">ram d'escala</cat>
+    </e>
+    <e done="yes" src="" area="matemàtiques" type="word">
+      <eng class="n">group</eng>
+      <eng class="n">mathematical group</eng>
+      <cat class="m">grup</cat>
+    </e>
+    <e done="yes" src="" area="veterinària" type="word">
+      <eng class="n">growing</eng>
+      <eng class="n">raising</eng>
+      <eng class="n">rearing</eng>
+      <cat class="f">recria</cat>
+    </e>
+    <e done="yes" src="" area="patologia" type="word">
+      <eng class="n">growth</eng>
+      <cat class="f">excrescència</cat>
+      <cat class="f">inflor</cat>
+      <cat class="m">bony</cat>
+      <cat class="m">inflament</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">development</eng>
+      <eng class="n">growing</eng>
+      <eng class="n">growth</eng>
+      <eng class="n">maturation</eng>
+      <eng class="n">ontogenesis</eng>
+      <eng class="n">ontogeny</eng>
+      <cat class="f">maduració</cat>
+      <cat class="f">ontogènia</cat>
+      <cat class="m">creixement</cat>
+      <cat class="f">crescuda</cat>
+      <cat class="m">desenvolupament</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word">
+      <eng class="n">growth</eng>
+      <eng class="n">sprouting</eng>
+      <cat class="f">brostada</cat>
+      <cat class="f">brotada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">growth of hair</eng>
+      <cat class="f">tofa</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">growth</eng>
+      <cat class="f">crescuda</cat>
+      <cat class="m">creixement</cat>
+      <cat class="m">desenvolupament</cat>
+    </e>
+    <e done="yes" src="" def_eng="A substantial increase in value or strength." def_cat="Increment substancial de valor o força." type="word">
+      <eng class="n">growth</eng>
+      <cat class="f">plenitud</cat>
+      <cat class="f">puixança</cat>
+      <cat class="m">auge</cat>
+      <cat class="m">esclat</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word" def_eng="Vegetation that has grown over an area." def_cat="Conjunt de plantes que han crescut en una zona.">
+      <eng class="n">growth</eng>
+      <cat class="f">vegetació</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word" def_eng="A squad responsible for protecting something." def_cat="Brigada responsable de la protecció d'alguna cosa.">
+      <eng class="n">guard</eng>
+      <cat class="m">cos de guàrdia</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n">guard</eng>
+      <cat class="mf">guàrdia</cat>
+    </e>
+    <e done="yes" src="" area="esports" def_eng="Act of blocking a blow or hit." def_cat="Aturada d'un cop o estocada." type="word">
+      <eng class="n">guard</eng>
+      <cat class="f">parada</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A device designed to prevent accidents or injuries." def_cat="Dispositiu dissenyat per a prevenir accidents o lesions.">
+      <eng class="n">guard</eng>
+      <eng class="n">safety device</eng>
+      <eng class="n">safety</eng>
+      <cat class="f">protecció</cat>
+    </e>
+    <e done="yes" src="" area="professions_i_oficis" type="word">
+      <eng class="n">guard</eng>
+      <eng class="n">security guard</eng>
+      <cat class="m" feminine="guardiana">guardià</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" feminine="watchwoman">watchman</eng>
+      <eng class="n">custodian</eng>
+      <eng class="n">guard</eng>
+      <eng class="n">warden</eng>
+      <eng class="n">watch</eng>
+      <cat class="mf">guarda</cat>
+      <cat class="mf">vigilant</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">G</eng>
+      <eng class="n">guard</eng>
+      <eng class="n">swing player</eng>
+      <eng class="n">swingman</eng>
+      <cat class="f">base</cat>
+      <cat class="mf" remark="futbol americà">guarda</cat>
+      <cat class="mf">defensa</cat>
+      <cat class="mf">escorta</cat>
+    </e>
+    <e done="yes" src="" area="professions_i_oficis" type="word">
+      <eng class="n">association</eng>
+      <eng class="n">guild</eng>
+      <eng class="n" tags="old">gild</eng>
+      <cat class="m">gremi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">guild</eng>
+      <cat class="f">fraternitat</cat>
+      <cat class="f">confraria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">federation</eng>
+      <eng class="n">guild</eng>
+      <cat class="m">gremi</cat>
+    </e>
+    <e done="yes" src="" area="geografia" type="word" def_eng="A deep wide chasm." def_cat="Cavitat profunda.">
+      <eng class="n">gulf</eng>
+      <cat class="f">gola</cat>
+      <cat class="m">abisme</cat>
+      <cat class="m">abís</cat>
+      <cat class="m">avenc</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="An unbridgeable disparity." def_cat="Diferència insalvable.">
+      <eng class="n" tags="figurative">gulf</eng>
+      <eng class="n">disconnect</eng>
+      <eng class="n">disconnection</eng>
+      <cat class="m">abisme</cat>
+      <cat class="m">bretxa</cat>
+      <cat class="m">buit</cat>
+      <cat class="m">esvoranc</cat>
+    </e>
+    <e done="yes" src="" area="geografia" type="word">
+      <eng class="n">gulf</eng>
+      <cat class="m">golf</cat>
+    </e>
+    <e done="yes" src="" area="fisiologia" type="word">
+      <eng class="n">gulp</eng>
+      <eng class="n" tags="US">draft</eng>
+      <eng class="n" tags="UK">draught</eng>
+      <eng class="n">swig</eng>
+      <cat class="f">glopada</cat>
+      <cat class="m">glop</cat>
+      <cat class="m">trago</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="natació">
+      <eng class="n">guy</eng>
+      <cat class="f">braça</cat>
+    </e>
+    <e done="yes" src="" area="art espectacles" type="word">
+      <eng class="n">guy line</eng>
+      <eng class="n">guy</eng>
+      <cat class="m">vent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" before="someone's">guy</eng>
+      <cat class="m" feminine="xicota">xicot</cat>
+    </e>
+    <e done="yes" src="" area="geografia" type="word">
+      <eng class="n">habitat</eng>
+      <eng class="n">settlement</eng>
+      <cat class="m">hàbitat</cat>
+      <cat class="m">poblament</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="An action performed on a regular basis." def_cat="Acció duta a terme de manera habitual.">
+      <eng class="n">habit</eng>
+      <eng class="n">use</eng>
+      <cat class="f">habitud</cat>
+      <cat class="f">rutina</cat>
+      <cat class="m">costum</cat>
+      <cat class="m">hàbit</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">half time</eng>
+      <eng class="n">rest</eng>
+      <cat class="f">mitja part</cat>
+      <cat class="m">descans</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">half</eng>
+      <cat class="f">meitat</cat>
+      <cat class="f">part</cat>
+    </e>
+    <e done="yes" src="" area="begudes" type="word">
+      <eng class="n">half a pint</eng>
+      <eng class="n">half</eng>
+      <cat class="f">mitja pinta</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" type="word" def_eng="Any of the three terms in Eton College." def_cat="Cadascun dels períodes acadèmics de l'Eton College.">
+      <eng class="n" tags="UK">half</eng>
+      <cat class="m">trimestre</cat>
+    </e>
+    <e done="yes" src="" area="agricultura" type="word">
+      <eng class="n">half</eng>
+      <eng class="n">uncultivated land between</eng>
+      <cat class="f">mitja</cat>
+      <cat class="m">mitjà</cat>
+    </e>
+    <e done="yes" src="" area="arquitectura" def_eng="A room onto which other rooms open." def_cat="Peça que condueix a altres sales o habitacions." type="word">
+      <eng class="n">hall</eng>
+      <eng class="n">hallway</eng>
+      <cat class="f">antesala</cat>
+      <cat class="m">rebedor</cat>
+      <cat class="m">vestíbul</cat>
+    </e>
+    <e done="yes" src="" area="arquitectura" type="word">
+      <eng class="n">hall</eng>
+      <cat class="f">cambra</cat>
+      <cat class="f">sala</cat>
+    </e>
+    <e done="yes" src="" area="arquitectura" type="word" def_eng="A long narrow passage connecting different rooms." def_cat="Peça de pas llarga i estreta entre habitacions o sales.">
+      <eng class="n">corridor</eng>
+      <eng class="n">hall</eng>
+      <eng class="n">hallway</eng>
+      <cat class="m">corredor</cat>
+      <cat class="m">passadís</cat>
+    </e>
+    <e done="yes" src="" area="ferrocarrils" type="word">
+      <eng class="n">halt</eng>
+      <eng class="n">stop</eng>
+      <cat class="m">baixador</cat>
+    </e>
+    <e done="yes" src="" area="veterinària" type="word">
+      <eng class="n">halt</eng>
+      <eng class="n">stop</eng>
+      <cat class="f">parada</cat>
+    </e>
+    <e done="yes" src="" area="transports" type="word">
+      <eng class="n">halt</eng>
+      <eng class="n">stop</eng>
+      <cat class="f">parada</cat>
+      <cat class="m">punt de parada</cat>
+    </e>
+    <e done="yes" src="" area="automobilisme" type="word">
+      <eng class="n">emergency brake</eng>
+      <eng class="n">emergency</eng>
+      <eng class="n">hand brake</eng>
+      <eng class="n">parking brake</eng>
+      <cat class="m">fre auxiliar</cat>
+      <cat class="m">fre d'emergència</cat>
+      <cat class="m">fre de mà</cat>
+    </e>
+    <e done="yes" src="" area="ferrocarrils" type="word">
+      <eng class="n">emergency brake</eng>
+      <eng class="n">emergency</eng>
+      <cat class="m">fre d'emergència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">grip</eng>
+      <eng class="n">handgrip</eng>
+      <eng class="n">handle</eng>
+      <eng class="n">hold</eng>
+      <cat class="f">ansa</cat>
+      <cat class="f">nansa</cat>
+      <cat class="m">agafador</cat>
+      <cat class="m">aferrador</cat>
+      <cat class="m">aferrall</cat>
+      <cat class="m">agafall</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">handling</eng>
+      <eng class="n">management</eng>
+      <cat class="m">maneig</cat>
+    </e>
+    <e done="yes" src="" area="nàutica" type="word">
+      <eng class="n">hand</eng>
+      <cat class="mf">tripulant</cat>
+    </e>
+    <e done="yes" src="" area="nàutica" type="word">
+      <eng class="n">low hand</eng>
+      <cat class="m" feminine="mossa">mosso</cat>
+      <cat class="m" feminine="mossa de coberta">mosso de coberta</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="One of the two sides of an issue." def_cat="Cadascun dels aspectes d'una qüestió.">
+      <eng class="n">hand</eng>
+      <cat class="f">banda</cat>
+      <cat class="f">part</cat>
+      <cat class="m">costat</cat>
+    </e>
+    <e done="yes" src="" area="jocs" def_eng="A set of cards held by a player." def_cat="Cartes que un jugador té a la mà." type="word">
+      <eng class="n">hand</eng>
+      <eng class="n">deal</eng>
+      <cat class="f">mà</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">helping hand</eng>
+      <cat class="m">cop de mà</cat>
+      <cat class="f">ajuda</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word">
+      <eng class="n">hand</eng>
+      <eng class="n">manus</eng>
+      <eng class="n" tags="informal">mitt</eng>
+      <eng class="n">paw</eng>
+      <cat class="f">mà</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="taekwondo">
+      <eng class="n">hand</eng>
+      <eng class="n">son</eng>
+      <cat class="f">mà</cat>
+      <cat class="m">son</cat>
+    </e>
+    <e done="yes" src="" area="tèxtil" type="word">
+      <eng class="n">hand</eng>
+      <cat class="m">tacte</cat>
+      <cat class="m">toc</cat>
+    </e>
+    <e done="yes" src="" area="mecànica" type="word">
+      <eng class="n">hand</eng>
+      <cat class="f">busca</cat>
+      <cat class="f">maneta</cat>
+      <example sent_eng="The clock's hands are not moving." sent_cat="Les busques del rellotge no es mouen." />
+    </e>
+    <e done="yes" src="" area="comunicació" type="word">
+      <eng class="n">handout</eng>
+      <eng class="n">press release</eng>
+      <eng class="n">release</eng>
+      <cat class="m">butlletí</cat>
+      <cat class="m">comunicat</cat>
+      <cat class="f">nota de premsa</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n_p" before="in someone's">hands</eng>
+      <eng class="n">custody</eng>
+      <cat class="f">custòdia</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n_p">hands</eng>
+      <cat class="fp">mans</cat>
+    </e>
+    <e done="yes" src="" area="castells" type="word">
+      <eng class="n_p">hands</eng>
+      <cat class="fp">mans</cat>
+    </e>
+    <e done="yes" src="" area="nàutica" type="word">
+      <eng class="n_p">hands</eng>
+      <cat class="f">marineria</cat>
+      <cat class="f">tripulació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">hankering</eng>
+      <eng class="n">yen</eng>
+      <cat class="f">ànsia</cat>
+    </e>
+    <e done="yes" src="" area="física" type="word">
+      <eng class="n">curing</eng>
+      <eng class="n">hardening</eng>
+      <eng class="n">set</eng>
+      <eng class="n">solidification</eng>
+      <eng class="n">solidifying</eng>
+      <cat class="f">solidificació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">damage</eng>
+      <eng class="n">harm</eng>
+      <eng class="n">injury</eng>
+      <cat class="m">perjudici</cat>
+      <cat class="m">tort</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">hash key</eng>
+      <eng class="n">hash</eng>
+      <eng class="n">number key</eng>
+      <eng class="n" tags="US">pound key</eng>
+      <eng class="n" tags="US">pound</eng>
+      <eng class="n">square</eng>
+      <cat class="m">coixinet</cat>
+      <cat class="m">quadradet</cat>
+    </e>
+    <e done="yes" src="" area="nàutica aeronàutica" type="word">
+      <eng class="n">hatchway</eng>
+      <eng class="n">opening</eng>
+      <eng class="n">scuttle</eng>
+      <cat class="f">escotilla</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">endangerment</eng>
+      <eng class="n">hazard</eng>
+      <eng class="n">jeopardy</eng>
+      <eng class="n">peril</eng>
+      <eng class="n">risk</eng>
+      <cat class="m">perill</cat>
+      <cat class="m">risc</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">hazard</eng>
+      <eng class="n">risk</eng>
+      <cat class="m">risc</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n" tags="UK">head office</eng>
+      <eng class="n" tags="US">home office</eng>
+      <eng class="n">HQ</eng>
+      <eng class="n">central office</eng>
+      <eng class="n">home base</eng>
+      <eng class="n">main office</eng>
+      <eng class="n_p">headquarters</eng>
+      <eng class="n">nexus</eng>
+      <cat class="f">administració</cat>
+      <cat class="f">central</cat>
+      <cat class="f">oficina central</cat>
+    </e>
+    <e done="yes" src="" area="hidrologia" type="word">
+      <eng class="n">head water</eng>
+      <eng class="n">head</eng>
+      <eng class="n">upper reach</eng>
+      <eng class="n_p">headwaters</eng>
+      <cat class="f">capçalera</cat>
+      <cat class="m">curs alt</cat>
+    </e>
+    <e done="yes" src="" area="arts_gràfiques" type="word">
+      <eng class="n">heading</eng>
+      <eng class="n">header</eng>
+      <eng class="n">head</eng>
+      <cat class="m">encapçalament</cat>
+    </e>
+    <e done="yes" src="" area="arts_gràfiques" type="word" def_eng="A section of a text with a heading." def_cat="Part d'un text amb un encapçalament.">
+      <eng class="n">head</eng>
+      <cat class="m">apartat</cat>
+    </e>
+    <e done="yes" src="" area="enginyeria" type="word">
+      <eng class="n">head</eng>
+      <cat class="f">altura de càrrega</cat>
+      <cat class="f">càrrega</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A person in charge." def_cat="Persona que en té d'altres a les seves ordres.">
+      <eng class="n">boss</eng>
+      <eng class="n">chief</eng>
+      <eng class="n">head</eng>
+      <eng class="n">top dog</eng>
+      <cat class="mf">cap</cat>
+      <cat class="mf">responsable</cat>
+    </e>
+    <e done="yes" src="" area="ferreteria" type="word">
+      <eng class="n">head</eng>
+      <cat class="f">cabota</cat>
+      <cat class="m">cap</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">shower head</eng>
+      <cat class="m">capçal de dutxa</cat>
+      <cat class="m" tags="popular">telèfon de dutxa</cat>
+    </e>
+    <e done="yes" src="" area="electricitat_i_electrònica" def_eng="A device used to record, read or delete data from a magnetic or optical drive." def_cat="Dispositiu utilitzat per a enregistrar, llegir o esborrar dades d'un suport magnètic o òptic." type="word">
+      <eng class="n">head</eng>
+      <cat class="m">capçal</cat>
+    </e>
+    <e done="yes" src="" area="numismàtica" type="word">
+      <eng class="n">head</eng>
+      <cat class="f">cara</cat>
+      <cat class="m">anvers</cat>
+    </e>
+    <e done="yes" src="" def_eng="The fibers bound together in one end of a broom." def_cat="Fibres lligades a l'extrem d'una escombra." type="word">
+      <eng class="n">head</eng>
+      <cat class="m">feix</cat>
+      <example sent_eng="The head of that broom is worn out, you should replace it." sent_cat="El feix de l'escombra està desgastat, l'hauries de canviar." />
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">head</eng>
+      <eng class="n">membrane</eng>
+      <cat class="f">membrana</cat>
+      <cat class="f">pell</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">head</eng>
+      <eng class="n">nucleus</eng>
+      <cat class="m">nucli</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="rugbi">
+      <eng class="n">head</eng>
+      <eng class="n">prop</eng>
+      <cat class="m">pilar</cat>
+    </e>
+    <e done="yes" src="" area="nàutica" def_eng="The topmost end of a sail." def_cat="Puny superior d'una vela." type="word">
+      <eng class="n">head</eng>
+      <cat class="m">puny de drissa</cat>
+    </e>
+    <e done="yes" src="" area="fusteria" type="word">
+      <eng class="n">head</eng>
+      <cat class="m">revòlver</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n_p">headquarters</eng>
+      <cat class="f">central</cat>
+      <cat class="f">comissaria</cat>
+      <cat class="m">estat major</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">seat</eng>
+      <eng class="n_p">headquarters</eng>
+      <cat class="f">seu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">seat</eng>
+      <cat class="f">seu</cat>
+      <cat class="m">centre</cat>
+      <example sent_eng="the seat of power" sent_cat="el centre d'autoritat" />
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">health</eng>
+      <eng class="n">healthiness</eng>
+      <eng class="n">wellness</eng>
+      <cat class="f">salut</cat>
+      <cat class="f">sanitat</cat>
+    </e>
+    <e done="yes" src="" area="medicina" def_eng="The services with the goal of preserving and restoring public health." def_cat="Serveis amb l'objectiu de preservar i restaurar la salut pública." type="word">
+      <eng class="n">health</eng>
+      <cat class="f">salut</cat>
+      <cat class="f">sanitat</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n">audience</eng>
+      <eng class="n">hearing</eng>
+      <cat class="f">audiència</cat>
+      <cat class="f">compareixença</cat>
+      <cat class="f">vista de judici oral</cat>
+      <cat class="f">vista oral</cat>
+      <cat class="f">vista</cat>
+    </e>
+    <e done="yes" src="" def_eng="A region under the domain of someone." def_cat="Regió sota el domini d'algú." type="word">
+      <eng class="n">heartland</eng>
+      <eng class="n">stronghold</eng>
+      <eng class="n">territory</eng>
+      <cat class="m">feu</cat>
+      <cat class="m">bastió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">heartland</eng>
+      <cat class="m" tags="figurat">cor</cat>
+      <cat class="m" tags="figurat">rovell</cat>
+      <cat class="m">centre</cat>
+    </e>
+    <e done="yes" src="" type="word" area="geografia">
+      <eng class="n">heartland</eng>
+      <cat class="f">regió central</cat>
+      <cat class="m">territori central</cat>
+      <cat class="m">centre</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="The most important part of something." def_cat="Part central, més important d'alguna cosa.">
+      <eng class="n">central part</eng>
+      <eng class="n">core</eng>
+      <eng class="n">heart</eng>
+      <cat class="f">arrel</cat>
+      <cat class="m">cor</cat>
+      <cat class="m">moll de l'os</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">bosom</eng>
+      <eng class="n">heart</eng>
+      <cat class="f">ànima</cat>
+      <cat class="m">cor</cat>
+      <cat class="m">si</cat>
+    </e>
+    <e done="yes" src="" def_eng="Inclination or tendency of a certain kind." def_cat="Inclinació o tendència." type="word">
+      <eng class="n">heart</eng>
+      <eng class="n">spirit</eng>
+      <cat class="m">ànim</cat>
+      <cat class="m">esperit</cat>
+      <example sent_eng="Luna had a change of heart after the accident." sent_cat="Luna va tenir un canvi d'ànim després de l'accident." />
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">diseased heart</eng>
+      <eng class="n">disordered heart</eng>
+      <cat class="m">cor delicat</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word">
+      <eng class="n">heart</eng>
+      <eng class="n">pump</eng>
+      <eng class="n">ticker</eng>
+      <cat class="m">cor</cat>
+    </e>
+    <e done="yes" src="" area="energia" type="word">
+      <eng class="n">heat</eng>
+      <eng class="n">heating plant</eng>
+      <eng class="n">heating system</eng>
+      <eng class="n">heating</eng>
+      <cat class="f">calefacció</cat>
+      <cat class="m">calorífer</cat>
+    </e>
+    <e done="yes" src="" area="física" type="word">
+      <eng class="n">heat energy</eng>
+      <eng class="n">heat</eng>
+      <cat class="f">calor</cat>
+      <cat class="f">energia calorífica</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">heat</eng>
+      <cat class="f">calor</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">heat</eng>
+      <eng class="n">qualifying round</eng>
+      <cat class="f">eliminatòria</cat>
+    </e>
+    <e done="yes" src="" area="veterinària" type="word">
+      <eng class="n">heat</eng>
+      <eng class="n">estrus</eng>
+      <cat class="m">zel</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" def_eng="Each of the parts of a competition." def_cat="Cadascuna de les parts d'una competició.">
+      <eng class="n">heat</eng>
+      <eng class="n">phase</eng>
+      <cat class="f">fase</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">heat</eng>
+      <eng class="n">leg</eng>
+      <eng class="n">round</eng>
+      <eng class="n">run</eng>
+      <cat class="f">mànega</cat>
+      <cat class="f">sèrie</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="The sensation caused by heat energy." def_cat="Sensació causada per l'energia calorífica.">
+      <eng class="n">heat</eng>
+      <eng class="n">warmth</eng>
+      <cat class="f">calor</cat>
+      <cat class="f">escalfor</cat>
+    </e>
+    <e done="yes" src="" def_eng="The trait of being intensely emotional." def_cat="Tret de viure les emocions amb intensitat." type="word">
+      <eng class="n">heat</eng>
+      <eng class="n">passion</eng>
+      <eng class="n">warmth</eng>
+      <cat class="f">exaltació</cat>
+      <cat class="f">passió</cat>
+      <cat class="f">pruïja</cat>
+      <cat class="f">vehemència</cat>
+      <cat class="m">acalorament</cat>
+      <cat class="m">apassionament</cat>
+      <cat class="m">foc</cat>
+      <cat class="mf">ardor</cat>
+      <cat class="mf">fervor</cat>
+    </e>
+    <e done="yes" src="" area="meteorologia" type="word">
+      <eng class="n">heat</eng>
+      <cat class="f">xafogor</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">heel</eng>
+      <eng class="n">joint</eng>
+      <cat class="m">taló</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">assistant</eng>
+      <eng class="n">helper</eng>
+      <cat class="mf">assistent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">aid</eng>
+      <eng class="n">assistance</eng>
+      <eng class="n">help</eng>
+      <cat class="f">ajuda</cat>
+      <cat class="m">ajut</cat>
+      <cat class="m">auxili</cat>
+      <cat class="m">socors</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">help</eng>
+      <cat class="f">ajuda</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">help</eng>
+      <cat class="f">ajuda</cat>
+      <cat class="m">ajut</cat>
+    </e>
+    <e done="yes" src="" area="metrologia" type="word">
+      <eng class="n" tags="symbol">H</eng>
+      <eng class="n">henry</eng>
+      <cat class="m" tags="símbol">H</cat>
+      <cat class="m">henry</cat>
+    </e>
+    <e done="yes" src="" area="sexualitat" type="word">
+      <eng class="n">heterosexual person</eng>
+      <eng class="n">heterosexual</eng>
+      <eng class="n" tags="colloquial">straight person</eng>
+      <eng class="n" tags="colloquial">straight</eng>
+      <cat class="mf">heterosexual</cat>
+      <cat class="mf" tags="col·loquial">hetero</cat>
+    </e>
+    <e done="yes" src="" area="automobilisme" type="word">
+      <eng class="n">high gear</eng>
+      <eng class="n">high</eng>
+      <cat class="f">quarta</cat>
+      <cat class="f">quinta</cat>
+    </e>
+    <e done="yes" src="" area="meteorologia" type="word">
+      <eng class="n">high</eng>
+      <cat class="fp">altes pressions</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">high</eng>
+      <cat class="f">eufòria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">high</eng>
+      <eng class="n">heights</eng>
+      <cat class="fp">altures</cat>
+    </e>
+    <e done="yes" src="" area="transports" type="word">
+      <eng class="n">hill</eng>
+      <eng class="n">incline</eng>
+      <cat class="m">pendent</cat>
+    </e>
+    <e done="yes" src="" area="geografia" type="word" def_eng="An elevated landmass smaller than a mountain." def_cat="Massa terrestre elevada més petita que una muntanya.">
+      <eng class="n">hill</eng>
+      <eng class="n">mount</eng>
+      <eng class="n">peak</eng>
+      <cat class="f">tossa</cat>
+      <cat class="m">coll</cat>
+      <cat class="m">puig</cat>
+      <cat class="m">pujol</cat>
+      <cat class="m">serral</cat>
+      <cat class="m">tossal</cat>
+      <cat class="m">turó</cat>
+    </e>
+    <e done="yes" src="" area="professions_i_oficis" type="word">
+      <eng class="n">hand</eng>
+      <eng class="n">hired hand</eng>
+      <eng class="n">hired man</eng>
+      <cat class="m" feminine="bracera">bracer</cat>
+      <cat class="m" feminine="jornalera">jornaler</cat>
+    </e>
+    <e done="yes" src="" area="història" type="word">
+      <eng class="n">age</eng>
+      <eng class="n">historic period</eng>
+      <cat class="f">era</cat>
+      <cat class="f">època</cat>
+      <cat class="m">període històric</cat>
+    </e>
+    <e done="yes" src="" area="dret patologia" type="word">
+      <eng class="n">history</eng>
+      <cat class="mp">antecedents</cat>
+    </e>
+    <e done="yes" src="" area="història" type="word">
+      <eng class="n">history</eng>
+      <cat class="mp">fets històrics</cat>
+      <cat class="mp">fets reals</cat>
+      <cat class="f">realitat</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">history</eng>
+      <cat class="f">història</cat>
+      <cat class="m">historial</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">history</eng>
+      <cat class="m">historial</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" type="word">
+      <eng class="n">history</eng>
+      <cat class="f">història</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="beisbol">
+      <eng class="n">hit</eng>
+      <cat class="f">batada</cat>
+      <cat class="m">cop de bat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">collision</eng>
+      <eng class="n">hit</eng>
+      <cat class="f">castanya</cat>
+      <cat class="m">cop</cat>
+      <cat class="m" tags="valencià">colp</cat>
+      <cat class="m">impacte</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="esports de combat">
+      <eng class="n">hit</eng>
+      <cat class="m" tags="valencià">colp</cat>
+      <cat class="m">cop</cat>
+    </e>
+    <e done="yes" src="" area="farmàcia" type="word">
+      <eng class="n">hit compound</eng>
+      <eng class="n">hit</eng>
+      <cat class="m">compost prototip</cat>
+    </e>
+    <e done="yes" src="" area="armament" type="word">
+      <eng class="n">hit</eng>
+      <eng class="n">impact</eng>
+      <cat class="m">impacte</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">hit</eng>
+      <cat class="f">petició de fitxer</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="An injection of a drug." def_cat="Injecció d'una droga.">
+      <eng class="n" tags="informal">hit</eng>
+      <cat class="m" tags="castellà">pico</cat>
+      <cat class="m" tags="col·loquial">xut</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="futbol" type="word">
+      <eng class="n">hit</eng>
+      <cat class="m">xut</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="pentatló">
+      <eng class="n">hit</eng>
+      <eng class="n">touch</eng>
+      <cat class="m">tocat</cat>
+    </e>
+    <e done="yes" src="" def_eng="Something found by luck or during a research." def_cat="Cosa trobada per atzar o com a part d'una investigació." type="word">
+      <eng class="n">hit</eng>
+      <cat class="f">troballa</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" def_eng="Connection over the Internet to a website." def_cat="Connexió a través d'Internet a un lloc web." type="word">
+      <eng class="n">hit</eng>
+      <cat class="f">visita</cat>
+    </e>
+    <e done="yes" src="" area="sociologia" type="word" def_eng="Something very successful." def_cat="Cosa amb molt d'èxit.">
+      <eng class="n">bang</eng>
+      <eng class="n">hit</eng>
+      <eng class="n">smash</eng>
+      <eng class="n">smasher</eng>
+      <eng class="n">strike</eng>
+      <cat class="m">èxit</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="taekwondo">
+      <eng class="n">hoe-jong</eng>
+      <eng class="n">round</eng>
+      <cat class="m">hoejon</cat>
+      <cat class="m">assalt</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">holder</eng>
+      <eng class="n">owner</eng>
+      <cat class="mf">titular</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">holding</eng>
+      <cat class="f">agafada</cat>
+      <cat class="f">retenció il·legal</cat>
+    </e>
+    <e done="yes" src="" area="art biblioteconomia" type="word">
+      <eng class="n">holding</eng>
+      <cat class="mp">béns</cat>
+      <cat class="mp">fons</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n">holding</eng>
+      <cat class="m">hòlding</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">holding</eng>
+      <cat class="f">participació</cat>
+    </e>
+    <e done="yes" src="" def_eng="A piece of land owned by someone." def_cat="Porció de terreny propietat d'algú." type="word">
+      <eng class="n">holding</eng>
+      <cat class="f">terra</cat>
+    </e>
+    <e done="yes" src="" def_eng="Act of holding." def_cat="Acció d'agafar." type="word">
+      <eng class="n">hold</eng>
+      <cat class="m">agafament</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="judo">
+      <eng class="n">hold</eng>
+      <cat class="f">clau</cat>
+    </e>
+    <e done="yes" src="" def_eng="Power over something or someone." def_cat="Poder sobre alguna cosa o algú." type="word">
+      <eng class="n">hold</eng>
+      <cat class="m">control</cat>
+      <cat class="m">domini</cat>
+    </e>
+    <e done="yes" src="" area="indústria" type="word">
+      <eng class="n">hold</eng>
+      <eng class="n">pause</eng>
+      <cat class="f">pausa</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="escalada" type="word">
+      <eng class="n">hold</eng>
+      <cat class="f">presa</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="esports de neu" type="word">
+      <eng class="n">hold</eng>
+      <cat class="m">recolzament</cat>
+      <cat class="m">repenjament</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="beisbol">
+      <eng class="n">home base</eng>
+      <eng class="n">home plate</eng>
+      <eng class="n">home</eng>
+      <eng class="n">plate</eng>
+      <cat class="f">base de meta</cat>
+      <cat class="f">meta</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Place assigned to someone." def_cat="Lloc assignat a una persona.">
+      <eng class="n">home</eng>
+      <cat class="m">lloc</cat>
+      <example sent_eng="This is my home." sent_cat="Aquest és el meu lloc." />
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">home</eng>
+      <eng class="n">nursing home</eng>
+      <eng class="n">rest home</eng>
+      <cat class="f">clínica</cat>
+      <cat class="f">llar</cat>
+      <cat class="m">sanatori</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="The general place where someone lives." def_cat="Lloc en general on viu algú.">
+      <eng class="n">home</eng>
+      <cat class="m">ciutat</cat>
+      <cat class="m">estat</cat>
+      <cat class="m">país</cat>
+    </e>
+    <e done="yes" src="" def_eng="The feeling of expectation that something wished for can or will happen." def_cat="Espera d'una cosa desitjada que pot succeir o succeirà." type="word">
+      <eng class="n">hope</eng>
+      <cat class="f">esperança</cat>
+      <cat class="f">expectació</cat>
+      <cat class="f">il·lusió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">horde</eng>
+      <eng class="n">host</eng>
+      <eng class="n">legion</eng>
+      <cat class="f">legió</cat>
+      <cat class="f">munió</cat>
+      <cat class="m">gran nombre</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="n">purview</eng>
+      <cat class="m">abast</cat>
+      <cat class="m">àmbit</cat>
+      <cat class="f">esfera</cat>
+      <cat class="m">camp</cat>
+      <example sent_eng="This issue is outside my purview." sent_cat="Aquesta qüestió està fora del meu àmbit." />
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="n">purview</eng>
+      <cat class="f">competència</cat>
+      <cat class="f">jurisdicció</cat>
+      <cat class="mp">límits</cat>
+      <example sent_eng="That decision is within the purview of the committee." sent_cat="Aquesta decisió és competència del comitè." />
+      <example sent_eng="It comes within the purview of the law" sent_cat="Entra dins dels límits de la llei." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="UK">level</eng>
+      <eng class="n">horizontal surface</eng>
+      <cat class="f">superfície horitzontal</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">hospital</eng>
+      <eng class="n">infirmary</eng>
+      <cat class="f">clínica</cat>
+      <cat class="m">hospici</cat>
+      <cat class="m">hospital</cat>
+    </e>
+    <e done="yes" src="" area="religió" type="word">
+      <eng class="n">host</eng>
+      <cat class="f">hòstia</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Someone responsible for running an event." def_cat="Persona responsable d'organitzar un esdeveniment.">
+      <eng class="n">host</eng>
+      <cat class="m" feminine="amfitriona">amfitrió</cat>
+    </e>
+    <e done="yes" src="" area="espectacles" type="word">
+      <eng class="n">host</eng>
+      <cat class="m" feminine="mestra">mestre de cerimònies</cat>
+      <cat class="m" feminine="presentadora">presentador</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Someone who receives or entertains guests." def_cat="Persona que rep o entreté els convidats.">
+      <eng class="n">host</eng>
+      <cat class="m" feminine="animadora">animador</cat>
+    </e>
+    <e done="yes" src="" area="patologia" type="word">
+      <eng class="n">host species</eng>
+      <eng class="n">host</eng>
+      <cat class="m">ospite</cat>
+      <cat class="m" feminine="hostatgera">hostatger</cat>
+      <cat class="m">hoste</cat>
+    </e>
+    <e done="yes" src="" area="lleure" type="word">
+      <eng class="n">host</eng>
+      <cat class="m" feminine="hostessa">hoste</cat>
+    </e>
+    <e done="yes" src="" area="professions_i_oficis" type="word">
+      <eng class="n">boniface</eng>
+      <eng class="n">host</eng>
+      <eng class="n">innkeeper</eng>
+      <cat class="m" feminine="hostalera">hostaler</cat>
+      <cat class="mf">fondista</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n">host</eng>
+      <eng class="n">legion</eng>
+      <cat class="f">host</cat>
+      <cat class="f">legió</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">host</eng>
+      <eng class="n">recipient</eng>
+      <cat class="m" feminine="receptora">receptor</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">hotel</eng>
+      <cat class="m">hotel</cat>
+    </e>
+    <e done="yes" src="" area="física" type="word" def_eng="Presence of heat." def_cat="Presència de calor.">
+      <eng class="n">heat</eng>
+      <eng class="n">high temperature</eng>
+      <eng class="n">hotness</eng>
+      <cat class="f">calor</cat>
+    </e>
+    <e done="yes" src="" area="metrologia" type="word">
+      <eng class="n">hour</eng>
+      <eng class="n" tags="abbreviation">hr</eng>
+      <eng class="n" tags="symbol">h</eng>
+      <cat class="f">hora</cat>
+      <cat class="f" tags="símbol">h</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">opening hours</eng>
+      <eng class="n_p">office hours</eng>
+      <cat class="m">horari laboral</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">odd hours</eng>
+      <cat class="m">horari intempestiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">after hours</eng>
+      <cat class="m">horari no laboral</cat>
+    </e>
+    <e done="yes" src="" area="política" type="word">
+      <eng class="n">house</eng>
+      <cat class="f">cambra</cat>
+      <example sent_eng="The House of Commons and the House of Lords." sent_cat="La Cambra dels Comuns i la Cambra dels Lords." />
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="tir olímpic">
+      <eng class="n">house</eng>
+      <cat class="f">caseta</cat>
+    </e>
+    <e done="yes" src="" area="religió" type="word">
+      <eng class="n">house</eng>
+      <cat class="f">comunitat religiosa</cat>
+    </e>
+    <e done="yes" src="" area="espectacles" def_eng="The people attending a show." def_cat="Conjunt de persones que han entrat a un espectacle o a una funció." type="word">
+      <eng class="n">house</eng>
+      <cat class="f">entrada</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">house music</eng>
+      <eng class="n">house</eng>
+      <cat class="m" tags="anglès">house</cat>
+    </e>
+    <e done="yes" src="" area="jocs" type="word">
+      <eng class="n">house</eng>
+      <cat class="m">papes i mames</cat>
+    </e>
+    <e done="yes" src="" area="espectacles" type="word">
+      <eng class="n">house</eng>
+      <cat class="f">sala</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">housing</eng>
+      <cat class="m">allotjament de maquinari</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">hosting</eng>
+      <cat class="m">allotjament</cat>
+    </e>
+    <e done="yes" src="" area="indústria" type="word">
+      <eng class="n">housing</eng>
+      <cat class="f">carcassa</cat>
+      <cat class="f">cobertora</cat>
+      <cat class="f">tapadora</cat>
+      <cat class="f">tapadura</cat>
+    </e>
+    <e done="yes" src="" type="word" area="sociologia" def_eng="Structures collectively in which people are housed." def_cat="Estructures, col·lectivament, on s'allotgen persones.">
+      <eng class="n">housing</eng>
+      <eng class="n">lodging</eng>
+      <eng class="n_p">living accommodations</eng>
+      <cat class="m">allotjament</cat>
+      <cat class="mp">habitatges</cat>
+    </e>
+    <e done="yes" src="" area="fusteria" type="word">
+      <eng class="n">housing</eng>
+      <eng class="n">notch</eng>
+      <eng class="n">rebate</eng>
+      <cat class="f">mossa</cat>
+      <cat class="m">contragalze</cat>
+      <cat class="m">encaix</cat>
+      <cat class="m">galze</cat>
+    </e>
+    <e done="yes" src="" area="ramaderia" type="word">
+      <eng class="n">housing</eng>
+      <eng class="n">stabling</eng>
+      <cat class="f">estabulació</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word" def_eng="The body of a human being." def_cat="El cos d'un ésser humà.">
+      <eng class="n">anatomy</eng>
+      <eng class="n">human body</eng>
+      <eng class="n">bod</eng>
+      <eng class="n">build</eng>
+      <eng class="n">chassis</eng>
+      <eng class="n">figure</eng>
+      <eng class="n">flesh</eng>
+      <eng class="n">form</eng>
+      <eng class="n">frame</eng>
+      <eng class="n">material body</eng>
+      <eng class="n">physical body</eng>
+      <eng class="n">physique</eng>
+      <eng class="n">shape</eng>
+      <eng class="n">soma</eng>
+      <cat class="f">anatomia</cat>
+      <cat class="m">cos humà</cat>
+      <cat class="m">físic</cat>
+      <cat class="f">figura</cat>
+      <cat class="f">forma</cat>
+      <cat class="f">carn</cat>
+      <cat class="m">soma</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n">human security</eng>
+      <eng class="n">security</eng>
+      <cat class="f">seguretat humana</cat>
+      <cat class="f">seguretat</cat>
+    </e>
+    <e done="yes" src="" area="ensenyament" type="word">
+      <eng class="n">humanistic discipline</eng>
+      <eng class="n_p">arts</eng>
+      <eng class="n_p">humanities</eng>
+      <eng class="n_p">liberal arts</eng>
+      <cat class="fp">arts</cat>
+      <cat class="fp">humanitats</cat>
+      <cat class="fp">lletres</cat>
+    </e>
+    <e done="yes" src="" area="biologia" type="word">
+      <eng class="n">human being</eng>
+      <eng class="n">human</eng>
+      <cat class="m">ésser humà</cat>
+    </e>
+    <e done="yes" src="" area="sociologia" type="word">
+      <eng class="n">husband</eng>
+      <eng class="n">married man</eng>
+      <eng class="n" tags="informal">hubby</eng>
+      <cat class="m">espòs</cat>
+      <cat class="m">home</cat>
+      <cat class="m">marit</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">hush</eng>
+      <eng class="n">still</eng>
+      <eng class="n">stillness</eng>
+      <cat class="f">calma</cat>
+      <cat class="f">quietud</cat>
+      <cat class="f">tranquil·litat</cat>
+    </e>
+    <e done="yes" src="" area="biologia" type="word">
+      <eng class="n" tags="UK">hybridisation</eng>
+      <eng class="n" tags="UK">hybridising</eng>
+      <eng class="n" tags="US">hybridization</eng>
+      <eng class="n" tags="US">hybridizing</eng>
+      <eng class="n">cross</eng>
+      <eng class="n">crossbreeding</eng>
+      <eng class="n">crossing</eng>
+      <eng class="n">interbreeding</eng>
+      <cat class="f">hibridació</cat>
+      <cat class="m">encreuament</cat>
+    </e>
+    <e done="yes" src="" area="biologia" type="word">
+      <eng class="n">cross</eng>
+      <eng class="n">crossbreed</eng>
+      <eng class="n">hybrid</eng>
+      <cat class="m">encreuament</cat>
+      <cat class="m">híbrid</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">ice stock</eng>
+      <eng class="n">stock</eng>
+      <cat class="m" tags="anglès">icestock</cat>
+    </e>
+    <e done="yes" src="" area="alimentació" def_cat="Postres gelades de suc de fruita, aigua i sucre" type="word">
+      <eng class="n">frappe</eng>
+      <eng class="n">ice</eng>
+      <cat class="m">gelat</cat>
+    </e>
+    <e done="yes" src="" area="física" type="word">
+      <eng class="n">ice</eng>
+      <eng class="n">water ice</eng>
+      <cat class="m">gel</cat>
+      <cat class="m">glaç</cat>
+    </e>
+    <e done="yes" src="" area="filosofia" type="word" def_eng="Any result of mental activity." def_cat="Resultat de l'activitat mental.">
+      <eng class="n">idea</eng>
+      <eng class="n">thought</eng>
+      <cat class="f">idea</cat>
+      <cat class="m">pensament</cat>
+    </e>
+    <e done="yes" src="" def_eng="A conception of something to be done, a plan." def_cat="Concepció d'alguna cosa que cal fer." type="word">
+      <eng class="n">idea</eng>
+      <cat class="m">designi</cat>
+      <cat class="m">propòsit</cat>
+      <cat class="m">objectiu</cat>
+      <cat class="m">projecte</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">crazy idea</eng>
+      <cat class="f">dèria</cat>
+    </e>
+    <e done="yes" src="" area="art" type="word">
+      <eng class="n">idea</eng>
+      <cat class="f">forma</cat>
+      <cat class="m">esbós</cat>
+      <cat class="f" tags="figurat">trama</cat>
+    </e>
+    <e done="yes" src="" area="filosofia" type="word" def_eng="An abstract archetype of a given thing." def_cat="Arquetip abstracte d'una cosa determinada.">
+      <eng class="n">idea</eng>
+      <eng class="n">image</eng>
+      <eng class="n">mental image</eng>
+      <cat class="f">concepció mental</cat>
+      <cat class="f">idea</cat>
+      <cat class="f">imatge</cat>
+      <cat class="f">noció</cat>
+      <cat class="f">perspectiva</cat>
+      <cat class="f">representació</cat>
+      <cat class="f">visió</cat>
+      <cat class="m">concepte</cat>
+      <cat class="m">plantejament</cat>
+    </e>
+    <e done="yes" src="" def_eng="A proposal to do something." def_cat="Proposta per a fer alguna cosa." type="word">
+      <eng class="n">idea</eng>
+      <cat class="f">iniciativa</cat>
+      <cat class="m">suggeriment</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="A material effigy that is worshipped." def_cat="Efígie material que és objecte de culte.">
+      <eng class="n">god</eng>
+      <eng class="n">graven image</eng>
+      <eng class="n">idol</eng>
+      <cat class="m">déu</cat>
+      <cat class="m">ídol</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="The general impression that something presents to the public." def_cat="Impressió general que presenta alguna cosa al públic.">
+      <eng class="n">image</eng>
+      <cat class="f">aparença</cat>
+      <cat class="m">aspecte</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="Something similar to something else." def_cat="Cosa semblant a una altra.">
+      <eng class="n">image</eng>
+      <cat class="f" tags="col·loquial">estampa</cat>
+      <cat class="f">comparació</cat>
+      <cat class="f">metàfora</cat>
+      <cat class="m" tags="figurat">reflex</cat>
+      <cat class="m">símil</cat>
+    </e>
+    <e done="yes" src="" def_eng="A representation of something." def_cat="Representació d'alguna cosa." type="word">
+      <eng class="n">image</eng>
+      <cat class="f">escena</cat>
+    </e>
+    <e done="yes" src="" area="fotografia" type="word">
+      <eng class="n">image</eng>
+      <eng class="n">picture</eng>
+      <cat class="f">imatge</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" remark="realitat virtual" type="word">
+      <eng class="n">immersion</eng>
+      <eng class="n">presence</eng>
+      <cat class="f">immersió</cat>
+      <cat class="f">presència</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">blow</eng>
+      <eng class="n">crash</eng>
+      <eng class="n">impact</eng>
+      <cat class="f">patacada</cat>
+      <cat class="f">topada</cat>
+      <cat class="m">impacte</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="figurative">impact</eng>
+      <eng class="n">influence</eng>
+      <eng class="n">wallop</eng>
+      <cat class="f">incidència</cat>
+      <cat class="f">repercussió</cat>
+      <cat class="m">efecte</cat>
+      <cat class="m" tags="figurat">impacte</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n">impact of an organization</eng>
+      <eng class="n">impact</eng>
+      <cat class="m">impacte</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="tir amb arc">
+      <eng class="n">impact</eng>
+      <cat class="m">impacte</cat>
+    </e>
+    <e done="yes" src="" area="informàtica" type="word">
+      <eng class="n">impact</eng>
+      <eng class="n">impression</eng>
+      <eng class="n">visit</eng>
+      <cat class="f">impressió</cat>
+      <cat class="f">visita</cat>
+      <cat class="m">impacte</cat>
+    </e>
+    <e done="yes" src="" area="construcció" type="word">
+      <eng class="n">impact</eng>
+      <eng class="n">shock</eng>
+      <cat class="m">xoc</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="The state of demanding notice or attention." def_cat="Estat de demanar atenció.">
+      <eng class="n">imperativeness</eng>
+      <eng class="n">insistence</eng>
+      <eng class="n">insistency</eng>
+      <eng class="n">press</eng>
+      <eng class="n">pressure</eng>
+      <cat class="f">insistència</cat>
+      <cat class="f">pressió</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">encroachment</eng>
+      <eng class="n">impingement</eng>
+      <cat class="f">intrusió</cat>
+      <cat class="f">usurpació</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="atletisme" type="word">
+      <eng class="n">impression</eng>
+      <eng class="n">mark</eng>
+      <cat class="f">petjada</cat>
+    </e>
+    <e done="yes" src="" area="arts_gràfiques" type="word">
+      <eng class="n">impression</eng>
+      <eng class="n">press run</eng>
+      <eng class="n">print run</eng>
+      <eng class="n">run</eng>
+      <cat class="f">tirada</cat>
+      <cat class="m">tiratge</cat>
+    </e>
+    <e done="yes" src="" area="metrologia" type="word">
+      <eng class="n" tags="symbol">in</eng>
+      <eng class="n">inch</eng>
+      <cat class="f">polzada</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">injured person</eng>
+      <eng class="n">injured</eng>
+      <eng class="n">wounded</eng>
+      <cat class="m" feminine="ferida">ferit</cat>
+    </e>
+    <e done="yes" src="" area="transports" def_eng="Person or vehicle part of an accident." def_cat="Persona o vehicle involucrat en un accident." type="word">
+      <eng class="n">involved</eng>
+      <cat class="m" feminine="implicada">implicat</cat>
+    </e>
+    <e done="yes" src="" area="llengües" type="word">
+      <eng class="n">Iranian language</eng>
+      <eng class="n">Iranic language</eng>
+      <cat class="m">iranià</cat>
+      <cat class="m">irànic</cat>
+    </e>
+    <e done="yes" src="" area="art" type="word">
+      <eng class="n">japan</eng>
+      <cat class="f">laca japonesa</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">keep</eng>
+      <cat class="f">manutenció</cat>
+    </e>
+    <e done="yes" src="" area="militar" type="word">
+      <eng class="n">keep</eng>
+      <cat class="f">torre de guarda</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">la</eng>
+      <eng class="n">lah</eng>
+      <cat class="m">la</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">lee side</eng>
+      <eng class="n">lee</eng>
+      <eng class="n">leeward</eng>
+      <cat class="m">sotavent</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="tennis">
+      <eng class="n">let</eng>
+      <eng class="n">net ball</eng>
+      <cat class="m" tags="anglès">let</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word">
+      <eng class="n">let</eng>
+      <cat class="f">pilota nul·la</cat>
+      <cat class="m">punt nul</cat>
+    </e>
+    <e done="yes" src="" area="fotografia" type="word">
+      <eng class="n_p">levels</eng>
+      <cat class="mp">nivells</cat>
+    </e>
+    <e done="yes" src="" area="medicina" type="word">
+      <eng class="n">local anaesthetic</eng>
+      <eng class="n">local anesthetic</eng>
+      <eng class="n">local</eng>
+      <eng class="n">topical anaesthetic</eng>
+      <eng class="n">topical anesthetic</eng>
+      <cat class="m">anestèsic local</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">locals</eng>
+      <cat class="f">gent del país</cat>
+      <cat class="mp" feminine="veïnes">veïns</cat>
+    </e>
+    <e done="yes" src="" def_eng="One's nearest or most frequented pub or bar." def_cat="Bar o pub més proper o habitual." type="word">
+      <eng class="n" tags="UK">local</eng>
+      <cat class="m" remark="habitual o més proper">pub</cat>
+      <cat class="m">lloc de sempre</cat>
+      <cat class="m">bar de baix</cat>
+    </e>
+    <e done="yes" src="" area="periodisme" type="word">
+      <eng class="n_p">media</eng>
+      <cat class="mp">mitjans de comunicació</cat>
+    </e>
+    <e done="yes" src="" area="periodisme" type="word">
+      <eng class="n">media</eng>
+      <cat class="m">mitjà de comunicació</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word">
+      <eng class="n">media</eng>
+      <eng class="n">tunica media</eng>
+      <cat class="f">túnica elàstica</cat>
+      <cat class="f">túnica mitjana</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">moldiness</eng>
+      <eng class="n">must</eng>
+      <eng class="n">mustiness</eng>
+      <cat class="f">ranciesa</cat>
+    </e>
+    <e done="yes" src="" area="enologia" type="word">
+      <eng class="n">must</eng>
+      <eng class="n">grape juice</eng>
+      <cat class="m">most</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">must</eng>
+      <cat class="f">obligació</cat>
+      <cat class="f">necessitat</cat>
+      <example sent_eng="When travelling abroad, knowing a handful of phrases in the local language is a must." sent_cat="Quan es viatja a l'estranger, saber algunes frases en la llengua local és una obligació." />
+    </e>
+    <e done="yes" src="" area="publicacions" type="word">
+      <eng class="n">offprint</eng>
+      <eng class="n">reprint</eng>
+      <eng class="n">separate</eng>
+      <cat class="f">reimpressió</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="beisbol">
+      <eng class="n">one-base hit</eng>
+      <eng class="n">single hit</eng>
+      <eng class="n">single</eng>
+      <cat class="f">batada d'una base</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">operating</eng>
+      <cat class="f">pràctica</cat>
+      <cat class="m">exercici</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="criquet">
+      <eng class="n">over</eng>
+      <cat class="m" tags="anglès">over</cat>
+    </e>
+    <e done="yes" src="" area="numismàtica" type="word">
+      <eng class="n">pacific</eng>
+      <cat class="m">pacífic</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">personal business</eng>
+      <eng class="n_p">affairs</eng>
+      <eng class="n_p">personal matters</eng>
+      <cat class="mp">assumptes personals</cat>
+    </e>
+    <e done="yes" src="" def_eng="The areas to go to or visit somewhere." def_cat="Llocs on anar o per visitar d'un indret." type="word">
+      <eng class="n">parts</eng>
+      <eng class="n">places</eng>
+      <cat class="mp">topants</cat>
+    </e>
+    <e done="yes" src="" area="política" def_eng="The place where people vote." def_cat="Lloc on es vota." type="word">
+      <eng class="n_p">polls</eng>
+      <cat class="m">col·legi electoral</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">put option</eng>
+      <eng class="n">put</eng>
+      <cat class="f" tags="anglès">put</cat>
+      <cat class="f">opció de venda</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n_p">records</eng>
+      <cat class="mp">arxius</cat>
+    </e>
+    <e done="yes" src="" area="numismàtica" type="word">
+      <eng class="n">renminbi</eng>
+      <eng class="n">yuan renminbi</eng>
+      <eng class="n">yuan</eng>
+      <cat class="m">iuan renminbi</cat>
+      <cat class="m">iuan</cat>
+      <cat class="m">renminbi</cat>
+    </e>
+    <e done="yes" src="" area="dret" type="word">
+      <eng class="n_p">rights</eng>
+      <cat class="mp">drets individuals</cat>
+      <cat class="mp">drets</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n_p">Royals</eng>
+      <cat class="f">família reial</cat>
+    </e>
+    <e done="yes" src="" area="tèxtil" type="word">
+      <eng class="n">second</eng>
+      <eng class="n">irregular</eng>
+      <cat class="m">gènere amb tara</cat>
+      <cat class="m">gènere defectuós</cat>
+      <cat class="m">article amb defecte de fàbrica</cat>
+    </e>
+    <e done="yes" src="" area="indumentària" type="word">
+      <eng class="n">afghan</eng>
+      <eng class="n">sheepskin coat</eng>
+      <cat class="f">samarra</cat>
+    </e>
+    <e done="yes" src="" area="electrotècnia" type="word">
+      <eng class="n">short circuit</eng>
+      <eng class="n">short</eng>
+      <cat class="m">curtcircuit</cat>
+    </e>
+    <e done="yes" src="" area="cinematografia" type="word">
+      <eng class="n">short</eng>
+      <cat class="m">curt</cat>
+      <cat class="m">curtmetratge</cat>
+    </e>
+    <e done="yes" src="" area="indumentària" type="word">
+      <eng class="n_p">shorts</eng>
+      <cat class="mp">pantalons curts</cat>
+    </e>
+    <e done="yes" src="" area="begudes" type="word">
+      <eng class="n">short drink</eng>
+      <eng class="n">short</eng>
+      <cat class="f">beguda curta</cat>
+      <cat class="m">còctel curt</cat>
+    </e>
+    <e done="yes" src="" area="begudes" type="word">
+      <eng class="n">long drink</eng>
+      <eng class="n">long</eng>
+      <eng class="n">tumbler</eng>
+      <cat class="f">beguda llarga</cat>
+      <cat class="m">còctel llarg</cat>
+    </e>
+    <e done="yes" src="" area="economia" type="word">
+      <eng class="n">short</eng>
+      <cat class="f">venda en descobert</cat>
+    </e>
+    <e done="yes" src="" area="esports" type="word" remark="beisbol">
+      <eng class="n">short</eng>
+      <eng class="n">shortstop</eng>
+      <cat class="mf">interbase</cat>
+    </e>
+    <e done="yes" src="" area="empresa" type="word">
+      <eng class="n_p">signs</eng>
+      <cat class="f">retolació</cat>
+    </e>
+    <e done="yes" src="" area="transports" def_eng="Ticket allowing for one trip between two places in one direction." def_cat="Bitllet que permet viatjar una vegada entre dos llocs en un sentit." type="word">
+      <eng class="n">single ticket</eng>
+      <eng class="n">single</eng>
+      <cat class="m">bitllet d'anada</cat>
+      <cat class="m">anada</cat>
+      <cat class="m">senzill</cat>
+      <cat class="m">bitllet senzill</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word" def_eng="A 45 RPM vinyl record with one song on side A and one song on side B." def_cat="Disc de vinil de 45 RPM amb una cançó a la cara A i una cançó a la cara B.">
+      <eng class="n">single</eng>
+      <cat class="m" tags="anglès">single</cat>
+      <cat class="m">disc de quaranta-cinc</cat>
+      <cat class="m">disc petit</cat>
+      <cat class="m">senzill</cat>
+    </e>
+    <e done="yes" src="" area="medicina turisme" type="word">
+      <eng class="n">single room</eng>
+      <eng class="n">single</eng>
+      <cat class="f">habitació individual</cat>
+      <cat class="f">habitació senzilla</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="rem" type="word">
+      <eng class="n">single sculls</eng>
+      <eng class="n">single</eng>
+      <cat class="m">esquif</cat>
+    </e>
+    <e done="yes" src="" area="música" type="word">
+      <eng class="n">single</eng>
+      <cat class="m" tags="anglès">single</cat>
+      <cat class="m">senzill</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="symbol">SE</eng>
+      <eng class="n" tags="colloquial">sou'-east</eng>
+      <eng class="n">southeast</eng>
+      <eng class="n">southeastward</eng>
+      <cat class="m">sud-est</cat>
+      <cat class="m" tags="símbol">SE</cat>
+    </e>
+    <e done="yes" src="" area="meteorologia" type="word">
+      <eng class="n">southeast</eng>
+      <cat class="m">xaloc</cat>
+    </e>
+    <e done="yes" src="" area="alimentació" type="word">
+      <eng class="n">special</eng>
+      <cat class="m">plat especial</cat>
+    </e>
+    <e done="yes" src="" area="història" type="word">
+      <eng class="n_p">stocks</eng>
+      <cat class="m">carcany</cat>
+      <cat class="m">cep</cat>
+      <cat class="m">costell</cat>
+    </e>
+    <e done="yes" src="" area="arqueologia" type="word">
+      <eng class="n">tell</eng>
+      <cat class="m">tell</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">tell</eng>
+      <cat class="f">xafarderia</cat>
+      <cat class="f">tafaneria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">weekend</eng>
+      <cat class="m">cap de setmana</cat>
+    </e>
+    <e done="yes" src="" area="esports" remark="criquet" type="word">
+      <eng class="n">wide ball</eng>
+      <eng class="n">wide</eng>
+      <cat class="f">pilota injugable</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">late hour</eng>
+      <cat class="f">hora avançada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="UK AU">positive colour</eng>
+      <eng class="n" tags="US">positive color</eng>
+      <cat class="m">color alegre</cat>
+    </e>
+    <e done="yes" src="" area="religió" type="word">
+      <eng class="n">general service</eng>
+      <cat class="m">ofici ordinari</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">little voice</eng>
+      <eng class="n">small voice</eng>
+      <cat class="f">veu dèbil</cat>
+      <cat class="f">veu feble</cat>
+      <cat class="f">veu fluixa</cat>
+    </e>
+    <e done="yes" src="" area="anatomia" type="word">
+      <eng after="lips" class="n_p">full lips</eng>
+      <cat class="mp">llavis molsuts</cat>
+      <cat class="mp">llavis grossos</cat>
+      <cat class="mp">llavis gruixuts</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">smell of old cigar</eng>
+      <cat class="f">olor de cigarro apagat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">full-fledged nation</eng>
+      <eng class="n">fully-fledged nation</eng>
+      <cat class="f">nació de ple dret</cat>
+    </e>
+    <e done="yes" src="" area="meteorologia" type="word">
+      <eng class="n">fully-fledged storm</eng>
+      <cat class="f">tempesta desfermada</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">lost sight</eng>
+      <cat class="f">mirada extraviada</cat>
+      <cat class="f">mirada esgarriada</cat>
+    </e>
+    <e src="" type="word" area="botànica" done="yes">
+      <eng class="n">avocado</eng>
+      <cat class="m">alvocat</cat>
+    </e>
+    <e src="" type="word" area="botànica" done="yes">
+      <eng class="n">avocado tree</eng>
+      <cat class="m">alvocater</cat>
+    </e>
+  </entries>
+</root>

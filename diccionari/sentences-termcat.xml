@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="sentence" area="tipografia" done="yes">
+      <eng class="IND">double outline</eng>
+      <cat class="IND">contorn doble</cat>
+    </e>
+    <e done="yes" src="" type="sentence" area="informàtica">
+      <eng class="n_p">terms of use</eng>
+      <cat class="fp">condicions d'ús</cat>
+    </e>
+    </entries>
+</root>

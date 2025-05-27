@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e area="zoologia" src="" type="word" done="yes">
+      <eng class="n">Chironomidae</eng>
+      <eng class="n">family Chironomidae</eng>
+      <cat class="mp">quironòmids</cat>
+    </e>
+    </entries>
+</root>

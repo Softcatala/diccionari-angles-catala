@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Yemen</eng>
+      <cat class="m">el Iemen</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Sistine Chapel</eng>
+      <cat class="f">Capella Sixtina</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Easter Island</eng>
+      <cat class="f">illa de Pasqua</cat>
+    </e>
+    <e src="" type="word" area="política comerç" done="yes">
+      <eng class="n">World Trade Organization</eng>
+      <eng class="n" tags="abbreviation">WTO</eng>
+      <cat class="f">Organització Mundial del Comerç</cat>
+      <cat class="f" tags="sigla">OMC</cat>
+    </e>
+    <e src="" done="yes" area="mitologia">
+      <eng class="np">Asmodeus</eng>
+      <cat class="np">Asmodeu</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="np">Organization of the Petroleum Exporting Countries</eng>
+      <eng class="np" tags="acronym">OPEC</eng>
+      <cat class="np">Organització de Països Exportadors de Petroli</cat>
+      <cat class="np" tags="sigla">OPEP</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Ivory Coast</eng>
+      <cat class="f">Costa d'Ivori</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Venezuela</eng>
+      <cat class="f">Veneçuela</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Scotland</eng>
+      <cat class="f">Escòcia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Riyadh</eng>
+      <cat class="np">Riad</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Berlin</eng>
+      <cat class="np">Berlín</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Belarus</eng>
+      <cat class="f">Bielorússia</cat>
+      <cat class="f">Belarússia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Arabian Desert</eng>
+      <cat class="m">desert d'Aràbia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Arabian Peninsula</eng>
+      <cat class="f">península Aràbiga</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Arabia</eng>
+      <cat class="f">Aràbia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Arabian Sea</eng>
+      <cat class="f">mar d'Aràbia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">North America</eng>
+      <cat class="np">Amèrica del Nord</cat>
+      <cat class="np">Nord-Amèrica</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Turkey</eng>
+      <eng class="np" remark="official name">Türkiye</eng>
+      <cat class="np">Turquia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Himalaya</eng>
+      <eng class="np">The Himalayas</eng>
+      <cat class="m">l'Himàlaia</cat>
+    </e>
+    <e src="" type="word" area="topònim" done="yes">
+      <eng class="np">Rocky Mountains</eng>
+      <eng class="np">Rockies</eng>
+      <cat class="fp">muntanyes Rocoses</cat>
+      <cat class="fp">muntanyes Rocalloses</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="np">Tantalus</eng>
+      <cat class="np">Tàntal</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">East Germany</eng>
+      <cat class="np">Alemanya de l'Est</cat>
+      <cat class="np">Alemanya Oriental</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">German Democratic Republic</eng>
+      <eng class="np">GDR</eng>
+      <cat class="np">República Democràtica Alemanya</cat>
+      <cat class="np">RDA</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Majorca</eng>
+      <eng class="np">Mallorca</eng>
+      <cat class="np">Mallorca</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">the Maghreb</eng>
+      <eng class="np">the Maghrib</eng>
+      <cat class="np">el Magrib</cat>
+      <cat class="np">el Magreb</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="np">Khufu</eng>
+      <eng class="np">Cheops</eng>
+      <cat class="np">Kheops</cat>
+      <cat class="np">Quèops</cat>
+    </e>
+    <e src="" type="word" done="yes" area="història">
+      <eng class="np">American Civil War</eng>
+      <cat class="f">Guerra de Secessió dels Estats Units</cat>
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="np">Julian</eng>
+      <cat class="np">Julià</cat>
+      <example sent_eng="Julian the Apostate, Roman emperor" sent_cat="Julià l'Apòstata, emperador romà" />
+    </e>
+    <e src="" type="word" done="yes" area="religió">
+      <eng class="np">Our Lady</eng>
+      <eng class="np">the Blessed Lady</eng>
+      <cat class="np">la Mare de Déu</cat>
+      <cat class="np">Nostra Senyora</cat>
+    </e>
+    <e src="" type="word" done="yes" area="religió">
+      <eng class="np">Our Lady of Sorrows</eng>
+      <eng class="np">Our Lady of the Seven Dolours</eng>
+      <cat class="np">la Mare de Déu dels Dolors</cat>
+    </e>
+    <e src="" type="word" done="yes" area="religió">
+      <eng class="np">the Babe</eng>
+      <cat class="np">el Nen Jesús</cat>
+      <cat class="np">l'Infant Jesús</cat>
+    </e>
+    <e done="yes" src="" type="word" area="topònim">
+      <eng class="np">Atlantic Ocean</eng>
+      <eng class="np" tags="informal">the pond</eng>
+      <cat class="np">Oceà Atlàntic</cat>
+      <cat class="np" tags="informal">la bassa gran</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Brussels</eng>
+      <cat class="np">Brussel·les</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Fertile Crescent</eng>
+      <cat class="np">Creixent Fèrtil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="np">Red Crescent</eng>
+      <cat class="np">Mitja Lluna Roja</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="np">Red Cross</eng>
+      <cat class="np">Creu Roja</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Red Sea</eng>
+      <cat class="m">mar Roig</cat>
+      <cat class="f">mar Roja</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Abyssinia</eng>
+      <cat class="np">Abissínia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="np">Confucius</eng>
+      <cat class="np">Confuci</cat>
+    </e>
+    <e src="" type="word" done="yes" area="política">
+      <eng class="n">United States government</eng>
+      <eng class="n">US government</eng>
+      <eng class="n" tags="abbreviation">USG</eng>
+      <cat class="m">govern dels Estats Units</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">United States</eng>
+      <eng class="np">United States of America</eng>
+      <eng class="np" tags="US popular">America</eng>
+      <eng class="np">the States</eng>
+      <eng class="np">US</eng>
+      <eng class="np">U.S.</eng>
+      <eng class="np">USA</eng>
+      <eng class="np">U.S.A.</eng>
+      <cat class="np">els Estats Units</cat>
+      <cat class="np">els Estats Units d'Amèrica</cat>
+      <cat class="np">els EUA</cat>
+      <cat class="np" tags="popular">Amèrica</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Mediterranean</eng>
+      <eng class="np">Mediterranean Sea</eng>
+      <cat class="np">Mar Mediterrània</cat>
+      <cat class="np">Mar Mediterrani</cat>
+      <cat class="np">Mediterrània</cat>
+      <cat class="np">Mediterrani</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Canada</eng>
+      <cat class="np">el Canadà</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Ireland</eng>
+      <cat class="np">Irlanda</cat>
+    </e>
+    <e src="" type="word" done="yes" area="política">
+      <eng class="np">Republic of Ireland</eng>
+      <cat class="np">República d'Irlanda</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Japan</eng>
+      <cat class="np">el Japó</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Africa</eng>
+      <cat class="np">Àfrica</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Germany</eng>
+      <cat class="np">Alemanya</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Europe</eng>
+      <cat class="np">Europa</cat>
+    </e>
+    <e src="" type="word" done="yes" area="política">
+      <eng class="np">Republic of India</eng>
+      <cat class="np">República de l'Índia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">India</eng>
+      <cat class="np">l'Índia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">France</eng>
+      <cat class="np">França</cat>
+    </e>
+    <e src="" type="word" done="yes" area="política">
+      <eng class="np">French Republic</eng>
+      <cat class="np">República Francesa</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Australia</eng>
+      <eng class="np" tags="argot">Oz</eng>
+      <cat class="np">Austràlia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">America</eng>
+      <cat class="np">Amèrica</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Lower California</eng>
+      <eng class="np">Baja California</eng>
+      <cat class="np">Baixa Califòrnia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">California</eng>
+      <cat class="np">Califòrnia</cat>
+    </e>
+    <e src="" type="word" done="yes" area="política">
+      <eng class="np">United Kingdom</eng>
+      <eng class="np">UK</eng>
+      <eng class="np">U.K.</eng>
+      <cat class="np">el Regne Unit</cat>
+    </e>
+    <e src="" done="yes" type="word" area="política">
+      <eng class="np">United Kingdom of Great Britain and Northern Ireland</eng>
+      <cat class="np">el Regne Unit de la Gran Bretanya i Irlanda del Nord</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">Great Britain</eng>
+      <eng class="np">GB</eng>
+      <eng class="np" tags="slang">Blighty</eng>
+      <cat class="np">la Gran Bretanya</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">London</eng>
+      <cat class="np">Londres</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="np">England</eng>
+      <cat class="np">Anglaterra</cat>
+    </e>
+    <e done="yes" src="" area="topònim" type="word">
+      <eng class="np">Green River</eng>
+      <eng class="np">Green</eng>
+      <cat class="np_m">Green River</cat>
+    </e>
+  </entries>
+</root>
