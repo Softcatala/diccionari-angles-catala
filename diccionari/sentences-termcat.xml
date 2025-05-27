@@ -2,8 +2,12 @@
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
     <e src="" type="sentence" area="tipografia" done="yes">
-      <eng class="IND">double outline</eng>
-      <cat class="IND">contorn doble</cat>
+      <eng class="n">double outline</eng>
+      <cat class="m">contorn doble</cat>
+    </e>
+    <e src="" type="sentence" area="tipografia" done="yes">
+      <eng class="n">double spacing</eng>
+      <cat class="m">espaiat doble</cat>
     </e>
     <e done="yes" src="" type="sentence" area="informàtica">
       <eng class="n_p">terms of use</eng>

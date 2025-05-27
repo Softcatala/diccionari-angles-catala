@@ -6545,12 +6545,12 @@
       <cat class="adj" feminine="composta">compost</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="IND">conclusive</eng>
-      <cat class="IND" feminine="dràstica">dràstic</cat>
+      <eng class="adj">conclusive</eng>
+      <cat class="adj" feminine="dràstica">dràstic</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="IND">conclusive</eng>
-      <cat class="IND">fefaent</cat>
+      <eng class="adj">conclusive</eng>
+      <cat class="adj">fefaent</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="Very sure of something." def_cat="Molt segur d'alguna cosa.">
       <eng class="adj">confident</eng>

@@ -302,5 +302,10 @@
       <eng class="np">Green</eng>
       <cat class="np_m">Green River</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="np">White</eng>
+      <eng class="np">White River</eng>
+      <cat class="np_m">White River</cat>
+    </e>
   </entries>
 </root>

@@ -90,9 +90,9 @@
       <eng class="expr">ill becomes you</eng>
       <cat class="expr">no t'escau</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="IND">inert gas</eng>
-      <cat class="IND">gas inert</cat>
+    <e src="" type="word" area="química" done="yes">
+      <eng class="n">inert gas</eng>
+      <cat class="m">gas inert</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">interest group</eng>

@@ -767,10 +767,27 @@
       <cat class="v" grammar="tr">blocar</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">to boom</eng>
-      <cat class="IND">(business) rutllar</cat>
-      <cat class="IND">anar vent en popa</cat>
-      <cat class="IND">anar a més (alternatives al dicc.)</cat>
+      <eng class="v" grammar="intr">to boom</eng>
+      <cat class="v" grammar="intr">bramar</cat>
+      <cat class="v" grammar="intr">vociferar</cat>
+      <cat class="v" grammar="intr">parlar amb veu forta</cat>
+      <cat class="v" grammar="intr">parlar amb veu de tro</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to boom</eng>
+      <cat class="v" grammar="intr">rutllar</cat>
+      <cat class="v" grammar="intr">anar vent en popa</cat>
+      <cat class="v" grammar="intr">anar a més</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to boom</eng>
+      <cat class="v" grammar="intr_pron">posar-se de moda</cat>
+      <cat class="v" grammar="intr">imperar</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to boom</eng>
+      <cat class="v" grammar="intr_pron">expandir-se</cat>
+      <cat class="v" grammar="intr">estar en auge</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="">to boot</eng>

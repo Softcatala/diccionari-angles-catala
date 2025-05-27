@@ -1710,17 +1710,17 @@
       <cat class="expr" tags="figurat">sondar el terreny</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">accidents will happen in the best-regulated families</eng>
-      <eng class="IND">mistakes will happen in the best-regulated families</eng>
-      <cat class="IND">aquestes coses passen en les millors famílies</cat>
+      <eng class="expr">accidents will happen in the best-regulated families</eng>
+      <eng class="expr">mistakes will happen in the best-regulated families</eng>
+      <cat class="expr">aquestes coses passen en les millors famílies</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">a fizzing stick of dynamite</eng>
-      <cat class="IND">un cartutxo de dinamita amb la metxa encesa</cat>
+      <eng class="expr">a fizzing stick of dynamite</eng>
+      <cat class="expr">un cartutxo de dinamita amb la metxa encesa</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">this story is dynamite</eng>
-      <cat class="IND">aquesta notícia és una bomba</cat>
+      <eng class="expr">this story is dynamite</eng>
+      <cat class="expr">aquesta notícia és una bomba</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">to play with dynamite</eng>
@@ -2582,12 +2582,12 @@
       <cat class="expr">sens dubte</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">I am fully stretched</eng>
-      <cat class="IND">no dono per a més</cat>
+      <eng class="expr">I am fully stretched</eng>
+      <cat class="expr">no dono per a més</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">I can only hope to imitate him.</eng>
-      <cat class="IND">Només puc aspirar a imitar-lo</cat>
+      <eng class="expr">I can only hope to imitate him</eng>
+      <cat class="expr">Només puc aspirar a imitar-lo</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">my only hope is</eng>
@@ -2794,8 +2794,8 @@
       <cat class="expr" before="data">i més enllà</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">Are you agreeable</eng>
-      <cat class="IND">Et sembla bé?</cat>
+      <eng class="expr">Are you agreeable?</eng>
+      <cat class="expr">Et sembla bé?</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">a lot of</eng>
@@ -2845,13 +2845,13 @@
       <cat class="expr">un salt al buit</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">Sally's toast</eng>
-      <cat class="IND" before="una relació de parella">amb la Sally es va acabar</cat>
+      <eng class="expr">Sally's toast</eng>
+      <cat class="expr" before="una relació de parella">amb la Sally es va acabar</cat>
     </e>
     <e src="" type="sentence" done="yes">
-      <eng class="IND">He is so, so kind.</eng>
-      <eng class="IND">She is so, so kind.</eng>
-      <cat class="IND">És una bellíssima persona.</cat>
+      <eng class="expr">He is so, so kind.</eng>
+      <eng class="expr">She is so, so kind.</eng>
+      <cat class="expr">És una bellíssima persona.</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">no pun intended</eng>
