@@ -81,7 +81,7 @@
       <cat class="conj">mal que</cat>
       <cat class="conj">malgrat que</cat>
       <cat class="conj">tot i que</cat>
-      <example sent_eng="Even though he ran as fast as he could, he was late." sent_cat="Malgrat que va córrer tan ràpid com va poder, va fer tard." />
+      <example sent_eng="Even though he ran as fast as he could, he was late." sent_cat="Malgrat que va córrer tan de pressa com va poder, va fer tard." />
       <example sent_eng="There's an easy, albeit expensive way of getting in." sent_cat="Hi ha una manera fàcil, tot i que cara, d'entrar-hi." />
     </e>
     <e done="yes" src="" def_eng="At the same time." def_cat="En el mateix instant." type="word">
@@ -95,11 +95,13 @@
       <example sent_eng="She left while I slept." sent_cat="Se'n va anar mentre jo dormia." />
     </e>
     <e done="yes" src="" def_eng="Conjunction denoting contrast." def_cat="Conjunció que denota contrast." type="word">
-      <eng class="conj" tags="AU UK">whilst</eng>
       <eng class="conj">whereas</eng>
       <eng class="conj">while</eng>
+      <eng class="conj" tags="AU UK">whilst</eng>
       <cat class="conj">mentre que</cat>
       <cat class="conj">però</cat>
+      <example sent_eng="He did great, whereas we failed." sent_cat="Ell ho va fer genial, però nosaltres vam fracassar." />
+      <example sent_eng="It is easy for the teacher, while impossible for us." sent_cat="És fàcil per al mestre, però impossible per a nosaltres." />
     </e>
     <e done="yes" src="" def_eng="In proportion." def_cat="A proporció de." type="word">
       <eng class="conj">as</eng>
@@ -166,7 +168,7 @@
       <eng class="conj">whether</eng>
       <cat class="conj">sia</cat>
       <cat class="conj">tant si</cat>
-      <example sent_eng="Please notify me in advance, whether you come or not." sent_cat="Aviseu-me amb antel·lació, si us plau, tant si veniu com si no." />
+      <example sent_eng="Please notify me in advance, whether you come or not." sent_cat="Aviseu-me amb antelació, si us plau, tant si veniu com si no." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="conj">and</eng>

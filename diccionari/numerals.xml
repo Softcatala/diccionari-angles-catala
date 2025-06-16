@@ -1970,14 +1970,14 @@
       <eng class="adj">nineteenth</eng>
       <cat class="adj" feminine="19a">19è</cat>
       <cat class="adj" feminine="dinovena">dinovè</cat>
-      <cat class="adj" tags="valencià" feminine="denovena">denové</cat>
+      <cat class="adj" tags="valencià" feminine="denovena">denovè</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">17th</eng>
       <eng class="adj">seventeenth</eng>
       <cat class="adj" feminine="17a">17è</cat>
       <cat class="adj" feminine="dissetena">dissetè</cat>
-      <cat class="adj" tags="valencià" feminine="dessetena">desseté</cat>
+      <cat class="adj" tags="valencià" feminine="dessetena">dessetè</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">18th</eng>
@@ -2391,7 +2391,7 @@
       <eng class="adj">eightieth</eng>
       <cat class="adj" feminine="80a">80è</cat>
       <cat class="adj" feminine="vuitantena">vuitantè</cat>
-      <cat class="adj" tags="valencià" feminine="huitantena">huitanté</cat>
+      <cat class="adj" tags="valencià" feminine="huitantena">huitantè</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">8th</eng>

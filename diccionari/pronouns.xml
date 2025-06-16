@@ -60,13 +60,11 @@
       <eng class="pron">you</eng>
       <eng class="pron" remark="reflexive">yourself</eng>
       <cat class="pron">vostè</cat>
-      <cat class="pron" tags="valencià">vosté</cat>
       <cat class="pron" remark="acusatiu i datiu">es</cat>
       <cat class="pron" remark="acusatiu i datiu">se</cat>
       <cat class="pron" remark="acusatiu i datiu">'s</cat>
       <cat class="pron" remark="acusatiu i datiu">s'</cat>
       <cat class="pron" remark="reflexiu" feminine="vostè mateixa">vostè mateix</cat>
-      <cat class="pron" remark="reflexiu" tags="valencià" feminine="vosté mateixa">vosté mateix</cat>
     </e>
     <e done="yes" src="" def_eng="Second-person formal singular personal pronoun." def_cat="Pronom personal de segona persona del singular, utilitzat per a una persona que no es tracta de «tu» ni de «vostè»." type="word">
       <eng class="pron">you</eng>
@@ -153,13 +151,11 @@
       <eng class="pron">you</eng>
       <eng class="pron" remark="reflexive">yourselves</eng>
       <cat class="pron">vostès</cat>
-      <cat class="pron" tags="valencià">vostés</cat>
       <cat class="pron" remark="acusatiu i datiu">es</cat>
       <cat class="pron" remark="acusatiu i datiu">se</cat>
       <cat class="pron" remark="acusatiu i datiu">'s</cat>
       <cat class="pron" remark="acusatiu i datiu">s'</cat>
       <cat class="pron" remark="reflexiu" feminine="vostès mateixes">vostès mateixos</cat>
-      <cat class="pron" remark="reflexiu" tags="valencià" feminine="vostés mateixes">vostés mateixos</cat>
     </e>
     <e done="yes" src="" def_eng="Second-person plural personal pronoun." def_cat="Pronom personal de segona persona del plural." type="word">
       <eng class="pron">you</eng>
@@ -329,34 +325,36 @@
       <cat class="pron">qualcú</cat>
       <example sent_eng="Give this to someone to make them happy." sent_cat="Dona-ho a algú per a fer-lo feliç." />
     </e>
-    <e done="yes" src="" def_eng="Any thing from a kind." def_cat="Una cosa qualsevol d'una mena." type="word">
+    <e done="yes" src="" type="word">
       <eng class="pron">any</eng>
       <cat class="pron">algun</cat>
       <cat class="pron" remark="interrogatiu i condicional">cap</cat>
-      <cat class="pron">qualsevol</cat>
       <example sent_eng="Is there any missing?" sent_cat="Que en falta cap?" />
     </e>
+    <e done="yes" src="" def_eng="Any thing from a kind." def_cat="Una cosa qualsevol d'una mena." type="word">
+      <eng class="pron">any</eng>
+      <cat class="pron">qualsevol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="pron">anything</eng>
+      <cat class="pron">alguna cosa</cat>
+      <cat class="pron" remark="interrogatiu i condicional">res</cat>
+    </e>
     <e done="yes" src="" type="word" def_eng="Any thing of any kind." def_cat="Una cosa, sense importar quina.">
-      <eng class="pron" tags="UK">owt</eng>
-      <eng class="pron" tags="old">aught</eng>
       <eng class="pron">anything</eng>
       <eng class="pron">whatever</eng>
       <eng class="pron">whichever</eng>
-      <cat class="pron" feminine="la que sigui">el que sigui</cat>
-      <cat class="pron" feminine="no importa quina">no importa quin</cat>
-      <cat class="pron" tags="formal">quelcom</cat>
-      <cat class="pron" remark="interrogatiu i condicional">res</cat>
-      <cat class="pron">alguna cosa</cat>
-      <cat class="pron">qualsevol cosa</cat>
+      <eng class="pron" tags="UK">owt</eng>
+      <eng class="pron" tags="old">aught</eng>
       <cat class="pron">qualsevol</cat>
-      <cat class="pron">tal</cat>
-      <example sent_eng="Do you want anything to eat?" sent_cat="Voleu res de menjar?" />
+      <cat class="pron">qualsevol cosa</cat>
+      <cat class="pron" feminine="la que sigui">el que sigui</cat>
+      <cat class="pron" feminine="tan se val quina">tant se val quin</cat>
     </e>
     <e done="yes" src="" def_eng="An uncertain or unspecified thing." def_cat="Una cosa no especificada." type="word">
       <eng class="pron">something</eng>
       <cat class="pron">alguna cosa</cat>
       <cat class="pron" tags="formal">quelcom</cat>
-      <cat class="pron" tags="col·loquial">algo</cat>
       <example sent_eng="There is something here that does not make sense." sent_cat="Hi ha alguna cosa aquí que no té sentit." />
     </e>
     <e done="yes" src="" type="word">
@@ -587,9 +585,9 @@
     <e done="yes" src="" type="word">
       <eng class="adv">here</eng>
       <eng class="adv">there</eng>
-      <eng class="pron">of it</eng>
-      <eng class="pron">to it</eng>
-      <eng class="pron">with them</eng>
+      <eng class="pron" after="pronoun">of</eng>
+      <eng class="pron" after="pronoun">to</eng>
+      <eng class="pron" after="pronoun">with</eng>
       <cat class="pron">hi</cat>
       <example sent_eng="He hasn't left anything there." sent_cat="No hi ha deixat res." />
       <example sent_eng="Have you ever thought of it?" sent_cat="Hi havies pensat mai?" />

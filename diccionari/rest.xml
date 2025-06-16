@@ -6,13 +6,6 @@
       <cat class="adj" after="un país">encapçalat per</cat>
       <example sent_eng="A United States-led offensive." sent_cat="Una ofensiva encapçalada pels Estats Units." />
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="n" tags="US">Ferris wheel</eng>
-      <eng class="n">observation wheel</eng>
-      <eng class="n" tags="UK">big wheel</eng>
-      <cat class="f">nòria</cat>
-      <cat class="f">roda de fira</cat>
-    </e>
     <e src="" type="word" done="yes" def_cat="Batista de cotó amb petits claps imitant el brodat, però produïts en el mateix teler en fabricar la roba (DCVB).">
       <eng class="n">Swiss muslin</eng>
       <eng class="n">dotted Swiss</eng>

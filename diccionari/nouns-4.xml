@@ -49,10 +49,6 @@
       <cat class="f">pila termoelèctrica</cat>
       <cat class="f">termopila</cat>
     </e>
-    <e area="música" src="" type="word" done="yes">
-      <eng class="n">treble clef</eng>
-      <cat class="f">clau de sol</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="n_p">ups and downs</eng>
       <eng class="n_p">vicissitudes</eng>

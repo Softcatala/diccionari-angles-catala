@@ -21,7 +21,7 @@
       <eng class="det" tags="colloquial">loads of</eng>
       <eng class="det" tags="slang">a shitload of</eng>
       <eng class="det">a lot of</eng>
-      <cat class="det">una munt de</cat>
+      <cat class="det">un munt de</cat>
       <cat class="det">una pila de</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -167,7 +167,7 @@
       <cat class="det">l'</cat>
       <cat class="det" feminine="na">en</cat>
       <cat class="det">n'</cat>
-      <example sent_eng="Mark and Aina will help us." sent_cat="El MarK i l'Aina ens ajudaran." />
+      <example sent_eng="Mark and Aina will help us." sent_cat="El Mark i l'Aina ens ajudaran." />
       <example sent_eng="Clara and John are already here." sent_cat="Na Clara i en John ja han arribat." />
     </e>
     <e done="yes" src="" type="word">
@@ -204,7 +204,7 @@
     <e done="yes" src="" type="word">
       <eng class="det">many</eng>
       <cat class="det">gaires</cat>
-      <example sent_eng="There aren't many bikes as cool as this one." sent_cat="No hi ha gaires bicicletes tan guais com aquesta." />
+      <example sent_eng="There aren't many bikes as cool as this one." sent_cat="No hi ha gaires bicicletes tan ben parides com aquesta." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="det">much</eng>

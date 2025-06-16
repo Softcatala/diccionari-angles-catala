@@ -604,10 +604,6 @@
       <cat class="f">sèrie</cat>
     </e>
     <e area="geologia" done="yes" src="" type="word">
-      <eng class="n">supereon</eng>
-      <cat class="f">supereó</cat>
-    </e>
-    <e area="geologia" done="yes" src="" type="word">
       <eng class="n">age</eng>
       <cat class="f">estatge</cat>
       <cat class="f">edat</cat>
@@ -1084,8 +1080,9 @@
       <eng class="n">wince</eng>
       <cat class="f">ganyota</cat>
       <cat class="f">carota</cat>
-      <cat class="f">ganya</cat>
+      <cat class="f">carassa</cat>
       <cat class="m">llambrot</cat>
+      <cat class="f">ganya</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">face</eng>
@@ -1352,12 +1349,10 @@
     </e>
     <e area="tipografia" done="yes" src="" type="word">
       <eng class="n">font</eng>
-      <eng class="n" tags="UK old">fount</eng>
       <eng class="n">type font</eng>
-      <eng class="n" tags="UK old">type fount</eng>
+      <cat class="m">lletra tipogràfica</cat>
       <cat class="f">font</cat>
       <cat class="f">tipografia</cat>
-      <cat class="m">tipus de lletra</cat>
     </e>
     <e area="tipografia" done="yes" src="" type="word" oldarea="economia; empresa">
       <eng class="n">face</eng>
@@ -4408,9 +4403,9 @@
     </e>
     <e done="yes" src="" area="història" type="word">
       <eng class="n_p">stocks</eng>
-      <cat class="m">carcany</cat>
       <cat class="m">cep</cat>
       <cat class="m">costell</cat>
+      <cat class="m">carcany</cat>
     </e>
     <e done="yes" src="" area="arqueologia" type="word">
       <eng class="n">tell</eng>

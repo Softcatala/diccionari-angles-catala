@@ -2,6 +2,65 @@
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
     <e src="" type="word" done="yes">
+      <eng class="expr">by stealth</eng>
+      <cat class="expr">per sorpresa</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">to make a quick exit</eng>
+      <cat class="expr">anar-se'n a correcuita</cat>
+      <cat class="expr">sortir corrents</cat>
+      <cat class="expr">tocar el dos</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">this is most irregular</eng>
+      <cat class="expr">això és inadmissible</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be wide of the mark</eng>
+      <cat class="expr">estar fora de lloc</cat>
+      <cat class="expr">anar lluny d'osques</cat>
+      <cat class="expr">ser lluny de la veritat</cat>
+      <cat class="expr">anar desencaminat</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to be nice</eng>
+      <cat class="expr">fer bondat</cat>
+      <cat class="expr">comportar-se bé</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be cowardly</eng>
+      <cat class="v" grammar="intr_pron">acovardir-se</cat>
+      <cat class="expr" after="de">no veure's amb cor</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to fight tooth and nail</eng>
+      <cat class="expr">defensar amb dents i ungles</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to fight tooth and nail</eng>
+      <cat class="expr">lluitar com una fera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be loaded</eng>
+      <cat class="expr">estar folrat</cat>
+      <cat class="expr">tenir molts pinyons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for dramatic effect</eng>
+      <eng class="expr">for dramatic flair</eng>
+      <cat class="expr">per impressionar</cat>
+      <cat class="expr">per donar un efecte dramàtic</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for effect</eng>
+      <cat class="expr">per impressionar</cat>
+      <cat class="expr">de cara a la galeria</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for effect</eng>
+      <cat class="expr">perquè reaccionin</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="expr" after="something or someone">to have a stranglehold on</eng>
       <cat class="expr">tenir sotmès</cat>
       <cat class="expr">tenir subjugat</cat>
@@ -241,7 +300,7 @@
     <e src="" done="yes" type="expression">
       <eng class="expr" after="on">to be reliant</eng>
       <cat class="v" after="en">confiar</cat>
-      <cat class="expr" after="en">tenir confiançaa</cat>
+      <cat class="expr" after="en">tenir confiança</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">so far and no further</eng>
@@ -432,7 +491,7 @@
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">if you will excuse the expression</eng>
-      <cat class="expr">si se'm permet l'expresió</cat>
+      <cat class="expr">si se'm permet l'expressió</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">if you will</eng>
@@ -629,10 +688,10 @@
     </e>
     <e src="" done="yes" type="expression">
       <eng class="expr">to sneak a peek</eng>
-      <cat class="expr">fer una ullada d'amagat</cat>
+      <cat class="expr">donar una ullada d'amagat</cat>
       <cat class="expr">ullar discretament</cat>
       <cat class="expr">espiar breument</cat>
-      <example sent_eng="He sneaked a peek at the answers." sent_cat="Va fer una ullada d'amagat a les respostes." />
+      <example sent_eng="He sneaked a peek at the answers." sent_cat="Va donar una ullada d'amagat a les respostes." />
       <example sent_eng="She sneaked a peek at the gift." sent_cat="Va ullar discretament el regal." />
       <example sent_eng="The kids sneaked a peek at their Christmas presents." sent_cat="Els nens van espiar un moment els seus regals de Nadal." />
     </e>
@@ -716,7 +775,7 @@
     <e src="" done="yes" type="word">
       <eng class="expr">even as</eng>
       <cat class="expr">en el mateix moment que</cat>
-      <cat class="expr">en el precis instant que</cat>
+      <cat class="expr">en el precís instant que</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">to be clueless</eng>
@@ -948,12 +1007,11 @@
     <e src="" done="yes" type="expression">
       <eng class="expr">to have it comming</eng>
       <cat class="expr">tenir el que es mereix</cat>
-      <cat class="expr">tenir-ho ben merescut</cat>
       <cat class="expr">buscar-s'ho</cat>
       <cat class="expr">guanyar-s'ho</cat>
       <cat class="expr">rebre el que es mereix</cat>
       <cat class="expr">això li passa per...</cat>
-      <example sent_eng="He really had it coming after all those lies." sent_cat="Realment ho tenia ben merescut després de totes aquelles mentides." />
+      <example sent_eng="He really had it coming after all those lies." sent_cat="Realment s'ho havia ben guanyat després de totes aquelles mentides." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">to take the bait</eng>
@@ -1025,7 +1083,7 @@
     <e src="" type="word" done="yes">
       <eng class="expr">whereabouts unknown</eng>
       <cat class="expr">en parador desconegut</cat>
-      <cat class="adj" feminine="il·localitzada">il·localitzat</cat>
+      <cat class="adj">il·localitzable</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">to be truthful</eng>
@@ -1472,7 +1530,7 @@
       <eng class="expr">to take a hard line</eng>
       <eng class="expr">to take a strong line</eng>
       <cat class="expr">aplicar mà dura</cat>
-      <cat class="expr">pendre mesures enèrgiques</cat>
+      <cat class="expr">prendre mesures enèrgiques</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">to go haywire</eng>
@@ -1716,7 +1774,7 @@
     </e>
     <e src="" type="sentence" done="yes">
       <eng class="expr">a fizzing stick of dynamite</eng>
-      <cat class="expr">un cartutxo de dinamita amb la metxa encesa</cat>
+      <cat class="expr">un cartutx de dinamita amb la metxa encesa</cat>
     </e>
     <e src="" type="sentence" done="yes">
       <eng class="expr">this story is dynamite</eng>
@@ -1754,7 +1812,7 @@
       <cat class="expr">pel que és</cat>
       <cat class="expr">vist el que és</cat>
       <cat class="expr">pel que era d'esperar</cat>
-      <cat class="expr">pel que podíém esperar</cat>
+      <cat class="expr">pel que podíem esperar</cat>
     </e>
     <e src="" done="yes" type="expression">
       <eng class="expr">to lose one's shirt</eng>
@@ -1886,7 +1944,7 @@
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">to turn a blind eye</eng>
-      <cat class="expr">fer els ullls grossos</cat>
+      <cat class="expr">fer els ulls grossos</cat>
       <cat class="expr">tancar els ulls</cat>
       <cat class="expr">passar per alt</cat>
       <cat class="expr">fingir no adonar-se</cat>
@@ -2910,7 +2968,7 @@
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">to be low-hanging fruit</eng>
-      <cat class="expr">ser a l'abast</cat>
+      <cat class="expr">estar a l'abast</cat>
       <cat class="expr">ser a mà</cat>
       <cat class="expr">ser a tir</cat>
     </e>
@@ -3037,5 +3095,5 @@
       <cat class="expr">menys que</cat>
       <example sent_eng="Less than you and me." sent_cat="Menys que tu i jo." />
     </e>
-  </entries>
+    </entries>
 </root>

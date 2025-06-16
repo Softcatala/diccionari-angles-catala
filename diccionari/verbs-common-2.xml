@@ -1014,7 +1014,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to knock</eng>
-      <cat class="v" grammar="intr" after="a alguna cosa">fer un cop</cat>
+      <cat class="v" grammar="intr" after="a">donar un cop</cat>
+      <cat class="v" grammar="intr" after="a">donar un colp</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to knot</eng>
@@ -2010,7 +2011,7 @@
       <cat class="v" grammar="tr">gaudir</cat>
       <cat class="v" grammar="intr">fer il·lusió</cat>
       <example sent_eng="I love cooking." sent_cat="M'encanta cuinar." />
-      <example sent_eng="I really enjoy riding a bike through the forest." sent_cat="Soc un enamorat d'anar en bicicleta pel bosc.." />
+      <example sent_eng="I really enjoy riding a bike through the forest." sent_cat="Soc un enamorat d'anar en bicicleta pel bosc." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr" tags="separable">to take down</eng>
@@ -2155,7 +2156,7 @@
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">reverberate</eng>
       <cat class="v" grammar="intr">tamborinar</cat>
-      <example sent_eng="The raindrops reverberated on the table" sent_cat="Les gotes de plura tamborinava sobre la taula." />
+      <example sent_eng="The raindrops reverberated on the table" sent_cat="Les gotes de pluja tamborinava sobre la taula." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="separable">to make over</eng>
@@ -3366,7 +3367,7 @@
       <eng class="v" grammar="aux">must not</eng>
       <cat class="v" grammar="aux">no haver de</cat>
       <cat class="v" grammar="aux">no poder</cat>
-      <cat class="v" grammar="intr">ésser prohibit</cat>
+      <cat class="v" grammar="intr">ser prohibit</cat>
       <example sent_eng="You must not tell him the truth." sent_cat="No li pots de dir la veritat." />
     </e>
     <e src="" type="word" def_eng="Auxiliary verb showing certainty or probability." def_cat="Verb auxiliar que denota certesa o probabilitat." done="yes">
@@ -3716,7 +3717,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" after="a drink">to nurse</eng>
-      <cat class="v" grammar="tr" after="una beguda tranquil·lament">pendre</cat>
+      <cat class="v" grammar="tr" after="una beguda tranquil·lament">prendre</cat>
       <cat class="v" grammar="tr" after="una beguda">fer durar</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -5485,7 +5486,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" after="slang">to pop</eng>
-      <cat class="v" grammar="tr" after="pastilles, droga">pendre</cat>
+      <cat class="v" grammar="tr" after="pastilles, droga">prendre</cat>
     </e>
     <e done="yes" src="" area="art literatura" type="word">
       <eng class="v" grammar="tr">to portray</eng>
@@ -6859,7 +6860,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to raise</eng>
-      <cat class="v" grammar="tr">posar de relleu</cat>
+      <cat class="v" grammar="tr">posar en relleu</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to raise</eng>
@@ -9604,7 +9605,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to scatter</eng>
-      <cat class="v" grammar="intr_pron">anar-se'n a corre-cuita</cat>
+      <cat class="v" grammar="intr_pron">anar-se'n a correcuita</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to scatter</eng>
@@ -9637,7 +9638,7 @@
       <cat class="v" grammar="intr">tocar el dos</cat>
       <cat class="v" grammar="intr">fúmer el camp</cat>
       <cat class="v" grammar="intr">guillar</cat>
-      <cat class="v" grammar="intr_pron">anar-se'n a corre-cuita</cat>
+      <cat class="v" grammar="intr_pron">anar-se'n a correcuita</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to scavenge</eng>
@@ -10635,8 +10636,8 @@
       <cat class="v" grammar="intr">rellucar</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" tags="UK slang" after="someone to someone">to shop</eng>
-      <eng class="v" grammar="intr" tags="slang" after="on someone to someone">to snitch</eng>
+      <eng class="v" grammar="intr" tags="slang" after="on someone">to snitch</eng>
+      <eng class="v" grammar="tr" tags="UK slang">to shop</eng>
       <cat class="v" grammar="tr">delatar</cat>
     </e>
     <e src="" type="word" done="yes" def_cat="Escurçar un recorregut previst.">
@@ -11651,7 +11652,7 @@
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to soothe</eng>
       <cat class="v" grammar="tr">calmar</cat>
-      <cat class="v" grammar="tr">tranquilitzar</cat>
+      <cat class="v" grammar="tr">tranquil·litzar</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to sort</eng>
@@ -11849,8 +11850,8 @@
       <cat class="v" grammar="tr">dedicar</cat>
     </e>
     <e src="" type="word" done="yes" def_cat="Explicar secrets sobre algú.">
-      <eng class="v" grammar="intr" tags="US">to tattle</eng>
       <eng class="v" grammar="tr">to blab</eng>
+      <eng class="v" grammar="intr" tags="US">to tattle</eng>
       <eng class="v" grammar="tr">to peach</eng>
       <cat class="v" grammar="tr">divulgar</cat>
       <cat class="v" grammar="tr">revelar</cat>
@@ -12274,7 +12275,6 @@
       <eng class="v" grammar="intr">to be standing</eng>
       <eng class="v" grammar="intr">to be upright</eng>
       <cat class="v" grammar="intr">estar dret</cat>
-      <cat class="v" grammar="intr">estar de peu</cat>
       <cat class="v" grammar="intr_pron">tenir-se dret</cat>
       <cat class="v" grammar="intr">estar a peu dret</cat>
       <cat class="v" grammar="intr">estar dempeus</cat>
@@ -12362,7 +12362,7 @@
       <eng class="v" grammar="intr">to stay</eng>
       <cat class="v" grammar="intr_pron">estar-se</cat>
       <cat class="v" grammar="intr">ser</cat>
-      <example sent_cat="She was staying in Banyoles." sent_eng="S'estava a Banyoles." />
+      <example sent_eng="She was staying in Banyoles." sent_cat="S'estava a Banyoles." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to stay</eng>
@@ -12699,7 +12699,7 @@
       <eng class="v" grammar="intr">to straighten up</eng>
       <eng class="v" grammar="intr">to unbend</eng>
       <cat class="v" grammar="intr_pron">adreçar-se</cat>
-      <cat class="v" grammar="intr_pron">allisars-se</cat>
+      <cat class="v" grammar="intr_pron">allisar-se</cat>
       <cat class="v" grammar="intr_pron">alçar-se</cat>
       <cat class="v" grammar="intr_pron">dreçar-se</cat>
       <cat class="v" grammar="intr_pron">redreçar-se</cat>
@@ -12758,7 +12758,6 @@
       <cat class="v" grammar="intr" after="en alguna cosa">posar èmfasi</cat>
       <cat class="v" grammar="intr" after="en alguna cosa">fer èmfasi</cat>
       <cat class="v" grammar="tr">posar en relleu</cat>
-      <cat class="v" grammar="tr">posar de relleu</cat>
       <cat class="v" grammar="tr">posar de manifest</cat>
       <cat class="v" grammar="tr">assenyalar</cat>
       <cat class="v" grammar="tr">emfatitzar</cat>
@@ -12965,7 +12964,7 @@
       <cat class="v" grammar="tr">trastornar</cat>
       <cat class="v" grammar="tr">atabalar</cat>
       <cat class="v" grammar="tr">desconcertar</cat>
-      <cat class="v" grammar="tr">deixar esupefacte</cat>
+      <cat class="v" grammar="tr">deixar estupefacte</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="separable">to knock senseless</eng>
@@ -14390,13 +14389,12 @@
       <cat class="v" grammar="tr">tintar</cat>
     </e>
     <e src="" type="word" done="yes" def_cat="Informar algú en secret.">
-      <eng class="v" grammar="tr" tags="separable">to tip off</eng>
       <eng class="v" grammar="tr">to tip</eng>
+      <eng class="v" grammar="tr" tags="separable">to tip off</eng>
       <cat class="v" grammar="tr">avisar</cat>
       <cat class="v" grammar="tr">notificar</cat>
       <cat class="v" grammar="tr">advertir</cat>
       <cat class="v" grammar="tr">posar en guàrdia</cat>
-      <cat class="v" grammar="intr" after="a algú">donar avís</cat>
       <cat class="v" grammar="tr" after="un secret">xerrar</cat>
     </e>
     <e done="yes" src="" area="economia" type="word">
@@ -14929,7 +14927,7 @@
       <eng class="v" grammar="intr" after="over something">to stumble</eng>
       <eng class="v" grammar="intr" after="on something">to stumble</eng>
       <cat class="v" grammar="intr">ensopegar</cat>
-      <cat class="v" grammar="intr">entropessare</cat>
+      <cat class="v" grammar="intr">entropessar</cat>
       <cat class="v" grammar="intr_pron">entrebancar-se</cat>
       <cat class="v" grammar="intr" after="amb alguna cosa">ensopegar</cat>
       <cat class="v" grammar="intr_pron" after="amb alguna cosa">entrebancar-se</cat>
@@ -15280,7 +15278,7 @@
     <e area="economia" done="yes" src="" type="word" def_cat="Valorar una cosa per sota del seu valor real.">
       <eng class="v" grammar="tr">to underrate</eng>
       <eng class="v" grammar="tr">to undervalue</eng>
-      <cat class="v" grammar="tr" tags="informal">lowball</cat>
+      <eng class="v" grammar="tr" tags="informal">to lowball</eng>
       <cat class="v" grammar="tr">infravalorar</cat>
     </e>
     <e done="yes" src="" type="word" def_cat="Passar per un procés, una experiència.">
@@ -15561,7 +15559,6 @@
       <cat class="v" grammar="tr" tags="figurat">desarrelar</cat>
       <cat class="v" grammar="tr">exterminar</cat>
       <cat class="v" grammar="tr">extirpar</cat>
-      <cat class="v" grammar="tr">eradicar</cat>
       <cat class="v" grammar="tr">erradicar</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -15741,8 +15738,8 @@
       <eng class="v" grammar="tr">to vent</eng>
       <cat class="v" grammar="tr">descarregar</cat>
       <cat class="v" grammar="tr">desfogar</cat>
-      <cat class="v" grammar="intr" after="a una emoció">donar lliure curs</cat>
-      <cat class="v" grammar="intr" after="a una emoció">donar regna solta</cat>
+      <cat class="v" grammar="intr" after="a una emoció">donar curs</cat>
+      <cat class="v" grammar="intr" after="a una emoció">donar via lliure</cat>
     </e>
     <e src="" type="word" done="yes" def_eng="To express strong emotions" def_cat="Expressar emocions contingudes.">
       <eng class="v" grammar="intr">to vent</eng>
@@ -16007,11 +16004,13 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to reheat</eng>
-      <cat class="v" grammar="tr">rescalfar</cat>
+      <cat class="v" grammar="tr">reescalfar</cat>
+      <cat class="v" grammar="tr">recalfar</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="intr">to reheat</eng>
-      <cat class="v" grammar="intr_pron">rescalfar-se</cat>
+      <cat class="v" grammar="intr_pron">reescalfar-se</cat>
+      <cat class="v" grammar="intr_pron">recalfar-se</cat>
     </e>
     <e area="esports" src="" type="word" done="yes">
       <eng class="v" grammar="tr">to warn</eng>
@@ -16087,14 +16086,15 @@
       <cat class="v" grammar="intr" after="amb la mà">fer adeu</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="intr" before="a flag">to wave</eng>
-      <cat class="v" grammar="intr" before="una bandera">onejar</cat>
+      <eng class="v" grammar="intr">to wave</eng>
+      <cat class="v" grammar="intr">onejar</cat>
+      <example sent_eng="to wave a flag" sent_cat="onejar una bandera" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to wax</eng>
       <cat class="v" grammar="intr" after="amb cera">depilar-se</cat>
     </e>
-    <e area="esports" src="" type="word" done="yes" remark="En ciclisme.">
+    <e area="ciclisme" src="" type="word" done="yes">
       <eng class="v" grammar="intr" before="a rider">to weaken</eng>
       <cat class="v" grammar="intr" before="un ciclista">rebentar</cat>
     </e>
@@ -16396,7 +16396,7 @@
     <e src="" type="word" done="yes">
       <eng class="v" grammar="ditr">to wish</eng>
       <cat class="v" grammar="tr">desitjar</cat>
-      <example sent_cat="Us deistjo bon Nadal." sent_eng="I wish you a merry Christmas." />
+      <example sent_cat="Us desitjo bon Nadal." sent_eng="I wish you a merry Christmas." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr" tags="separable">to draw back</eng>

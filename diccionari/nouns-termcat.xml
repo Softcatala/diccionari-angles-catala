@@ -298,6 +298,10 @@
       <cat class="f">oreneta cuablanca</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="n">pivotal line</eng>
+      <cat class="m">eix fonamental</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="n">no-show</eng>
       <cat class="m" feminine="no presentada">no presentat</cat>
     </e>
@@ -359,6 +363,12 @@
       <eng class="n">coarse file</eng>
       <eng class="n">rasp</eng>
       <cat class="f">raspa</cat>
+    </e>
+    <e src="" type="word" done="yes" oldarea="indústria; energia">
+      <eng class="n">hard water</eng>
+      <cat class="f">aigua dura</cat>
+      <cat class="f">aigua incrustant</cat>
+      <cat class="f">aigua calcària</cat>
     </e>
     <e src="" type="word" area="zoologia" done="yes" oldarea="ciències de la vida">
       <eng class="n">humpback whale</eng>

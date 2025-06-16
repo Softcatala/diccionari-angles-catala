@@ -2,6 +2,20 @@
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
     <e done="yes" src="" type="word">
+      <eng class="ij">my</eng>
+      <cat class="ij">renoi</cat>
+      <cat class="ij">carai</cat>
+      <cat class="ij">ostres</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">indeed</eng>
+      <cat class="ij">i tant</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">indeed</eng>
+      <cat class="ij">estic d'acord</cat>
+    </e>
+    <e done="yes" src="" type="word">
       <eng class="ij">welcome home</eng>
       <eng class="ij">welcome back</eng>
       <cat class="ij">ben tornat</cat>
@@ -328,9 +342,9 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="ij">Christ</eng>
-      <cat class="ij">hòstia noi</cat>
-      <cat class="ij">hòstia puta</cat>
-      <cat class="ij">collons</cat>
+      <cat class="ij" tags="vulgar">hòstia noi</cat>
+      <cat class="ij" tags="vulgar">hòstia puta</cat>
+      <cat class="ij" tags="vulgar">collons</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij">bloody hell</eng>
@@ -384,7 +398,7 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="ij">go!</eng>
-      <cat class="ij">go to it!</cat>
+      <eng class="ij">go to it!</eng>
       <cat class="ij">som-hi!</cat>
       <cat class="ij">mans a l'obra!</cat>
     </e>
