@@ -12,6 +12,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.text.Normalizer;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -19,11 +22,18 @@ import java.util.regex.Pattern;
 
 public class Dictionary {
 
+  // Llista amb totes les entrades carregades dels fitxers XML
   private List<Entry> entries = new ArrayList<>();
+  // Índex de paraules i totes les entrades on apareixen
+  private List<HashMap<String, List<Entry>>> indexWordEntries = Arrays.asList(new HashMap<String, List<Entry>>(), new HashMap<String, List<Entry>>());
+  // Índex de cadenes de cerca i llistes de lemes coincidents
+  private List<HashMap<String, List<Lemma>>> indexWordLemmas = Arrays.asList(new HashMap<String, List<Lemma>>(), new HashMap<String, List<Lemma>>());
   
+  // Índexs alfabètics de paraules
   public IndexOfWords indexCat = new IndexOfWords();
   public IndexOfWords indexEng = new IndexOfWords();
 
+  // Llista de "stop words" per a cada llengua
   private List<HashSet<String>> stopWords = new ArrayList<>();
 
   public Dictionary(EngCatConfiguration conf) throws SAXException, IOException, ParserConfigurationException {
@@ -49,6 +59,13 @@ public class Dictionary {
     createIndex();
     EngCatServer.log("INFO", "Loaded " + entries.size() + " entries from files in: " + conf.srcFolderPath + " in "
         + (endTime - startTime) + " ms");
+    
+    // Generem els índexs de cerca
+    startTime = System.currentTimeMillis();
+    generateIndexWordEntries();
+    generateIndexWordLemmas();
+    endTime = System.currentTimeMillis();
+    EngCatServer.log("INFO", "Created search indices in " + (endTime - startTime) + " ms");
   }
 
   /**
@@ -79,36 +96,29 @@ public class Dictionary {
     List<Pattern> patternToSearch = new ArrayList<>();
     for (int l = 0; l < 2; l++) {
       if (isStopWord(searchWord, stopWords.get(l))) {
-        patternToSearch.add(Pattern.compile("^(to )?"+escapedSearchWord+"$", Pattern.CASE_INSENSITIVE));
+        patternToSearch.add(Pattern.compile("^"+escapedSearchWord+"$", Pattern.CASE_INSENSITIVE));
       } else {
         patternToSearch.add(Pattern.compile("(.*)\\b"+escapedSearchWord+"\\b(.*)", Pattern.CASE_INSENSITIVE));
       }
     }
 
-    //TODO: cercar amb formes flexionades, sufixos, prefixos... però mostrar-ho amb prioritat més baixa
-    for (Entry e : entries) {
-      // l=0 anglès, l=1 català
-      for (int l = 0; l < 2; l++) {
-        for (Word w : e.words[l]) {
-          List<String> wordForms = wordFormsToSearch(w);
-          for (String wordForm : wordForms) {
-            Matcher m = patternToSearch.get(l).matcher(wordForm);
-            if (m.matches()) {
-              int groupCount = m.groupCount();
-              if (groupCount>2) {
-                // no mostrar "col·laborador" si es busca "col" o "laborador"
-                if (m.group(1) != null && m.group(groupCount) != null && (m.group(1).endsWith("·") || m.group(groupCount).startsWith("·"))) {
-                  continue;
-                }
-              }
-              addToResponse(response, l, w, e.words[1 - l], e);
-              break;
+    // Cerca el patró a l'índex de lemes
+    for (int l = 0; l < 2; l++) {
+      for (String wordForm : indexWordLemmas.get(l).keySet()) {
+        Matcher m = patternToSearch.get(l).matcher(wordForm);
+        if (m.matches()) {
+          int groupCount = m.groupCount();
+          if (groupCount>2) {
+            // Hack per al punt volat, per a no mostrar "col·laborador" si es busca "col" o "laborador"
+            if (m.group(1) != null && m.group(groupCount) != null && (m.group(1).endsWith("·") || m.group(groupCount).startsWith("·"))) {
+              continue;
             }
           }
-
+          addToResponse(response, l, indexWordLemmas.get(l).get(wordForm));
         }
       }
     }
+
     long endTime = System.currentTimeMillis();
     EngCatServer.log("INFO", "Searched: " + searchWord + " in " + (endTime - startTime) + " ms");
     String canonical = getCanonicalForm(response, searchWord);
@@ -118,78 +128,146 @@ public class Dictionary {
     return response;
   }
 
+  /**
+  * Genera una llista de cadenes de cerca a partir de les formes d'una paraula.
+
+  * @param  w   paraula
+  * @return     llista de cadenes de cerca
+  */
   private List<String> wordFormsToSearch(Word w) {
     List<String> wordForms = new ArrayList<>();
-    // lemma
-    String wordNoDiacritics = removeDiacritics(w.text.toLowerCase());
-    // dos modes: esborrem la puntuació o la reemplacem per espais
-    String wordNoPunctuation = replacePunctuation(wordNoDiacritics, "");
-    wordForms.add(wordNoPunctuation);
-    String wordPunctuationToSpace = normalizeWhitespaces(replacePunctuation(wordNoDiacritics, " "));
-    if (!wordForms.contains(wordPunctuationToSpace)) {
-      wordForms.add(wordPunctuationToSpace);
-    }
-    // femenine
-    if (!w.feminine.isEmpty()) {
-      wordNoDiacritics = removeDiacritics(w.feminine.toLowerCase());
-      // dos modes: esborrem la puntuació o la reemplacem per espais
-      wordNoPunctuation = replacePunctuation(wordNoDiacritics, "");
-      wordForms.add(wordNoPunctuation);
-      wordPunctuationToSpace = normalizeWhitespaces(replacePunctuation(wordNoDiacritics, " "));
-      if (!wordForms.contains(wordPunctuationToSpace)) {
-        wordForms.add(wordPunctuationToSpace);
+    // Generem variants de totes les formes
+    for (String form : w.forms) {
+      // Forma sense diacrítics
+      String formNoDiacritics = removeDiacritics(form);
+      // Forma sense puntuació
+      String formNoPunctuation = replacePunctuation(formNoDiacritics, "");
+      wordForms.add(formNoPunctuation);
+      // Forma amb espais en comptes de puntuació
+      String formPunctuationToSpace = normalizeWhitespaces(replacePunctuation(formNoDiacritics, " "));
+      if (!wordForms.contains(formPunctuationToSpace)) {
+        wordForms.add(formPunctuationToSpace);
       }
     }
     return wordForms;
   }
 
-  private void addToResponse(Response r, int l, Word originalWord, List<Word> translatedWords, Entry entry) {
-    Word originalWordWithArea = new Word(originalWord, entry.area, entry.remark);
-    boolean translationsMerged = false;
-    for (Lemma lemma : r.results[l].lemmas) {
-      if (originalWord.isSameLema(lemma.originalWord)) {
-        for (SubLemma subLemma : lemma.subLemmaList) {
-          if (originalWordWithArea.isSameSubLema(subLemma.originalWord)) {
-            for (TranslationsSet translationsSet : subLemma.translationsSets) {
-              if (translationsSet.intersects(translatedWords) && translationsSet.sharesDefinition(entry, l)) {
-                translationsSet.addTraslatedWords(translatedWords);
-                translationsSet.addExamples(entry, lemma.originalWord.text, l);
-                translationsMerged = true;
-                subLemma.sortByOccurrences();
-                break;
+  /**
+  * Afegeix els lemes d'una llista a una resposta de cerca per a una llengua.
+
+  * @param  r        resposta de cerca
+  * @param  l        índex de la llengua dels lemes (0 anglès, 1 català)
+  * @param  lemmas   llista de lemes
+  */
+  private void addToResponse(Response r, int l, List<Lemma> lemmas) {
+    for (Lemma lemma : lemmas) {
+      Boolean lemmaAlreadyExists = false;
+      for (Lemma resultLemma : r.results[l].lemmas) {
+        if (lemma.originalWord.isSameLema(resultLemma.originalWord)) {
+          lemmaAlreadyExists = true;
+          break;
+        }
+      }
+      if (!lemmaAlreadyExists) {
+        r.results[l].lemmas.add(lemma);
+      }
+    }
+    r.results[l].sortLemmas();
+  }
+
+  /**
+  * Afegeix una paraula d'una entrada a una llista de lemes.
+
+  * @param  lemmaList      resposta de cerca
+  * @param  l              índex de la llengua de la paraula (0 anglès, 1 català)
+  * @param  originalWord   paraula
+  * @param  entry          entrada a la qual pertany la paraula
+  */
+  private void addToLemmaList(List<Lemma> lemmaList, int l, Word originalWord, Entry entry) {
+    List<Word> translatedWords = entry.words[1 - l];
+    if (lemmaList.size() > 0)
+    {
+      for (Lemma lemma : lemmaList) {
+        if (originalWord.isSameLema(lemma.originalWord)) {
+          // Ja hi ha un lema coincident, cal comprovar els sublemes
+          for (SubLemma subLemma : lemma.subLemmaList) {
+            if (originalWord.isSameSubLema(subLemma.originalWord)) {
+              for (TranslationsSet translationsSet : subLemma.translationsSets) {
+                if (translationsSet.intersects(translatedWords) && translationsSet.sharesDefinition(entry, l)) {
+                  // Afegeix traduccions addicionals a un conjunt de traduccions existent
+                  translationsSet.addTraslatedWords(translatedWords);
+                  translationsSet.addExamples(entry, lemma.originalWord.text, l);
+                  subLemma.sortByOccurrences();
+                  return;
+                }
               }
-            }
-            if (!translationsMerged) {
+              // Afegeix un conjunt de traduccions nou
               TranslationsSet translationsSet = new TranslationsSet(translatedWords);
               translationsSet.addDefinition(entry, l);
               translationsSet.addExamples(entry, lemma.originalWord.text, l);
               subLemma.addTranslationsSet(translationsSet);
-              translationsMerged = true;
               subLemma.sortByOccurrences();
-              break;
+              return;
             }
           }
-        }
-        // Crea un nou grup de lemes separat. Abans s'ha de mirar si es podia afegir a un grup existent
-        if (!translationsMerged) {
+          // Afegeix un sublema nou
           TranslationsSet translationsSet = new TranslationsSet(translatedWords);
           translationsSet.addDefinition(entry, l);
           translationsSet.addExamples(entry, lemma.originalWord.text, l);
-          lemma.add(new SubLemma(translationsSet, originalWordWithArea));
+          lemma.add(new SubLemma(translationsSet, originalWord));
           lemma.sortOriginalWordList();
-          translationsMerged = true;
-          break;
+          return;
         }
       }
     }
-    if (!translationsMerged) {
-      TranslationsSet translationsSet = new TranslationsSet(translatedWords);
-      Lemma lemma = new Lemma(originalWord);
-      translationsSet.addDefinition(entry, l);
-      translationsSet.addExamples(entry, lemma.originalWord.text, l);
-      lemma.add(new SubLemma(translationsSet, originalWordWithArea));
-      r.results[l].lemmas.add(lemma);
-      r.results[l].sortLemmas();
+    // Afegeix un lema nou
+    TranslationsSet translationsSet = new TranslationsSet(translatedWords);
+    Lemma lemma = new Lemma(new Word(originalWord)); // Fem una còpia per a no afectar la paraula original
+    translationsSet.addDefinition(entry, l);
+    translationsSet.addExamples(entry, lemma.originalWord.text, l);
+    lemma.add(new SubLemma(translationsSet, originalWord));
+    lemmaList.add(lemma);
+    Collections.sort(lemmaList, new SortLemmas());
+  }
+
+  /**
+  * Genera l'índex d'entrades.
+  */
+  private void generateIndexWordEntries() {
+    for (Entry entry : entries) {
+      for (int l = 0; l < 2; l++) {
+        for (Word word : entry.words[l]) {
+          if (!indexWordEntries.get(l).containsKey(word.text)) {
+            indexWordEntries.get(l).put(word.text, new ArrayList<>(Arrays.asList(entry)));
+          }
+          else {
+            indexWordEntries.get(l).get(word.text).add(entry);
+          }
+        }
+      }
+    }
+  }
+
+  /**
+  * Genera l'índex de lemes.
+  */
+  private void generateIndexWordLemmas() {
+    for (int l = 0; l < 2; l++) {
+      for (String w : indexWordEntries.get(l).keySet()) {
+        for (Entry iEntry : indexWordEntries.get(l).get(w)) {
+          Word baseWord = new Word();
+          for (Word word : iEntry.words[l]) {
+            if (word.text.equals(w)) {
+              baseWord = new Word(word, iEntry.area, iEntry.remark);
+            }
+          }
+          // Afegim totes les formes
+          for (String wordForm : wordFormsToSearch(baseWord)) {
+            indexWordLemmas.get(l).putIfAbsent(wordForm, new ArrayList<>());
+            addToLemmaList(indexWordLemmas.get(l).get(wordForm), l, baseWord, iEntry);
+          }
+        }
+      }
     }
   }
   
@@ -265,6 +343,13 @@ public class Dictionary {
     return index;
   }
 
+  /**
+  * Comprova si una paraula és una "stop word".
+
+  * @param  word           paraula
+  * @param  stopWordList   llista de "stop words"
+  * @return                booleà amb el resultat de la comprovació
+  */
   boolean isStopWord(String word, HashSet<String> stopWordList) {
     if (word.length()<3 || word.endsWith(".")) {
       return true;
@@ -294,6 +379,9 @@ public class Dictionary {
     return SPACES_PATTERN.matcher(input).replaceAll(" ").trim();
   }
 
+  public List<Entry> getEntries() {
+    return entries;
+  }
 }
 
 

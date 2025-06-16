@@ -102,11 +102,13 @@ public class EntryHandler extends DefaultHandler {
       break;
     case "eng":
       currentWord.text = currentText;
-      currentEntry.words[0].add(currentWord);
+      // Creem una paraula nova per a generar les formes
+      currentEntry.words[0].add(new Word(currentWord));
       break;
     case "cat":
       currentWord.text = currentText;
-      currentEntry.words[1].add(currentWord);
+      // Creem una paraula nova per a generar les formes
+      currentEntry.words[1].add(new Word(currentWord));
       break;
     }
   }

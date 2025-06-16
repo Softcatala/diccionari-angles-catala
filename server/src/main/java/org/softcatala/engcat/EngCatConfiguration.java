@@ -28,6 +28,7 @@ public class EngCatConfiguration {
   String urlPath;
   int maxCheckThreads;
   List<String> blockedUserAgents;
+  String logFileGrammarChecking;
 
   public  String toString() {
     return String.format("serverPort=%d, srcFile=%s, engStopWordFile=%s, catStopWordFile=%s, serverTimezone=%s, logging=%s, production=%s, urlPath=%s",
@@ -57,6 +58,7 @@ public class EngCatConfiguration {
           blockedUserAgents = null;
         }
         logFilePath = getOptionalProperty(props, "logFile", "/logs/eng-cat-server.log");
+        logFileGrammarChecking = getOptionalProperty(props, "logFileGrammarChecking", null);
         maxCheckThreads = Integer.parseInt(getOptionalProperty(props, "maxCheckThreads", DEFAULT_MAX_THREADS));
         if (srcFolderPath != null) {
           srcFolder = new File(srcFolderPath);

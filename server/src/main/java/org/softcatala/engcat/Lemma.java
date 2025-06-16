@@ -11,6 +11,9 @@ public class Lemma {
 
   Lemma (Word oWord) {
     this.originalWord = oWord;
+    // Llevem les etiquetes i el remark perquè el lema sigui genèric
+    this.originalWord.tags = "";
+    this.originalWord.remark = "";
   }
 
   public void add(SubLemma subLemma) {

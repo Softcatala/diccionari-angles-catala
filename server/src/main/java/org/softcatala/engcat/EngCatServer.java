@@ -32,6 +32,15 @@ public class EngCatServer {
     }
     conf = new EngCatConfiguration(args);
     dict = new Dictionary(conf);
+
+    if (conf.logFileGrammarChecking != null) {
+      log("INFO", "Comença la revisió ortogràfica i gramatical");
+      CheckSpellingAndGrammar checker = new CheckSpellingAndGrammar(conf.logFileGrammarChecking);
+      checker.check(dict.getEntries());
+      log("INFO", "Revisió ortogràfica i gramatical acabada");
+    }
+
+
     //Response r = dict.getResponse("costa d'ivori");
     //Response response = dict.getResponse("dot");
 

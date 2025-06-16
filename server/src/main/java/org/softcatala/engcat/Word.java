@@ -1,6 +1,7 @@
 package org.softcatala.engcat;
 
 import java.util.Comparator;
+import java.util.HashSet;
 
 public class Word {
   String text = "";
@@ -13,6 +14,7 @@ public class Word {
   String before = "";
   String after = "";
   String area = "";
+  HashSet<String> forms = new HashSet<>();
   private int ocurrences = 0;
 
   public Word() {
@@ -37,7 +39,29 @@ public class Word {
     this.before = w.before;
     this.after = w.after;
     this.area = area;
+    this.forms = w.forms;
     this.ocurrences = 0;
+
+    // Forma base
+    this.forms.add(w.text);
+
+    // Formes flexionades
+    if (!w.feminine.isEmpty()) {
+      this.forms.add(w.feminine);
+    }
+    if (!w.plural.isEmpty()) {
+      this.forms.add(w.plural);
+    }
+
+    // Verbs en infinitiu sense "to"
+    if (this.grammarClass.equals("v")) {
+      String trimmedVerb = w.text.replaceAll("^to ","");
+      this.forms.add(trimmedVerb);
+    }
+  }
+
+  public Word(Word w) {
+    this(w, "", "");
   }
 
   public String toString() {
@@ -95,9 +119,10 @@ public class Word {
     return this.text.equals(oWord2.text)
         && this.grammarClass.equals(oWord2.grammarClass)
         && this.grammarAux.equals(oWord2.grammarAux)
-        && this.tags.equals(oWord2.tags)
+        //&& this.tags.equals(oWord2.tags) // Si comprovem les etiquetes, les variants dialectals, col·loquials i similars queden en un lema a banda (per exemple, "half")
         && this.feminine.equals(oWord2.feminine)
-        && this.remark.equals(oWord2.remark);
+        && this.plural.equals(oWord2.plural);
+        //&& this.remark.equals(oWord2.remark); // Si comprovem el "remark", hi ha separacions de lemes no desitjades (per exemple, "de")
   }
 
   public boolean isSameSubLema(Word oWord2) {
