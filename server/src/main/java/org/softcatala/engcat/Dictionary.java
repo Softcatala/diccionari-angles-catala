@@ -11,12 +11,14 @@ import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.text.Normalizer;
+import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Locale;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -36,7 +38,7 @@ public class Dictionary {
   // Llista de "stop words" per a cada llengua
   private List<HashSet<String>> stopWords = new ArrayList<>();
 
-  public Dictionary(EngCatConfiguration conf) throws SAXException, IOException, ParserConfigurationException {
+  public Dictionary(EngCatConfiguration conf) throws SAXException, IOException, ParserConfigurationException, ParseException {
     long startTime = System.currentTimeMillis();
     SAXParserFactory factory = SAXParserFactory.newInstance();
     SAXParser saxParser = factory.newSAXParser();
@@ -191,7 +193,7 @@ public class Dictionary {
         if (originalWord.isSameLema(lemma.originalWord)) {
           // Ja hi ha un lema coincident, cal comprovar els sublemes
           for (SubLemma subLemma : lemma.subLemmaList) {
-            if (originalWord.isSameSubLema(subLemma.originalWord)) {
+            if (originalWord.isSameSubLema(subLemma.originalWord, entry)) {
               for (TranslationsSet translationsSet : subLemma.translationsSets) {
                 if (translationsSet.intersects(translatedWords) && translationsSet.sharesDefinition(entry, l)) {
                   // Afegeix traduccions addicionals a un conjunt de traduccions existent
@@ -214,7 +216,7 @@ public class Dictionary {
           TranslationsSet translationsSet = new TranslationsSet(translatedWords);
           translationsSet.addDefinition(entry, l);
           translationsSet.addExamples(entry, lemma.originalWord.text, l);
-          lemma.add(new SubLemma(translationsSet, originalWord));
+          lemma.add(new SubLemma(translationsSet, originalWord, entry));
           lemma.sortOriginalWordList();
           return;
         }
@@ -225,7 +227,7 @@ public class Dictionary {
     Lemma lemma = new Lemma(new Word(originalWord)); // Fem una còpia per a no afectar la paraula original
     translationsSet.addDefinition(entry, l);
     translationsSet.addExamples(entry, lemma.originalWord.text, l);
-    lemma.add(new SubLemma(translationsSet, originalWord));
+    lemma.add(new SubLemma(translationsSet, originalWord, entry));
     lemmaList.add(lemma);
     Collections.sort(lemmaList, new SortLemmas());
   }
@@ -258,7 +260,7 @@ public class Dictionary {
           Word baseWord = new Word();
           for (Word word : iEntry.words[l]) {
             if (word.text.equals(w)) {
-              baseWord = new Word(word, iEntry.area, iEntry.remark);
+              baseWord = new Word(word, iEntry.area);
             }
           }
           // Afegim totes les formes
@@ -302,7 +304,7 @@ public class Dictionary {
   /**
   * Crea l'índex alfabètic amb totes les paraules de la llista d'entrades.
   */
-  public void createIndex() {
+  public void createIndex() throws ParseException {
     for (Entry e : entries) {
       if (!e.type.equals("sentence")) {
         for (int l = 0; l < 2; l++) {
@@ -316,8 +318,8 @@ public class Dictionary {
         }  
       }
     }
-    indexEng.sortWords();
-    indexCat.sortWords();
+    indexEng.sortWords(new Locale("eng"));
+    indexCat.sortWords(new Locale("cat"));
   }
 
   /**

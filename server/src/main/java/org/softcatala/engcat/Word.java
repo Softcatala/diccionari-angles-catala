@@ -20,19 +20,11 @@ public class Word {
   public Word() {
   }
 
-  public Word(Word w, String area, String globalRemark) {
+  public Word(Word w, String area) {
     this.text = w.text;
     this.grammarClass = w.grammarClass;
     this.grammarAux = w.grammarAux;
-    if (globalRemark == null) {
-      this.remark = w.remark;
-    } else {
-      if (w.remark.isEmpty() && !globalRemark.isEmpty()) {
-        this.remark = globalRemark;
-      } else {
-        this.remark = w.remark;
-      }
-    }
+    this.remark = w.remark;
     this.tags = w.tags;
     this.feminine = w.feminine;
     this.plural = w.plural;
@@ -61,7 +53,7 @@ public class Word {
   }
 
   public Word(Word w) {
-    this(w, "", "");
+    this(w, "");
   }
 
   public String toString() {
@@ -119,14 +111,23 @@ public class Word {
     return this.text.equals(oWord2.text)
         && this.grammarClass.equals(oWord2.grammarClass)
         && this.grammarAux.equals(oWord2.grammarAux)
-        //&& this.tags.equals(oWord2.tags) // Si comprovem les etiquetes, les variants dialectals, col·loquials i similars queden en un lema a banda (per exemple, "half")
+        && this.tags.equals(oWord2.tags)
         && this.feminine.equals(oWord2.feminine)
         && this.plural.equals(oWord2.plural);
         //&& this.remark.equals(oWord2.remark); // Si comprovem el "remark", hi ha separacions de lemes no desitjades (per exemple, "de")
   }
 
-  public boolean isSameSubLema(Word oWord2) {
-    return this.equals(oWord2);
+  public boolean isSameSubLema(Word oWord2, Entry entry) {
+    return this.text.equals(oWord2.text)
+        && this.grammarClass.equals(oWord2.grammarClass)
+        && this.grammarAux.equals(oWord2.grammarAux)
+        && this.tags.equals(oWord2.tags)
+        && this.before.equals(oWord2.before)
+        && this.after.equals(oWord2.after)
+        && this.feminine.equals(oWord2.feminine)
+        && this.plural.equals(oWord2.plural)
+        && this.area.equals(oWord2.area)
+        && entry.remark.equals(oWord2.remark);
   }
 
 }

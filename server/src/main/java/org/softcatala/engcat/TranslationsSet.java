@@ -15,7 +15,7 @@ public class TranslationsSet {
 
   public TranslationsSet(List<Word> tWords) {
     for (Word tw : tWords) {
-      translatedWords.add(new Word(tw, "", null));
+      translatedWords.add(new Word(tw, ""));
     }
     this.sortByOccurrences();
 
@@ -104,7 +104,7 @@ public class TranslationsSet {
         }
       }
       if (!found) {
-        translatedWords.add(new Word(tw2, "", null));
+        translatedWords.add(new Word(tw2, ""));
       }
     }
     this.sortByOccurrences();

@@ -242,9 +242,9 @@ function prepareSubLemma(word) {
   if (word.def) {
     output += '['+word.def+'] ';
   }
-  /*if (word.remark) {
+  if (word.remark) {
     output += ' [&rArr; '+word.remark+'] ';
-  }*/
+  }
   return output.trim();
 }
 

@@ -11,8 +11,7 @@ public class Lemma {
 
   Lemma (Word oWord) {
     this.originalWord = oWord;
-    // Llevem les etiquetes i el remark perquè el lema sigui genèric
-    this.originalWord.tags = "";
+    // Llevem el remark perquè el lema sigui genèric
     this.originalWord.remark = "";
   }
 
@@ -36,6 +35,10 @@ class SortLemmas implements Comparator<Lemma> {
     int weightDiff = weightOfGrammarClass(a.originalWord.grammarClass) - weightOfGrammarClass(b.originalWord.grammarClass);
     if (weightDiff != 0) {
       return weightDiff;
+    }
+    int tagsDiff = a.originalWord.tags.length() - b.originalWord.tags.length();
+    if (tagsDiff != 0) {
+      return tagsDiff;
     }
     return 0;
   }

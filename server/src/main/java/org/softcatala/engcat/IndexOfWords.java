@@ -1,10 +1,13 @@
 package org.softcatala.engcat;
 
 import java.util.List;
+import java.text.Collator;
 import java.text.Normalizer;
+import java.text.ParseException;
+import java.text.RuleBasedCollator;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashMap;
+import java.util.Locale;
 import java.util.Map;
 import java.util.regex.Pattern;
 
@@ -32,9 +35,14 @@ public class IndexOfWords {
     } 
   }
   
-  public void sortWords() {
+  public void sortWords(Locale locale) throws ParseException {
+    RuleBasedCollator collator = (RuleBasedCollator) Collator.getInstance(locale);
+    final String rules = collator.getRules();
+    // Per defecte l'ordenació és alfabètica contínua (no té en compte els espais)
+    // Canviem la prioritat dels espais perquè sigui ordenació alfabètica discontínua
+    RuleBasedCollator fixedCollator = new RuleBasedCollator(rules.replaceAll("<'\u005f'", "<' '<'\u005f'"));
     for (String key: map.keySet()) {
-      Collections.sort(map.get(key));
+      map.get(key).sort(fixedCollator);
     }
   }
   
