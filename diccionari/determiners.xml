@@ -17,17 +17,17 @@
       <cat class="det">una mica de</cat>
     </e>
     <e done="yes" src="" type="word">
+      <eng class="det">a lot of</eng>
       <eng class="det" tags="colloquial">a load of</eng>
       <eng class="det" tags="colloquial">loads of</eng>
       <eng class="det" tags="slang">a shitload of</eng>
-      <eng class="det">a lot of</eng>
       <cat class="det">un munt de</cat>
       <cat class="det">una pila de</cat>
     </e>
     <e done="yes" src="" type="word">
+      <eng class="det">a</eng>
       <eng class="det" remark="before a vowel sound">an</eng>
       <eng class="det">a single</eng>
-      <eng class="det">a</eng>
       <cat class="det" feminine="una">un</cat>
       <example sent_eng="She lives with a cat." sent_cat="Viu amb un gat." />
       <example sent_eng="Maria ate an apple." sent_cat="Maria va menjar una poma." />
@@ -49,7 +49,7 @@
     <e done="yes" src="" type="word" def_eng="At least one, in interrogative sentences." def_cat="Com a mínim un, en oracions interrogatives.">
       <eng class="det">any</eng>
       <eng class="det" tags="rare">either</eng>
-      <cat class="det">algun</cat>
+      <cat class="det" feminine="alguna">algun</cat>
       <cat class="det">cap</cat>
       <cat class="det">qualque</cat>
       <example sent_eng="Are there any questions?" sent_cat="Teniu cap pregunta?" />
@@ -77,13 +77,14 @@
       <example sent_eng="Please look after your belongings." sent_cat="Tingueu cura dels vostres objectes personals." />
     </e>
     <e done="yes" src="" def_eng="Third person singular possessive." def_cat="Possessiu de tercera persona singular." type="word">
-      <eng class="det">her</eng>
       <eng class="det">his</eng>
+      <eng class="det">her</eng>
       <eng class="det">its</eng>
       <eng class="det">their</eng>
       <cat class="det" feminine="la seva">el seu</cat>
       <cat class="det" feminine="la seua" tags="valencià">el seu</cat>
       <cat class="det" feminine="sa">son</cat>
+      <example sent_eng="These are David and his sister Andrea." sent_cat="Aquests són en David i la seva germana Andrea." />
     </e>
     <e done="yes" src="" def_eng="First person plural possessive." def_cat="Possessiu de primera persona plural." type="word">
       <eng class="det">our</eng>
@@ -112,7 +113,10 @@
     </e>
     <e done="yes" src="" def_eng="One, no matter what kind." def_cat="Un, no importa quin." type="word">
       <eng class="det">any</eng>
-      <cat class="det">qualsevol</cat>
+      <cat class="det" plural="qualssevol">qualsevol</cat>
+      <cat class="det" plural="qualssevulla" tags="antic">qualsevulla</cat>
+      <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="det">any and all</eng>
@@ -147,7 +151,10 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="det">either</eng>
-      <cat class="det">qualsevol</cat>
+      <cat class="det" plural="qualssevol">qualsevol</cat>
+      <cat class="det" plural="qualssevulla" tags="antic">qualsevulla</cat>
+      <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <example sent_eng="Either option looks good." sent_cat="Qualsevol de les opcions em sembla bé." />
     </e>
     <e done="yes" src="" type="word">
@@ -212,16 +219,6 @@
       <example sent_eng="There is not much chocolate left." sent_cat="No queda gaire xocolata." />
     </e>
     <e done="yes" src="" type="word">
-      <eng class="adj">so many</eng>
-      <eng class="adj">as many</eng>
-      <cat class="adj" feminine="tantes">tants</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="det">so much</eng>
-      <eng class="det">as much</eng>
-      <cat class="det" feminine="tanta">tant</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng remark="before countable nouns" class="det">too many</eng>
       <cat class="det">massa</cat>
       <example sent_cat="massa persones" sent_eng="too many people" />
@@ -277,8 +274,8 @@
       <cat class="det" tags="valencià" feminine="eixa">eixe</cat>
     </e>
     <e done="yes" src="" def_eng="Demonstrative denoting something remote." type="word">
-      <eng class="det" tags="dialectal">them</eng>
       <eng class="det" plural="those">that</eng>
+      <eng class="det" tags="dialectal">them</eng>
       <eng class="det" tags="old">yonder</eng>
       <cat class="det" feminine="aquella">aquell</cat>
     </e>
@@ -291,12 +288,14 @@
     <e done="yes" src="" type="word">
       <eng class="det">whatever</eng>
       <eng class="det">whichever</eng>
-      <cat class="det">qualsevol</cat>
+      <cat class="det" plural="qualssevol">qualsevol</cat>
+      <cat class="det" tags="antic" plural="qualssevulla">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="det">whose</eng>
       <cat class="pron">de qui</cat>
       <example sent_eng="Whose cat is this?" sent_cat="De qui és aquest gat?" />
+      <example sent_eng="Whose suitcase is this?" sent_cat="De qui és aquesta maleta?" />
     </e>
   </entries>
 </root>

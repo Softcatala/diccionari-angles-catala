@@ -259,9 +259,9 @@
       <example sent_eng="She has done a lot since she became president." sent_cat="Ha fet moltes coses d'ençà que va esdevenir presidenta." />
     </e>
     <e done="yes" src="" type="word">
+      <eng class="conj">until</eng>
       <eng class="conj" tags="colloquial">til</eng>
       <eng class="conj" tags="colloquial">till</eng>
-      <eng class="conj">until</eng>
       <cat class="conj">fins que</cat>
       <cat class="conj">mentre no</cat>
       <example sent_eng="We will stay here until we reach a deal." sent_cat="Ens quedarem aquí fins que arribem a un acord." />
@@ -275,6 +275,7 @@
     <e done="yes" src="" type="word">
       <eng class="conj">that</eng>
       <cat class="conj">que</cat>
+      <example sent_eng="I believe that he is lying to us." sent_cat="Crec que ens menteix." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="conj">whenever</eng>

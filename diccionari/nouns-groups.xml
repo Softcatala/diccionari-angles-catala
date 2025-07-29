@@ -922,6 +922,167 @@
       <cat class="m">oganessó</cat>
       <cat class="m" tags="símbol">Og</cat>
     </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">a</eng>
+      <cat class="f">a</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">b</eng>
+      <cat class="f">b</cat>
+      <cat class="f">be</cat>
+      <cat class="f">be alta</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">c</eng>
+      <cat class="f">c</cat>
+      <cat class="f">ce</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">d</eng>
+      <cat class="f">d</cat>
+      <cat class="f">de</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">e</eng>
+      <cat class="f">e</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">f</eng>
+      <cat class="f">f</cat>
+      <cat class="f">efa</cat>
+      <cat class="f">ef</cat>
+      <cat class="f">efe</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">g</eng>
+      <cat class="f">g</cat>
+      <cat class="f">ge</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">h</eng>
+      <cat class="f">h</cat>
+      <cat class="f">hac</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">i</eng>
+      <cat class="f">i</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">j</eng>
+      <cat class="f">j</cat>
+      <cat class="f">jota</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">k</eng>
+      <cat class="f">k</cat>
+      <cat class="f">ca</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">l</eng>
+      <cat class="f">l</cat>
+      <cat class="f">ela</cat>
+      <cat class="f">el</cat>
+      <cat class="f">ele</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">m</eng>
+      <cat class="f">m</cat>
+      <cat class="f">ema</cat>
+      <cat class="f">em</cat>
+      <cat class="f">eme</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">n</eng>
+      <eng class="n">en</eng>
+      <cat class="f">n</cat>
+      <cat class="f">ena</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">o</eng>
+      <cat class="f">o</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">p</eng>
+      <cat class="f">p</cat>
+      <cat class="f">pe</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">q</eng>
+      <cat class="f">q</cat>
+      <cat class="f">cu</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">r</eng>
+      <cat class="f">r</cat>
+      <cat class="f">erra</cat>
+      <cat class="f">er</cat>
+      <cat class="f">erre</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">s</eng>
+      <cat class="f">s</cat>
+      <cat class="f">essa</cat>
+      <cat class="f">es</cat>
+      <cat class="f">esse</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">t</eng>
+      <cat class="f">t</cat>
+      <cat class="f">te</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">u</eng>
+      <cat class="f">u</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">v</eng>
+      <cat class="f">v</cat>
+      <cat class="f">ve</cat>
+      <cat class="f">ve baixa</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">w</eng>
+      <cat class="f">w</cat>
+      <cat class="f">ve doble</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">x</eng>
+      <cat class="f">x</cat>
+      <cat class="f">ics</cat>
+      <cat class="f">xeix</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">y</eng>
+      <cat class="f">y</cat>
+      <cat class="f">i grega</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">z</eng>
+      <cat class="f">z</cat>
+      <cat class="f">zeta</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">ç</eng>
+      <cat class="f">ç</cat>
+      <cat class="f">ce trencada</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">ll</eng>
+      <cat class="f">ll</cat>
+      <cat class="f">ela doble</cat>
+      <cat class="f">el doble</cat>
+      <cat class="f">ele doble</cat>
+      <cat class="f">ela palatal</cat>
+      <cat class="f">el palatal</cat>
+      <cat class="f">ele palatal</cat>
+    </e>
+    <e done="yes" src="" area="lingüística" type="word">
+      <eng class="n">l·l</eng>
+      <cat class="f">l·l</cat>
+      <cat class="f">ela geminada</cat>
+      <cat class="f">el geminada</cat>
+      <cat class="f">ele geminada</cat>
+    </e>
     <e done="yes" area="metrologia" src="" type="word">
       <eng class="n">pace</eng>
       <eng class="n">yard</eng>

@@ -150,10 +150,6 @@
       <cat class="expr">hi ha</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">thick and fast</eng>
-      <cat class="adv">seguits i de pressa</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="expr" before="something/someone" after="with someone">to be a great favourite</eng>
       <cat class="expr" before="algú" after="per alguna cosa">tenir debilitat</cat>
       <cat class="expr" before="una persona" after="d'algú">ser la nineta dels ulls</cat>
@@ -172,6 +168,15 @@
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to fall sheer</eng>
       <cat class="v" grammar="intr">caure a pic</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to hold water</eng>
+      <cat class="expr">tenir lògica</cat>
+      <cat class="expr">tenir fonament</cat>
+      <cat class="expr">estar fonamentat</cat>
+      <cat class="expr">ser convincent</cat>
+      <cat class="v" grammar="intr_pron">sostenir-se</cat>
+      <example sent_eng="This argument doesn't hold water." sent_cat="Aquest argument no se sosté." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to run as fast as you can</eng>

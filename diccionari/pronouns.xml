@@ -24,6 +24,7 @@
       <cat class="pron" tags="valencià">açò</cat>
       <cat class="pron" feminine="aquesta">aquest</cat>
       <cat class="pron" feminine="esta" tags="valencià">este</cat>
+      <cat class="pron">ho</cat>
     </e>
     <e done="yes" src="" def_eng="Demonstrative denoting something remote." type="word">
       <eng class="pron">that</eng>
@@ -31,117 +32,106 @@
       <eng class="pron">it</eng>
       <cat class="pron">allò</cat>
       <cat class="pron" feminine="aquella">aquell</cat>
+      <cat class="pron">ho</cat>
     </e>
     <e done="yes" src="" def_eng="First-person singular personal pronoun." def_cat="Pronom personal de primera persona del singular." type="word">
       <eng class="pron">I</eng>
-      <eng class="pron" remark="accusative">me</eng>
-      <eng class="pron" remark="reflexive">myself</eng>
+      <eng class="pron" tags="accusative">me</eng>
+      <eng class="pron" tags="reflexive">myself</eng>
       <cat class="pron">jo</cat>
       <cat class="pron" before="preposició">mi</cat>
-      <cat class="pron" remark="acusatiu i datiu">em</cat>
-      <cat class="pron" remark="acusatiu i datiu">me</cat>
-      <cat class="pron" remark="acusatiu i datiu">m'</cat>
-      <cat class="pron" remark="acusatiu i datiu">'m</cat>
-      <cat class="pron" feminine="jo mateixa" remark="reflexiu">jo mateix</cat>
+      <cat class="pron" tags="acusatiu datiu">em</cat>
+      <cat class="pron" tags="acusatiu datiu">me</cat>
+      <cat class="pron" tags="acusatiu datiu">m'</cat>
+      <cat class="pron" tags="acusatiu datiu">'m</cat>
+      <cat class="pron" feminine="jo mateixa" tags="reflexiu">jo mateix</cat>
     </e>
     <e done="yes" src="" def_eng="Second-person singular personal pronoun." def_cat="Pronom personal de segona persona del singular." type="word">
       <eng class="pron">you</eng>
       <eng class="pron" tags="old">thou</eng>
-      <eng class="pron" tags="old" remark="accusative">thee</eng>
-      <eng class="pron" remark="reflexive">yourself</eng>
+      <eng class="pron" tags="accusative old">thee</eng>
+      <eng class="pron" tags="reflexive">yourself</eng>
       <cat class="pron">tu</cat>
-      <cat class="pron" remark="acusatiu i datiu">et</cat>
-      <cat class="pron" remark="acusatiu i datiu">te</cat>
-      <cat class="pron" remark="acusatiu i datiu">'t</cat>
-      <cat class="pron" remark="acusatiu i datiu">t'</cat>
-      <cat class="pron" remark="reflexiu" feminine="tu mateixa">tu mateix</cat>
+      <cat class="pron" tags="acusatiu datiu">et</cat>
+      <cat class="pron" tags="acusatiu datiu">te</cat>
+      <cat class="pron" tags="acusatiu datiu">'t</cat>
+      <cat class="pron" tags="acusatiu datiu">t'</cat>
+      <cat class="pron" tags="reflexiu" feminine="tu mateixa">tu mateix</cat>
     </e>
     <e done="yes" src="" def_eng="Second-person formal singular personal pronoun." def_cat="Pronom personal de segona persona del singular que denota formalitat i distanciament." type="word">
       <eng class="pron">you</eng>
-      <eng class="pron" remark="reflexive">yourself</eng>
+      <eng class="pron" tags="reflexive">yourself</eng>
       <cat class="pron">vostè</cat>
-      <cat class="pron" remark="acusatiu i datiu">es</cat>
-      <cat class="pron" remark="acusatiu i datiu">se</cat>
-      <cat class="pron" remark="acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu" feminine="vostè mateixa">vostè mateix</cat>
+      <cat class="pron" tags="acusatiu datiu">es</cat>
+      <cat class="pron" tags="acusatiu datiu">se</cat>
+      <cat class="pron" tags="acusatiu datiu">'s</cat>
+      <cat class="pron" tags="acusatiu datiu">s'</cat>
+      <cat class="pron" tags="reflexiu" feminine="vostè mateixa">vostè mateix</cat>
+      <example sent_eng="Could you please turn around?" sent_cat="Que es podria donar la volta, si us plau?" />
     </e>
     <e done="yes" src="" def_eng="Second-person formal singular personal pronoun." def_cat="Pronom personal de segona persona del singular, utilitzat per a una persona que no es tracta de «tu» ni de «vostè»." type="word">
       <eng class="pron">you</eng>
-      <eng class="pron" remark="reflexive">yourself</eng>
+      <eng class="pron" tags="reflexive">yourself</eng>
       <cat class="pron">vós</cat>
-      <cat class="pron" remark="acusatiu i datiu">us</cat>
-      <cat class="pron" remark="acusatiu i datiu">vos</cat>
-      <cat class="pron" remark="reflexiu" feminine="vós mateixa">vós mateix</cat>
+      <cat class="pron" tags="acusatiu datiu">us</cat>
+      <cat class="pron" tags="acusatiu datiu">vos</cat>
+      <cat class="pron" tags="reflexiu" feminine="vós mateixa">vós mateix</cat>
     </e>
-    <e done="yes" src="" type="word" def_cat="Pronom personal masculí de tercera persona del singular.">
-      <eng class="pron">he</eng>
-      <eng class="pron" remark="accusative">him</eng>
-      <eng class="pron" remark="reflexive">himself</eng>
-      <cat class="pron">ell</cat>
-      <cat class="pron" remark="acusatiu">el</cat>
-      <cat class="pron" remark="acusatiu">lo</cat>
-      <cat class="pron" remark="datiu">li</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">es</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">se</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu">ell mateix</cat>
-      <cat class="pron" remark="reflexiu">si mateix</cat>
+    <e done="yes" src="" type="word" def_cat="Pronom personal de tercera persona del singular.">
+      <eng class="pron" feminine="she">he</eng>
+      <eng class="pron" tags="accusative" feminine="her">him</eng>
+      <eng class="pron" tags="reflexive" feminine="herself">himself</eng>
+      <cat class="pron" feminine="ella">ell</cat>
+      <cat class="pron" tags="acusatiu" feminine="la">el</cat>
+      <cat class="pron" tags="acusatiu" feminine="la">lo</cat>
+      <cat class="pron" tags="datiu">li</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">es</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">se</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">'s</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">s'</cat>
+      <cat class="pron" tags="reflexiu" feminine="ella mateixa">ell mateix</cat>
+      <cat class="pron" tags="reflexiu" feminine="si mateixa">si mateix</cat>
       <example sent_eng="I went to the gym with him." sent_cat="Vaig anar al gimnàs amb ell." />
-    </e>
-    <e done="yes" src="" type="word" def_cat="Pronom personal femení de tercera persona del singular.">
-      <eng class="pron">she</eng>
-      <eng class="pron" remark="accusative">her</eng>
-      <eng class="pron" remark="reflexive">herself</eng>
-      <cat class="pron">ella</cat>
-      <cat class="pron" remark="acusatiu">la</cat>
-      <cat class="pron" remark="datiu">li</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">es</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">se</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu">ella mateixa</cat>
-      <cat class="pron" remark="reflexiu">si mateixa</cat>
       <example sent_eng="I enjoy travelling with her." sent_cat="M'encanta viatjar amb ella." />
     </e>
     <e done="yes" src="" def_eng="Third-person singular personal pronoun used for non-human animate entities." def_cat="Pronom personal neutre de tercera persona del singular que es fa servir per a entitats abstractes, no humanes o objectes inanimats." type="word">
       <eng class="pron">it</eng>
-      <eng class="pron" remark="reflexive">itself</eng>
+      <eng class="pron" tags="reflexive">itself</eng>
+      <cat class="pron">ho</cat>
       <cat class="pron" feminine="ella">ell</cat>
-      <cat class="pron" remark="datiu">li</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">es</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">se</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu">si mateix</cat>
-      <cat class="pron" remark="reflexiu" feminine="ella mateixa">ell mateix</cat>
+      <cat class="pron" tags="datiu">li</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">es</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">se</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">'s</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">s'</cat>
+      <cat class="pron" tags="reflexiu">si mateix</cat>
+      <cat class="pron" tags="reflexiu" feminine="ella mateixa">ell mateix</cat>
       <example sent_eng="Look at the cat! It seems it does enjoy being petted, unlike you!" sent_cat="Mira el gat! Sembla que a ell sí que li agraden les moixaines, no com a tu!" />
     </e>
     <e done="yes" src="" def_eng="Third-person singular personal pronoun without gender mark." def_cat="Pronom personal de tercera persona del singular." type="word">
       <eng class="pron">they</eng>
-      <eng class="pron" remark="accusative">them</eng>
-      <eng class="pron" remark="reflexive">themself</eng>
-      <cat class="pron" remark="acusatiu" feminine="la">el</cat>
-      <cat class="pron" remark="datiu">li</cat>
-      <cat class="pron" remark="acusatiu">lo</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">es</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">se</cat>
-      <cat class="pron" remark="reflexiu">si mateix</cat>
-      <cat class="pron" remark="reflexiu" feminine="ella mateixa">ell mateix</cat>
+      <eng class="pron" tags="accusative">them</eng>
+      <eng class="pron" tags="reflexive">themself</eng>
+      <cat class="pron" tags="acusatiu" feminine="la">el</cat>
+      <cat class="pron" tags="datiu">li</cat>
+      <cat class="pron" tags="acusatiu">lo</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">'s</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">es</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">s'</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">se</cat>
+      <cat class="pron" tags="reflexiu">si mateix</cat>
+      <cat class="pron" tags="reflexiu" feminine="ella mateixa">ell mateix</cat>
     </e>
     <e done="yes" src="" def_eng="First-person plural personal pronoun." def_cat="Pronom personal de primera persona del plural." type="word">
       <eng class="pron">we</eng>
-      <eng class="pron" remark="accusative">us</eng>
-      <eng class="pron" remark="reflexive">ourselves</eng>
+      <eng class="pron" tags="accusative">us</eng>
+      <eng class="pron" tags="reflexive">ourselves</eng>
       <cat class="pron">nosaltres</cat>
       <cat class="pron" tags="antic">nos</cat>
-      <cat class="pron" remark="acusatiu i datiu">'ns</cat>
-      <cat class="pron" remark="acusatiu i datiu">ens</cat>
-      <cat class="pron" remark="acusatiu i datiu">nos</cat>
-      <cat class="pron" tags="dialectal" remark="acusatiu i datiu">mos</cat>
+      <cat class="pron" tags="acusatiu datiu">'ns</cat>
+      <cat class="pron" tags="acusatiu datiu">ens</cat>
+      <cat class="pron" tags="acusatiu datiu">nos</cat>
+      <cat class="pron" tags="acusatiu datiu dialectal">mos</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">we all</eng>
@@ -149,21 +139,22 @@
     </e>
     <e done="yes" src="" def_eng="Second-person formal plural personal pronoun." def_cat="Pronom personal de segona persona del plural que denota formalitat i distanciament." type="word">
       <eng class="pron">you</eng>
-      <eng class="pron" remark="reflexive">yourselves</eng>
+      <eng class="pron" tags="reflexive">yourselves</eng>
       <cat class="pron">vostès</cat>
-      <cat class="pron" remark="acusatiu i datiu">es</cat>
-      <cat class="pron" remark="acusatiu i datiu">se</cat>
-      <cat class="pron" remark="acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu" feminine="vostès mateixes">vostès mateixos</cat>
+      <cat class="pron" tags="acusatiu datiu">es</cat>
+      <cat class="pron" tags="acusatiu datiu">se</cat>
+      <cat class="pron" tags="acusatiu datiu">'s</cat>
+      <cat class="pron" tags="acusatiu datiu">s'</cat>
+      <cat class="pron" tags="reflexiu" feminine="vostès mateixes">vostès mateixos</cat>
+      <example sent_eng="Are you sure you can do this yourselves? Do you need any help?" sent_cat="Segur que ho poden fer vostès mateixos, això? Els puc ajudar?" />
     </e>
     <e done="yes" src="" def_eng="Second-person plural personal pronoun." def_cat="Pronom personal de segona persona del plural." type="word">
       <eng class="pron">you</eng>
-      <eng class="pron" remark="reflexive">yourselves</eng>
+      <eng class="pron" tags="reflexive">yourselves</eng>
       <cat class="pron">vosaltres</cat>
-      <cat class="pron" remark="acusatiu i datiu">us</cat>
-      <cat class="pron" remark="acusatiu i datiu">vos</cat>
-      <cat class="pron" remark="reflexiu" feminine="vosaltres mateixes">vosaltres mateixos</cat>
+      <cat class="pron" tags="acusatiu datiu">us</cat>
+      <cat class="pron" tags="acusatiu datiu">vos</cat>
+      <cat class="pron" tags="reflexiu" feminine="vosaltres mateixes">vosaltres mateixos</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">you all</eng>
@@ -171,21 +162,21 @@
     </e>
     <e done="yes" src="" def_eng="Third-person plural personal pronoun." def_cat="Pronom personal de tercera persona del plural." type="word">
       <eng class="pron">they</eng>
-      <eng class="pron" remark="accusative">them</eng>
-      <eng class="pron" remark="reflexive">themselves</eng>
+      <eng class="pron" tags="accusative">them</eng>
+      <eng class="pron" tags="reflexive">themselves</eng>
       <cat class="pron" feminine="elles">ells</cat>
-      <cat class="pron" remark="acusatiu" feminine="les">els</cat>
-      <cat class="pron" remark="acusatiu i datiu">'ls</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">es</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">se</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">'s</cat>
-      <cat class="pron" remark="reflexiu acusatiu i datiu">s'</cat>
-      <cat class="pron" remark="reflexiu">si mateixos</cat>
-      <cat class="pron" remark="reflexiu" feminine="elles mateixes">ells mateixos</cat>
+      <cat class="pron" tags="acusatiu" feminine="les">els</cat>
+      <cat class="pron" tags="acusatiu datiu">'ls</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">es</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">se</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">'s</cat>
+      <cat class="pron" tags="reflexiu acusatiu datiu">s'</cat>
+      <cat class="pron" tags="reflexiu">si mateixos</cat>
+      <cat class="pron" tags="reflexiu" feminine="elles mateixes">ells mateixos</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">they all</eng>
-      <eng class="pron" remark="accusative">them all</eng>
+      <eng class="pron" tags="accusative">them all</eng>
       <cat class="pron" feminine="totes elles">tots ells</cat>
     </e>
     <e done="yes" src="" def_eng="First person singular possessive." def_cat="Possessiu de primera persona singular." type="word">
@@ -267,7 +258,7 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">they all</eng>
-      <eng class="pron" remark="accusative">them all</eng>
+      <eng class="pron" tags="accusative">them all</eng>
       <cat class="pron" feminine="totes elles">tots ells</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -306,7 +297,8 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">any one</eng>
-      <cat class="pron">qualsevol</cat>
+      <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
     </e>
     <e done="yes" src="" def_eng="Any person." def_cat="Una persona qualsevol." type="word">
       <eng class="pron">anybody</eng>
@@ -314,7 +306,8 @@
       <eng class="pron" tags="informal">whoever</eng>
       <cat class="pron">algú</cat>
       <cat class="pron" remark="negatiu">ningú</cat>
-      <cat class="pron" after="persona">qualsevol</cat>
+      <cat class="pron" after="persona" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" after="persona" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <example sent_eng="Is there anyone home?" sent_cat="Que hi ha algú, a casa?" />
       <example sent_eng="There isn't anyone here." sent_cat="Aquí no hi ha ningú." />
     </e>
@@ -327,16 +320,18 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">any</eng>
-      <cat class="pron">algun</cat>
+      <cat class="pron" feminine="alguna">algun</cat>
       <cat class="pron" remark="interrogatiu i condicional">cap</cat>
       <example sent_eng="Is there any missing?" sent_cat="Que en falta cap?" />
     </e>
     <e done="yes" src="" def_eng="Any thing from a kind." def_cat="Una cosa qualsevol d'una mena." type="word">
       <eng class="pron">any</eng>
-      <cat class="pron">qualsevol</cat>
+      <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">anything</eng>
+      <eng class="pron" tags="old">aught</eng>
       <cat class="pron">alguna cosa</cat>
       <cat class="pron" remark="interrogatiu i condicional">res</cat>
     </e>
@@ -346,7 +341,8 @@
       <eng class="pron">whichever</eng>
       <eng class="pron" tags="UK">owt</eng>
       <eng class="pron" tags="old">aught</eng>
-      <cat class="pron">qualsevol</cat>
+      <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <cat class="pron">qualsevol cosa</cat>
       <cat class="pron" feminine="la que sigui">el que sigui</cat>
       <cat class="pron" feminine="tan se val quina">tant se val quin</cat>
@@ -379,7 +375,8 @@
     <e done="yes" src="" def_cat="Una o l'altra de dues coses o persones." type="word">
       <eng class="pron">either</eng>
       <cat class="pron" remark="interrogatiu">cap</cat>
-      <cat class="pron">qualsevol</cat>
+      <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <example sent_eng="Is either of your liking?" sent_cat="N'hi ha cap del teu gust?" />
       <example sent_eng="Either is good." sent_cat="Qualsevol em sembla bé." />
     </e>
@@ -428,9 +425,9 @@
       <cat class="pron">cap</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="pron" tags="UK">no-one</eng>
       <eng class="pron">no one</eng>
       <eng class="pron">nobody</eng>
+      <eng class="pron" tags="UK">no-one</eng>
       <cat class="pron">ningú</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -441,21 +438,40 @@
       <example sent_eng="There isn't any strawberry flavoured one." sent_cat="No n'hi ha cap de maduixa." />
     </e>
     <e done="yes" src="" type="word">
-      <eng class="pron" tags="UK">nowt</eng>
-      <eng class="pron" tags="slang">zip</eng>
-      <eng class="pron">naught</eng>
       <eng class="pron">nothing</eng>
-      <eng class="pron">nought</eng>
+      <eng class="pron">anything</eng>
+      <eng class="pron">naught</eng>
+      <eng class="pron" tags="old US">nought</eng>
+      <eng class="pron" tags="UK">nowt</eng>
+      <eng class="n">nil</eng>
+      <eng class="n">null</eng>
+      <eng class="n">zero</eng>
+      <eng class="n" tags="slang">zip</eng>
+      <eng class="n" tags="slang">zippo</eng>
+      <eng class="n" tags="slang">jack shit</eng>
+      <eng class="n" tags="slang">jack</eng>
+      <eng class="n" tags="UK slang">bugger all</eng>
+      <eng class="n" tags="UK slang">damn all</eng>
+      <eng class="n" tags="US informal">diddly</eng>
+      <eng class="n" tags="US informal">diddly-squat</eng>
+      <eng class="n" tags="colloquial">nix</eng>
+      <eng class="n" tags="US colloquial">nada</eng>
+      <eng class="n" tags="US colloquial">goose egg</eng>
+      <eng class="n" tags="colloquial">zilch</eng>
       <cat class="pron">res</cat>
+      <cat class="pron">no res</cat>
+      <cat class="pron">absolutament res</cat>
+      <cat class="m">zero</cat>
+      <example sent_cat="No sap res sobre ordinadors." sent_eng="He doesn't know jack about computers." />
     </e>
     <e done="yes" src="" type="word" def_eng="An unspecified individual." def_cat="Individu no especificat.">
       <eng class="n_p">people</eng>
-      <eng class="pron" remark="reflexive">oneself</eng>
+      <eng class="pron" tags="reflexive">oneself</eng>
       <eng class="pron">one</eng>
       <eng class="pron">you</eng>
       <eng class="pron">someone</eng>
       <cat class="pron" feminine="una">un</cat>
-      <cat class="pron" remark="reflexiu" feminine="si mateixa">si mateix</cat>
+      <cat class="pron" tags="reflexiu" feminine="si mateixa">si mateix</cat>
       <cat class="pron">hom</cat>
       <cat class="pron">tu</cat>
       <example sent_eng="As a teenager, one often finds it difficult to fit in the world." sent_cat="Com a adolescent, sovint trobes difícil encaixar en el món." />
@@ -463,6 +479,7 @@
     <e done="yes" src="" type="word">
       <eng class="pron">one</eng>
       <cat class="pron" feminine="una">un</cat>
+      <example sent_eng="Look at those cats! One is a calico." sent_cat="Mira aquells gats! Una és calicó." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">others</eng>
@@ -479,18 +496,12 @@
       <cat class="pron">prou</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="pron">as much</eng>
-      <eng class="pron">so much</eng>
-      <cat class="pron">tant</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="pron">as many</eng>
-      <eng class="pron">so many</eng>
-      <cat class="pron" feminine="tantes">tants</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="pron">someone else</eng>
       <cat class="pron">algú altre</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="pron">some</eng>
+      <cat class="pron" feminine="alguna">algun</cat>
     </e>
     <e done="yes" src="" def_eng="A certain number, at least two." def_cat="Un cert nombre, com a mínim dos." type="word">
       <eng class="pron">some</eng>
@@ -502,10 +513,10 @@
       <cat class="pron">una mica</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="Relative pronoun introducing a restrictive relative clause." def_cat="Pronom relatiu que introdueix una oració adjectiva de relatiu especificativa.">
-      <eng class="pron" remark="human antecedent">who</eng>
-      <eng class="pron" remark="human antecedent, accusative">whom</eng>
-      <eng class="pron">that</eng>
       <eng class="pron">which</eng>
+      <eng class="pron" remark="human antecedent">who</eng>
+      <eng class="pron" tags="accusative" remark="human antecedent">whom</eng>
+      <eng class="pron">that</eng>
       <cat class="pron">que</cat>
       <cat class="pron" before="preposició">què</cat>
       <cat class="pron" remark="antecedent personificat">qui</cat>
@@ -516,7 +527,7 @@
     <e done="yes" src="" def_eng="Relative pronoun introducing a non-restrictive relative clause." def_cat="Pronom relatiu que introdueix una oració adjectiva de relatiu explicativa." type="word">
       <eng class="pron">which</eng>
       <eng class="pron" remark="human antecedent">who</eng>
-      <eng class="pron" remark="human antecedent, accusative">whom</eng>
+      <eng class="pron" tags="accusative" remark="human antecedent">whom</eng>
       <cat class="pron">que</cat>
       <cat class="pron" before="preposició">què</cat>
       <cat class="pron" feminine="la qual">el qual</cat>
@@ -563,14 +574,14 @@
     </e>
     <e done="yes" src="" type="word" def_eng="Interrogative pronoun, which person." def_cat="Pronom interrogatiu, quina persona.">
       <eng class="pron">who</eng>
-      <eng class="pron" remark="accusative">whom</eng>
+      <eng class="pron" tags="accusative">whom</eng>
       <cat class="pron">qui</cat>
       <example sent_eng="Who did this?" sent_cat="Qui ha fet això?" />
     </e>
-    <e done="yes" src="" type="word" def_eng="Interrogative pronoun, belonging to which person.">
+    <e done="yes" src="" type="word">
       <eng class="pron">whose</eng>
       <cat class="pron">de qui</cat>
-      <example sent_eng="Whose suitcase is this?" sent_cat="De qui és aquesta maleta?" />
+      <example sent_eng="They both lost their bracelet. Whose is this one?" sent_cat="Tots dos van perdre la polsera. De qui és aquesta?" />
     </e>
     <e done="yes" src="" def_eng="Relative pronoun, belonging to which person." type="word">
       <eng class="pron">whose</eng>

@@ -138,6 +138,9 @@
                 <xs:enumeration value="espectacles" />
                 <xs:enumeration value="circ" />
                 <xs:enumeration value="esports" />
+                <xs:enumeration value="muntanyisme" />
+                <xs:enumeration value="boxa" />
+                <xs:enumeration value="gimnàstica" />
                 <xs:enumeration value="judo" />
                 <xs:enumeration value="hoquei" />
                 <xs:enumeration value="voleibol" />
@@ -387,6 +390,7 @@
                     <xs:enumeration value="informal" />
                     <xs:enumeration value="argot" />
                     <xs:enumeration value="slang" />
+                    <xs:enumeration value="disparaging" />
                     <xs:enumeration value="colloquial" />
                     <xs:enumeration value="figurative" />
                     <xs:enumeration value="literary" />
@@ -424,6 +428,9 @@
                     <xs:enumeration value="trademark" />
                     <xs:enumeration value="Korean" />
                     <xs:enumeration value="Roman" /><!-- Per als numerals romans -->
+                    <xs:enumeration value="accusative" /><!-- Per als pronoms -->
+                    <xs:enumeration value="dative" /><!-- Per als pronoms -->
+                    <xs:enumeration value="reflexive" /><!-- Per als pronoms -->
                   </xs:restriction>
                 </xs:simpleType>
               </xs:list>
@@ -557,12 +564,16 @@
                     <xs:enumeration value="tècnicament" />
                     <xs:enumeration value="romà" /><!-- Per als numerals romans -->
                     <xs:enumeration value="onomatopeia" />
+                    <xs:enumeration value="acusatiu" /><!-- Per als pronoms -->
+                    <xs:enumeration value="datiu" /><!-- Per als pronoms -->
+                    <xs:enumeration value="reflexiu" /><!-- Per als pronoms -->
                   </xs:restriction>
                 </xs:simpleType>
               </xs:list>
             </xs:simpleType>
           </xs:attribute>
           <xs:attribute name="feminine" />
+          <xs:attribute name="plural" />
           <xs:attribute name="before" />
           <xs:attribute name="after" />
           <!--<xs:attribute name="area"/>-->

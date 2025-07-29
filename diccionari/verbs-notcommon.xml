@@ -636,6 +636,20 @@
       <cat class="v" grammar="intr" after="a">estar disposat</cat>
       <cat class="v" grammar="intr_pron" after="a">mostrar-se disposat</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to be called</eng>
+      <eng class="v" grammar="intr">to be named</eng>
+      <eng class="v" grammar="intr">to go by</eng>
+      <eng class="v" grammar="intr">to go under</eng>
+      <cat class="v" grammar="intr_pron">dir-se</cat>
+      <cat class="v" grammar="intr_pron">anomenar-se</cat>
+    </e>
+    <e done="yes" src="" area="literatura" type="word">
+      <eng class="v" grammar="intr">to be called</eng>
+      <eng class="v" tags="formal" grammar="intr">to be entitled</eng>
+      <cat class="v" grammar="intr_pron">dir-se</cat>
+      <cat class="v" grammar="intr_pron">titular-se</cat>
+    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="">to be captivated by</eng>
       <eng class="v" grammar="">to be mesmerized by</eng>
@@ -950,6 +964,11 @@
       <cat class="v" grammar="tr" after="la llet">quallar</cat>
       <cat class="v" grammar="intr_pron" before="la llet">quallar-se</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to coalesce</eng>
+      <cat class="v" grammar="intr_pron">fondre's</cat>
+      <cat class="v" grammar="intr_pron">unir-se</cat>
+    </e>
     <e src="" type="word" done="yes" area="castells">
       <eng class="v" grammar="intr">to collapse</eng>
       <cat class="v" grammar="intr" after="un castell">fer llenya</cat>
@@ -1147,6 +1166,13 @@
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to dilute</eng>
       <cat class="v" grammar="tr">diluir</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to discerp</eng>
+      <eng class="v" grammar="tr">to disunite</eng>
+      <eng class="v" grammar="tr">to sever</eng>
+      <eng class="v" grammar="tr">to lop</eng>
+      <cat class="v" grammar="tr">desunir</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="formal" def="to divide in smaller sections">to dismember</eng>
@@ -1806,10 +1832,10 @@
       <example sent_eng="When I saw it, my heart skipped a beat." sent_cat="Quan ho vaig veure, em va fer un salt el cor." />
     </e>
     <e done="yes" src="" type="word">
-      <eng class="v" grammar="">to naysay</eng>
-      <cat class="v" after="a" grammar="">dir que no</cat>
-      <cat class="v" grammar="">refusar</cat>
-      <cat class="v" after="a" grammar="">oposar-se</cat>
+      <eng class="v" grammar="tr">to naysay</eng>
+      <cat class="v" after="a alguna cosa" grammar="intr">dir que no</cat>
+      <cat class="v" grammar="tr">refusar</cat>
+      <cat class="v" after="a alguna cosa" grammar="intr_pron">oposar-se</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr" before="a plane">to nosedive</eng>
@@ -1840,6 +1866,13 @@
       <cat class="v" grammar="">cometre un delicte</cat>
       <cat class="v" grammar="">cometre un crim</cat>
       <cat class="v" grammar="intr">delinquir</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to off</eng>
+      <eng class="v" grammar="intr">to shove off</eng>
+      <cat class="v" grammar="intr" tags="col·loquial">tocar el dos</cat>
+      <cat class="v" grammar="intr" tags="col·loquial">fotre el camp</cat>
+      <cat class="v" grammar="intr_pron" tags="col·loquial">fer-se a la mar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" after="something" grammar="">to okay</eng>
@@ -1917,6 +1950,21 @@
       <eng class="v" grammar="tr" after="a guitar">to pick</eng>
       <eng class="v" grammar="tr" after="a guitar">to finger pick</eng>
       <cat class="v" grammar="tr" after="una guitarra">puntejar</cat>
+    </e>
+    <e done="yes" src="" area="agricultura" type="word">
+      <eng class="v" grammar="tr">to prune</eng>
+      <eng class="v" grammar="tr">to cut back</eng>
+      <eng class="v" grammar="tr">to trim</eng>
+      <eng class="v" grammar="tr">to poll</eng>
+      <eng class="v" grammar="tr">to pollard</eng>
+      <eng class="v" grammar="tr">to shear</eng>
+      <cat class="v" grammar="tr">podar</cat>
+      <cat class="v" grammar="tr">esporgar</cat>
+      <cat class="v" grammar="tr">coronar</cat>
+      <cat class="v" grammar="tr">escatir</cat>
+      <cat class="v" grammar="tr">espollar</cat>
+      <cat class="v" grammar="tr">exsecallar</cat>
+      <cat class="v" grammar="tr">brancar</cat>
     </e>
     <e done="yes" src="" area="esports" type="word">
       <eng class="v" grammar="intr" tags="UK">to practise sports</eng>
@@ -2195,7 +2243,7 @@
       <cat class="v" grammar="intr">rondar</cat>
       <cat class="v" grammar="intr">voltar</cat>
     </e>
-    <e area="enginyeria_forestal_" src="" type="word" oldarea="enginyeria forestal" done="yes">
+    <e area="agricultura" src="" type="word" done="yes">
       <eng class="v" grammar="intr">to prune buds</eng>
       <cat class="v" grammar="tr">despuntar</cat>
       <cat class="v" grammar="tr">espuntar</cat>
@@ -2207,24 +2255,9 @@
       <cat class="v" grammar="tr">espampanar</cat>
       <cat class="v" grammar="tr">espampar</cat>
     </e>
-    <e area="agricultura" src="" type="word" oldarea="viticultura" done="yes">
-      <eng class="v" grammar="tr">to prune</eng>
-      <cat class="v" grammar="tr">podar</cat>
-      <cat class="v" grammar="tr">coronar</cat>
-      <cat class="v" grammar="tr">escatir</cat>
-      <cat class="v" grammar="tr">espollar</cat>
-      <cat class="v" grammar="tr">esporgar</cat>
-      <cat class="v" grammar="tr">exsecallar</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr">to prune</eng>
-      <cat class="v" grammar="tr">podar</cat>
-      <cat class="v" grammar="tr">escatir</cat>
-      <cat class="v" grammar="tr">esporgar</cat>
-    </e>
-    <e area="enginyeria_forestal_" src="" type="word" oldarea="enginyeria forestal" done="yes">
+    <e area="agricultura" src="" type="word" def_cat="Preparar les arrels per a la transplantació." done="yes">
       <eng class="v" grammar="tr" after="roots">to prune</eng>
-      <cat class="v" grammar="tr" after="les arrels" def="Preparar les arrels per a la transplantació.">repicar</cat>
+      <cat class="v" grammar="tr" after="les arrels">repicar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to pry</eng>
@@ -3345,6 +3378,12 @@
       <cat class="v" grammar="tr" after="un vehicle">descelerar</cat>
       <cat class="v" grammar="intr_pron" before="un vehicle">descelerar-se</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to slump</eng>
+      <eng class="v" grammar="intr">to slide down</eng>
+      <eng class="v" grammar="intr">to sink</eng>
+      <cat class="v" grammar="intr_pron">escarxofar-se</cat>
+    </e>
     <e src="" type="word" area="esports" done="yes">
       <eng class="v" grammar="intr">to smash</eng>
       <eng class="v" grammar="tr" after="a ball">to smash</eng>
@@ -3364,6 +3403,19 @@
       <cat class="v" grammar="tr" tags="figurat">flairar</cat>
       <cat class="v" grammar="tr" tags="figurat">olorar</cat>
       <cat class="v" grammar="tr" tags="figurat">ensumar</cat>
+    </e>
+    <e done="yes" src="" area="jardineria" type="word">
+      <eng class="v" grammar="tr">to prune</eng>
+      <eng class="v" grammar="tr">to trim</eng>
+      <eng class="v" grammar="tr">to cut back</eng>
+      <eng class="v" grammar="tr">to shear</eng>
+      <eng class="v" grammar="tr">to snip</eng>
+      <eng class="v" grammar="tr">to clip</eng>
+      <eng class="v" grammar="tr">to crop</eng>
+      <eng class="v" grammar="tr">to lop</eng>
+      <eng class="v" grammar="tr">to dress</eng>
+      <cat class="v" grammar="tr">esporgar</cat>
+      <cat class="v" grammar="tr">podar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="">to spin out of control</eng>
@@ -3624,6 +3676,10 @@
       <cat class="v" grammar="tr_pron" after="una articulació">tòrcer-se</cat>
       <cat class="v" grammar="tr_pron" after="una articulació">torçar-se</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="tr">to uncloak</eng>
+      <cat class="v" grammar="tr">pelar</cat>
+    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" after="a bottle">to uncork</eng>
       <cat class="v" grammar="tr" after="una ampolla">destapar</cat>
@@ -3662,6 +3718,16 @@
       <eng class="v" grammar="intr">to wag</eng>
       <cat class="v" grammar="intr">cuejar</cat>
       <cat class="v" grammar="tr">remenar la cua</cat>
+    </e>
+    <e done="yes" src="" area="sexualitat" def_eng="To sexually stimulate one's penis." def_cat="Estimular-se sexualment el penis." type="word">
+      <eng class="v" grammar="intr">to masturbate</eng>
+      <eng class="v" grammar="intr">to wank</eng>
+      <eng class="v" grammar="intr">to jerk off</eng>
+      <eng class="v" grammar="intr">to jack off</eng>
+      <cat class="v" grammar="intr_pron">masturbar-se</cat>
+      <cat class="v" grammar="intr_pron">pelar-se-la</cat>
+      <cat class="v" grammar="intr_pron">remenar-se-la</cat>
+      <cat class="v" grammar="intr_pron">fer-se una palla</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="figurative">to weigh up</eng>

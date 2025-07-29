@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" type="word" done="yes" area="mitologia">
+      <eng class="n">Bigfoot</eng>
+      <eng class="n">Sasquatch</eng>
+      <cat class="m">Bigfoot</cat>
+      <cat class="m">Monstre del Bosc</cat>
+    </e>
+    <e src="" type="word" done="yes" area="mitologia">
+      <eng class="np">Abominable Snowman</eng>
+      <eng class="np">Yeti</eng>
+      <cat class="np">ieti</cat>
+      <cat class="np">abominable home de les neus</cat>
+    </e>
     <e src="" type="word" done="yes" area="topònim">
       <eng class="n">Yemen</eng>
       <cat class="m">el Iemen</cat>
@@ -192,7 +204,7 @@
     <e src="" type="word" done="yes" area="topònim">
       <eng class="np">United States</eng>
       <eng class="np">United States of America</eng>
-      <eng class="np" tags="US popular">America</eng>
+      <eng class="np" tags="US">America</eng>
       <eng class="np">the States</eng>
       <eng class="np">US</eng>
       <eng class="np">U.S.</eng>

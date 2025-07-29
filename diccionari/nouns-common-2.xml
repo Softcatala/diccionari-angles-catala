@@ -1286,10 +1286,6 @@
       <cat class="m">maxil·lar inferior</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">inferior</eng>
-      <cat class="f">poca cosa</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="n">inferiority</eng>
       <eng class="n">lower rank</eng>
       <eng class="n">lower status</eng>
@@ -1439,10 +1435,12 @@
       <cat class="f">inducció</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">influence</eng>
       <eng class="n">passivity</eng>
-      <cat class="f">influència</cat>
       <cat class="f">passivitat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">influence</eng>
+      <cat class="f">influència</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">influential gentleman</eng>
@@ -1857,6 +1855,12 @@
       <cat class="f">injunció</cat>
       <cat class="m">requeriment judicial</cat>
     </e>
+    <e src="" type="word" area="dret" done="yes">
+      <eng class="n">cease and desist direction</eng>
+      <eng class="n">cease and desist letter</eng>
+      <eng class="n">cease and desist order</eng>
+      <cat class="f">ordre de cessament i desistiment</cat>
+    </e>
     <e done="yes" src="" type="word">
       <eng class="n">injunction</eng>
       <cat class="f">injunció</cat>
@@ -2218,6 +2222,16 @@
       <cat class="m" feminine="inquiridora">inquiridor</cat>
       <cat class="m" feminine="inquisidora">inquisidor</cat>
       <cat class="m" feminine="perquisidora">perquisidor</cat>
+    </e>
+    <e done="yes" src="" type="word" area="militar">
+      <eng class="n">inroad</eng>
+      <cat class="f">incursió</cat>
+      <cat class="m">anvaç</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="figurative">inroad</eng>
+      <cat class="m">anvaç</cat>
+      <cat class="m">progrés</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">inroad</eng>
@@ -3640,6 +3654,19 @@
       <cat class="mf" tags="anglès">broker</cat>
     </e>
     <e done="yes" src="" type="word">
+      <eng class="n" feminine="middlewoman">middleman</eng>
+      <eng class="n">go-between</eng>
+      <eng class="n">intermediary</eng>
+      <cat class="m" feminine="intermediària">intermediari</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" feminine="middlewoman">middleman</eng>
+      <eng class="n">contact</eng>
+      <cat class="m" feminine="intermediària">intermediari</cat>
+      <cat class="m">contacte</cat>
+      <cat class="m">enllaç</cat>
+    </e>
+    <e done="yes" src="" type="word">
       <eng class="n">intermediation</eng>
       <cat class="f">intermediació</cat>
     </e>
@@ -4586,8 +4613,9 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">ism</eng>
-      <cat class="m" after="polític, artístic">moviment</cat>
       <cat class="m">isme</cat>
+      <cat class="m">moviment artístic</cat>
+      <cat class="m">moviment polític</cat>
     </e>
     <e done="yes" src="" def_cat="Incomunicació." area="sociologia" type="word">
       <eng class="n">closing off</eng>
@@ -4807,12 +4835,6 @@
       <eng class="n">jack</eng>
       <cat class="m">cric</cat>
       <cat class="m">gat</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n" tags="slang">jack shit</eng>
-      <eng class="n">jack</eng>
-      <cat class="pron">res</cat>
-      <example sent_cat="No sap res sobre ordinadors." sent_eng="He doesn't know jack about computers." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">clasp knife</eng>
@@ -5332,12 +5354,18 @@
     <e done="yes" src="" def_eng="Criminal act." def_cat="Activitat delictiva." type="word">
       <eng class="n" tags="colloquial">job</eng>
       <cat class="m" tags="col·loquial">cop</cat>
+      <cat class="m" tags="col·loquial">colp</cat>
+      <example sent_eng="The thieves planned the final job." sent_cat="Els lladres van planificar el cop definitiu." />
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">jobber</eng>
-      <eng class="n" feminine="middlewoman">middleman</eng>
+    <e done="yes" src="" type="word" area="comerç">
       <eng class="n">wholesaler</eng>
+      <eng class="n">jobber</eng>
       <cat class="mf">majorista</cat>
+      <cat class="mf">comerciant a l'engròs</cat>
+    </e>
+    <e done="yes" src="" area="comerç" type="word">
+      <eng class="n">wholesaler</eng>
+      <cat class="m">magatzem</cat>
     </e>
     <e area="economia" done="yes" src="" type="word">
       <eng class="n">jobless</eng>
@@ -6067,11 +6095,10 @@
       <cat class="f">unió</cat>
       <cat class="m">nus</cat>
     </e>
-    <e done="yes" src="" def_eng="Occasion." type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">juncture</eng>
       <cat class="f">conjuntura</cat>
       <cat class="f">ocasió</cat>
-      <cat class="f">vegada</cat>
       <cat class="fp">circumstàncies</cat>
     </e>
     <e area="anatomia" done="yes" src="" type="word">
@@ -8032,10 +8059,10 @@
       <cat class="m">moment clau</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">dry land</eng>
-      <eng class="n">earth</eng>
       <eng class="n">ground</eng>
       <eng class="n">land</eng>
+      <eng class="n">dry land</eng>
+      <eng class="n">earth</eng>
       <eng class="n">soil</eng>
       <eng class="n">solid ground</eng>
       <cat class="f">terra ferma</cat>
@@ -9016,21 +9043,35 @@
       <cat class="m">plànol</cat>
       <cat class="m">traçat</cat>
     </e>
-    <e done="yes" src="" type="word">
+    <e done="yes" src="" type="word" area="transports">
       <eng class="n">layover</eng>
-      <cat class="f" after="aèria">escala</cat>
+      <eng class="n">stopover</eng>
+      <cat class="f">escala</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">idleness</eng>
+      <cat class="f">ociositat</cat>
     </e>
     <e done="yes" src="" area="antropologia" type="word">
-      <eng class="n">apathy</eng>
-      <eng class="n">idleness</eng>
       <eng class="n">laziness</eng>
-      <eng class="n">passivity</eng>
-      <cat class="f">accídia</cat>
-      <cat class="f">cançoneria</cat>
-      <cat class="f">ganduleria</cat>
-      <cat class="f">indolència</cat>
+      <eng class="n">idleness</eng>
+      <eng class="n">loafing</eng>
       <cat class="f">mandra</cat>
       <cat class="f">peresa</cat>
+      <cat class="f">ganduleria</cat>
+      <cat class="f">droperia</cat>
+      <cat class="f">cançoneria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">faineance</eng>
+      <eng class="n">inactivity</eng>
+      <cat class="f">indolència</cat>
+      <cat class="f">accídia</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">idler</eng>
+      <cat class="m" feminine="ociosa">ociós</cat>
+      <cat class="m" feminine="desvagada">desvagat</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">lazy ways</eng>
@@ -9175,10 +9216,19 @@
       <eng class="n">strap</eng>
       <eng class="n">tether</eng>
       <cat class="f">corretja</cat>
-      <cat class="m">eixanguer</cat>
       <cat class="m">lligam</cat>
       <cat class="m">ronsal</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">harness straps</eng>
+      <eng class="n">straps</eng>
+      <cat class="mp">eixanguers</cat>
       <cat class="mp">correigs</cat>
+    </e>
+    <e src="" type="word" area="esports" done="yes">
+      <eng class="n">safety leash</eng>
+      <eng class="n">safety strap</eng>
+      <cat class="f">corretja de seguretat</cat>
     </e>
     <e area="periodisme" done="yes" src="" type="word">
       <eng class="n">lead</eng>
@@ -9460,11 +9510,15 @@
       <cat class="f">lascívia</cat>
       <cat class="f">luxúria</cat>
     </e>
-    <e done="yes" src="" area="dret" type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">lectern</eng>
       <eng class="n">podium</eng>
       <eng class="n">reading desk</eng>
       <cat class="f">tribuna</cat>
+      <cat class="m">faristol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">bookrest</eng>
       <cat class="m">faristol</cat>
     </e>
     <e done="yes" src="" area="ensenyament" type="word">
@@ -12097,13 +12151,13 @@
       <cat class="m">garrofer</cat>
       <cat class="m">garrover</cat>
     </e>
-    <e done="yes" src="" area="zoologia" type="word">
-      <eng class="n">locust</eng>
-      <cat class="f">llagosta</cat>
+    <e area="lingüística" done="yes" src="" type="word">
+      <eng class="n">phrase</eng>
+      <cat class="f">locució</cat>
+      <cat class="f">expressió</cat>
     </e>
     <e area="lingüística" done="yes" src="" type="word">
       <eng class="n">locution</eng>
-      <eng class="n">phrase</eng>
       <cat class="f">locució</cat>
     </e>
     <e done="yes" src="" area="geologia" type="word">
@@ -12868,9 +12922,10 @@
       <eng class="n">love</eng>
       <cat class="m">amor</cat>
     </e>
-    <e area="esports" done="yes" src="" def_eng="Zero." type="word">
+    <e area="esports" done="yes" src="" type="word">
       <eng class="n">love</eng>
-      <cat class="m">res</cat>
+      <eng class="n">zero</eng>
+      <cat class="pron">res</cat>
       <cat class="m">zero</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -14343,10 +14398,6 @@
       <cat class="m" feminine="indivídua">individu</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">manacle</eng>
-      <cat class="f">manilla</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="n">manageability</eng>
       <eng class="n">manageableness</eng>
       <cat class="f">manejabilitat</cat>
@@ -14524,11 +14575,16 @@
     <e done="yes" src="" area="ramaderia" type="word">
       <eng class="n">manger</eng>
       <eng class="n">rack</eng>
+      <eng class="n">eating trough</eng>
       <eng class="n">trough</eng>
       <cat class="f">grípia</cat>
       <cat class="f">menjadora</cat>
       <cat class="m">com</cat>
       <cat class="m">obi</cat>
+      <cat class="f">bàssia</cat>
+      <cat class="m">bassi</cat>
+      <cat class="m">bassiol</cat>
+      <cat class="m">gamelló</cat>
     </e>
     <e area="ramaderia" done="yes" src="" type="word">
       <eng class="n">manging cable shoe</eng>
@@ -14593,6 +14649,14 @@
     <e area="matemàtiques" done="yes" src="" type="word">
       <eng class="n">manifold</eng>
       <cat class="f">varietat</cat>
+    </e>
+    <e src="" type="word" area="papereria" done="yes">
+      <eng class="n">manifold paper</eng>
+      <cat class="m">paper de còpia</cat>
+    </e>
+    <e src="" type="word" area="indústria" done="yes">
+      <eng class="n">manifold</eng>
+      <cat class="m">col·lector</cat>
     </e>
     <e area="esports" done="yes" src="" remark="esports aquàtics" type="word">
       <eng class="n">manikin</eng>
@@ -15123,9 +15187,10 @@
       <eng class="n">niche</eng>
       <eng class="n">sector</eng>
       <cat class="f">veta de mercat</cat>
+      <cat class="m">nínxol de mercat</cat>
       <cat class="m">buit de mercat</cat>
-      <cat class="m">sector</cat>
       <cat class="m">segment de mercat</cat>
+      <cat class="m">sector</cat>
     </e>
     <e done="yes" src="" area="economia" type="word">
       <eng class="n">sector</eng>
@@ -16079,10 +16144,6 @@
       <cat class="f">menjada</cat>
       <cat class="m">àpat</cat>
     </e>
-    <e area="transports" done="yes" src="" type="word">
-      <eng class="n">mean of transport</eng>
-      <cat class="m">mitjà de transport</cat>
-    </e>
     <e area="física" done="yes" src="" type="word">
       <eng class="n">mean solar day</eng>
       <cat class="m">dia solar mitjà</cat>
@@ -16129,11 +16190,6 @@
       <eng class="n">tightfistedness</eng>
       <eng class="n">tightness</eng>
       <cat class="f">parsimònia</cat>
-    </e>
-    <e area="transports" done="yes" src="" type="word">
-      <eng class="n">means of conveyance</eng>
-      <eng class="n">means of transport</eng>
-      <cat class="m">mitjà de transport</cat>
     </e>
     <e area="dret" done="yes" src="" type="word">
       <eng class="n">means of evidence</eng>
@@ -16977,12 +17033,7 @@
       <cat class="f">tensió nerviosa</cat>
       <cat class="f">postració</cat>
     </e>
-    <e done="yes" src="" def_eng="State of mind." type="word">
-      <eng class="n">mentality</eng>
-      <cat class="m">estat d'ànim</cat>
-      <cat class="m">estat d'esperit</cat>
-    </e>
-    <e done="yes" src="" def_cat="Manera de pensar." type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">mentality</eng>
       <eng class="n">mindset</eng>
       <cat class="f">ideologia</cat>
@@ -17632,12 +17683,6 @@
     <e done="yes" src="" type="word">
       <eng class="n" remark="in many cases">middle school</eng>
       <cat class="m">batxillerat elemental</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n" feminine="middlewoman">middleman</eng>
-      <eng class="n">go-between</eng>
-      <eng class="n">intermediary</eng>
-      <cat class="m" feminine="intermediària">intermediari</cat>
     </e>
     <e done="yes" src="" def_cat="Centre." type="word">
       <eng class="n">centre</eng>
@@ -18607,13 +18652,18 @@
     </e>
     <e done="yes" src="" area="tipografia" type="word">
       <eng class="n">misprint</eng>
-      <eng class="n">erratum</eng>
       <eng class="n">typographical error</eng>
-      <eng class="n">typo</eng>
-      <eng class="n">literal error</eng>
+      <eng class="n">typing error</eng>
+      <eng class="n">typing mistake</eng>
+      <eng class="n">keying error</eng>
       <eng class="n">literal</eng>
+      <eng class="n" tags="informal">typo</eng>
+      <eng class="n" tags="formal">erratum</eng>
       <cat class="f">errata</cat>
       <cat class="m">error d'impremta</cat>
+      <cat class="m">error tipogràfic</cat>
+      <cat class="m">error de picatge</cat>
+      <cat class="m">error de tecleig</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">misrepresentation</eng>
@@ -18809,6 +18859,11 @@
     <e area="zoologia" done="yes" src="" type="word">
       <eng class="n">mite</eng>
       <cat class="m">àcar</cat>
+    </e>
+    <e src="" type="word" done="yes" area="zoologia">
+      <eng class="n">spider mite</eng>
+      <cat class="m">tetraníquid</cat>
+      <cat class="f">aranya roja</cat>
     </e>
     <e done="yes" src="" area="fusteria" type="word">
       <eng class="n" tags="UK">mitre joint</eng>
@@ -19024,10 +19079,9 @@
       <example sent_eng="This is a mockery of a trial!" sent_cat="Això és una farsa de judici!" />
     </e>
     <e done="yes" src="" area="estadística" type="word">
-      <eng class="n">modal value</eng>
       <eng class="n">mode</eng>
+      <eng class="n">modal value</eng>
       <cat class="f">moda</cat>
-      <cat class="m">mode</cat>
       <cat class="m">valor modal</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -19370,7 +19424,6 @@
       <eng class="n">moment</eng>
       <cat class="f">ocasió</cat>
       <cat class="f">circumstància</cat>
-      <cat class="f">vegada</cat>
       <cat class="f">situació</cat>
       <cat class="m">episodi</cat>
       <cat class="m">fet</cat>
@@ -19381,17 +19434,23 @@
       <eng class="n">momentum</eng>
       <cat class="m">moment</cat>
     </e>
-    <e done="yes" src="" def_eng="Moment." def_cat="Moment." type="word">
-      <eng class="n" tags="colloquial">mo</eng>
-      <eng class="n">bit</eng>
+    <e done="yes" src="" type="word" def_eng="Short period of time." def_cat="Període breu de temps.">
       <eng class="n">instant</eng>
-      <eng class="n">minute</eng>
       <eng class="n">moment</eng>
+      <eng class="n" tags="colloquial">mo</eng>
+      <eng class="n">minute</eng>
       <eng class="n">second</eng>
+      <eng class="n">bit</eng>
+      <eng class="n">pinpoint</eng>
+      <eng class="n">patch</eng>
+      <eng class="n">piece</eng>
+      <eng class="n">spell</eng>
+      <eng class="n">while</eng>
       <cat class="m">instant</cat>
       <cat class="m">minut</cat>
       <cat class="m">moment</cat>
       <cat class="m">segon</cat>
+      <cat class="m">momentet</cat>
     </e>
     <e done="yes" src="" def_eng="Liveliness." def_cat="Animació." type="word">
       <eng class="n">momentum</eng>
@@ -19415,11 +19474,6 @@
     <e done="yes" src="" area="política" type="word">
       <eng class="n">monarchy</eng>
       <cat class="f">monarquia</cat>
-    </e>
-    <e done="yes" src="" area="religió" type="word">
-      <eng class="n">monastery</eng>
-      <cat class="m">convent</cat>
-      <cat class="m">monestir</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">monasticism</eng>
@@ -19671,18 +19725,6 @@
       <cat class="m">ambient</cat>
       <cat class="m">atmosfera</cat>
       <cat class="m" after="d'un escrit">to</cat>
-    </e>
-    <e done="yes" src="" def_eng="Mental state." type="word">
-      <eng class="n">mood</eng>
-      <eng class="n">spirit</eng>
-      <eng class="n">morale</eng>
-      <cat class="f">disposició d'ànim</cat>
-      <cat class="f">moral</cat>
-      <cat class="m">cop de geni</cat>
-      <cat class="m">estat d'ànim</cat>
-      <cat class="m">humor</cat>
-      <cat class="m">rampell</cat>
-      <cat class="m">ànim</cat>
     </e>
     <e done="yes" src="" def_eng="Disposition." type="word">
       <eng class="n">mood</eng>
@@ -20154,10 +20196,15 @@
     </e>
     <e done="yes" src="" area="transports" type="word">
       <eng class="n">highway</eng>
+      <eng class="n">high road</eng>
       <eng class="n">main road</eng>
       <eng class="n">rural road</eng>
       <cat class="f">carretera</cat>
       <cat class="f">via interurbana</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">highway system</eng>
+      <cat class="m">sistema de carreteres</cat>
     </e>
     <e done="yes" src="" area="transports" def_eng="A grade-separated road running in two separated directions." def_cat="Carretera sense creuaments a nivell i amb dos sentits de circulació separats físicament." type="word">
       <eng class="n" tags="US">expressway</eng>
@@ -20727,12 +20774,6 @@
       <eng class="n">wall painting</eng>
       <cat class="f">pintura mural</cat>
       <cat class="m">mural</cat>
-    </e>
-    <e done="yes" src="" area="ornitologia" type="word">
-      <eng class="n" after="of birds">murder</eng>
-      <cat class="m">estol</cat>
-      <cat class="m">vol</cat>
-      <cat class="f">bandada</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">killer</eng>
@@ -21448,13 +21489,6 @@
       <eng class="n">natural situation</eng>
       <cat class="m">estat natural</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">natural spring</eng>
-      <cat class="f">deu</cat>
-      <cat class="f">deu d'aigua</cat>
-      <cat class="f">font natural</cat>
-      <cat class="m">corrent d'aigua subterrani</cat>
-    </e>
     <e done="yes" src="" area="art" type="word">
       <eng class="n">naturalism</eng>
       <cat class="m">naturalisme</cat>
@@ -21495,11 +21529,6 @@
       <cat class="f">malícia</cat>
       <cat class="f">provocació</cat>
       <cat class="m">atreviment</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n" tags="old US">naught</eng>
-      <eng class="n">nought</eng>
-      <cat class="m">res</cat>
     </e>
     <e done="yes" src="" def_eng="Strong dislike." type="word">
       <eng class="n">nausea</eng>
@@ -23020,24 +23049,6 @@
       <cat class="m">no-res</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">nothing</eng>
-      <eng class="n">nil</eng>
-      <eng class="n" tags="colloquial">nix</eng>
-      <eng class="n" tags="US colloquial">nada</eng>
-      <eng class="n">null</eng>
-      <eng class="n" tags="old">aught</eng>
-      <eng class="n">cipher</eng>
-      <eng class="n">cypher</eng>
-      <eng class="n" tags="US colloquial">goose egg</eng>
-      <eng class="n">naught</eng>
-      <eng class="n">zero</eng>
-      <eng class="n" tags="colloquial">zilch</eng>
-      <eng class="n" tags="slang">zip</eng>
-      <eng class="n" tags="slang">zippo</eng>
-      <cat class="m">res</cat>
-      <cat class="m">zero</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="n_p">nothings</eng>
       <cat class="f">xerradissa</cat>
       <cat class="f">xerrameca</cat>
@@ -23063,10 +23074,6 @@
       <cat class="m">anunci</cat>
       <cat class="m">avís</cat>
       <cat class="m">rètol</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n" before="death">notice</eng>
-      <cat class="f">esquela</cat>
     </e>
     <e done="yes" src="" def_eng="Act of paying attention." type="word">
       <eng class="n">notice</eng>
@@ -24469,6 +24476,10 @@
       <eng class="n">oil</eng>
       <cat class="m">oli</cat>
     </e>
+    <e done="yes" src="" area="pintura" type="word">
+      <eng class="n">oil</eng>
+      <cat class="m">oli</cat>
+    </e>
     <e done="yes" src="" area="farmàcia" type="word">
       <eng class="n" tags="formal">unguent</eng>
       <eng class="n">balm</eng>
@@ -24535,18 +24546,20 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n" feminine="old woman">old man</eng>
-      <eng class="n">Methuselah</eng>
+      <eng class="n">old person</eng>
+      <eng class="n">elder</eng>
+      <eng class="n" tags="colloquial">Methuselah</eng>
       <eng class="n">golden ager</eng>
       <eng class="n">graybeard</eng>
       <eng class="n">greybeard</eng>
-      <eng class="n">old person</eng>
       <eng class="n">oldster</eng>
       <eng class="n">senior citizen</eng>
+      <eng class="n" tags="US">senior</eng>
       <cat class="f">persona gran</cat>
-      <cat class="m" feminine="anciana">ancià</cat>
-      <cat class="m" feminine="iaia">iaio</cat>
       <cat class="m" feminine="vella">vell</cat>
+      <cat class="m" feminine="anciana">ancià</cat>
       <cat class="m" feminine="àvia">avi</cat>
+      <cat class="m" feminine="iaia">iaio</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">old pro</eng>
@@ -28379,11 +28392,14 @@
       <eng class="n">pass</eng>
       <eng class="n">passing</eng>
       <eng class="n">qualifying</eng>
+      <eng class="n">passing grade</eng>
+      <eng class="n">passing mark</eng>
       <cat class="m">aprovat</cat>
       <cat class="m">apte</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" before="object of">passion</eng>
+      <eng class="n">object of passion</eng>
+      <eng class="n">passion</eng>
       <cat class="m">objecte de desig</cat>
     </e>
     <e done="yes" src="" def_cat="Fort entusiasme." type="word">
@@ -30872,10 +30888,6 @@
       <eng class="n" tags="abbreviation">PM</eng>
       <cat class="m">fotomultiplicador</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">phrase</eng>
-      <cat class="f">frase</cat>
-    </e>
     <e area="música" done="yes" src="" type="word">
       <eng class="n">phrase</eng>
       <eng class="n">musical phrase</eng>
@@ -30883,9 +30895,8 @@
       <cat class="f">frase</cat>
     </e>
     <e done="yes" src="" area="lingüística" type="word">
-      <eng class="n">phrase</eng>
-      <eng class="n">syntagm</eng>
       <eng class="n">syntagma</eng>
+      <eng class="n" tags="UK">syntagm</eng>
       <cat class="m">sintagma</cat>
     </e>
     <e area="patologia" done="yes" src="" type="word">
@@ -31477,20 +31488,24 @@
       <eng class="n">pinch</eng>
       <eng class="n">soupcon</eng>
       <eng class="n">speck</eng>
-      <eng class="n">tinge</eng>
-      <eng class="n">touch</eng>
       <eng class="n">trace</eng>
       <eng class="n">tweak</eng>
-      <cat class="f">polsada</cat>
-      <cat class="f">punta</cat>
-      <cat class="m">borrall</cat>
+      <cat class="f">mica</cat>
+      <cat class="f">miqueta</cat>
       <cat class="m">pessic</cat>
-      <cat class="m">polset</cat>
-      <cat class="m">polsim</cat>
       <cat class="m">punt</cat>
-      <cat class="m">regust</cat>
       <cat class="m">puntet</cat>
-      <cat class="mp">pols</cat>
+      <cat class="f">punta</cat>
+      <cat class="f">polsada</cat>
+      <cat class="m">polset</cat>
+      <cat class="m">borrall</cat>
+      <cat class="m">polsim</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">tinge</eng>
+      <eng class="n">touch</eng>
+      <cat class="m">toc</cat>
+      <example sent_eng="a touch of color" sent_cat="un toc de color" />
     </e>
     <e done="yes" src="" area="botànica" type="word">
       <eng class="n" after="tree">pine</eng>
@@ -31641,12 +31656,6 @@
     <e done="yes" src="" def_cat="Marcador." type="word">
       <eng class="n" tags="figurative">pinpoint</eng>
       <cat class="m" tags="figurat">senyal</cat>
-    </e>
-    <e done="yes" src="" def_eng="Instant." def_cat="Moment." type="word">
-      <eng class="n">pinpoint</eng>
-      <cat class="m">instant</cat>
-      <cat class="m">momentet</cat>
-      <cat class="m">segon</cat>
     </e>
     <e done="yes" src="" area="tèxtil" type="word">
       <eng class="n">pinpoint</eng>
@@ -32086,9 +32095,13 @@
       <eng class="n">stone pit</eng>
       <cat class="f">pedrera</cat>
     </e>
-    <e area="economia" done="yes" src="" type="word">
+    <e area="finances" done="yes" src="" type="word">
       <eng class="n">pit</eng>
       <eng class="n">ring</eng>
+      <cat class="m">ròdol</cat>
+    </e>
+    <e area="finances" done="yes" src="" type="word">
+      <eng class="n">stock exchange ring</eng>
       <cat class="m">ròdol</cat>
     </e>
     <e done="yes" src="" def_eng="Small amount." type="word">
@@ -34051,7 +34064,7 @@
       <cat class="f">simpatia política</cat>
       <cat class="fp">preferències polítiques</cat>
     </e>
-    <e done="yes" src="" type="word">
+    <e done="yes" src="" area="política religió" type="word">
       <eng class="n">polity</eng>
       <cat class="f">entitat política</cat>
       <cat class="f">estructura política</cat>
@@ -34123,7 +34136,17 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">polymath</eng>
+      <eng class="n">polyhistor</eng>
+      <cat class="mf">polímata</cat>
       <cat class="m" feminine="erudita">erudit</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">polymathy</eng>
+      <cat class="f">polimatia</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">Renaissance man</eng>
+      <cat class="m">home renaixentista</cat>
     </e>
     <e area="patologia" done="yes" src="" type="word">
       <eng class="n">polymyositis</eng>
@@ -35304,9 +35327,14 @@
       <cat class="f">penúria</cat>
       <cat class="f">pobresa</cat>
     </e>
-    <e done="yes" src="" area="armament" type="word">
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="figurative">powder keg</eng>
+      <eng class="n" tags="figurative">tinderbox</eng>
+      <cat class="m" tags="figurat">polvorí</cat>
+    </e>
+    <e src="" type="word" done="yes" area="armament">
       <eng class="n">powder keg</eng>
-      <cat class="m">polvorí</cat>
+      <cat class="m">barril de pólvora</cat>
     </e>
     <e done="yes" src="" area="estètica" def_eng="Makeup." def_cat="Maquillatge." type="word">
       <eng class="n">powder</eng>
@@ -37562,10 +37590,10 @@
       <cat class="m">programa d'actes</cat>
     </e>
     <e done="yes" src="" area="informàtica" type="word">
-      <eng class="n">program</eng>
-      <eng class="n" tags="old">programme</eng>
       <eng class="n">computer program</eng>
-      <eng class="n" tags="old">computer programme</eng>
+      <eng class="n" tags="UK old">computer programme</eng>
+      <eng class="n">program</eng>
+      <eng class="n" tags="UK old">programme</eng>
       <cat class="m">programa informàtic</cat>
       <cat class="m">programa</cat>
     </e>
@@ -40252,6 +40280,11 @@
       <cat class="f">luminància energètica</cat>
       <cat class="f">radiància</cat>
     </e>
+    <e done="yes" src="" area="física" type="word">
+      <eng class="n" tags="Scottish">leam</eng>
+      <cat class="f">lluor petita</cat>
+      <cat class="f">lluor suau</cat>
+    </e>
     <e done="yes" src="" area="metrologia" type="word">
       <eng class="n">radian</eng>
       <eng class="n" tags="abbreviation">rad</eng>
@@ -40457,8 +40490,9 @@
       <cat class="m">rajà</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" before="police">raid</eng>
-      <cat class="f" after="policial">batuda</cat>
+      <eng class="n">raid</eng>
+      <cat class="f">batuda</cat>
+      <example sent_eng="police raid" sent_cat="batuda policial" />
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">raid</eng>
@@ -40996,15 +41030,20 @@
       <cat class="m">so d'esquerdat</cat>
     </e>
     <e done="yes" src="" area="dret sexualitat" def_eng="Crime of forcing someone to submit to sexual intercouse without their consent." type="word">
-      <eng class="n">sexual assault</eng>
       <eng class="n">rape</eng>
-      <eng class="n" tags="old">ravishment</eng>
-      <eng class="n">sex crime</eng>
-      <eng class="n">sex offense</eng>
       <eng class="n">violation</eng>
-      <cat class="f">agressió sexual</cat>
+      <eng class="n" tags="old">ravishment</eng>
       <cat class="f">violació</cat>
       <cat class="m">estupre</cat>
+    </e>
+    <e done="yes" src="" area="dret sexualitat" type="word">
+      <eng class="n">sex crime</eng>
+      <eng class="n">sex offense</eng>
+      <cat class="m">delicte sexual</cat>
+    </e>
+    <e done="yes" src="" area="dret sexualitat" type="word">
+      <eng class="n">sexual assault</eng>
+      <cat class="f">agressió sexual</cat>
     </e>
     <e done="yes" src="" area="dret sexualitat" type="word">
       <eng class="n">sexual abuse</eng>
@@ -41869,19 +41908,14 @@
       <cat class="m">resguard</cat>
     </e>
     <e done="yes" src="" area="telecomunicacions" type="word">
-      <eng class="n" tags="abbreviation">Rx</eng>
       <eng class="n">receiver</eng>
+      <eng class="n" tags="abbreviation">Rx</eng>
       <eng class="n">receiving system</eng>
       <cat class="m">receptor</cat>
     </e>
     <e area="dret" done="yes" src="" type="word">
       <eng class="n">receiver</eng>
       <cat class="m" feminine="administradora judicial">administrador judicial</cat>
-    </e>
-    <e done="yes" src="" area="electricitat_i_electrònica" def_eng="Earpiece." type="word">
-      <eng class="n">receiver</eng>
-      <eng class="n">earpiece</eng>
-      <cat class="m">auricular</cat>
     </e>
     <e area="caça" done="yes" src="" type="word">
       <eng class="n">receiver</eng>
@@ -45127,25 +45161,6 @@
       <cat class="m">respirador</cat>
       <cat class="m">ventilador</cat>
     </e>
-    <e done="yes" src="" def_eng="Freedom from a straining activity, especially work or a responsibility." def_cat="Llibertat d'una activitat cansada, especialment una feina o responsabilitat." type="word">
-      <eng class="n">break</eng>
-      <eng class="n">breather</eng>
-      <eng class="n">breathing space</eng>
-      <eng class="n">ease</eng>
-      <eng class="n">recess</eng>
-      <eng class="n">relaxation</eng>
-      <eng class="n">relief</eng>
-      <eng class="n">repose</eng>
-      <eng class="n">respite</eng>
-      <eng class="n">rest period</eng>
-      <eng class="n">rest</eng>
-      <eng class="n">time out</eng>
-      <cat class="f">parada</cat>
-      <cat class="f">pausa</cat>
-      <cat class="m">descans</cat>
-      <cat class="m">repòs</cat>
-      <cat class="m">respir</cat>
-    </e>
     <e done="yes" src="" def_eng="Act of paying attention." type="word">
       <eng class="n" after="to diversity, refugees, etc.">response</eng>
       <cat class="f" after="a la diversitat, als refugiats, etc.">atenció</cat>
@@ -45572,15 +45587,6 @@
       <eng class="n">downsizing</eng>
       <cat class="f">reducció</cat>
       <cat class="f">retallada</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">retrieval</eng>
-      <cat class="f">recuperació</cat>
-      <cat class="m">recobrament</cat>
-    </e>
-    <e done="yes" src="" area="informàtica" type="word">
-      <eng class="n">retrieval</eng>
-      <cat class="f">recuperació</cat>
     </e>
     <e area="caça" done="yes" src="" type="word">
       <eng class="n">retrieve</eng>
@@ -46517,11 +46523,6 @@
       <eng class="n">rind</eng>
       <cat class="f">cotna</cat>
     </e>
-    <e done="yes" src="" def_eng="Round piece of metal." def_cat="Peça circular de metall." type="word">
-      <eng class="n">ring</eng>
-      <cat class="f">anella</cat>
-      <cat class="f">argolla</cat>
-    </e>
     <e done="yes" src="" area="espectacles" type="word">
       <eng class="n">ring boy</eng>
       <eng class="n">uniformist</eng>
@@ -46544,23 +46545,9 @@
       <cat class="f">facció</cat>
       <cat class="f">família política</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">gang</eng>
-      <eng class="n">pack</eng>
+    <e done="yes" src="" type="word" area="música">
       <eng class="n">ring</eng>
-      <eng class="n">mob</eng>
-      <cat class="f">banda</cat>
-      <example sent_eng="a gang of criminals" sent_cat="una banda de criminals" />
-    </e>
-    <e done="yes" src="" def_eng="Aura." type="word">
-      <eng class="n">ring</eng>
-      <cat class="f">aura</cat>
-    </e>
-    <e done="yes" src="" def_eng="Mark left by a glass on a table." type="word">
-      <eng class="n">ring</eng>
-      <cat class="m">rodal</cat>
-      <cat class="f">marca</cat>
-      <example sent_eng="The glass has left a ring on the table." sent_cat="El got ha deixat un rodal sobre la taula." />
+      <cat class="f">toc</cat>
     </e>
     <e done="yes" src="" def_eng="Sonority." type="word">
       <eng class="n">ring</eng>
@@ -46572,7 +46559,7 @@
       <example sent_eng="a ring of spies" sent_cat="una xarxa d'espies" />
       <example sent_eng="a ring of traffickers." sent_cat="una xarxa de traficants" />
     </e>
-    <e done="yes" remark="boxa" src="" area="esports" type="word">
+    <e done="yes" src="" area="boxa" type="word">
       <eng class="n">ring</eng>
       <cat class="m">quadrilàter</cat>
       <cat class="m">ring</cat>
@@ -47583,9 +47570,11 @@
       <eng class="n">rotation</eng>
       <cat class="m">torn</cat>
     </e>
-    <e done="yes" src="" type="word" def_eng="skill with mindless tasks">
-      <eng class="n">rote</eng>
-      <cat class="f">esma</cat>
+    <e src="" type="word" area="ensenyament" done="yes">
+      <eng class="n">rote learning</eng>
+      <cat class="m">aprenentatge mecànic</cat>
+      <cat class="m">aprenentatge memorístic</cat>
+      <cat class="m">aprenentatge repetitiu</cat>
     </e>
     <e done="yes" src="" def_eng="Nonsense." type="word">
       <eng class="n">rot</eng>
@@ -47618,7 +47607,7 @@
       <eng class="n" tags="colloquial">stinkpot</eng>
       <cat class="mf">canalla</cat>
       <cat class="mf">pocavergonya</cat>
-      <cat class="mf">rata</cat>
+      <cat class="mf" tags="figurat">rata</cat>
       <cat class="m" feminine="brètola">brètol</cat>
       <cat class="m" feminine="cabrona" tags="vulgar">cabró</cat>
     </e>
@@ -48522,7 +48511,7 @@
       <cat class="m">napbuf</cat>
       <cat class="m">tap de bassa</cat>
       <cat class="m" after="de bassa">tap</cat>
-      <cat class="mf">poca cosa</cat>
+      <cat class="f">poca cosa</cat>
     </e>
     <e done="yes" src="" area="aeronàutica" type="word">
       <eng class="n">airstrip</eng>
@@ -49034,9 +49023,9 @@
       <cat class="m">àngel</cat>
     </e>
     <e done="yes" src="" area="religió" type="word">
+      <eng class="n">saint</eng>
       <eng class="n" feminine="holy woman">holy man</eng>
       <eng class="n">holy person</eng>
-      <eng class="n">saint</eng>
       <cat class="m" feminine="santa">sant</cat>
     </e>
     <e done="yes" src="" def_cat="Raó per a dur a terme una acció." type="word">
@@ -51342,10 +51331,6 @@
       <eng class="n">seawall</eng>
       <cat class="m" after="del mar">mur de defensa</cat>
     </e>
-    <e done="yes" src="" area="fisiologia" type="word">
-      <eng class="n">sebum</eng>
-      <cat class="f">seu</cat>
-    </e>
     <e done="yes" src="" type="word">
       <eng class="n">seclusion</eng>
       <cat class="f">reclusió</cat>
@@ -51417,11 +51402,11 @@
       <cat class="f">segona</cat>
     </e>
     <e done="yes" src="" area="metrologia" def_eng="Unit of time equivalent to a sixtieth of a minute." def_cat="Unitat de temps equivalent a una seixantena part d'un minut." type="word">
+      <eng class="n">second</eng>
       <eng class="n" tags="abbreviation">s</eng>
       <eng class="n" tags="abbreviation">sec</eng>
-      <eng class="n">second</eng>
-      <cat class="m" tags="abreviació">s</cat>
       <cat class="m">segon</cat>
+      <cat class="m" tags="abreviació">s</cat>
     </e>
     <e done="yes" src="" area="metrologia" def_eng="Unit of angle equivalent to one-sixtieth of a minute of arc." def_cat="Unitat d'angle equivalent a una seixantena part d'un minut d'arc." type="word">
       <eng class="n">second</eng>
@@ -51983,7 +51968,6 @@
     <e done="yes" src="" type="word">
       <eng class="n">self</eng>
       <eng class="n">ego</eng>
-      <eng class="n">self</eng>
       <cat class="f">individualitat</cat>
       <cat class="m">jo</cat>
       <cat class="m">ego</cat>
@@ -52288,7 +52272,6 @@
       <cat class="f">sensualitat</cat>
     </e>
     <e done="yes" src="" area="lingüística" type="word">
-      <eng class="n">phrase</eng>
       <eng class="n">sentence</eng>
       <cat class="f">frase</cat>
       <cat class="f">oració</cat>
@@ -53841,7 +53824,6 @@
     </e>
     <e done="yes" src="" def_eng="Thin layer." type="word">
       <eng class="n">sheen</eng>
-      <eng class="n">sheen</eng>
       <cat class="f">pàtina</cat>
       <cat class="fp">irisacions</cat>
     </e>
@@ -54224,9 +54206,8 @@
     <e done="yes" src="" type="word">
       <eng class="n">shininess</eng>
       <eng class="n">sheen</eng>
-      <eng class="n">luster</eng>
-      <eng class="n">lustre</eng>
-      <cat class="m">reflex</cat>
+      <cat class="f">lluentor</cat>
+      <cat class="f">lluor sedosa</cat>
     </e>
     <e done="yes" src="" area="zoologia" type="word">
       <eng class="n">shin</eng>
@@ -55185,21 +55166,22 @@
       <cat class="f">fibra sensible</cat>
     </e>
     <e done="yes" src="" area="alimentació" type="word">
-      <eng class="n" before="beef or pork">side</eng>
-      <cat class="f" after="de vedella o porc">mitja canal</cat>
+      <eng class="n">side</eng>
+      <cat class="f">mitja canal</cat>
+      <example sent_eng="a side of beef or pork" sent_cat="mitja canal de vedella o porc" />
     </e>
     <e done="yes" src="" area="alimentació" type="word">
-      <eng class="n" after="of smoked salmon">side</eng>
-      <cat class="f" after="de salmó fumat">peça</cat>
+      <eng class="n">side</eng>
+      <cat class="f">peça</cat>
+      <example sent_eng="a side of smoked salmon" sent_cat="una peça de salmó fumat" />
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" after="in a discussion or conflict">side</eng>
+      <eng class="n">side</eng>
       <eng class="n">faction</eng>
-      <eng class="n" after="in a discussion or conflict">party</eng>
+      <eng class="n">party</eng>
       <cat class="f">banda</cat>
       <cat class="f">part</cat>
       <cat class="m">bàndol</cat>
-      <cat class="m">equip</cat>
     </e>
     <e done="yes" src="" area="política" type="word">
       <eng class="n">side</eng>
@@ -56966,7 +56948,7 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">ring</eng>
-      <eng class="n" before="round">slice</eng>
+      <eng class="n">round slice</eng>
       <cat class="f">llesca</cat>
       <cat class="f">rodanxa</cat>
       <cat class="f">tallada</cat>
@@ -57296,8 +57278,8 @@
       <cat class="m">pupitre</cat>
     </e>
     <e done="yes" src="" area="audiovisuals" type="word">
-      <eng class="n" before="TV">slot</eng>
-      <cat class="f" after="d'emissió de televisió">franja horària</cat>
+      <eng class="n">slot</eng>
+      <cat class="f">franja horària</cat>
     </e>
     <e done="yes" src="" area="mecànica" def_eng="Guide rail." type="word">
       <eng class="n">slot</eng>
@@ -57318,8 +57300,9 @@
       <cat class="m">peresós</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" after="in a schedule">slot</eng>
-      <cat class="m" after="en una programació">espai</cat>
+      <eng class="n">slot</eng>
+      <cat class="m">espai</cat>
+      <example sent_eng="a slot in a schedule" sent_cat="un espai en una programació" />
     </e>
     <e done="yes" src="" area="pesca" type="word">
       <eng class="n">slot</eng>
@@ -57336,29 +57319,30 @@
       <cat class="m" after="allargat">forat</cat>
     </e>
     <e done="yes" src="" area="jocs" type="word">
-      <eng class="n" tags="US">one-armed bandit</eng>
       <eng class="n">slot</eng>
       <eng class="n">slot machine</eng>
+      <eng class="n" tags="US">one-armed bandit</eng>
       <cat class="f">màquina escurabutxaques</cat>
       <cat class="f">escurabutxaques</cat>
     </e>
     <e done="yes" src="" area="telecomunicacions" type="word">
       <eng class="n">slot</eng>
       <eng class="n">time slot</eng>
+      <cat class="m">interval de temps</cat>
       <cat class="f">ranura de temps</cat>
     </e>
     <e done="yes" src="" area="aeronàutica" type="word">
       <eng class="n">slot</eng>
       <cat class="m">torn de vol</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n" tags="US">slough</eng>
-      <eng class="n">bayou</eng>
-      <cat class="f">gola</cat>
+    <e src="" type="word" area="informàtica" done="yes">
+      <eng class="n">expansion slot</eng>
+      <cat class="f">ranura d'expansió</cat>
     </e>
     <e done="yes" src="" area="zoologia" type="word">
-      <eng class="n" after="of a snake">slough</eng>
-      <cat class="f" after="d'una serp">muda</cat>
+      <eng class="n">slough</eng>
+      <cat class="f">muda</cat>
+      <example sent_eng="the slough of a snake" sent_cat="la muda d'una serp" />
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">slovenliness</eng>
@@ -58249,8 +58233,8 @@
       <cat class="m">ambient social</cat>
     </e>
     <e done="yes" src="" area="economia" type="word">
-      <eng class="n" before="high">society</eng>
       <eng class="n">high society</eng>
+      <eng class="n">society</eng>
       <eng class="n">beau monde</eng>
       <eng class="n">smart set</eng>
       <eng class="n">bon ton</eng>
@@ -58408,8 +58392,8 @@
       <cat class="mf">figa</cat>
     </e>
     <e done="yes" src="" area="geologia" type="word">
-      <eng class="n" tags="US">dirt</eng>
       <eng class="n">soil</eng>
+      <eng class="n" tags="US">dirt</eng>
       <cat class="f">terra</cat>
       <cat class="m">sòl</cat>
     </e>
@@ -59049,7 +59033,7 @@
       <eng class="n">soup</eng>
       <cat class="f">sopa</cat>
     </e>
-    <e done="yes" src="" area="hidrologia" def_eng="A place where water springs from the ground." def_cat="Lloc d'on brolla aigua de la terra." type="word">
+    <e done="yes" src="" area="hidrologia" type="word" def_eng="A place where water springs from the ground." def_cat="Lloc d'on brolla aigua de la terra.">
       <eng class="n">source</eng>
       <eng class="n">spring</eng>
       <eng class="n">natural spring</eng>
@@ -59068,6 +59052,8 @@
       <cat class="m">ullal</cat>
       <cat class="f">fontanella</cat>
       <cat class="f">mina d'aigua</cat>
+      <cat class="f">deu d'aigua</cat>
+      <cat class="m">corrent d'aigua subterrani</cat>
     </e>
     <e done="yes" src="" def_eng="Event that is a beginning or first stage of a series of events." def_cat="Esdeveniment que és l'inici o la primera fase d'un seguit d'esdeveniments." type="word">
       <eng class="n">source</eng>
@@ -60093,9 +60079,9 @@
       <cat class="f">espiral</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" after="of smoke">spiral</eng>
-      <eng class="n" after="of smoke">ring</eng>
-      <eng class="n" after="of smoke">wreath</eng>
+      <eng class="n">spiral of smoke</eng>
+      <eng class="n">ring of smoke</eng>
+      <eng class="n">wreath of smoke</eng>
       <cat class="m">torniol</cat>
     </e>
     <e done="yes" src="" area="arquitectura" type="word">
@@ -60505,7 +60491,8 @@
       <cat class="m">bec</cat>
       <cat class="m">broc</cat>
       <cat class="m">galet</cat>
-      <cat class="m">tòt</cat>
+      <cat class="m">tot</cat>
+      <cat class="m" tags="diacrítics_tradicionals">tòt</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n" after="of a fountain">spout</eng>
@@ -60615,11 +60602,6 @@
       <cat class="f">pàgina d'enfront</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">spree</eng>
-      <eng class="n">binge</eng>
-      <cat class="f">xerinola</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="n">sprightliness</eng>
       <cat class="m">dinamisme</cat>
     </e>
@@ -60717,7 +60699,8 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n" tags="UK slang">spunk</eng>
-      <cat class="m">home molt atractiu</cat>
+      <cat class="m">tros d'home</cat>
+      <cat class="m" tags="informal">guaperes</cat>
     </e>
     <e done="yes" src="" area="geografia" type="word">
       <eng class="n">spur</eng>
@@ -61722,10 +61705,10 @@
     <e done="yes" src="" area="astronàutica" type="word">
       <eng class="n">starship</eng>
       <eng class="n">spaceship</eng>
-      <cat class="f">astronau</cat>
-      <cat class="f">cosmonau</cat>
       <cat class="f">nau espacial</cat>
       <cat class="f">nau</cat>
+      <cat class="f">astronau</cat>
+      <cat class="f">cosmonau</cat>
     </e>
     <e done="yes" src="" def_eng="Startled reaction." type="word">
       <eng class="n">start</eng>
@@ -62009,10 +61992,25 @@
     <e done="yes" src="" area="estadística" type="word">
       <eng class="n">statistics</eng>
       <cat class="f">estadística</cat>
+      <example sent_eng="Statistics is a mathematical discipline." sent_cat="L'estadística és una disciplina matemàtica." />
     </e>
     <e done="yes" src="" area="estadística" type="word">
       <eng class="n">statistic</eng>
+      <eng class="n">stat</eng>
+      <cat class="f">estadística</cat>
+      <example sent_eng="Acording to one stat, more people now work remotely than ever before." sent_cat="Segons una estadística, ara hi ha més gent que mai que treballa a distància." />
+    </e>
+    <e done="yes" src="" area="estadística" type="word">
+      <eng class="n_p">statistics</eng>
+      <eng class="n_p">stats</eng>
+      <cat class="fp">estadístiques</cat>
+      <example sent_eng="The player has very good statistics." sent_cat="El jugador té molt bones estadístiques." />
+      <example sent_eng="The player has very good stats." sent_cat="El jugador té molt bones estadístiques." />
+    </e>
+    <e src="" type="word" done="yes" area="estadística">
+      <eng class="n">statistician</eng>
       <cat class="m" feminine="estadística">estadístic</cat>
+      <example sent_eng="He works as a statistician." sent_cat="Treballa com a estadístic. " />
     </e>
     <e done="yes" src="" area="art" type="word">
       <eng class="n">statue</eng>
@@ -62162,20 +62160,30 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">stealth</eng>
+      <cat class="m">sigil</cat>
       <cat class="f">cautela silenciosa</cat>
       <cat class="f">cautela</cat>
-      <cat class="m">sigil</cat>
     </e>
     <e done="yes" src="" type="word" area="militar">
       <eng class="n">stealth</eng>
+      <eng class="n">stealth technology</eng>
+      <eng class="n">low observable technology</eng>
+      <cat class="f">tecnologia baixa detectabilitat</cat>
       <cat class="f">invisibilitat de radar</cat>
       <cat class="f">teconologia de sigil</cat>
       <cat class="m">sigil</cat>
     </e>
     <e done="yes" src="" type="word" area="militar">
       <eng class="n">stealth fighter</eng>
-      <cat class="m">caça sigilós</cat>
+      <cat class="m">caça furtiu</cat>
+      <cat class="m">caça sigil·lós</cat>
       <cat class="m">caça de sigil</cat>
+    </e>
+    <e done="yes" src="" type="word" area="militar">
+      <eng class="n">stealth bomber</eng>
+      <cat class="m">bombarder furtiu</cat>
+      <cat class="m">bombarder sigil·lós</cat>
+      <cat class="m">bombarder de sigil</cat>
     </e>
     <e done="yes" src="" area="física" type="word">
       <eng class="n">steam boiler</eng>
@@ -62208,13 +62216,20 @@
       <eng class="n">steamer</eng>
       <eng class="n">steamship</eng>
       <cat class="f">nau de vapor</cat>
-      <cat class="m" before="vaixell de">vapor</cat>
+      <cat class="m">vapor</cat>
       <cat class="m">vaixell de vapor</cat>
     </e>
     <e done="yes" src="" area="metal·lúrgia" type="word">
       <eng class="n">steel</eng>
       <cat class="m">acer</cat>
+    </e>
+    <e src="" type="word" area="metal·lúrgia" done="yes">
+      <eng class="n">soft iron</eng>
       <cat class="m">ferro dolç</cat>
+    </e>
+    <e src="" type="word" area="metal·lúrgia" done="yes">
+      <eng class="n">ingot iron</eng>
+      <cat class="m">ferro en lingots</cat>
     </e>
     <e done="yes" src="" area="arquitectura" type="word">
       <eng class="n">spire</eng>
@@ -65229,19 +65244,56 @@
       <cat class="f">suggestió</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" after="person">felo-de-se</eng>
-      <eng class="n" after="person">suicide</eng>
+      <eng class="n">suicide</eng>
       <cat class="mf">suïcida</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">suicide bomber</eng>
-      <cat class="mf" before="terrorista">suïcida</cat>
+      <cat class="mf">terrorista suïcida</cat>
     </e>
-    <e done="yes" src="" area="psiquiatria" type="word">
-      <eng class="n">self-annihilation</eng>
-      <eng class="n">self-destruction</eng>
+    <e done="yes" src="" type="word">
       <eng class="n">suicide</eng>
       <cat class="m">suïcidi</cat>
+    </e>
+    <e done="yes" src="" type="word" area="dret">
+      <eng class="n">felo-de-se</eng>
+      <eng class="n">suicide</eng>
+      <cat class="m">suïcidi</cat>
+    </e>
+    <e done="yes" src="" type="word" area="dret">
+      <eng class="n">felo-de-se</eng>
+      <eng class="n">suicide</eng>
+      <cat class="mf">suïcida</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">self-annihilation</eng>
+      <eng class="n">self-destruction</eng>
+      <cat class="f">autodestrucció</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">suicide attempt</eng>
+      <eng class="n">attempted suicide</eng>
+      <cat class="m">intent de suïcidi</cat>
+      <cat class="f">temptativa de suïcidi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">assisted suicide</eng>
+      <cat class="m">suïcidi assistit</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">suicide watch</eng>
+      <cat class="m">protocol de prevenció de suïcidi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">cluster suicide</eng>
+      <eng class="n">collective suicide</eng>
+      <eng class="n">mass suicide</eng>
+      <cat class="m">suïcidi col·lectiu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">suicide bombing</eng>
+      <eng class="n">suicide attack</eng>
+      <cat class="m">atemptat suïcida</cat>
     </e>
     <e done="yes" src="" area="indumentària" type="word">
       <eng class="n" after="of clothes">suit</eng>
@@ -65475,9 +65527,9 @@
       <cat class="f">albada</cat>
       <cat class="f">aurora</cat>
       <cat class="f">sortida de sol</cat>
-      <cat class="f" after="de sol">sortida</cat>
-      <cat class="m">ortus</cat>
+      <cat class="f">sortida</cat>
       <cat class="m">sol naixent</cat>
+      <cat class="m">ortus</cat>
     </e>
     <e done="yes" src="" area="begudes" type="word">
       <eng class="n">sunshine</eng>
@@ -67977,7 +68029,7 @@
       <eng class="n">assessor</eng>
       <cat class="m" feminine="taxadora">taxador</cat>
     </e>
-    <e done="yes" src="" area="dret economia" type="word">
+    <e done="yes" src="" area="economia" type="word">
       <eng class="n" tags="UK">tax relief</eng>
       <eng class="n" tags="US">tax exemption</eng>
       <eng class="n">deduction</eng>
@@ -67986,6 +68038,13 @@
       <eng class="n">tax write-off</eng>
       <cat class="f">deducció</cat>
       <cat class="f">desgravació</cat>
+      <example sent_eng="A tax credit affects the amount of tax paid, whereas a tax deduction affects the taxable income." sent_cat="Un crèdit fiscal afecta la quantitat d'imposts pagats, mentre que una deducció fiscal afecta la base imposable." />
+    </e>
+    <e src="" type="word" area="economia" done="yes">
+      <eng class="n">tax credit</eng>
+      <cat class="m">crèdit fiscal</cat>
+      <cat class="m">crèdit tributari</cat>
+      <example sent_eng="A tax credit affects the amount of tax paid, whereas a tax deduction affects the taxable income." sent_cat="Un crèdit fiscal afecta la quantitat d'imposts pagats, mentre que una deducció fiscal afecta la base imposable." />
     </e>
     <e done="yes" src="" area="dret economia" type="word">
       <eng class="n">tax collection</eng>
@@ -69795,12 +69854,6 @@
       <eng class="n" before="someone's">thing</eng>
       <cat class="f" before="gran">afició</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">thing</eng>
-      <cat class="f" after="indefinida">massa</cat>
-      <cat class="f">cosa</cat>
-      <cat class="m">objecte</cat>
-    </e>
     <e done="yes" src="" def_eng="Attribute or quality." type="word">
       <eng class="n">thing</eng>
       <cat class="f">característica</cat>
@@ -70030,7 +70083,7 @@
       <cat class="m">advertiment</cat>
       <cat class="m">avís</cat>
     </e>
-    <e area="esports" done="yes" src="" remark="beisbol" type="word">
+    <e area="beisbol" done="yes" src="" type="word">
       <eng class="n">three-base hit</eng>
       <eng class="n">triple</eng>
       <cat class="f">batada triple</cat>
@@ -70044,8 +70097,18 @@
     </e>
     <e area="basquetbol" done="yes" src="" type="word">
       <eng class="n">three-points field goal</eng>
+      <eng class="n">three-pointer</eng>
       <cat class="f">cistella de tres punts</cat>
       <cat class="f">cistella triple</cat>
+      <cat class="m">bàsquet de tres punts</cat>
+      <cat class="m">bàsquet triple</cat>
+      <cat class="m">triple</cat>
+    </e>
+    <e area="basquetbol" done="yes" src="" type="word">
+      <eng class="n">three-point shot</eng>
+      <eng class="n">three-pointer</eng>
+      <cat class="f">llançament de tres punts</cat>
+      <cat class="f">llançament triple</cat>
       <cat class="m">triple</cat>
     </e>
     <e done="yes" src="" area="música" type="word">
@@ -70690,14 +70753,15 @@
       <cat class="m">timbre</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="Instance of an event." def_cat="Repetició d'un esdeveniment.">
-      <eng class="n">clip</eng>
-      <eng class="n">occasion</eng>
       <eng class="n">time</eng>
-      <cat class="f">ocasió</cat>
+      <eng class="n">occasion</eng>
+      <eng class="n">clip</eng>
       <cat class="f">vegada</cat>
       <cat class="f">volta</cat>
+      <cat class="f">ocasió</cat>
       <cat class="m">cop</cat>
       <cat class="m">pic</cat>
+      <example sent_eng="Come earlier next time, please." sent_cat="Vine abans la pròxima vegada, si us plau." />
     </e>
     <e done="yes" src="" def_eng="Moment of the day according to the clock." def_cat="Moment del dia segons el rellotge." type="word">
       <eng class="n">clock time</eng>
@@ -70811,7 +70875,7 @@
       <eng class="n">timeliness</eng>
       <cat class="f">oportunitat</cat>
     </e>
-    <e done="yes" src="" area="física" type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">time</eng>
       <cat class="m">temps</cat>
     </e>
@@ -70878,10 +70942,6 @@
       <eng class="n">tincture</eng>
       <cat class="f">tintura</cat>
     </e>
-    <e done="yes" src="" area="armament" type="word">
-      <eng class="n">tinderbox</eng>
-      <cat class="m">polvorí</cat>
-    </e>
     <e done="yes" src="" area="fusteria" type="word">
       <eng class="n">tinder</eng>
       <cat class="f">dinada</cat>
@@ -70889,11 +70949,6 @@
     <e done="yes" src="" type="word">
       <eng class="n">tine</eng>
       <cat class="f" tags="figurat">dent</cat>
-    </e>
-    <e done="yes" src="" type="word" def_cat="Quantitat molt petita.">
-      <eng class="n" tags="figurative">tinge</eng>
-      <cat class="m">punt</cat>
-      <cat class="m">toc</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">tinge</eng>
@@ -71053,14 +71108,14 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">tissue</eng>
-      <cat class="m" after="de paper">mocador</cat>
+      <cat class="m">mocador de paper</cat>
     </e>
     <e done="yes" src="" area="anatomia" type="word">
       <eng class="n">tissue</eng>
       <cat class="m">teixit</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" after="paper">tissue</eng>
+      <eng class="n">tissue</eng>
       <eng class="n">tissue paper</eng>
       <cat class="m">paper fi</cat>
       <cat class="m">tissú</cat>
@@ -71074,8 +71129,10 @@
       <eng class="n">titre</eng>
       <cat class="m">títol</cat>
     </e>
-    <e done="yes" src="" area="sexualitat" type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">titillation</eng>
+      <eng class="n">excitement</eng>
+      <eng class="n">arousal</eng>
       <cat class="f">excitació</cat>
     </e>
     <e done="yes" src="" area="publicacions" type="word">
@@ -72208,6 +72265,19 @@
       <eng class="n">tracking</eng>
       <cat class="m">estudi de seguiment</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">tracking</eng>
+      <cat class="m">seguiment</cat>
+    </e>
+    <e done="yes" src="" type="word" area="ensenyament">
+      <eng class="n">ability grouping</eng>
+      <eng class="n">tracking</eng>
+      <cat class="f">divisió per itineraris</cat>
+    </e>
+    <e done="yes" src="" type="word" area="ensenyament">
+      <eng class="n">track</eng>
+      <cat class="m">itinerari</cat>
+    </e>
     <e done="yes" src="" area="geografia" type="word">
       <eng class="n">track</eng>
       <eng class="n">cart track</eng>
@@ -72233,7 +72303,7 @@
       <eng class="n">track</eng>
       <cat class="f">pista</cat>
     </e>
-    <e area="esports" done="yes" src="" def_eng="Mark made of two parallel grooves in snow for nordic skiing." def_cat="Marca de dos solcs paral·lels a la neu per a facilitat la pràctica de l'esquí nòrdic." type="word">
+    <e area="esquí" done="yes" src="" def_eng="Mark made of two parallel grooves in snow for nordic skiing." def_cat="Marca de dos solcs paral·lels a la neu per a facilitat la pràctica de l'esquí nòrdic." type="word">
       <eng class="n">track</eng>
       <cat class="f">traça</cat>
     </e>
@@ -72872,9 +72942,25 @@
       <eng class="n">transport system</eng>
       <eng class="n">transportation system</eng>
       <eng class="n">transportation</eng>
-      <cat class="m" before="mitjà de">transport</cat>
+      <cat class="m">transport</cat>
       <cat class="m">mitjà de transport</cat>
       <cat class="m">sistema de transport</cat>
+    </e>
+    <e area="transports" done="yes" src="" type="word">
+      <eng class="n">means of conveyance</eng>
+      <eng class="n">means of transport</eng>
+      <cat class="m">mitjà de transport</cat>
+    </e>
+    <e done="yes" src="" area="transports" type="word">
+      <eng class="n" tags="UK">transport</eng>
+      <eng class="n" tags="US">transportation</eng>
+      <eng class="n" tags="formal">conveyance</eng>
+      <cat class="m">mitjà de transport</cat>
+      <cat class="m">transport</cat>
+    </e>
+    <e done="yes" src="" type="word" area="transports">
+      <eng class="n">form of travel</eng>
+      <cat class="m">mitjà de transport</cat>
     </e>
     <e done="yes" src="" area="sociologia" type="word">
       <eng class="n">transit</eng>
@@ -74197,21 +74283,9 @@
     </e>
     <e done="yes" src="" area="ramaderia" type="word">
       <eng class="n">drinking trough</eng>
-      <eng class="n" before="drinking">trough</eng>
+      <eng class="n">trough</eng>
       <cat class="f">abeuradora</cat>
       <cat class="m">abeurador</cat>
-    </e>
-    <e done="yes" src="" area="ramaderia" type="word">
-      <eng class="n" before="eating">trough</eng>
-      <eng class="n">eating trough</eng>
-      <eng class="n">manger</eng>
-      <cat class="f">bàssia</cat>
-      <cat class="f">menjadora</cat>
-      <cat class="m">bassi</cat>
-      <cat class="m">bassiol</cat>
-      <cat class="m">com</cat>
-      <cat class="m">gamelló</cat>
-      <cat class="m">obi</cat>
     </e>
     <e done="yes" src="" area="física" type="word">
       <eng class="n" before="wave">trough</eng>
@@ -74220,10 +74294,10 @@
     <e done="yes" src="" area="geografia" type="word">
       <eng class="n">U-shaped valley</eng>
       <eng class="n">trough valley</eng>
-      <eng class="n" after="valley">trough</eng>
+      <eng class="n">trough</eng>
       <cat class="f">vall d'obi</cat>
-      <cat class="m">com</cat>
       <cat class="m">obi</cat>
+      <cat class="m">com</cat>
     </e>
     <e done="yes" src="" area="geografia" type="word">
       <eng class="n">trough</eng>
@@ -78920,8 +78994,14 @@
       <eng class="n">walkout</eng>
       <cat class="f">vaga</cat>
     </e>
-    <e done="yes" src="" area="informàtica" type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">walkthrough</eng>
+      <eng class="n">walk-through</eng>
+      <cat class="m">recorregut</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">walkthrough</eng>
+      <eng class="n">walk-through</eng>
       <cat class="f">guia</cat>
     </e>
     <e done="yes" src="" area="nàutica" type="word">
@@ -79012,8 +79092,12 @@
       <cat class="f">vareta</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" tags="pejorative">wanker</eng>
-      <cat class="m">carallot</cat>
+      <eng class="n" tags="offensive UK">wanker</eng>
+      <cat class="m" tags="vulgar">carallot</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n" tags="derogatory UK">wanker</eng>
+      <cat class="m">masturbador</cat>
     </e>
     <e done="yes" src="" def_eng="State of wanting something." def_cat="Estat de voler alguna cosa." type="word">
       <eng class="n">wanting</eng>
@@ -80455,16 +80539,6 @@
       <cat class="f">estona</cat>
       <cat class="f">temporada</cat>
     </e>
-    <e done="yes" src="" type="word" def_eng="Short period of time." def_cat="Període breu de temps.">
-      <eng class="n">bit</eng>
-      <eng class="n">patch</eng>
-      <eng class="n">piece</eng>
-      <eng class="n">spell</eng>
-      <eng class="n">while</eng>
-      <cat class="m">instant</cat>
-      <cat class="m">moment</cat>
-      <cat class="m">segon</cat>
-    </e>
     <e done="yes" src="" type="word">
       <eng class="n">impulse</eng>
       <eng class="n">whim</eng>
@@ -80733,10 +80807,6 @@
       <eng class="n">whole</eng>
       <cat class="f">totalitat</cat>
       <cat class="m">tot</cat>
-    </e>
-    <e done="yes" src="" area="comerç" type="word">
-      <eng class="n">wholesaler</eng>
-      <cat class="m" after="de venda a l'engròs">magatzem</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">whoopee</eng>
@@ -81974,21 +82044,37 @@
       <eng class="n">world</eng>
       <cat class="f">vida</cat>
     </e>
-    <e done="yes" src="" def_eng="All of the living human inhabitants of the Earth." def_cat="Conjunt de tots els habitants humans de la Terra." type="word">
-      <eng class="n">world</eng>
-      <eng class="n">human race</eng>
+    <e done="yes" src="" type="word" def_eng="All of the living human inhabitants of the Earth." def_cat="Conjunt de tots els habitants humans de la Terra.">
       <eng class="n">humanity</eng>
       <eng class="n">humankind</eng>
-      <eng class="n">human beings</eng>
-      <eng class="n">humans</eng>
+      <eng class="n">human race</eng>
+      <eng class="n">world</eng>
+      <eng class="n_p">human beings</eng>
+      <eng class="n_p">humans</eng>
       <eng class="n">mankind</eng>
       <eng class="n">man</eng>
+      <eng class="n_p">men</eng>
       <cat class="f">espècie humana</cat>
       <cat class="m">gènere humà</cat>
       <cat class="m">home</cat>
       <cat class="f">humanitat</cat>
       <cat class="m">món</cat>
       <cat class="f">raça humana</cat>
+      <cat class="m">ésser humà</cat>
+      <cat class="mp">homes</cat>
+      <cat class="mp" tags="valencià">hòmens</cat>
+    </e>
+    <e done="yes" src="" type="word" def_eng="An individual." def_cat="Individu.">
+      <eng class="n">guy</eng>
+      <eng class="n" tags="UK informal">bloke</eng>
+      <eng class="n" tags="UK informal">bod</eng>
+      <eng class="n" tags="informal">fellow</eng>
+      <eng class="n" tags="UK informal">chap</eng>
+      <cat class="m">home</cat>
+      <cat class="m" tags="col·loquial">paio</cat>
+      <cat class="m" tags="col·loquial">manso</cat>
+      <cat class="m" tags="col·loquial" feminine="sòcia">soci</cat>
+      <cat class="m" tags="popular">tipus</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="big quantity" def_cat="gran quantitat">
       <eng class="n_p">dozens</eng>
@@ -82657,14 +82743,14 @@
       <eng class="n">yelling</eng>
       <cat class="f">cridòria</cat>
     </e>
-    <e done="yes" src="" type="word">
+    <e done="yes" src="" type="word" area="colors">
       <eng class="n">yellowish pink</eng>
-      <eng class="n" after="colour">apricot</eng>
-      <eng class="n" after="colour">peach</eng>
+      <eng class="n">apricot</eng>
+      <eng class="n">peach</eng>
       <eng class="n">salmon pink</eng>
-      <cat class="m" before="color">albercoc</cat>
-      <cat class="m" before="color">préssec</cat>
-      <cat class="m" before="color">salmó</cat>
+      <cat class="m">albercoc</cat>
+      <cat class="m">préssec</cat>
+      <cat class="m">salmó</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">yellowness</eng>
@@ -83013,6 +83099,17 @@
       <cat class="m">feminisme radical transexcloent</cat>
       <cat class="mf" tags="sigla">FRTE</cat>
       <cat class="mf" tags="sigla anglès">TERF</cat>
+    </e>
+    <e done="yes" src="" def_eng="A specific identifiable position in a series or process." def_cat="Posició específica identificable en una sèrie o procés." type="word">
+      <eng class="n">degree</eng>
+      <eng class="n">level</eng>
+      <eng class="n">stage</eng>
+      <eng class="n">point</eng>
+      <cat class="f">etapa</cat>
+      <cat class="f">fase</cat>
+      <cat class="m">grau</cat>
+      <cat class="m">nivell</cat>
+      <cat class="m">punt</cat>
     </e>
   </entries>
 </root>

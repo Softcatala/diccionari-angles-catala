@@ -28,6 +28,11 @@
       <eng class="n">Sardinian</eng>
       <cat class="m">sard</cat>
     </e>
+    <e done="yes" src="" area="astronomia" type="word">
+      <eng class="n">Sun</eng>
+      <eng class="n" tags="literary">Sol</eng>
+      <cat class="m">Sol</cat>
+    </e>
     <e src="" type="word" area="química" done="yes">
       <eng class="n">acetone</eng>
       <eng class="n">propanone</eng>

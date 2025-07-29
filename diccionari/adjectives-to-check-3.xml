@@ -249,14 +249,10 @@
       <cat class="adj">excepcional</cat>
     </e>
     <e src="" done="yes" type="word">
-      <eng class="adj">first-rate</eng>
-      <cat class="adj">de primera</cat>
-      <cat class="adj">de primer nivell</cat>
-    </e>
-    <e src="" done="yes" type="word">
       <eng class="adj">super</eng>
       <cat class="adj">fantàstic</cat>
       <cat class="adj">genial</cat>
+      <cat class="adj" tags="col·loquial">súper</cat>
     </e>
     <e src="" done="yes" type="word">
       <eng class="adj">tiptop</eng>
@@ -266,9 +262,11 @@
     <e src="" done="yes" type="word">
       <eng class="adj">topnotch</eng>
       <eng class="adj">top-notch</eng>
+      <eng class="adj">first-rate</eng>
       <cat class="adj">de primer nivell</cat>
-      <cat class="adj">excel·lent</cat>
-      <cat class="adj">insuperable</cat>
+      <cat class="adj">de primera</cat>
+      <cat class="adj">de primera categoria</cat>
+      <example sent_eng="a topnotch researcher" sent_cat="un investigador de primer nivell" />
     </e>
     <e src="" done="yes" type="word">
       <eng class="adj">tops</eng>
@@ -513,11 +511,6 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">aged</eng>
-      <cat class="adj" feminine="vella">vell</cat>
-      <cat class="adj">gran</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">aged</eng>
       <cat class="adj">de (x) anys</cat>
       <example sent_eng="He has a daughter aged 7." sent_cat="Té una filla de 7 anys." />
     </e>
@@ -587,6 +580,12 @@
       <cat class="adj" feminine="angoixosa">angoixós</cat>
       <cat class="adj" feminine="anguniosa">anguniós</cat>
       <cat class="adj">insuportable</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">excruciating</eng>
+      <cat class="adj" feminine="extrema">extrem</cat>
+      <cat class="adj" feminine="immensa">immens</cat>
+      <example sent_eng="an excruciating joy" sent_cat="una alegria immensa" />
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj" tags="US">agonizing</eng>
@@ -706,9 +705,10 @@
       <eng class="adj">allusive</eng>
       <cat class="adj" feminine="al·lusiva">al·lusiu</cat>
     </e>
-    <e done="yes" src="" type="word" def_eng="By oneself." def_cat="Sense companyia.">
+    <e done="yes" src="" type="word" def_eng="By oneself, without nothing else." def_cat="Sense res més.">
       <eng class="adj">alone</eng>
       <eng class="adj">unaccompanied</eng>
+      <eng class="adj">single</eng>
       <cat class="adj" feminine="sola">sol</cat>
       <cat class="adj" feminine="tota sola">tot sol</cat>
       <cat class="adj" feminine="broixa">broix</cat>
@@ -2361,7 +2361,6 @@
       <eng class="adj">duncish</eng>
       <eng class="adj">fatheaded</eng>
       <eng class="adj">loggerheaded</eng>
-      <eng class="adj">thick</eng>
       <eng class="adj">thickheaded</eng>
       <eng class="adj">thick-skulled</eng>
       <eng class="adj">wooden-headed</eng>
@@ -6768,16 +6767,6 @@
       <cat class="adj" feminine="assenyalada">assenyalat</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="adj">distinguished</eng>
-      <cat class="adj" feminine="distingida">distingit</cat>
-      <cat class="adj">il·lustre</cat>
-      <cat class="adj">eminent</cat>
-      <cat class="adj" feminine="prestigiosa">prestigiós</cat>
-      <cat class="adj">de prestigi</cat>
-      <cat class="adj">de renom</cat>
-      <cat class="adj">gran</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="adj">distressed</eng>
       <eng class="adj">upset</eng>
       <cat class="adj" feminine="desconsolada">desconsolat</cat>
@@ -7381,14 +7370,6 @@
       <cat class="adj" feminine="detallada">detallat</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="adj">elder</eng>
-      <eng class="adj">older</eng>
-      <eng class="adj">senior</eng>
-      <cat class="adj">gran</cat>
-      <cat class="adj">més gran</cat>
-      <cat class="adj">major</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="adj">elect</eng>
       <eng class="adj">chosen</eng>
       <cat class="adj" feminine="electa">electe</cat>
@@ -7423,11 +7404,6 @@
     <e done="yes" src="" type="word">
       <eng class="adj">eloquent</eng>
       <cat class="adj">eloqüent</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">else</eng>
-      <cat class="adj">més</cat>
-      <cat class="adj" feminine="altra">altre</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">emancipate</eng>
@@ -8207,11 +8183,12 @@
       <eng class="adj">awesome</eng>
       <cat class="adj" feminine="fantàstica">fantàstic</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">fantastic</eng>
-      <cat class="adj" feminine="desmesurada">desmesurat</cat>
-      <cat class="adj" feminine="extrema">extrem</cat>
+    <e done="yes" src="" def_eng="Very difficult or impossible to imagine." def_cat="Molt difícil o impossible d'imaginar o concebre." type="word">
+      <eng class="adj">untold</eng>
+      <cat class="adj">ingent</cat>
       <cat class="adj">gran</cat>
+      <cat class="adj">incalculable</cat>
+      <cat class="adj">inimaginable</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">fantastic</eng>
@@ -10188,7 +10165,7 @@
       <cat class="adj" feminine="casolana">casolà</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" tags="attributive">home</eng>
+      <eng class="adj">home</eng>
       <eng class="n" tags="attributive">birth</eng>
       <cat class="adj">natal</cat>
     </e>
@@ -10253,7 +10230,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adj">hopeless</eng>
-      <cat class="adj">abatut</cat>
+      <cat class="adj" feminine="abatuda">abatut</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">hopeless</eng>
@@ -11910,11 +11887,6 @@
       <eng class="adj">majestic</eng>
       <cat class="adj" feminine="majestuosa">majestuós</cat>
       <cat class="adj" feminine="grandiosa">grandiós</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">major</eng>
-      <cat class="adj">gran</cat>
-      <cat class="adj">més gran</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n" tags="attributive">majority</eng>
@@ -13701,7 +13673,8 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">ordinary</eng>
-      <cat class="adj">qualsevol</cat>
+      <cat class="adj" plural="qualssevol">qualsevol</cat>
+      <cat class="adj" plural="qualssevulla" tags="antic">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">organic</eng>
@@ -13845,14 +13818,23 @@
       <cat class="adj" feminine="impagada">impagat</cat>
     </e>
     <e done="yes" src="" type="word">
+      <eng class="adj">salient</eng>
+      <cat class="adj">protuberant</cat>
+      <cat class="adj">prominent</cat>
+      <cat class="adj">sortint</cat>
+      <cat class="adj">ixent</cat>
+      <cat class="adj">sobresortint</cat>
+      <cat class="adj">sobreïxent</cat>
+    </e>
+    <e done="yes" src="" type="word">
       <eng class="adj">outstanding</eng>
       <eng class="adj">prominent</eng>
       <eng class="adj">salient</eng>
-      <eng class="adj">spectacular</eng>
-      <eng class="adj">striking</eng>
       <cat class="adj" feminine="destacada">destacat</cat>
       <cat class="adj">prominent</cat>
-      <cat class="adj">sorprenent</cat>
+      <cat class="adj">important</cat>
+      <cat class="adj">principal</cat>
+      <cat class="adj">notable</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">outstanding</eng>
@@ -13979,6 +13961,74 @@
     <e done="yes" src="" type="word">
       <eng class="adj">palatine</eng>
       <cat class="adj" feminine="palatina">palatí</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adj">parallel</eng>
+      <cat class="adj">en paral·lel</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">parallel</eng>
+      <cat class="adj" feminine="paral·lela">paral·lel</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pariah</eng>
+      <cat class="adj" feminine="proscrita">proscrit</cat>
+      <cat class="adj" feminine="marginada">marginat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">partial</eng>
+      <cat class="adj" feminine="injusta">injust</cat>
+      <cat class="adj">parcial</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">partial</eng>
+      <cat class="adj">parcial</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">particular</eng>
+      <cat class="adj" feminine="concreta">concret</cat>
+      <cat class="adj" feminine="determinada">determinat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">particular</eng>
+      <cat class="adj" feminine="determinada">determinat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">particular</eng>
+      <cat class="adj">particular</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">particular</eng>
+      <eng class="adj">peculiar</eng>
+      <eng class="adj">special</eng>
+      <cat class="adj">especial</cat>
+      <cat class="adj">particular</cat>
+      <cat class="adj">peculiar</cat>
+      <cat class="adj" feminine="pròpia">propi</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">particular</eng>
+      <eng class="adj">special</eng>
+      <cat class="adj">especial</cat>
+      <cat class="adj">particular</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">particular</eng>
+      <eng class="adj">specific</eng>
+      <eng class="adj">concrete</eng>
+      <cat class="adj" feminine="concreta">concret</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">partisan</eng>
+      <cat class="adj">partidista</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">partisan</eng>
+      <cat class="adj" feminine="partisana">partisà</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">partisan</eng>
+      <cat class="adj">parcial</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adj">pleasant</eng>
@@ -14432,6 +14482,10 @@
     <e done="yes" src="" type="word">
       <eng class="adj">productive</eng>
       <cat class="adj" feminine="productiva">productiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">productive</eng>
+      <cat class="adj" feminine="productiva">productiu</cat>
       <cat class="adj" feminine="productora">productor</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -14583,6 +14637,17 @@
       <eng class="adj">secure</eng>
       <eng class="adj">sure</eng>
       <cat class="adj" feminine="segura">segur</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">saint</eng>
+      <eng class="adj">beatified</eng>
+      <cat class="adj" feminine="santa">sant</cat>
+      <cat class="adj" feminine="beata">beat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">some</eng>
+      <cat class="adj" feminine="algunes">alguns</cat>
+      <cat class="adj" feminine="unes">uns</cat>
     </e>
     <e done="yes" src="" area="biologia" type="word">
       <eng class="adj">split</eng>

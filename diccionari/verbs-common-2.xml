@@ -854,8 +854,9 @@
       <cat class="v" grammar="intr" after="d'alguna cosa">estar al dia</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" after="a promise">to keep</eng>
-      <cat class="v" grammar="tr" after="una promesa">complir</cat>
+      <eng class="v" grammar="tr">to keep</eng>
+      <cat class="v" grammar="tr">complir</cat>
+      <example sent_eng="to keep a promise" sent_cat="complir una promesa" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" after="+ gerund">to keep</eng>
@@ -1903,17 +1904,18 @@
       <eng class="v" grammar="tr">to survey</eng>
       <cat class="v" grammar="tr" after="amb la mirada">recórrer</cat>
     </e>
-    <e done="yes" src="" area="construcció" type="word">
+    <e done="yes" src="" def_eng="To be oriented towards a certain direction." def_cat="Tenir orientació cap a una direcció determinada." type="word">
       <eng class="v" grammar="tr">to face</eng>
       <eng class="v" grammar="intr" after="towards a place">to look</eng>
       <cat class="v" grammar="intr" after="cap a un lloc">mirar</cat>
       <cat class="v" grammar="intr" after="cap a un lloc">estar orientat</cat>
       <example sent_cat="La casa mirava cap al mar." sent_eng="The house looked towards the sea." />
     </e>
-    <e done="yes" src="" def_eng="To direct one's look to something." def_cat="Fixar la vista sobre alguna cosa." type="word">
+    <e done="yes" src="" type="word" def_eng="To direct one's look to something." def_cat="Fixar la vista sobre alguna cosa.">
       <eng class="v" grammar="intr" after="at something">to look</eng>
       <eng class="v" grammar="tr">to observe</eng>
       <eng class="v" grammar="tr">to watch</eng>
+      <eng class="v" grammar="tr">to regard</eng>
       <cat class="v" grammar="tr">mirar</cat>
       <cat class="v" grammar="tr">observar</cat>
       <cat class="v" grammar="tr">fitar</cat>
@@ -2681,19 +2683,24 @@
       <eng class="v" grammar="intr" tags="figurative">to melt</eng>
       <cat class="v" grammar="intr_pron" tags="figurat">estovar-se</cat>
     </e>
-    <e src="" type="word" done="yes">
+    <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to melt</eng>
+      <eng class="v" grammar="tr">to melt down</eng>
       <cat class="v" grammar="tr">fondre</cat>
     </e>
-    <e src="" type="word" done="yes">
+    <e done="yes" src="" type="word">
       <eng class="v" grammar="intr">to melt</eng>
       <eng class="v" grammar="intr">to be melted</eng>
+      <eng class="v" grammar="intr">to thaw</eng>
       <cat class="v" grammar="intr_pron">fondre's</cat>
+      <cat class="v" grammar="intr_pron">desglaçar-se</cat>
+      <cat class="v" grammar="intr_pron">desgelar-se</cat>
+      <cat class="v" grammar="intr_pron">descongelar-se</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="intr" before="the snow">to melt</eng>
-      <cat class="v" grammar="intr_pron" after="la neu">desfer-se</cat>
-      <cat class="v" grammar="intr_pron" after="la neu">fondre's</cat>
+    <e src="" type="word" area="meteorologia" done="yes">
+      <eng class="v" grammar="intr" before="snow">to melt</eng>
+      <cat class="v" grammar="intr_pron" before="la neu">desfer-se</cat>
+      <cat class="v" grammar="intr_pron" before="la neu">fondre's</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to menace</eng>
@@ -3145,7 +3152,7 @@
       <cat class="v" grammar="intr">incrementar</cat>
       <cat class="v" grammar="intr">fer-se més gran</cat>
     </e>
-    <e area="esports" src="" type="word" done="yes" remark="En gimnàstica.">
+    <e area="gimnàstica" src="" type="word" done="yes">
       <eng class="v" grammar="intr">to mount</eng>
       <cat class="v" grammar="intr">entrar</cat>
     </e>
@@ -3209,7 +3216,7 @@
       <cat class="v" grammar="tr">moure</cat>
       <cat class="v" grammar="tr">jugar</cat>
     </e>
-    <e area="esports" src="" type="word" done="yes" remark="En gimnàstica.">
+    <e area="gimnàstica" src="" type="word" done="yes">
       <eng class="v" grammar="intr">to move</eng>
       <eng class="v" grammar="intr">to pass</eng>
       <eng class="v" grammar="intr">to swing</eng>
@@ -3305,6 +3312,10 @@
       <eng class="v" grammar="tr">to multiply</eng>
       <eng class="v" grammar="tr">to manifold</eng>
       <cat class="v" grammar="tr">multiplicar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to manifold</eng>
+      <cat class="v" grammar="tr">multicopiar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to multiply</eng>
@@ -4428,6 +4439,11 @@
       <cat class="v" grammar="tr">amanyagar</cat>
       <cat class="v" grammar="tr">contemplar</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="tr">to indulge</eng>
+      <cat class="v" grammar="tr">consentir</cat>
+      <cat class="v" grammar="tr">contemplar</cat>
+    </e>
     <e src="" done="yes" type="word">
       <eng class="v" grammar="tr" tags="UK informal">to featherbed</eng>
       <cat class="v" grammar="tr">afavorir</cat>
@@ -4620,10 +4636,15 @@
       <eng class="v" grammar="intr">to travel by</eng>
       <cat class="v" grammar="intr" after="per algun lloc">passar</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" after="a test">to pass</eng>
-      <eng class="v" grammar="tr">to get a pass</eng>
-      <cat class="v" grammar="tr" after="un examen">aprovar</cat>
+    <e src="" type="word" done="yes" area="ensenyament">
+      <eng class="v" grammar="tr">to pass</eng>
+      <cat class="v" grammar="tr">aprovar</cat>
+      <example sent_eng="to pass a test" sent_cat="aprovar un examen" />
+    </e>
+    <e src="" type="word" done="yes" area="dret política">
+      <eng class="v" grammar="tr">to pass</eng>
+      <cat class="v" grammar="tr">aprovar</cat>
+      <example sent_eng="to pass a law" sent_cat="aprovar una llei" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to pass</eng>
@@ -6417,8 +6438,8 @@
       <cat class="v" grammar="tr">arrugar</cat>
       <cat class="v" grammar="tr">xafar</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="intr" before="a vehicle">to pull in</eng>
+    <e src="" type="word" area="transports" done="yes">
+      <eng class="v" grammar="intr">to pull in</eng>
       <eng class="v" grammar="intr">to get in</eng>
       <eng class="v" grammar="intr">to move in</eng>
       <eng class="v" grammar="intr" after="into a place, a station">to draw</eng>
@@ -7038,16 +7059,6 @@
       <cat class="v" grammar="intr" after="a una cosa/un lloc">estar tocant</cat>
       <cat class="v" grammar="tr">tocar</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr">to reach</eng>
-      <eng class="v" grammar="intr" after="to a place">to make it</eng>
-      <eng class="v" grammar="tr">to attain</eng>
-      <eng class="v" grammar="tr">to hit</eng>
-      <eng class="v" grammar="intr" after="at a place">to arrive</eng>
-      <eng class="v" grammar="tr">to gain</eng>
-      <cat class="v" grammar="intr" after="a un lloc">arribar</cat>
-      <cat class="v" grammar="tr">assolir</cat>
-    </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="intr" after="to something/someone">to react</eng>
       <eng class="v" grammar="intr" after="to something/someone">to respond</eng>
@@ -7612,10 +7623,6 @@
       <eng class="v" grammar="tr">to treat</eng>
       <cat class="v" grammar="tr">atendre</cat>
       <cat class="v" grammar="tr">complimentar</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr">to regard</eng>
-      <cat class="v" grammar="tr">mirar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to regenerate</eng>
@@ -8683,7 +8690,7 @@
       <cat class="v" grammar="tr">capgirar</cat>
       <cat class="v" grammar="tr">invertir</cat>
     </e>
-    <e area="esports" src="" type="word" done="yes" remark="En gimnàstica.">
+    <e area="gimnàstica" src="" type="word" done="yes">
       <eng class="v" grammar="tr">to reverse</eng>
       <cat class="v" grammar="tr">invertir</cat>
     </e>
@@ -8791,7 +8798,6 @@
       <eng class="v" grammar="tr" after="a horse">to ride</eng>
       <cat class="v" grammar="intr" after="a cavall">anar</cat>
       <cat class="v" grammar="intr" after="a cavall">muntar</cat>
-      <cat class="v" grammar="intr">muntar</cat>
       <cat class="v" grammar="intr">cavalcar</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -14060,14 +14066,6 @@
       <cat class="v" grammar="tr" after="algú per alguna cosa">regraciar</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="intr">to thaw</eng>
-      <cat class="v" grammar="intr_pron">desglaçar-se</cat>
-      <cat class="v" grammar="intr_pron">desgelar-se</cat>
-      <cat class="v" grammar="intr_pron">fondre's</cat>
-      <cat class="v" grammar="intr">fondre</cat>
-      <cat class="v" grammar="intr_pron">descongelar-se</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" after="the fridge, the freezer">to defrost</eng>
       <cat class="v" grammar="tr" after="la nevera, el congelador">descongelar</cat>
     </e>
@@ -14080,11 +14078,11 @@
       <cat class="v" grammar="tr">descongelar</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="intr" after="about someone or something">to think</eng>
-      <eng class="v" grammar="intr" after="of someone or something">to think</eng>
+      <eng class="v" grammar="intr" after="about something">to think</eng>
+      <eng class="v" grammar="intr" after="of something">to think</eng>
       <cat class="v" grammar="intr" after="a + infinitiu">pensar</cat>
       <cat class="v" grammar="intr" after="de + infinitiu">pensar</cat>
-      <cat class="v" grammar="intr" after="en algú o alguna cosa">pensar</cat>
+      <cat class="v" grammar="intr" after="en alguna cosa">pensar</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="To think that something or someone is in a certain way." def_cat="Pensar que una cosa o algú és d'una manera determinada.">
       <eng class="v" grammar="intr" after="of something as something">to think</eng>
@@ -15107,7 +15105,7 @@
       <eng class="v" grammar="intr">to turn</eng>
       <cat class="v" grammar="intr">doblar</cat>
     </e>
-    <e area="esports" src="" type="word" done="yes" def_cat="En gimnàstica.">
+    <e area="gimnàstica" src="" type="word" done="yes">
       <eng class="v" grammar="intr">to turn</eng>
       <cat class="v" grammar="intr">voltar</cat>
     </e>
@@ -15653,11 +15651,6 @@
       <cat class="v" grammar="tr">introduir</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="v" grammar="tr">to utter</eng>
-      <cat class="v" grammar="tr">dir</cat>
-      <cat class="v" grammar="tr">pronunciar</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to misappropriate</eng>
       <eng class="v" grammar="tr">to wrest</eng>
       <eng class="v" grammar="tr">to usurp</eng>
@@ -15780,14 +15773,6 @@
     <e area="audiovisuals" src="" type="word" done="yes">
       <eng class="v" grammar="tr">to view</eng>
       <cat class="v" grammar="tr">visionar</cat>
-    </e>
-    <e done="yes" src="" type="word" def_eng="To disregard a rule, a law." def_cat="Incomplir una norma, una llei.">
-      <eng class="v" grammar="tr">to break</eng>
-      <eng class="v" grammar="intr" after="against a rule">to go</eng>
-      <eng class="v" grammar="tr">to violate</eng>
-      <cat class="v" grammar="tr">trencar</cat>
-      <cat class="v" grammar="tr">violar</cat>
-      <cat class="v" grammar="tr">vulnerar</cat>
     </e>
     <e done="yes" src="" type="word" def_cat="No respectar els drets d'algú.">
       <eng class="v" grammar="tr">to infringe</eng>
@@ -16747,6 +16732,17 @@
       <cat class="v" grammar="intr_pron">efectuar-se</cat>
       <cat class="v" grammar="intr">tenir lloc</cat>
       <cat class="v" grammar="intr_pron">desenvolupar-se</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="v" grammar="tr">to break</eng>
+      <eng class="v" grammar="tr">to violate</eng>
+      <eng class="v" grammar="tr">to disregard</eng>
+      <cat class="v" grammar="tr">infringir</cat>
+      <cat class="v" grammar="tr">violar</cat>
+      <cat class="v" grammar="tr">incomplir</cat>
+      <cat class="v" grammar="tr">vulnerar</cat>
+      <cat class="v" grammar="tr">trencar</cat>
+      <example sent_eng="to break the law" sent_cat="incomplir la llei" />
     </e>
   </entries>
 </root>

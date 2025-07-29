@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
-    <e src="" type="word" done="yes">
-      <eng class="n">spaceflight</eng>
-      <eng class="n">space travel</eng>
-      <cat class="m">viatge espacial</cat>
-      <cat class="m">vol espacial</cat>
-    </e>
     <e area="telecomunicacions" done="yes" src="" type="word">
       <eng class="n">radio station</eng>
       <eng class="n">station</eng>
@@ -34,6 +28,12 @@
       <eng class="n">postfix</eng>
       <cat class="m">sufix</cat>
     </e>
+    <e src="" type="word" done="yes" area="lingüística">
+      <eng class="n">syllabication</eng>
+      <eng class="n">syllabification</eng>
+      <eng class="n">syllable division</eng>
+      <cat class="f">divisió sil·làbica</cat>
+    </e>
     <e src="" type="word" done="yes">
       <eng class="n">termite nest</eng>
       <cat class="m">termiter</cat>
@@ -56,14 +56,6 @@
       <cat class="mp">avatars</cat>
       <cat class="mp">vaivens</cat>
       <cat class="mp">alts i baixos</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="n">whippersnapper</eng>
-      <eng class="n">jackanapes</eng>
-      <eng class="n">lightweight</eng>
-      <cat class="m">fantotxe</cat>
-      <cat class="m">mamarratxo</cat>
-      <cat class="m">taral·lirot</cat>
     </e>
     </entries>
 </root>

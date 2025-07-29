@@ -18,7 +18,7 @@
     <e done="yes" src="" type="word">
       <eng class="ij">welcome home</eng>
       <eng class="ij">welcome back</eng>
-      <cat class="ij">ben tornat</cat>
+      <cat class="ij" feminine="ben tornada">ben tornat</cat>
       <cat class="ij" feminine="benvinguda a casa">benvingut a casa</cat>
       <cat class="ij">hola una altra vegada</cat>
     </e>
@@ -100,8 +100,9 @@
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">good riddance to bad rubbish</eng>
-      <cat class="expr">bon vent, bon vent i foc al cul</cat>
-      <cat class="expr">a la merda</cat>
+      <cat class="expr">bon vent</cat>
+      <cat class="expr">bon vent i foc al cul</cat>
+      <cat class="expr" tags="vulgar">a la merda</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij">hooray</eng>
@@ -140,8 +141,9 @@
       <eng class="ij">yes and no</eng>
       <cat class="ij">sí i no</cat>
     </e>
-    <e src="" type="word" done="yes">
+    <e done="yes" src="" type="word">
       <eng class="ij">yes</eng>
+      <eng class="ij">aye</eng>
       <eng class="ij" tags="argot">yeah</eng>
       <eng class="ij" tags="argot">yep</eng>
       <eng class="ij" tags="argot">uh-huh</eng>
@@ -170,12 +172,6 @@
       <cat class="ij">monstruós</cat>
       <cat class="ij">quin desastre</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="ij">see you later</eng>
-      <cat class="ij">fins després</cat>
-      <cat class="ij">fins ara</cat>
-      <cat class="ij">ja ens veurem</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="ij">watch me!</eng>
       <eng class="ij">just watch me!</eng>
@@ -198,6 +194,7 @@
       <eng class="ij">bye-bye</eng>
       <eng class="ij">bye bye</eng>
       <eng class="ij">farewell</eng>
+      <eng class="ij">see you later</eng>
       <eng class="ij" tags="UK informal">cheerio</eng>
       <eng class="ij" tags="rare">good-by</eng>
       <eng class="ij" tags="rare">goodby</eng>
@@ -205,13 +202,25 @@
       <eng class="ij" tags="informal">so long</eng>
       <eng class="ij" tags="UK">tata</eng>
       <eng class="ij" tags="UK">ta-ta</eng>
+      <eng class="ij">later</eng>
       <cat class="ij">adeu</cat>
       <cat class="ij">adeu-siau</cat>
       <cat class="ij">a reveure</cat>
       <cat class="ij">fins ara</cat>
       <cat class="ij">fins aviat</cat>
       <cat class="ij">fins després</cat>
+      <cat class="ij">ja ens veurem</cat>
       <cat class="ij" tags="col·loquial valencià">au</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">ha!</eng>
+      <cat class="ij">ha!</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">ha, ha, ha!</eng>
+      <eng class="ij">ha! ha! ha!</eng>
+      <cat class="ij">ha, ha, ha!</cat>
+      <cat class="ij">ha! ha! ha!</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij" tags="vulgar">holy crap</eng>

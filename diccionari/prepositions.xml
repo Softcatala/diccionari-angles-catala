@@ -359,11 +359,13 @@
     <e src="" type="word" done="yes" remark="Amb verbs de moviment.">
       <eng class="prep">to</eng>
       <eng class="prep">into</eng>
+      <eng class="prep" tags="UK">down</eng>
       <cat class="prep">a</cat>
       <example sent_cat="Vaig a Tortosa." sent_eng="I'm going to Tortosa." />
       <example sent_cat="No entris a la nostra habitació." sent_eng="Do not come into our room." />
+      <example sent_eng="I'm going down the shop." sent_cat="Vaig a la botiga." />
     </e>
-    <e src="" type="word" done="yes" remark="Amb verbs de moviment.">
+    <e src="" type="word" done="yes">
       <eng class="prep">into</eng>
       <cat class="prep">dins</cat>
       <cat class="prep">dintre</cat>
@@ -842,7 +844,7 @@
       <cat class="prep">en</cat>
       <cat class="prep">per</cat>
       <example sent_eng="By pressing down this special key, you will hear a melody." sent_cat="En prémer aquesta tecla especial, sentiràs una melodia." />
-      <example sent_eng="By doing this, you will get a reward." sent_cat="Us donaran una recompensa per haver fet això." />
+      <example sent_eng="By doing this, you will get an award." sent_cat="Us donaran un premi per haver fet això." />
     </e>
     <e src="" type="word" done="yes" remark="Indica el mitjà, la forma o la manera.">
       <eng class="prep">by</eng>
@@ -882,16 +884,12 @@
       <cat class="prep">per davant de</cat>
       <cat class="prep">prop de</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="prep">by oneself</eng>
-      <cat class="prep" feminine="una mateixa">per un mateix</cat>
-      <cat class="prep" feminine="tota sola">tot sol</cat>
-      <example sent_eng="Did you do this by yourself?" sent_cat="Ho has fet tu tot sol?" />
-    </e>
-    <e src="" type="word" done="yes" def_eng="according to">
+    <e done="yes" src="" type="word">
       <eng class="prep">by</eng>
+      <eng class="prep">in accordance with</eng>
       <cat class="prep">segons</cat>
       <cat class="prep">d'acord amb</cat>
+      <cat class="prep">conforme a</cat>
       <example sent_eng="By law." sent_cat="Segons la llei." />
     </e>
     <e src="" type="word" done="yes" def_eng="time at or before">
@@ -900,7 +898,7 @@
       <cat class="prep">abans de</cat>
       <cat class="prep">no més tard que</cat>
       <cat class="prep">no més tard de</cat>
-      <cat class="prep">quan</cat>
+      <cat class="conj">quan</cat>
       <cat class="prep">cap a</cat>
       <example sent_eng="She will be back by seven." sent_cat="Tornarà cap a les set." />
       <example sent_eng="Mom will have sent you a letter by May." sent_cat="La mama t'enviarà una carta abans del mes de maig." />
@@ -974,11 +972,6 @@
       <eng class="prep">down</eng>
       <cat class="prep">per</cat>
       <example sent_eng="She was walking down the street." sent_cat="Caminava pel carrer." />
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="prep" tags="UK">down</eng>
-      <cat class="prep">a</cat>
-      <example sent_eng="I'm going down the shop." sent_cat="Vaig a la botiga." />
     </e>
     <e done="yes" src="" type="word" remark="Indica el moment en què comença quelcom.">
       <eng class="prep">from</eng>
@@ -1203,6 +1196,12 @@
       <eng class="prep">like</eng>
       <cat class="adv">com</cat>
       <example sent_eng="This is for people like you." sent_cat="Això és per a gent com tu." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="prep">like</eng>
+      <eng class="prep">such as</eng>
+      <cat class="adv">com</cat>
+      <cat class="adv">com ara</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="prep">like</eng>

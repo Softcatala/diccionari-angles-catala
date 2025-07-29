@@ -6,11 +6,6 @@
       <eng class="n">Noucentisme movement</eng>
       <cat class="m">noucentisme</cat>
     </e>
-    <e src="" type="word" area="lingüística" done="yes">
-      <eng class="n">d</eng>
-      <cat class="f">d</cat>
-      <cat class="f">de</cat>
-    </e>
     <e area="numismàtica" src="" type="word" done="yes">
       <eng class="n">North Korean won</eng>
       <eng class="n">won</eng>
@@ -229,12 +224,6 @@
       <cat class="f">figura de vuit</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">elder</eng>
-      <eng class="n" tags="US">senior</eng>
-      <eng class="n">senior citizen</eng>
-      <cat class="f">persona gran</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="n">elected</eng>
       <cat class="m" feminine="elegida">elegit</cat>
     </e>
@@ -275,7 +264,7 @@
       <eng class="n">elevated railroad</eng>
       <eng class="n">elevated train</eng>
       <eng class="n">elevated</eng>
-      <eng class="n" tags="abbreviation">el</eng>
+      <eng class="n" tags="US">el</eng>
       <eng class="n">overhead railway</eng>
       <cat class="m">ferrocarril elevat</cat>
       <cat class="m">tren elevat</cat>
@@ -499,10 +488,9 @@
       <cat class="m">engrandiment</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n" tags="French">entrée</eng>
-      <eng class="n">entree</eng>
       <eng class="n">access</eng>
       <eng class="n">accession</eng>
+      <eng class="n">entrée</eng>
       <eng class="n">admission</eng>
       <eng class="n">admittance</eng>
       <cat class="f">acceptació</cat>
@@ -592,11 +580,6 @@
       <cat class="f">era</cat>
       <cat class="f">generació</cat>
       <cat class="f">època</cat>
-    </e>
-    <e area="geologia" done="yes" src="" type="word">
-      <eng class="n">era</eng>
-      <eng class="n">geological era</eng>
-      <cat class="f">era</cat>
     </e>
     <e area="geologia" done="yes" src="" type="word">
       <eng class="n">epoch</eng>
@@ -1383,19 +1366,23 @@
       <eng class="n">farmhouse</eng>
       <eng class="n" tags="US">ranch</eng>
       <cat class="f">granja</cat>
+      <cat class="f">explotació ramadera</cat>
+      <cat class="f">explotació agropecuària</cat>
     </e>
-    <e area="agricultura ramaderia" done="yes" src="" type="word">
+    <e area="ramaderia" done="yes" src="" type="word">
       <eng class="n">farm</eng>
       <eng class="n" tags="US">ranch</eng>
-      <eng class="n">farming</eng>
       <cat class="f">granja</cat>
-      <cat class="f">explotació agropecuària</cat>
+    </e>
+    <e area="ramaderia" done="yes" src="" type="word">
+      <eng class="n">farming</eng>
       <cat class="f">explotació ramadera</cat>
-      <cat class="f">explotació agrària</cat>
+      <cat class="f">explotació agropecuària</cat>
     </e>
     <e area="agricultura" done="yes" src="" type="word">
       <eng class="n">farm</eng>
       <cat class="f">plantació</cat>
+      <cat class="f">explotació agrària</cat>
     </e>
     <e done="yes" src="" type="word" def_cat="Estil passatger que dicta la manera la manera de viure, vestir-se, etc.">
       <eng class="n">fashion</eng>
@@ -1912,7 +1899,7 @@
       <cat class="m">formulari</cat>
       <cat class="m">imprès</cat>
     </e>
-    <e done="yes" src="" area="esport medicina" type="word">
+    <e done="yes" src="" area="esports medicina" type="word">
       <eng class="n">physical condition</eng>
       <eng class="n">form</eng>
       <eng class="n">shape</eng>
@@ -1942,12 +1929,6 @@
       <eng class="n">signifier</eng>
       <eng class="n">descriptor</eng>
       <cat class="f">forma</cat>
-    </e>
-    <e done="yes" src="" def_eng="Show without substance, only appearance." def_cat="Demostració sense substància, només aparences." type="word">
-      <eng class="n">form</eng>
-      <eng class="n">formality</eng>
-      <cat class="f">educació</cat>
-      <cat class="f">cortesia</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">form</eng>
@@ -2185,6 +2166,7 @@
       <cat class="m">davant</cat>
       <cat class="m">front</cat>
       <cat class="m">frontal</cat>
+      <cat class="m" tags="col·loquial">morro</cat>
     </e>
     <e done="yes" src="" area="fusteria" type="word">
       <eng class="n">front</eng>
@@ -2283,13 +2265,13 @@
       <cat class="mp">possibles</cat>
       <cat class="mp">recursos</cat>
     </e>
-    <e done="yes" src="" area="lingüística" type="word">
+    <e done="yes" src="" type="word">
       <eng class="n">fun</eng>
       <eng class="n">play</eng>
       <eng class="n">sport</eng>
       <cat class="f">befa</cat>
       <cat class="f">broma</cat>
-      <cat class="f">conya</cat>
+      <cat class="f" tags="col·loquial">conya</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">future</eng>
@@ -2731,10 +2713,6 @@
     <e done="yes" src="" area="electricitat_i_electrònica" type="word">
       <eng class="n">ground</eng>
       <cat class="f">massa</cat>
-    </e>
-    <e done="yes" src="" area="geologia" type="word">
-      <eng class="n">ground</eng>
-      <cat class="m">sòl</cat>
     </e>
     <e done="yes" src="" area="esports" type="word">
       <eng class="n" remark="fencing">pool</eng>
@@ -3350,13 +3328,6 @@
       <cat class="f">arrel</cat>
       <cat class="m">cor</cat>
       <cat class="m">moll de l'os</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">bosom</eng>
-      <eng class="n">heart</eng>
-      <cat class="f">ànima</cat>
-      <cat class="m">cor</cat>
-      <cat class="m">si</cat>
     </e>
     <e done="yes" src="" def_eng="Inclination or tendency of a certain kind." def_cat="Inclinació o tendència." type="word">
       <eng class="n">heart</eng>

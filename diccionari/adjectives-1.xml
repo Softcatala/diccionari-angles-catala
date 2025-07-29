@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e done="yes" src="" type="word">
+      <eng class="adj">cracker-barrel</eng>
+      <eng class="adj">folksy</eng>
+      <eng class="adj">homespun</eng>
+      <cat class="adj" feminine="planera">planer</cat>
+      <cat class="adj">popular</cat>
+      <cat class="adj" feminine="senzilla">senzill</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">so many</eng>
+      <cat class="adj" feminine="tantes">tants</cat>
+      <example sent_eng="There were so many bikes." sent_cat="Hi havia tantes bicis." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">so much</eng>
+      <cat class="adj" feminine="tanta">tant</cat>
+      <example sent_eng="I didn't know there was so much water." sent_cat="No sabia que hi havia tanta aigua." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">as many</eng>
+      <cat class="adj" feminine="tantes">tants</cat>
+      <example sent_eng="I don't have as many books as you." sent_cat="No tinc tants llibres com tu." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">as much</eng>
+      <cat class="adj" feminine="tanta">tant</cat>
+      <example sent_eng="He had lost as much blood as her." sent_cat="Havia perdut tant sang com ella." />
+    </e>
     <e area="esports" done="yes" src="" type="word">
       <eng class="adj">bye</eng>
       <cat class="adj" feminine="exempta">exempt</cat>
@@ -30,6 +58,13 @@
       <cat class="adj" feminine="repartida">repartit</cat>
       <cat class="adj" feminine="segmentada">segmentat</cat>
     </e>
+    <e done="yes" src="" area="biologia genealogia" type="word">
+      <eng class="adj">firstborn</eng>
+      <eng class="adj">eldest</eng>
+      <cat class="adj">gran</cat>
+      <cat class="adj">més gran</cat>
+      <cat class="adj" feminine="primogènita">primogènit</cat>
+    </e>
     <e done="yes" src="" type="word">
       <eng class="adj">hissing</eng>
       <cat class="adj">xiuxiuejant</cat>
@@ -48,10 +83,35 @@
       <cat class="adv">inclusivament</cat>
       <example sent_eng="The shop will close until October 2nd included." sent_cat="La botiga romandrà tancada fins al 2 d'octubre inclusivament." />
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">macroscopic</eng>
+      <eng class="adj">macroscopical</eng>
+      <cat class="adj" feminine="macroscòpica">macroscòpic</cat>
+    </e>
     <e area="medicina" done="yes" src="" type="word" oldarea="ciències de la salut">
       <eng class="adj">nonresponder</eng>
       <eng class="adj">non-responder</eng>
       <cat class="adj" feminine="no responsiva">no responsiu</cat>
+    </e>
+    <e done="yes" src="" area="botànica" type="word">
+      <eng class="adj">overripe</eng>
+      <cat class="adj" feminine="pansida">pansit</cat>
+      <cat class="adj" feminine="emmusteïda">emmusteït</cat>
+      <cat class="adj" feminine="sema">sem</cat>
+      <cat class="adj" feminine="semada">semat</cat>
+      <cat class="adj" feminine="passada">passat</cat>
+    </e>
+    <e done="yes" src="" def_eng="Occurring in the past." def_cat="Que ha ocorregut en el passat." type="word">
+      <eng class="adj">past</eng>
+      <cat class="adj" feminine="passada">passat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">putrid</eng>
+      <cat class="adj" feminine="corrompuda">corromput</cat>
+      <cat class="adj" feminine="descomposta">descompost</cat>
+      <cat class="adj" feminine="passada">passat</cat>
+      <cat class="adj" feminine="podrida">podrit</cat>
+      <cat class="adj" feminine="putrefacta">putrefacte</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">shared</eng>
@@ -75,6 +135,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adj">such</eng>
+      <eng class="adj">like this</eng>
+      <eng class="adj">like that</eng>
       <cat class="adj" feminine="tanta">tant</cat>
       <cat class="adj">tal</cat>
       <cat class="adj">d'aquesta mena</cat>
@@ -85,12 +147,12 @@
       <example sent_eng="Do you really believe you can write such a book?" sent_cat="De debò creus que pots escriure un llibre semblant?" />
       <example sent_eng="Such wisdom is only found in the old classics." sent_cat="Tal saviesa només la trobem en els clàssics antics." />
       <example sent_eng="Such a bike would be very expensive." sent_cat="Una bici d'aquesta mena seria molt cara." />
+      <example sent_eng="Had you ever seen something like that?" sent_cat="Havies vist mai res semblant?" />
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adj">like this</eng>
       <eng class="adj">like that</eng>
       <cat class="adv">així</cat>
-      <cat class="adj">semblant</cat>
-      <example sent_eng="Had you ever seen something like that?" sent_cat="Havies vist mai res semblant?" />
       <example sent_eng="Seeing a forest like that makes me sad." sent_cat="M'entristeix veure un bosc així." />
     </e>
     <e src="" type="word" done="yes">
@@ -99,6 +161,11 @@
       <cat class="adj" feminine="quin">quin</cat>
       <example sent_eng="Such strength!" sent_cat="Quanta força!" />
       <example sent_eng="Such display of power!" sent_cat="Quina mostra de poder!" />
+    </e>
+    <e done="yes" src="" area="alimentació" type="word">
+      <eng class="adj">well-done</eng>
+      <cat class="adj" feminine="molt feta">molt fet</cat>
+      <cat class="adj" feminine="passada">passat</cat>
     </e>
     </entries>
 </root>

@@ -128,6 +128,18 @@
       <eng class="n">Galapagos martin</eng>
       <cat class="f">oreneta de les Galápagos</cat>
     </e>
+    <e src="" type="word" area="llengües" done="yes">
+      <eng class="n">Ha</eng>
+      <eng class="n">Gha</eng>
+      <eng class="n">Igiha</eng>
+      <eng class="n">Ikiha</eng>
+      <eng class="n">Kiha</eng>
+      <cat class="m">ha</cat>
+      <cat class="m">giha</cat>
+      <cat class="m">igiha</cat>
+      <cat class="m">ikiha</cat>
+      <cat class="m">kiha</cat>
+    </e>
     <e src="" type="word" area="ornitologia" done="yes">
       <eng class="n">Madagascar plain martin</eng>
       <cat class="f">oreneta de ribera de Madagascar</cat>
@@ -296,6 +308,14 @@
       <eng class="n">Northern house martin</eng>
       <cat class="f">oreneta cuablanca comuna</cat>
       <cat class="f">oreneta cuablanca</cat>
+    </e>
+    <e src="" type="word" area="política" done="yes">
+      <eng class="n">counter-terrorism</eng>
+      <eng class="n" tags="abbreviation">CT</eng>
+      <eng class="n">fight against terrorism</eng>
+      <cat class="m">contraterrorisme</cat>
+      <cat class="m">antiterrorisme</cat>
+      <cat class="f">lluita contra el terrorisme</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">pivotal line</eng>
@@ -497,6 +517,12 @@
       <eng class="n">triple double</eng>
       <eng class="n">triple-double</eng>
       <cat class="m">triple doble</cat>
+    </e>
+    <e done="yes" src="" area="física" type="word">
+      <eng class="n">universal time</eng>
+      <eng class="n" tags="acronym">UT</eng>
+      <cat class="m">temps universal</cat>
+      <cat class="m" tags="sigla">TU</cat>
     </e>
     <e src="" type="word" area="botànica" done="yes">
       <eng class="n">wild raspberry glade</eng>
