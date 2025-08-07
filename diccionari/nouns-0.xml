@@ -1,6 +1,240 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" done="yes">
+      <eng class="n">hardball</eng>
+      <cat class="fp">males maneres</cat>
+      <cat class="f">línia dura</cat>
+      <example sent_eng="Their hardball tactics worked." sent_cat="La seva tàctica de línia dura va funcionar." />
+      <example sent_eng="They are playing hardball in the negotiations." sent_cat="Fan servir males maneres en les negociacions." />
+    </e>
+    <e src="" done="yes">
+      <eng class="n">hardball</eng>
+      <cat class="m">joc brut</cat>
+      <example sent_eng="He's known for playing political hardball." sent_cat="És conegut per fer joc brut en política." />
+    </e>
+    <e src="" type="word" area="economia empresa" done="yes">
+      <eng class="n">price taker</eng>
+      <eng class="n">pricetaker</eng>
+      <cat class="mf">preuacceptant</cat>
+    </e>
+    <e src="" type="word" area="economia empresa" done="yes">
+      <eng class="n">price maker</eng>
+      <cat class="m">líder de preus</cat>
+    </e>
+    <e area="rellotgeria" done="yes" src="" type="word">
+      <eng class="n">hourglass</eng>
+      <eng class="n">sandglass</eng>
+      <cat class="m">rellotge d'arena</cat>
+      <cat class="f">ampolleta</cat>
+      <cat class="f">ampolleta d'hores</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">autopilot</eng>
+      <cat class="m">pilot automàtic</cat>
+    </e>
+    <e src="" type="word" done="yes" area="psicologia  psiquiatria">
+      <eng class="n">high-functioning autism</eng>
+      <cat class="m">autisme d'alta funcionalitat</cat>
+      <cat class="m" tags="col·loquial">autisme lleu</cat>
+    </e>
+    <e src="" type="word" area="psicologia psiquiatria" done="yes">
+      <eng class="n">autism</eng>
+      <eng class="n">autism spectrum disorder</eng>
+      <eng class="n">ASD</eng>
+      <cat class="m">autisme</cat>
+      <cat class="m">trastorn de l'espectre autista</cat>
+      <cat class="m">TEA</cat>
+    </e>
+    <e src="" type="word" area="psicologia psiquiatria" done="yes">
+      <eng class="n">autistic</eng>
+      <cat class="mf">autista</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">bunghole</eng>
+      <cat class="f">bonda</cat>
+      <cat class="m">boló</cat>
+      <cat class="m">bonó</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n" tags="vulgar">asshole</eng>
+      <eng class="n" tags="vulgar">butthole</eng>
+      <eng class="n" tags="vulgar">bunghole</eng>
+      <eng class="n" tags="vulgar">shithole</eng>
+      <cat class="m">forat del cul</cat>
+      <cat class="m" tags="vulgar">florí</cat>
+      <cat class="m" tags="vulgar">floriol</cat>
+      <cat class="m" tags="vulgar">fogó</cat>
+      <cat class="m" tags="vulgar">ullera</cat>
+      <cat class="m" tags="vulgar">furó</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" tags="vulgar">shithole locality</eng>
+      <cat class="f">cofurna</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n" tags="vulgar">shithole</eng>
+      <cat class="m" tags="figurat">femer</cat>
+      <cat class="f" tags="figurat">porquera</cat>
+      <cat class="f" tags="figurat">cort de porcs</cat>
+    </e>
+    <e src="" done="yes" area="lingüística">
+      <eng class="n">hyperonymy</eng>
+      <eng class="n">superordination</eng>
+      <cat class="f">hiperonímia</cat>
+      <cat class="f">superordinació</cat>
+    </e>
+    <e src="" done="yes" area="lingüística">
+      <eng class="n">hyperonym</eng>
+      <eng class="n">superordinate</eng>
+      <cat class="m">hiperònim</cat>
+      <cat class="m">superordinat</cat>
+    </e>
+    <e src="" type="word" area="lingüística" done="yes">
+      <eng class="n">cohyponym</eng>
+      <cat class="m">cohipònim</cat>
+    </e>
+    <e src="" type="word" area="lingüística" done="yes">
+      <eng class="n">cohyponymy</eng>
+      <cat class="f">cohiponímia</cat>
+    </e>
+    <e src="" type="word" area="lingüística" done="yes">
+      <eng class="n">hyponym</eng>
+      <cat class="m">hipònim</cat>
+    </e>
+    <e area="lingüística" done="yes" src="" type="word">
+      <eng class="n">hypotaxis</eng>
+      <eng class="n">subordination</eng>
+      <cat class="f">subordinació</cat>
+      <cat class="f">hipotaxi</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">fait accompli</eng>
+      <cat class="m">fet consumat</cat>
+    </e>
+    <e src="" type="word" area="jocs" done="yes">
+      <eng class="n">shell game</eng>
+      <eng class="n">thimblerig</eng>
+      <cat class="m">joc de triler</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">unexpected move</eng>
+      <cat class="m">cop de teatre</cat>
+      <cat class="m">colp de teatre</cat>
+    </e>
+    <e src="" done="yes" area="empresa finances">
+      <eng class="n">capital expenditure</eng>
+      <eng class="n">capital expense</eng>
+      <eng class="n" tags="acronym">CAPEX</eng>
+      <eng class="n" tags="acronym">capex</eng>
+      <cat class="f">despesa de capital</cat>
+    </e>
+    <e src="" done="yes" area="empresa finances">
+      <eng class="n">operating expense</eng>
+      <eng class="n" tags="acronym">OPEX</eng>
+      <eng class="n" tags="acronym">opex</eng>
+      <cat class="f">despesa d'explotació</cat>
+      <cat class="f">despesa operativa</cat>
+    </e>
+    <e src="" done="yes" area="política">
+      <eng class="n">term limit</eng>
+      <cat class="m">límit de mandats</cat>
+      <cat class="f">limitació de mandats</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">yeoman</eng>
+      <cat class="m">terratinent</cat>
+      <cat class="m">propietari rural</cat>
+      <cat class="m">pagès ric</cat>
+    </e>
+    <e src="" type="word" done="yes" area="militar">
+      <eng class="n">yeoman</eng>
+      <cat class="m">soldat voluntari de cavalleria</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">yeoman's job</eng>
+      <eng class="n">yeoman work</eng>
+      <cat class="f">feina excel·lent</cat>
+      <cat class="f">feina exemplar</cat>
+      <cat class="f">gran feina</cat>
+    </e>
+    <e src="" type="word" done="yes" area="militar">
+      <eng class="n">yeomanry</eng>
+      <cat class="f">milícia de cavalleria</cat>
+    </e>
+    <e src="" done="yes" area="militar">
+      <eng class="n" tags="UK">yeoman of the guard</eng>
+      <eng class="n" tags="UK">yeoman</eng>
+      <cat class="m">guàrdia reial</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">mass tourism</eng>
+      <eng class="n">crowd tourism</eng>
+      <cat class="m">turisme de masses</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">overtourism</eng>
+      <cat class="m">sobreturisme</cat>
+    </e>
+    <e src="" done="yes" area="electricitat_i_electrònica">
+      <eng class="n">terminal block</eng>
+      <eng class="n">barrier strip</eng>
+      <eng class="n">connector strip</eng>
+      <eng class="n" tags="colloquial">chocolate block</eng>
+      <cat class="f">regleta de connexió</cat>
+      <cat class="f">regleta</cat>
+      <cat class="m">bloc de terminals</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">recessed light</eng>
+      <cat class="m">llum encastat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">recessed window</eng>
+      <cat class="f">finestra amb ampit interior</cat>
+    </e>
+    <e src="" type="word" area="sociologia" done="yes">
+      <eng class="n">gentrification</eng>
+      <cat class="f">gentrificació</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">high performer</eng>
+      <cat class="f">persona d'alt rendiment</cat>
+      <cat class="mf">professional excel·lent</cat>
+      <cat class="mf">professional de primer nivell</cat>
+      <cat class="f">persona molt productiva</cat>
+      <cat class="mf">fora de sèrie</cat>
+      <cat class="mf" tags="col·loquial">crac</cat>
+      <cat class="f" tags="col·loquial">màquina</cat>
+    </e>
+    <e done="yes" src="" type="word" area="indumentària">
+      <eng class="n">pasty</eng>
+      <cat class="m">tapamugrons</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">boom-and-bust</eng>
+      <cat class="mp">alts i baixos</cat>
+      <cat class="f">expansió i recessió</cat>
+      <cat class="m">auge i decadència</cat>
+      <cat class="fp">vaques grasses i vaques magres</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n_p">lean years</eng>
+      <eng class="n_p">hard times</eng>
+      <eng class="n_p">tough times</eng>
+      <eng class="n_p">difficult times</eng>
+      <cat class="mp">temps de vaques magres</cat>
+      <cat class="mp">temps difícils</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n_p">years of plenty</eng>
+      <eng class="n_p">boom times</eng>
+      <eng class="n_p">boom years</eng>
+      <eng class="n_p">good times</eng>
+      <eng class="n_p">prosperous times</eng>
+      <cat class="mp">temps de vaques grasses</cat>
+      <cat class="mp">bons temps</cat>
+    </e>
     <e src="" type="word" done="yes" area="geometria">
       <eng class="n">bisection</eng>
       <cat class="f">bisecció</cat>
@@ -218,6 +452,7 @@
     </e>
     <e src="" type="word" done="yes" area="literatura">
       <eng class="n">fairy tale</eng>
+      <eng class="n">fairy story</eng>
       <cat class="m">conte de fades</cat>
       <cat class="m">conte fantàstic</cat>
       <cat class="m">conte meravellós</cat>
@@ -10324,6 +10559,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">superhero</eng>
+      <eng class="n">superperson</eng>
       <cat class="m" feminine="superheroïna">superheroi</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -16754,6 +16990,21 @@
       <cat class="f">lliçó moral</cat>
       <cat class="m">conte moral</cat>
       <cat class="m">conte amb moralitat</cat>
+      <cat class="m">conte exemplar</cat>
+      <cat class="m">relat exemplar</cat>
+      <cat class="f">lliçó del que no s'ha de fer</cat>
+      <cat class="m">avís als navegants</cat>
+      <cat class="m">tro d'avís</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">cautionary tale</eng>
+      <cat class="m">cas paradigmàtic</cat>
+      <cat class="m">exemple il·lustratiu</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n">storm warning</eng>
+      <cat class="m">avís als navegants</cat>
+      <cat class="m">avís de tempesta</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">full-time</eng>
@@ -21003,6 +21254,7 @@
     <e src="" type="word" done="yes" area="jocs">
       <eng class="n">tabletop game</eng>
       <eng class="n">table game</eng>
+      <eng class="n">tabletop</eng>
       <cat class="m">joc de taula</cat>
     </e>
     <e src="" type="word" done="yes" area="jocs">
@@ -23225,6 +23477,9 @@
       <eng class="n">crony capitalism</eng>
       <cat class="m">capitalisme clientelar</cat>
       <cat class="m">capitalisme d'amiguets</cat>
+      <cat class="m">capitalisme nepotista</cat>
+      <cat class="m">capitalisme de col·legues</cat>
+      <cat class="m">capitalisme de col·legues</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">cronyism</eng>

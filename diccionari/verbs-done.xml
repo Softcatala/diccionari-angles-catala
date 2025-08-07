@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" done="yes">
+      <eng class="v" grammar="tr">to upset</eng>
+      <eng class="v" grammar="tr">to disorient</eng>
+      <eng class="v" grammar="tr">to discombobulate</eng>
+      <cat class="v" grammar="tr">confondre</cat>
+      <cat class="v" grammar="tr">desconcertar</cat>
+      <cat class="v" grammar="tr">desorientar</cat>
+      <cat class="v" grammar="tr">atabalar</cat>
+      <cat class="v" grammar="tr">destarotar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to discombobulate</eng>
+      <cat class="v" grammar="tr">deixar estupefacte</cat>
+      <cat class="v" grammar="tr">deixar perplex</cat>
+    </e>
+    <e src="" type="word" done="yes" area="informàtica">
+      <eng class="v" grammar="tr">to decompress</eng>
+      <cat class="v" grammar="tr">descomprimir</cat>
+    </e>
+    <e area="informàtica" src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to unpack</eng>
+      <cat class="v" grammar="tr">desempaquetar</cat>
+    </e>
+    <e src="" type="word" done="yes" area="tecnologia">
+      <eng class="v" grammar="tr" tags="US">to depressurize</eng>
+      <eng class="v" grammar="tr" tags="UK">to depressurise</eng>
+      <eng class="v" grammar="tr">to decompress</eng>
+      <cat class="v" grammar="tr">descomprimir</cat>
+      <cat class="v" grammar="tr">despressuritzar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to pressure</eng>
+      <eng class="v" grammar="tr" tags="UK">to pressurise</eng>
+      <eng class="v" grammar="tr" tags="US">to pressurize</eng>
+      <cat class="v" grammar="tr">pressionar</cat>
+    </e>
+    <e src="" type="word" area="tecnologia" done="yes">
+      <eng class="v" grammar="tr" tags="UK">to pressurise</eng>
+      <eng class="v" grammar="tr" tags="US">to pressurize</eng>
+      <eng class="v" grammar="tr">to pressure</eng>
+      <cat class="v" grammar="tr">pressuritzar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to molest</eng>
+      <cat class="v" grammar="tr">assetjar sexualment</cat>
+      <cat class="v" grammar="tr">agredir sexualment</cat>
+      <cat class="v" grammar="intr" after="de">abusar sexualment</cat>
+    </e>
+    <e src="" type="word" done="yes" area="informàtica">
+      <eng class="v" grammar="tr">to deprecate</eng>
+      <cat class="v" grammar="tr">assenyalar com a obsolet</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to deprecate</eng>
+      <cat class="v" grammar="tr">desaconsellar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="tr">to deprecate</eng>
+      <cat class="v" grammar="tr">desaprovar</cat>
+      <cat class="v" grammar="tr">recriminar</cat>
+    </e>
+    <e src="" done="yes" area="sociologia">
+      <eng class="v" grammar="intr">to gentrify</eng>
+      <cat class="v" grammar="intr_pron">gentrificar-se</cat>
+      <cat class="v" grammar="intr_pron">aburgesar-se</cat>
+    </e>
+    <e src="" done="yes" area="sociologia">
+      <eng class="v" grammar="tr">to gentrify</eng>
+      <cat class="v" grammar="tr">gentrificar</cat>
+      <cat class="v" grammar="tr">aburgesar</cat>
+    </e>
     <e area="informàtica" src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="US">to computerize</eng>
       <eng class="v" grammar="tr" tags="UK">to computerise</eng>
@@ -1299,6 +1370,7 @@
       <eng class="v" grammar="tr">to traduce</eng>
       <eng class="v" grammar="tr">to drag through the mud</eng>
       <cat class="v" grammar="tr">difamar</cat>
+      <cat class="v" grammar="tr">calumniar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to badmouth</eng>

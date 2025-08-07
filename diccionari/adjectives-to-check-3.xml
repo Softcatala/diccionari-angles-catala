@@ -858,6 +858,7 @@
       <cat class="adj" feminine="furibunda">furibund</cat>
       <cat class="adj" feminine="furiosa">furiós</cat>
       <cat class="adj" feminine="enrabiada">enrabiat</cat>
+      <cat class="adj" feminine="irada">irat</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">angry</eng>
@@ -1320,11 +1321,6 @@
       <cat class="adj" feminine="llevada">llevat</cat>
       <cat class="adj" feminine="alçada">alçat</cat>
       <example sent_eng="No one was astir at seven." sent_cat="A les set no s'havia llevat ningú." />
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">astonishing</eng>
-      <cat class="adj">molt sorprenent</cat>
-      <cat class="adj">sorprenent</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">astringent</eng>
@@ -7708,10 +7704,6 @@
     <e done="yes" src="" type="word">
       <eng class="adj">exciting</eng>
       <cat class="adj">excitant</cat>
-      <cat class="adj">emocionant</cat>
-      <cat class="adj">apassionant</cat>
-      <cat class="adj" feminine="engrescadora">engrescador</cat>
-      <cat class="adj">que desperta entusiasme</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">exclusive</eng>
@@ -13674,7 +13666,7 @@
     <e done="yes" src="" type="word">
       <eng class="adj">ordinary</eng>
       <cat class="adj" plural="qualssevol">qualsevol</cat>
-      <cat class="adj" plural="qualssevulla" tags="antic">qualsevulla</cat>
+      <cat class="adj" plural="qualssevulla" tags="formal">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adj">organic</eng>
@@ -14029,6 +14021,154 @@
     <e done="yes" src="" type="word">
       <eng class="adj">partisan</eng>
       <cat class="adj">parcial</cat>
+    </e>
+    <e area="colors" done="yes" src="">
+      <eng class="adj">partridge</eng>
+      <cat class="adj">perdiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">party-to-party</eng>
+      <cat class="adj">entre parts</cat>
+      <cat class="adj">bilateral</cat>
+      <example sent_eng="party-to-party agreement" sent_cat="acord entre parts" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passing</eng>
+      <cat class="adj" feminine="passatgera">passatger</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passing</eng>
+      <cat class="adj">de pas</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">passionate</eng>
+      <cat class="adj">sensible</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passionate</eng>
+      <cat class="adj">ardent</cat>
+      <cat class="adj">fervent</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">passionate</eng>
+      <cat class="adj" feminine="geniüda">geniüt</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passionate</eng>
+      <cat class="adj" feminine="exaltada">exaltat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passionate</eng>
+      <cat class="adj">incondicional</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passionate</eng>
+      <cat class="adj" feminine="apassionada">apassionat</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passive</eng>
+      <eng class="adj">inactive</eng>
+      <cat class="adj" feminine="inactiva">inactiu</cat>
+      <cat class="adj" feminine="passiva">passiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passive</eng>
+      <cat class="adj" feminine="passiva">passiu</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">passive</eng>
+      <cat class="adj">indolent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">passive</eng>
+      <cat class="m" feminine="neutra">neutre</cat>
+      <example sent_eng="passive face" sent_cat="cara neutra" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pastoral</eng>
+      <cat class="adj">pastoral</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pastoral</eng>
+      <cat class="adj" feminine="bucòlica">bucòlic</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pastoral</eng>
+      <cat class="adj">pastoril</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pat</eng>
+      <cat class="adj">convenient</cat>
+      <cat class="adj" feminine="idònia">idoni</cat>
+      <cat class="adj" feminine="oportuna">oportú</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">patent</eng>
+      <cat class="adj">patent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">paternal</eng>
+      <cat class="adj" feminine="paterna">patern</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">paternal</eng>
+      <cat class="adj" feminine="paterna">patern</cat>
+      <cat class="adj">paternal</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">paternal</eng>
+      <cat class="adj">paternal</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">paternal</eng>
+      <cat class="adj">paternal</cat>
+      <cat class="adj" feminine="paterna">patern</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">paternalist</eng>
+      <cat class="adj">paternalista</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">paternalistic</eng>
+      <eng class="adj">paternalist</eng>
+      <cat class="adj">paternalista</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pathetic</eng>
+      <eng class="adj">pitiable</eng>
+      <eng class="adj">pitiful</eng>
+      <cat class="adj" feminine="digna de llàstima">digne de llàstima</cat>
+      <cat class="adj" feminine="trista" remark="anteposat al nom">trist</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pathetic</eng>
+      <cat class="adj" feminine="colpidora">colpidor</cat>
+      <cat class="adj">punyent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pathetic</eng>
+      <cat class="adj" feminine="dolenta">dolent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pathetic</eng>
+      <cat class="adj">lamentable</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">pathetic</eng>
+      <cat class="adj" feminine="patètica">patètic</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">pathetic</eng>
+      <cat class="m" feminine="ridícula">ridícul</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">patient</eng>
+      <eng class="adj">long-suffering</eng>
+      <cat class="adj" feminine="comportívola">comportívol</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adj">patient</eng>
+      <cat class="adj">pacient</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adj">pleasant</eng>

@@ -750,10 +750,6 @@
       <eng class="n">evidence</eng>
       <cat class="f">declaració testifical</cat>
     </e>
-    <e area="filosofia" done="yes" src="" type="word" oldarea="Humanitats&gt;Filosofia">
-      <eng class="n">evidence</eng>
-      <cat class="f">evidència</cat>
-    </e>
     <e done="yes" src="" type="word">
       <eng class="n">evidence</eng>
       <cat class="f">expressió</cat>
@@ -761,16 +757,16 @@
       <cat class="f">manifestació</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">evidence</eng>
       <eng class="n_p">grounds</eng>
       <eng class="n">ground</eng>
       <cat class="f" tags="figurat">base</cat>
-      <cat class="f">evidència</cat>
       <cat class="m" tags="figurat">fonament</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">evidence</eng>
+      <eng class="n">indication</eng>
       <cat class="f">prova</cat>
+      <cat class="f">indici</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">evidence</eng>
@@ -1452,12 +1448,12 @@
       <cat class="m">accident geogràfic</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng before="distinguishing" class="n">feature</eng>
+      <eng class="n">distinguishing feature</eng>
       <eng class="n">badge</eng>
       <eng class="n">symbol</eng>
       <eng class="n">mark</eng>
       <cat class="m">distintiu</cat>
-      <cat class="m" after="destacat">element</cat>
+      <cat class="m">element destacat</cat>
     </e>
     <e area="informàtica" done="yes" src="" type="word">
       <eng class="n">feature</eng>
@@ -3135,13 +3131,6 @@
       <eng class="n">solidifying</eng>
       <cat class="f">solidificació</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">damage</eng>
-      <eng class="n">harm</eng>
-      <eng class="n">injury</eng>
-      <cat class="m">perjudici</cat>
-      <cat class="m">tort</cat>
-    </e>
     <e done="yes" src="" area="informàtica" type="word">
       <eng class="n">hash key</eng>
       <eng class="n">hash</eng>
@@ -3843,8 +3832,12 @@
       <eng class="n">housing</eng>
       <eng class="n">lodging</eng>
       <eng class="n_p">living accommodations</eng>
+      <cat class="m">habitatge</cat>
       <cat class="m">allotjament</cat>
-      <cat class="mp">habitatges</cat>
+    </e>
+    <e src="" type="word" done="yes" area="arquitectura">
+      <eng class="n">house design</eng>
+      <cat class="m">disseny d'habitatges</cat>
     </e>
     <e done="yes" src="" area="fusteria" type="word">
       <eng class="n">housing</eng>

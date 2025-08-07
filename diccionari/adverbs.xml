@@ -19321,7 +19321,8 @@
     <e src="" type="word" done="yes">
       <eng class="adv">out of the corner of one's eye</eng>
       <cat class="adv">de reüll</cat>
-    </e>    <e src="" type="word" done="yes">
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">out of turn</eng>
       <cat class="adv">fora de lloc</cat>
     </e>
@@ -24744,10 +24745,6 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unexpectedly</eng>
-      <cat class="adv">a la impensada</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">unexpectedly</eng>
       <cat class="adv">inesperadament</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -24762,6 +24759,11 @@
       <eng class="adv">unexpectedly</eng>
       <eng class="adv">out of the blue</eng>
       <cat class="adv">inesperadament</cat>
+      <cat class="adv">a la impensada</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">most unexpectedly</eng>
+      <cat class="expr">qui ho havia de dir</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unfairly</eng>
@@ -26684,6 +26686,10 @@
       <eng class="adv">like the dickens</eng>
       <eng class="adv">as the dickens</eng>
       <cat class="adv">molt</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">mostly</eng>
+      <cat class="expr">poc o molt</cat>
     </e>
   </entries>
 </root>

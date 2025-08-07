@@ -6777,7 +6777,6 @@
       <eng class="v" grammar="tr">to befuddle</eng>
       <eng class="v" grammar="tr">to confound</eng>
       <eng class="v" grammar="tr">to confuse</eng>
-      <eng class="v" grammar="tr">to discombobulate</eng>
       <eng class="v" grammar="tr">to disconcert</eng>
       <eng class="v" grammar="tr">to flurry</eng>
       <eng class="v" grammar="tr">to fox</eng>
@@ -11295,6 +11294,16 @@
       <eng class="v" grammar="intr">to intensify</eng>
       <eng class="v" grammar="intr">to step up</eng>
       <cat class="v" grammar="intr_pron">intensificar-se</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="tr">to escalate</eng>
+      <cat class="v" grammar="tr">escalar</cat>
+      <example sent_eng="escalate a conflict" sent_cat="escalar un conflicte" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" grammar="intr">to escalate</eng>
+      <cat class="v" grammar="intr">escalar</cat>
+      <cat class="v" grammar="intr_pron">escalar-se</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr">to escape</eng>

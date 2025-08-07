@@ -1,6 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" done="yes">
+      <eng class="expr">to play hardball</eng>
+      <cat class="expr">anar fort</cat>
+      <cat class="expr">anar a totes</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to play hardball</eng>
+      <cat class="expr">no arronsar-se</cat>
+      <cat class="expr">plantar cara</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to play hardball</eng>
+      <cat class="expr">imposar-se amb mà dura</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">a fait accompli</eng>
+      <cat class="expr">dat i beneït</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no longer in use</eng>
+      <eng class="expr">dead and buried</eng>
+      <eng class="expr">dead and gone</eng>
+      <cat class="expr">dat i beneït</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">no longer under consideration</eng>
+      <cat class="expr">dat i beneït</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr" tags="colloquial">to get one's shit together</eng>
+      <cat class="v" grammar="intr">posar seny</cat>
+      <cat class="v" grammar="intr_pron">organitzar-se</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr" tags="colloquial">to get one's shit together</eng>
+      <cat class="v" grammar="intr_pron">assossegar-se</cat>
+      <cat class="v" grammar="intr_pron">refer-se</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">perish the thought</eng>
+      <cat class="expr">ni pensar-hi</cat>
+      <cat class="expr">Déu me'n guard</cat>
+    </e>
     <e src="" type="word" done="yes">
       <eng class="expr">to be self-effacing</eng>
       <cat class="expr">mostrar-se modest</cat>

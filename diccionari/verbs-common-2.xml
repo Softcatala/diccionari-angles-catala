@@ -5800,7 +5800,6 @@
     </e>
     <e area="esports" src="" type="word" done="yes">
       <eng class="v" grammar="tr">to press</eng>
-      <eng class="v" grammar="tr">to pressurize</eng>
       <cat class="v" grammar="tr">pressionar</cat>
       <cat class="v" grammar="intr" after="a algú">fer pressió</cat>
     </e>
@@ -7784,6 +7783,10 @@
       <cat class="v" grammar="intr_pron">esbargir-se</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to decompress</eng>
+      <cat class="v" grammar="intr">fer exercicis de relaxament</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to relax</eng>
       <eng class="v" grammar="tr">to unstrain</eng>
       <eng class="v" grammar="tr">to unlax</eng>
@@ -8287,23 +8290,25 @@
     </e>
     <e area="medicina" src="" type="word" done="yes" oldarea="ciències de la salut">
       <eng class="v" grammar="tr">to resent</eng>
-      <cat class="v" grammar="intr_pron" after="d'alguna cosa">ressentir-se</cat>
+      <cat class="v" grammar="intr_pron" after="de">ressentir-se</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" before="someone" after="something">to resent</eng>
-      <cat class="v" grammar="tr" before="alguna cosa" after="algú">molestar</cat>
+      <eng class="v" grammar="tr">to resent</eng>
+      <cat class="v" grammar="tr">molestar</cat>
+      <example sent_eng="He resented the implication." sent_cat="La implicació el va molestar" />
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" after="something">to resent</eng>
-      <eng class="v" grammar="intr" after="by something">to be upset</eng>
-      <eng class="v" grammar="intr" after="by something">to be annoyed</eng>
-      <cat class="v" grammar="intr_pron" after="d'alguna cosa">ressentir-se</cat>
-      <cat class="v" grammar="intr_pron" after="per alguna cosa">sentir-se molest</cat>
-      <cat class="v" grammar="intr_pron" after="per alguna cosa">molestar-se</cat>
+      <eng class="v" grammar="tr">to resent</eng>
+      <eng class="v" grammar="intr" after="by">to be upset</eng>
+      <eng class="v" grammar="intr" after="by">to be annoyed</eng>
+      <cat class="v" grammar="intr_pron" after="de">ressentir-se</cat>
+      <cat class="v" grammar="intr_pron" after="per">sentir-se molest</cat>
+      <cat class="v" grammar="intr_pron" after="per">molestar-se</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="v" after="money to a goal" grammar="tr">to reserve</eng>
-      <cat class="v" after="diners a un ús" grammar="tr">destinar</cat>
+      <eng class="v" grammar="tr">to reserve</eng>
+      <cat class="v" grammar="tr">destinar</cat>
+      <example sent_eng="to reserve money to a goal" sent_cat="destinar diners a un ús" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to reserve</eng>

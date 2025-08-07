@@ -1985,25 +1985,6 @@
       <eng class="v" grammar="tr">to prefix</eng>
       <cat class="v" grammar="tr">anteposar</cat>
     </e>
-    <e src="" type="word" area="tecnologia" done="yes">
-      <eng class="v" grammar="tr">to pressure</eng>
-      <cat class="v" grammar="tr">pressuritzar</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" tags="UK">to pressurise</eng>
-      <eng class="v" grammar="tr" tags="US">to pressurize</eng>
-      <cat class="v" grammar="tr">pressionar</cat>
-    </e>
-    <e src="" type="word" area="tecnologia" done="yes">
-      <eng class="v" grammar="tr" tags="UK">to pressurise</eng>
-      <eng class="v" grammar="tr" tags="US">to pressurize</eng>
-      <cat class="v" grammar="tr">pressuritzar</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="v" grammar="tr" tags="US">to pressurize</eng>
-      <eng class="v" grammar="tr" tags="UK">to pressurise</eng>
-      <cat class="v" grammar="tr">pressionar</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to press</eng>
       <cat class="v" grammar="intr_pron">atapeir-se</cat>

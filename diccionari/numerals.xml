@@ -1706,51 +1706,51 @@
       <example sent_eng="A million people." sent_cat="Un milió de persones." />
     </e>
     <e done="yes" src="" type="word">
-      <eng class="num">1,000,000,000</eng>
-      <eng class="num">10⁹</eng>
+      <eng class="num" remark="short scale">a billion</eng>
+      <eng class="num" remark="short scale">one billion</eng>
+      <eng class="num" remark="short scale">billion</eng>
       <eng class="num">one thousand million</eng>
       <eng class="num" remark="long scale">a milliard</eng>
       <eng class="num" remark="long scale">one milliard</eng>
       <eng class="num" remark="long scale">milliard</eng>
-      <eng class="num" remark="short scale">a billion</eng>
-      <eng class="num" remark="short scale">one billion</eng>
-      <eng class="num" remark="short scale">billion</eng>
-      <cat class="num">1.000.000.000</cat>
-      <cat class="num">10⁹</cat>
+      <eng class="num">1,000,000,000</eng>
+      <eng class="num">10⁹</eng>
       <cat class="num">mil milions</cat>
       <cat class="num" tags="inusual">miliard</cat>
       <cat class="num" tags="inusual">un miliard</cat>
+      <cat class="num">1.000.000.000</cat>
+      <cat class="num">10⁹</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="num">1,000,000,000,000</eng>
-      <eng class="num">10¹²</eng>
+      <eng class="num" remark="short scale">a trillion</eng>
+      <eng class="num" remark="short scale">one trillion</eng>
+      <eng class="num" remark="short scale">trillion</eng>
       <eng class="num">one million million</eng>
       <eng class="num" remark="long scale">a billion</eng>
       <eng class="num" remark="long scale">one billion</eng>
       <eng class="num" remark="long scale">billion</eng>
-      <eng class="num" remark="short scale">a trillion</eng>
-      <eng class="num" remark="short scale">one trillion</eng>
-      <eng class="num" remark="short scale">trillion</eng>
-      <cat class="num">1.000.000.000.000</cat>
-      <cat class="num">10¹²</cat>
+      <eng class="num">1,000,000,000,000</eng>
+      <eng class="num">10¹²</eng>
       <cat class="num">un bilió</cat>
       <cat class="num">bilió</cat>
+      <cat class="num">1.000.000.000.000</cat>
+      <cat class="num">10¹²</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="num">1,000,000,000,000,000</eng>
-      <eng class="num">10¹⁵</eng>
+      <eng class="num" remark="short scale">a quadrillion</eng>
+      <eng class="num" remark="short scale">one quadrillion</eng>
+      <eng class="num" remark="short scale">quadrillion</eng>
       <eng class="num">one thousand million million</eng>
       <eng class="num" remark="long scale">a billiard</eng>
       <eng class="num" remark="long scale">one billiard</eng>
       <eng class="num" remark="long scale">billiard</eng>
-      <eng class="num" remark="short scale">a quadrillion</eng>
-      <eng class="num" remark="short scale">one quadrillion</eng>
-      <eng class="num" remark="short scale">quadrillion</eng>
-      <cat class="num">1.000.000.000.000.000</cat>
-      <cat class="num">10¹⁵</cat>
+      <eng class="num">1,000,000,000,000,000</eng>
+      <eng class="num">10¹⁵</eng>
       <cat class="num">un biliard</cat>
       <cat class="num">biliard</cat>
       <cat class="num">mil bilions</cat>
+      <cat class="num">1.000.000.000.000.000</cat>
+      <cat class="num">10¹⁵</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="num">1,000,000,000,000,000,000</eng>

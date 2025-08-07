@@ -1883,38 +1883,69 @@
       <eng class="n">added time</eng>
       <cat class="m">descompte</cat>
     </e>
-    <e done="yes" src="" def_cat="Dany." type="word">
-      <eng class="n">injury</eng>
-      <cat class="m">dany</cat>
-      <cat class="m">afectació</cat>
+    <e done="yes" src="" type="word" area="medicina">
+      <eng class="n">bodily injury</eng>
+      <eng class="n">physical injury</eng>
+      <cat class="f">lesió corporal</cat>
+      <cat class="m">dany corporal</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">accidental injury</eng>
       <cat class="f">ferida accidental</cat>
     </e>
-    <e done="yes" src="" def_cat="Ferida." area="medicina" type="word">
+    <e done="yes" src="" type="word">
+      <eng class="n">damage</eng>
+      <eng class="n">harm</eng>
+      <eng class="n">injury</eng>
+      <cat class="m">perjudici</cat>
+      <cat class="m">perjuí</cat>
+      <cat class="m">tort</cat>
+      <cat class="m">dany</cat>
+    </e>
+    <e done="yes" area="medicina" src="">
+      <eng class="n">wound</eng>
+      <eng class="n">sore</eng>
+      <cat class="f">ferida</cat>
+      <cat class="f">nafra</cat>
+    </e>
+    <e done="yes" area="medicina" src="">
+      <eng class="n">sore</eng>
+      <eng class="n">ulcer</eng>
+      <cat class="f">nafra</cat>
+      <cat class="f">úlcera</cat>
+    </e>
+    <e done="yes" area="medicina" src="">
+      <eng class="n">trauma</eng>
+      <eng class="n">traumatism</eng>
+      <cat class="m">trauma</cat>
+      <cat class="m">traumatisme</cat>
+    </e>
+    <e done="yes" area="medicina" src="">
+      <eng class="n">contusion</eng>
+      <cat class="f">contusió</cat>
+    </e>
+    <e done="yes" area="psicologia psiquiatria" src="">
+      <eng class="n">trauma</eng>
+      <eng class="n">psychic trauma</eng>
+      <cat class="m">trauma</cat>
+    </e>
+    <e done="yes" src="" type="word">
       <eng class="n">harm</eng>
       <eng class="n">hurt</eng>
       <eng class="n">injury</eng>
-      <eng class="n">lesion</eng>
-      <eng class="n">trauma</eng>
-      <eng class="n">wound</eng>
-      <cat class="m">trauma</cat>
-      <cat class="f">contusió</cat>
       <cat class="f">ferida</cat>
       <cat class="f">lesió</cat>
-      <cat class="m">dany</cat>
       <cat class="m">mal</cat>
-      <cat class="m">traumatisme</cat>
     </e>
-    <e done="yes" src="" area="esports" type="word">
+    <e done="yes" src="" area="esports medicina" type="word">
       <eng class="n">injury</eng>
       <eng class="n">lesion</eng>
       <cat class="f">lesió</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">injury</eng>
-      <cat class="m">perjudici</cat>
+      <cat class="m">dany</cat>
+      <cat class="m">afectació</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">iniquity</eng>
@@ -7798,7 +7829,15 @@
     <e done="yes" src="" type="word">
       <eng class="n">laggard</eng>
       <eng class="n">straggler</eng>
-      <cat class="m">ressagat</cat>
+      <cat class="m" feminine="ressagada">ressagat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">stragglers</eng>
+      <cat class="f">ressaga</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">straggle</eng>
+      <cat class="f">escampadissa</cat>
     </e>
     <e done="yes" src="" def_eng="Insulation." type="word">
       <eng class="n">lagging</eng>
@@ -13962,6 +14001,20 @@
       <cat class="f">estrella</cat>
       <cat class="m">galant</cat>
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">table</eng>
+      <cat class="f">taula</cat>
+      <example sent_eng="We bought a table and six chairs for the dining room." sent_cat="Hem comprat una taula i sis cadires per al menjador." />
+    </e>
+    <e done="yes" src="" type="word" def_cat="grup de persones asseguts en una taula">
+      <eng class="n">table</eng>
+      <cat class="f">taulada</cat>
+      <example sent_eng="We were a table of twenty people." sent_cat="Érem una taulada de vint persones. " />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">tableful</eng>
+      <cat class="f">taulada</cat>
+    </e>
     <e area="mineralogia" done="yes" src="" type="word">
       <eng class="n">main facet</eng>
       <eng class="n">table</eng>
@@ -15256,7 +15309,6 @@
     </e>
     <e area="esports" done="yes" src="" type="word">
       <eng class="n">marking system</eng>
-      <eng class="n">table</eng>
       <cat class="m">barem de puntuació</cat>
     </e>
     <e area="esports" done="yes" src="" type="word">
@@ -16179,17 +16231,6 @@
       <eng class="n">vileness</eng>
       <cat class="f">crueltat</cat>
       <cat class="f">mesquinesa</cat>
-    </e>
-    <e done="yes" src="" def_eng="Parsimony." type="word">
-      <eng class="n">meanness</eng>
-      <eng class="n">closeness</eng>
-      <eng class="n">niggardliness</eng>
-      <eng class="n">niggardness</eng>
-      <eng class="n">parsimoniousness</eng>
-      <eng class="n">parsimony</eng>
-      <eng class="n">tightfistedness</eng>
-      <eng class="n">tightness</eng>
-      <cat class="f">parsimònia</cat>
     </e>
     <e area="dret" done="yes" src="" type="word">
       <eng class="n">means of evidence</eng>
@@ -26247,6 +26288,15 @@
       <cat class="mp">afores</cat>
       <cat class="mp">voltants</cat>
     </e>
+    <e done="yes" src="" area="urbanisme" type="word">
+      <eng class="n">suburb</eng>
+      <eng class="n">suburban area</eng>
+      <eng class="n">suburbia</eng>
+      <cat class="f">àrea suburbana</cat>
+      <cat class="m">barri residencial</cat>
+      <cat class="m">zona residencial</cat>
+      <cat class="m">raval</cat>
+    </e>
     <e done="yes" src="" area="transports" type="word">
       <eng class="n">outward journey</eng>
       <cat class="f">anada</cat>
@@ -27915,13 +27965,30 @@
       <cat class="m">processador</cat>
     </e>
     <e done="yes" src="" type="word">
+      <eng class="n">penny-pinching</eng>
+      <eng class="n">meanness</eng>
+      <eng class="n">niggardliness</eng>
+      <eng class="n">niggardness</eng>
+      <eng class="n">tightfistedness</eng>
+      <eng class="n">tightness</eng>
       <eng class="n">parsimoniousness</eng>
       <eng class="n">parsimony</eng>
-      <eng class="n">penny-pinching</eng>
-      <eng class="n">thrift</eng>
       <cat class="f">garreperia</cat>
       <cat class="f">gasiveria</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">parsimoniousness</eng>
+      <eng class="n">parsimony</eng>
       <cat class="f">parsimònia</cat>
+      <cat class="f">parquedat</cat>
+      <cat class="f">moderació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">thrift</eng>
+      <cat class="f">frugalitat</cat>
+      <cat class="m">estalvi</cat>
+      <cat class="f">moderació</cat>
+      <cat class="f">parquedat</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">parsing</eng>
@@ -28147,10 +28214,6 @@
       <cat class="f">societat</cat>
       <cat class="m">consorci</cat>
       <cat class="m">partenariat</cat>
-    </e>
-    <e done="yes" src="" area="ornitologia" type="word">
-      <eng class="n">partridge</eng>
-      <cat class="f">perdiu</cat>
     </e>
     <e done="yes" src="" area="medicina" type="word">
       <eng class="n" tags="UK">labour</eng>
@@ -30929,11 +30992,6 @@
       <eng class="n">physical relief</eng>
       <eng class="n">relief</eng>
       <cat class="m">relleu</cat>
-    </e>
-    <e done="yes" src="" area="medicina" type="word">
-      <eng class="n">physician</eng>
-      <cat class="m" feminine="física" tags="antic">físic</cat>
-      <cat class="mf" feminine="metgessa">metge</cat>
     </e>
     <e done="yes" src="" area="física" type="word">
       <eng class="n">physicist</eng>
@@ -41700,12 +41758,13 @@
       <cat class="f">reaparició</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="n">reappraisal</eng>
       <eng class="n">revaluation</eng>
-      <eng class="n">review</eng>
-      <eng class="n">reassessment</eng>
-      <cat class="m">reajustament</cat>
       <cat class="f">revaluació</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="n">reappraisal</eng>
+      <eng class="n">reassessment</eng>
+      <cat class="f">revaloració</cat>
     </e>
     <e area="esports" done="yes" src="" type="word">
       <eng class="n">rear bead</eng>
@@ -48109,10 +48168,8 @@
       <cat class="m" tags="scientific_name">Ruta graveolens</cat>
     </e>
     <e done="yes" src="" area="ornitologia" type="word">
-      <eng class="n">partridge</eng>
       <eng class="n">ruffed grouse</eng>
       <eng class="n" tags="scientific_name">Bonasa umbellus</eng>
-      <cat class="f">perdiu</cat>
       <cat class="m">grèvol crestat</cat>
       <cat class="m" tags="scientific_name">Bonasa umbellus</cat>
     </e>
@@ -50224,6 +50281,8 @@
       <eng class="n">tuition fee</eng>
       <eng class="n">tuition</eng>
       <cat class="f">taxa acadèmica</cat>
+      <cat class="f">taxa de matrícula</cat>
+      <cat class="m">preu de matrícula</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">school of thought</eng>
@@ -54593,13 +54652,6 @@
       <cat class="f">falta</cat>
       <cat class="f">insuficiència</cat>
       <cat class="m">dèficit</cat>
-    </e>
-    <e done="yes" src="" def_cat="Deficiència." type="word">
-      <eng class="n">shortcoming</eng>
-      <cat class="f">carència</cat>
-      <cat class="f">deficiència</cat>
-      <cat class="f">limitació</cat>
-      <cat class="f">mancança</cat>
     </e>
     <e done="yes" src="" area="geografia" type="word">
       <eng class="n">crosscut</eng>
@@ -60880,7 +60932,7 @@
     </e>
     <e done="yes" src="" area="sociologia" type="word">
       <eng class="n">squatting</eng>
-      <cat class="f" after="d'habitatges">ocupació</cat>
+      <cat class="f">ocupació d'habitatges</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">squawk</eng>
@@ -65016,24 +65068,14 @@
       <cat class="f">subtilitat</cat>
     </e>
     <e done="yes" src="" area="matemàtiques" type="word">
-      <eng class="n">deduction</eng>
-      <eng class="n">minus</eng>
       <eng class="n">subtraction</eng>
       <cat class="f">resta</cat>
       <cat class="f">subtracció</cat>
+      <cat class="f">sostracció</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">subtraction</eng>
       <cat class="f">sostracció</cat>
-    </e>
-    <e done="yes" src="" area="urbanisme" type="word">
-      <eng class="n">suburb</eng>
-      <eng class="n">suburban area</eng>
-      <eng class="n">suburbia</eng>
-      <cat class="f">àrea suburbana</cat>
-      <cat class="m">barri residencial</cat>
-      <cat class="m">raval</cat>
-      <cat class="m">suburbi</cat>
     </e>
     <e done="yes" src="" area="economia" type="word">
       <eng class="n">subvention</eng>
@@ -67090,14 +67132,24 @@
       <cat class="m">sagrari</cat>
       <cat class="m">tabernacle</cat>
     </e>
-    <e done="yes" src="" area="mobiliari" type="word">
-      <eng class="n">table</eng>
-      <cat class="f">taula</cat>
-    </e>
     <e done="yes" src="" area="informàtica" type="word">
       <eng class="n">table</eng>
       <eng class="n">tabular array</eng>
       <cat class="f">taula</cat>
+    </e>
+    <e done="yes" src="" area="matemàtiques" type="word">
+      <eng class="n">table</eng>
+      <eng class="n">chart</eng>
+      <cat class="f">taula</cat>
+      <example sent_eng="addition table" sent_cat="taula de sumar" />
+      <example sent_eng="addition chart" sent_cat="taula de sumar" />
+      <example sent_eng="multiplication table" sent_cat="taula de multiplicar" />
+      <example sent_eng="times table" sent_cat="taula de multiplicar" />
+    </e>
+    <e done="yes" src="" area="matemàtiques" type="word">
+      <eng class="n">multiplication table</eng>
+      <eng class="n">times table</eng>
+      <cat class="f">taula de multiplicar</cat>
     </e>
     <e done="yes" src="" area="cuina" type="word">
       <eng class="n">table knife</eng>
@@ -67172,9 +67224,14 @@
       <cat class="m">tabal</cat>
       <cat class="mf">timbal</cat>
     </e>
-    <e done="yes" src="" area="art" type="word">
-      <eng class="n">tabula</eng>
+    <e done="yes" src="" area="pintura" type="word">
+      <eng class="n">panel painting</eng>
+      <cat class="f">pintura sobre taula</cat>
+    </e>
+    <e done="yes" src="" area="pintura" type="word">
+      <eng class="n">panel</eng>
       <cat class="f">taula</cat>
+      <example sent_eng="panel painting" sent_cat="pintura sobre taula" />
     </e>
     <e done="yes" src="" def_eng="Strategy." type="word">
       <eng class="n">tack</eng>
@@ -67994,10 +68051,6 @@
     <e done="yes" src="" area="ramaderia" type="word">
       <eng class="n">tattooing</eng>
       <cat class="m">tatuatge</cat>
-    </e>
-    <e done="yes" src="" area="arqueologia" type="word">
-      <eng class="n">taula</eng>
-      <cat class="f">taula</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">tautness</eng>
@@ -69548,10 +69601,6 @@
       <eng class="n">surety</eng>
       <cat class="f">garantia</cat>
     </e>
-    <e done="yes" src="" area="mobiliari" type="word">
-      <eng class="n">table</eng>
-      <cat class="f">taula</cat>
-    </e>
     <e done="yes" src="" area="botànica" type="word">
       <eng class="n">tea plant</eng>
       <eng class="n" tags="scientific_name">Camellia sinensis</eng>
@@ -70196,12 +70245,6 @@
     <e done="yes" src="" area="economia" def_eng="Savings bank." type="word">
       <eng class="n" tags="US">thrift</eng>
       <cat class="f">caixa d'estalvis</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="n">thrift</eng>
-      <cat class="f">frugalitat</cat>
-      <cat class="m">estalvi</cat>
-      <cat class="f">moderació</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">thrill</eng>
@@ -70932,11 +70975,6 @@
       <cat class="f">planxa de llauna</cat>
       <cat class="f">xapa de llauna</cat>
       <cat class="f">xapa</cat>
-    </e>
-    <e done="yes" src="" area="ornitologia" type="word">
-      <eng class="n">tinamou</eng>
-      <eng class="n">partridge</eng>
-      <cat class="f">perdiu</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="n">tincture</eng>
@@ -74670,15 +74708,18 @@
       <cat class="f">estirada</cat>
       <cat class="f">estrebada</cat>
     </e>
-    <e done="yes" src="" type="word">
+    <e done="yes" src="" type="word" area="ensenyament">
       <eng class="n">tuition</eng>
       <cat class="f">instrucció</cat>
+      <cat class="m">ensenyament</cat>
     </e>
-    <e done="yes" src="" area="ensenyament" type="word">
-      <eng class="n">tuition</eng>
-      <cat class="f" before="taxes de">matrícula</cat>
-      <cat class="fp">taxes de matrícula</cat>
-      <cat class="m">preu de matrícula</cat>
+    <e done="yes" src="" type="word" area="ensenyament">
+      <eng class="n">private tuition</eng>
+      <cat class="fp">classes particulars</cat>
+    </e>
+    <e src="" type="word" done="yes" area="ensenyament">
+      <eng class="n">tuition classes</eng>
+      <cat class="fp">classes de suport</cat>
     </e>
     <e done="yes" src="" def_cat="Grup dens." type="word">
       <eng class="n">tumble</eng>
@@ -81582,8 +81623,9 @@
       <cat class="m">desembassament</cat>
     </e>
     <e done="yes" src="" area="ensenyament" type="word">
-      <eng class="n" before="tuition">withdrawal</eng>
-      <cat class="f" after="a la matrícula">renúncia</cat>
+      <eng class="n">withdrawal</eng>
+      <cat class="f">renúncia</cat>
+      <example sent_eng="tuition withdrawal" sent_cat="renúncia a la matrícula" />
     </e>
     <e done="yes" src="" area="farmàcia" type="word">
       <eng class="n">withdrawal</eng>
@@ -82244,15 +82286,6 @@
       <cat class="f">personalitat</cat>
       <cat class="f">eminència</cat>
       <cat class="m">personatge notable</cat>
-    </e>
-    <e done="yes" src="" def_cat="Ferida." area="medicina" type="word">
-      <eng class="n">injury</eng>
-      <eng class="n">lesion</eng>
-      <eng class="n">sore</eng>
-      <eng class="n">wound</eng>
-      <cat class="f">ferida</cat>
-      <cat class="f">nafra</cat>
-      <cat class="m">mal</cat>
     </e>
     <e done="yes" src="" area="medicina" type="word">
       <eng class="n">combat injury</eng>
