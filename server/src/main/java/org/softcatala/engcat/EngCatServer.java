@@ -2,6 +2,7 @@ package org.softcatala.engcat;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
+import java.io.File;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
@@ -19,39 +20,55 @@ import com.sun.net.httpserver.HttpExchange;
 import com.sun.net.httpserver.HttpHandler;
 import com.sun.net.httpserver.HttpServer;
 
+import net.sourceforge.argparse4j.ArgumentParsers;
+import net.sourceforge.argparse4j.impl.Arguments;
+import net.sourceforge.argparse4j.inf.ArgumentParser;
+import net.sourceforge.argparse4j.inf.ArgumentParserException;
+
 public class EngCatServer {
 
   static EngCatConfiguration conf = null;
   static Dictionary dict = null;
+  static File exportDir = null;
   private static ThreadPoolExecutor executorService;
 
   public static void main(String[] args) throws Exception {
-    if (args.length != 2 || !args[0].equals("--config")) {
-      log("ERROR", "Usage: " + EngCatServer.class.getSimpleName() + " --config propertyFile");
-      System.exit(1);
+    ArgumentParser parser = ArgumentParsers.newFor("prog").build().defaultHelp(true).description("Run a server from the bilingual dictionary data provided.");
+    parser.addArgument("--config").metavar("configFile").required(true).type(Arguments.fileType().verifyIsFile()).help("configuration file");
+    parser.addArgument("--export").metavar("exportFolder").type(Arguments.fileType().verifyIsDirectory()).help("folder to export the dictionary data");
+    try {
+        conf = new EngCatConfiguration(parser.parseArgs(args).get("config"));
+        exportDir = parser.parseArgs(args).get("export");
+        dict = new Dictionary(conf);
     }
-    conf = new EngCatConfiguration(args);
-    dict = new Dictionary(conf);
-
-    if (conf.logFileGrammarChecking != null) {
-      log("INFO", "Comença la revisió ortogràfica i gramatical");
-      CheckSpellingAndGrammar checker = new CheckSpellingAndGrammar(conf.logFileGrammarChecking);
-      checker.check(dict.getEntries());
-      log("INFO", "Revisió ortogràfica i gramatical acabada");
+    catch (ArgumentParserException e) {
+        parser.handleError(e);
+        System.exit(1);
     }
 
+    if (exportDir != null) {
+      // Si s'expecifica una carpeta d'exportació, només s'exporten les dades en format JSON
+      dict.exportJSON(exportDir);
+    }
+    else {
+      if (conf.logFileGrammarChecking != null) {
+        log("INFO", "Comença la revisió ortogràfica i gramatical");
+        CheckSpellingAndGrammar checker = new CheckSpellingAndGrammar(conf.logFileGrammarChecking);
+        checker.check(dict.getEntries());
+        log("INFO", "Revisió ortogràfica i gramatical acabada");
+      }
 
-    //Response r = dict.getResponse("costa d'ivori");
-    //Response response = dict.getResponse("dot");
+      //Response r = dict.getResponse("costa d'ivori");
+      //Response response = dict.getResponse("dot");
 
-    executorService = getExecutorService(conf);
-    HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
-    log("INFO", "Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
-    server.setExecutor(executorService);
-    server.createContext(conf.urlPath, new MyHandler());
-    server.setExecutor(null);
-    server.start();
-    
+      executorService = getExecutorService(conf);
+      HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
+      log("INFO", "Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
+      server.setExecutor(executorService);
+      server.createContext(conf.urlPath, new MyHandler());
+      server.setExecutor(null);
+      server.start();
+    }
   }
 
   static class MyHandler implements HttpHandler {

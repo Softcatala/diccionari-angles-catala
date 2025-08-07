@@ -24,11 +24,23 @@ A la carpeta `server` hi ha el codi del servidor. Es pot compilar executant l'or
 mvn package
 ```
 
-Per a executar el servidor, és necessari un fitxer de configuració. A la carpeta `server-cfg` n'hi ha un d'exemple.
+Per a executar-lo, cal indicar un fitxer de configuració (a la carpeta `server-cfg` n'hi ha un d'exemple):
+
+```
+java -jar engcat.jar --config <fitxer de configuració>
+```
 
 ## Client
 
 A la carpeta `client` hi ha un exemple de client bàsic en PHP.
+
+## Exportació
+
+Els fitxers XML de la carpeta `diccionari` estan pensats per a facilitar l'edició i organització del diccionari. El servidor processa les entrades i retorna tots els resultats coincidents. Es poden exportar els resultats de totes les entrades en format JSON executant el servidor amb l'opció `--export`:
+
+```
+java -jar engcat.jar --config <fitxer de configuració> --export <carpeta d'exportació>
+```
 
 ## Llicència
 

@@ -2,10 +2,15 @@ package org.softcatala.engcat;
 
 import org.xml.sax.SAXException;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
+
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.parsers.SAXParser;
 import javax.xml.parsers.SAXParserFactory;
+
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
@@ -19,6 +24,8 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Locale;
+import java.util.SortedMap;
+import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -31,9 +38,8 @@ public class Dictionary {
   // Índex de cadenes de cerca i llistes de lemes coincidents
   private List<HashMap<String, List<Lemma>>> indexWordLemmas = Arrays.asList(new HashMap<String, List<Lemma>>(), new HashMap<String, List<Lemma>>());
   
-  // Índexs alfabètics de paraules
-  public IndexOfWords indexCat = new IndexOfWords();
-  public IndexOfWords indexEng = new IndexOfWords();
+  // Índex alfabètic de paraules
+  public List<IndexOfWords> indexWords = Arrays.asList(new IndexOfWords(), new IndexOfWords());
 
   // Llista de "stop words" per a cada llengua
   private List<HashSet<String>> stopWords = new ArrayList<>();
@@ -272,6 +278,36 @@ public class Dictionary {
       }
     }
   }
+
+  /**
+  * Exporta totes les paraules i lemes del diccionari en format JSON.
+
+  * @param  outputFolder   carpeta d'exportació
+  */
+  void exportJSON(File outputFolder) throws IOException {
+    EngCatServer.log("INFO", "Exporting dictionary words and lemmas in JSON format...");
+    for (int l = 0; l < 2; l++) {
+      Gson gson = new GsonBuilder().setPrettyPrinting().create();
+      SortedMap<String, List<Lemma>> wordsLemmas = new TreeMap<String, List<Lemma>>();
+      for (List<String> letter : indexWords.get(l).map.values()) {
+        for (String word : letter) {
+          wordsLemmas.put(word, indexWordLemmas.get(l).get(word));
+        }
+      }
+      String outputFile = "";
+      if (l==0) {
+        outputFile = "eng-cat.json";
+      } else {
+        outputFile = "cat-eng.json";
+      }
+
+      File f = new File(outputFolder, outputFile);
+      FileWriter fw = new FileWriter(f);
+      fw.write(gson.toJson(wordsLemmas));
+      fw.close();
+    }
+    EngCatServer.log("INFO", "Finished exporting dictionary.");
+  }
   
   private String getCanonicalForm(Response response, String searchWord) {
     if (searchWord.isEmpty()) {
@@ -309,17 +345,13 @@ public class Dictionary {
       if (!e.type.equals("sentence")) {
         for (int l = 0; l < 2; l++) {
           for (Word w : e.words[l]) {
-            if (l==0) {
-              indexEng.addWord(w);
-            } else {
-              indexCat.addWord(w);  
-            }
+            indexWords.get(l).addWord(w);
           }
         }  
       }
     }
-    indexEng.sortWords(new Locale("eng"));
-    indexCat.sortWords(new Locale("cat"));
+    indexWords.get(0).sortWords(new Locale("eng"));
+    indexWords.get(1).sortWords(new Locale("cat"));
   }
 
   /**
@@ -336,10 +368,10 @@ public class Dictionary {
       String letter = parts[1].substring(0,1).toLowerCase();
       
       if (lang.equals("eng")) {
-        index = new Index(indexEng.map.get(letter), letter);
+        index = new Index(indexWords.get(0).map.get(letter), letter);
       }
       if (lang.equals("cat")) {
-        index = new Index(indexCat.map.get(letter), letter);
+        index = new Index(indexWords.get(1).map.get(letter), letter);
       }
     }
     return index;

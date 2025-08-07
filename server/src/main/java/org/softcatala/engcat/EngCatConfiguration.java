@@ -36,8 +36,7 @@ public class EngCatConfiguration {
     );
   }
 
-  public EngCatConfiguration(String[] args) {
-    File file = new File (args[1]);
+  public EngCatConfiguration(File file) {
     try {
       Properties props = new Properties();
       try (FileInputStream fis = new FileInputStream(file)) {
