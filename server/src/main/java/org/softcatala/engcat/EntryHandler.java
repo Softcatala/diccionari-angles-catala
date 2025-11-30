@@ -41,6 +41,11 @@ public class EntryHandler extends DefaultHandler {
       if (attrs.getValue("remark") != null) {
         currentEntry.remark = attrs.getValue("remark");
       }
+      if (attrs.getValue("scientific_name") != null) {
+        // El nom científic com a 'remark' en cursiva
+        currentEntry.remark = (currentEntry.remark + " <i>" + attrs.getValue("scientific_name") + "</i>").trim();
+        currentEntry.scientific_name = attrs.getValue("scientific_name");
+      }
       if (attrs.getValue("def_eng") != null) {
         currentEntry.def_eng = attrs.getValue("def_eng");
       }
@@ -54,7 +59,6 @@ public class EntryHandler extends DefaultHandler {
     case "cat":
     case "eng":
       currentWord = new Word();
-
       if (attrs.getValue("class") != null) {
         currentWord.grammarClass = attrs.getValue("class");
       }
@@ -78,6 +82,9 @@ public class EntryHandler extends DefaultHandler {
       }
       if (attrs.getValue("after") != null) {
         currentWord.after = attrs.getValue("after");
+      }
+      if (attrs.getValue("primary") != null) {
+        currentWord.primary = attrs.getValue("primary").equals("yes");
       }
       break;
     case "example":
@@ -103,12 +110,12 @@ public class EntryHandler extends DefaultHandler {
     case "eng":
       currentWord.text = currentText;
       // Creem una paraula nova per a generar les formes
-      currentEntry.words[0].add(new Word(currentWord));
+      currentEntry.addNewWord(0, currentWord);
       break;
     case "cat":
       currentWord.text = currentText;
       // Creem una paraula nova per a generar les formes
-      currentEntry.words[1].add(new Word(currentWord));
+      currentEntry.addNewWord(1, currentWord);
       break;
     }
   }

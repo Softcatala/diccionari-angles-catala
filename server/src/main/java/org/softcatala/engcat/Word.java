@@ -1,7 +1,6 @@
 package org.softcatala.engcat;
 
-import java.util.Comparator;
-import java.util.HashSet;
+import java.util.*;
 
 public class Word {
   String text = "";
@@ -14,7 +13,8 @@ public class Word {
   String before = "";
   String after = "";
   String area = "";
-  HashSet<String> forms = new HashSet<>();
+  boolean primary = false; // és el lema principal
+  HashSet<AlternativeForm> alternativeForms = new LinkedHashSet<>();
   private int ocurrences = 0;
 
   public Word() {
@@ -31,29 +31,36 @@ public class Word {
     this.before = w.before;
     this.after = w.after;
     this.area = area;
-    this.forms = w.forms;
+    this.alternativeForms = w.alternativeForms;
     this.ocurrences = 0;
-
-    // Forma base
-    this.forms.add(w.text);
-
-    // Formes flexionades
-    if (!w.feminine.isEmpty()) {
-      this.forms.add(w.feminine);
-    }
-    if (!w.plural.isEmpty()) {
-      this.forms.add(w.plural);
-    }
-
-    // Verbs en infinitiu sense "to"
-    if (this.grammarClass.equals("v")) {
-      String trimmedVerb = w.text.replaceAll("^to ","");
-      this.forms.add(trimmedVerb);
-    }
+/*
+    */
   }
 
   public Word(Word w) {
     this(w, "");
+  }
+
+  public List<String> getAllForms(){
+    HashSet<String> forms = new HashSet<>();
+    // Forma base
+    forms.add(this.text);
+    // Formes flexionades
+    if (!this.feminine.isEmpty()) {
+      forms.add(this.feminine);
+    }
+    if (!this.plural.isEmpty()) {
+      forms.add(this.plural);
+    }
+    // Verbs en infinitiu sense "to"
+    if (this.grammarClass.equals("v")) {
+      String trimmedVerb = this.text.replaceAll("^to ","");
+      forms.add(trimmedVerb);
+    }
+    for (AlternativeForm af : this.alternativeForms) {
+      forms.add(af.text);
+    }
+    return new ArrayList<>(forms);
   }
 
   public String toString() {
@@ -90,13 +97,21 @@ public class Word {
 
   @Override
   public boolean equals(Object o) {
+    if (this == o) {
+      return true;
+    }
     if (o == null) {
       return false;
     }
-    if (this.toString().equals(o.toString())) {
-      return true;
+    if (!(o instanceof Word)) {
+      return false;
     }
-    return false;
+    return this.toString().equals(o.toString());
+  }
+
+  @Override
+  public int hashCode() {
+    return Objects.hash(this.toString());
   }
 
   public int getOcurrences() {
@@ -109,6 +124,7 @@ public class Word {
 
   public boolean isSameLema(Word oWord2) {
     return this.text.equals(oWord2.text)
+        && this.alternativeForms.toString().equals(oWord2.alternativeForms.toString())
         && this.grammarClass.equals(oWord2.grammarClass)
         && this.grammarAux.equals(oWord2.grammarAux)
         && this.tags.equals(oWord2.tags)
@@ -119,6 +135,7 @@ public class Word {
 
   public boolean isSameSubLema(Word oWord2, Entry entry) {
     return this.text.equals(oWord2.text)
+        && this.alternativeForms.toString().equals(oWord2.alternativeForms.toString())
         && this.grammarClass.equals(oWord2.grammarClass)
         && this.grammarAux.equals(oWord2.grammarAux)
         && this.tags.equals(oWord2.tags)
@@ -129,11 +146,53 @@ public class Word {
         && this.area.equals(oWord2.area)
         && entry.remark.equals(oWord2.remark);
   }
+  
+  public boolean hasSameAttributesExceptDialect(Word oWord2) {
+    String tags1 = removeDialectFromTags(this.tags);
+    String tags2 = removeDialectFromTags(oWord2.tags);
 
+    String feminine1 = Utils.removeDiacritics(this.feminine);
+    String feminine2 = Utils.removeDiacritics(oWord2.feminine);
+    return this.grammarClass.equals(oWord2.grammarClass)
+        && this.grammarAux.equals(oWord2.grammarAux)
+        && tags1.equals(tags2)
+        && this.before.equals(oWord2.before)
+        && this.after.equals(oWord2.after)
+        && feminine1.equals(feminine2)
+        && this.plural.equals(oWord2.plural)
+        && this.area.equals(oWord2.area);
+        //&& entry.remark.equals(oWord2.remark);
+  }
+
+  private String removeDialectFromTags(String s) {
+    for(String variant: Utils.ENGLISH_VARIANTS) {
+      s = s.replace(variant, "").strip();
+    }
+    for(String variant: Utils.CATALAN_VARIANTS) {
+      s = s.replace(variant, "").strip();
+    }
+    for(String variant: Utils.tagsForAbbreviations) {
+      s = s.replace(variant, "").strip();
+    }
+    return s;
+  }
 }
 
 class SortWordByOcurrences implements Comparator<Word> {
+
+  final static List<String> tagsToMoveToTheEnd = Arrays.asList("symbol", "símbol", "old", "rare", "obsolete", "obsolet",
+      "dialectal", "impròpiament", "castellanisme", "abbreviation", "abreviació", "sigla", "initialism", "acronym",
+      "colloquial", "col·loquial", "antic");
+
   public int compare(Word a, Word b) {
+
+    // els símbols van al final
+    if (Utils.haveAnyCommonForm(a.tags, tagsToMoveToTheEnd)) {
+      return 1000;
+    }
+    if (Utils.haveAnyCommonForm(b.tags, tagsToMoveToTheEnd)) {
+      return -1000;
+    }
     // Les traduccions que apareixen en més entrades XML tenen prioritat
     int x = b.getOcurrences() - a.getOcurrences();
     if (x != 0) {

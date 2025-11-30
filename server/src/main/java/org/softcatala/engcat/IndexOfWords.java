@@ -1,38 +1,38 @@
 package org.softcatala.engcat;
 
-import java.util.List;
+import java.util.*;
 import java.text.Collator;
 import java.text.Normalizer;
 import java.text.ParseException;
 import java.text.RuleBasedCollator;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Locale;
-import java.util.Map;
-import java.util.regex.Pattern;
 
 public class IndexOfWords {
   
   public Map<String, List<String>> map = new HashMap<>();
-  
-  private static final Pattern DIACRIT_MARKS = Pattern.compile("[\\p{InCombiningDiacriticalMarks}]");
+  private Set<String> usedforms = new HashSet<>();
+
   private static final int keyLength = 1;
-  
+
   public void addWord(Word originalWord) {
     String word = getCanonical(originalWord.text);
     if (originalWord.grammarClass.equals("v") && word.startsWith("to ")) {
       word = word.substring(3);
     }
-    String firstLetter = word.toLowerCase();
-    if (firstLetter.length()>=keyLength) {
-      firstLetter = removeDiacritics(word.toLowerCase().substring(0, keyLength));
+    String lowerCaseWord = word.toLowerCase();
+    String firstLetter = lowerCaseWord;
+    if (firstLetter.length() >= keyLength) {
+      firstLetter = Utils.removeDiacritics(lowerCaseWord.substring(0, keyLength));
     }
-    if (isLowerCaseLetter(firstLetter)) {
-      List<String> list = map.computeIfAbsent(firstLetter, k -> new ArrayList<>());
-      if (!list.contains(word)) {
+    if (Utils.isLowerCaseLetter(firstLetter)) {
+      if (usedforms.add(lowerCaseWord)) {
+        List<String> list = map.computeIfAbsent(firstLetter, k -> new ArrayList<>());
         list.add(word);
+        List<String> searchableForms = Utils.wordFormsToSearch(originalWord);
+        for (String searchableForm : searchableForms) {
+          usedforms.add(searchableForm.toLowerCase());
+        }
       }
-    } 
+    }
   }
   
   public void sortWords(Locale locale) throws ParseException {
@@ -53,18 +53,5 @@ public class IndexOfWords {
 //    }
     return s;
   }
-  
-  public static String removeDiacritics(String str) {
-    String s = Normalizer.normalize(str, Normalizer.Form.NFD);
-    return DIACRIT_MARKS.matcher(s).replaceAll("");
-  }
-  
-  public static boolean isLowerCaseLetter(String str) {
-    if (str != null) { // && str.length() == 1
-        char ch = str.charAt(0);
-        return Character.isLetter(ch) && Character.isLowerCase(ch);
-    }
-    return false;
-}
-  
+
 }

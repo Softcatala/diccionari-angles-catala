@@ -9,6 +9,7 @@ import java.io.UnsupportedEncodingException;
 import java.net.InetSocketAddress;
 import java.nio.charset.StandardCharsets;
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.concurrent.ThreadPoolExecutor;
 
@@ -48,27 +49,31 @@ public class EngCatServer {
 
     if (exportDir != null) {
       // Si s'expecifica una carpeta d'exportació, només s'exporten les dades en format JSON
+      // i s'acaba el programa
       dict.exportJSON(exportDir);
+      System.exit(0);
     }
-    else {
-      if (conf.logFileGrammarChecking != null) {
-        log("INFO", "Comença la revisió ortogràfica i gramatical");
-        CheckSpellingAndGrammar checker = new CheckSpellingAndGrammar(conf.logFileGrammarChecking);
-        checker.check(dict.getEntries());
-        log("INFO", "Revisió ortogràfica i gramatical acabada");
-      }
-
-      //Response r = dict.getResponse("costa d'ivori");
-      //Response response = dict.getResponse("dot");
-
-      executorService = getExecutorService(conf);
-      HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
-      log("INFO", "Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
-      server.setExecutor(executorService);
-      server.createContext(conf.urlPath, new MyHandler());
-      server.setExecutor(null);
-      server.start();
+    
+    if (conf.logFileGrammarChecking != null) {
+      // Revisió gramatical i final del programa
+      log("INFO", "Comença la revisió ortogràfica i gramatical");
+      CheckSpellingAndGrammar checker = new CheckSpellingAndGrammar(conf.logFileGrammarChecking);
+      checker.check(dict.getEntries());
+      log("INFO", "Revisió ortogràfica i gramatical acabada");
+      System.exit(0);
     }
+
+    // Eliminem totes les estructures intermèdies innecessàries
+    dict.cleanMemory();
+
+    executorService = getExecutorService(conf);
+    HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
+    log("INFO", "Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
+    server.setExecutor(executorService);
+    server.createContext(conf.urlPath, new MyHandler());
+    server.setExecutor(null);
+    server.start();
+    
   }
 
   static class MyHandler implements HttpHandler {
@@ -162,6 +167,18 @@ public class EngCatServer {
           e.printStackTrace();
         }
       }, false);
+  }
+
+  private static void printCounts() {
+    for (String langcode : Arrays.asList("eng", "cat")) {
+      int total = 0;
+      for (char lletra = 'a'; lletra <= 'z'; lletra++) {
+        int mida = dict.getIndex(String.valueOf(langcode+"-"+lletra)).size;
+        System.out.println(langcode+"\t"+lletra+"\t"+ String.valueOf(mida));
+        total += mida;
+      }
+      System.out.println(langcode+"\ttotal\t"+ String.valueOf(total));
+    }
   }
 
 }

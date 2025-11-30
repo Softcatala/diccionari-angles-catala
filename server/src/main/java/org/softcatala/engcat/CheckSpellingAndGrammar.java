@@ -25,7 +25,7 @@ public class CheckSpellingAndGrammar {
     lt.disableRules(disabledRules);
   }
 
-  public static void check(List<Entry> entries) throws Exception {
+  public void check(List<Entry> entries) throws Exception {
 
     for (Entry e : entries) {
       if (!e.done) {
@@ -48,14 +48,14 @@ public class CheckSpellingAndGrammar {
 
   }
 
-  private static void checkText(String text) throws IOException {
+  private void checkText(String text) throws IOException {
     List<RuleMatch> matches = lt.check(text);
     for (RuleMatch match : matches) {
       writeOutput(match.getSentence().getText() + " ; " + match.getRule().getFullId() + " ; " + match.getSuggestedReplacements().toString());
     }
   }
 
-  private static void writeOutput(String sentence) {
+  private void writeOutput(String sentence) {
     try (BufferedWriter escriptor = new BufferedWriter(new FileWriter(outputFile, true))) {
       escriptor.write(sentence);
       escriptor.newLine();

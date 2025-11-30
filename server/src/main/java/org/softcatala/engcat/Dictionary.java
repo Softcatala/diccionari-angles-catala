@@ -15,7 +15,6 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.text.Normalizer;
 import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -29,14 +28,16 @@ import java.util.TreeMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import static org.softcatala.engcat.Utils.*;
+
 public class Dictionary {
 
   // Llista amb totes les entrades carregades dels fitxers XML
-  private List<Entry> entries = new ArrayList<>();
+  private List<Entry> xmlEntries = new ArrayList<>();
   // Índex de paraules i totes les entrades on apareixen
-  private List<HashMap<String, List<Entry>>> indexWordEntries = Arrays.asList(new HashMap<String, List<Entry>>(), new HashMap<String, List<Entry>>());
+  private List<HashMap<String, List<Entry>>> indexWordToEntries = Arrays.asList(new HashMap<String, List<Entry>>(), new HashMap<String, List<Entry>>());
   // Índex de cadenes de cerca i llistes de lemes coincidents
-  private List<HashMap<String, List<Lemma>>> indexWordLemmas = Arrays.asList(new HashMap<String, List<Lemma>>(), new HashMap<String, List<Lemma>>());
+  private List<HashMap<String, List<Lemma>>> indexWordToLemmas = Arrays.asList(new HashMap<String, List<Lemma>>(), new HashMap<String, List<Lemma>>());
   
   // Índex alfabètic de paraules
   public List<IndexOfWords> indexWords = Arrays.asList(new IndexOfWords(), new IndexOfWords());
@@ -54,26 +55,36 @@ public class Dictionary {
     for (File file : files) {
       if (file.getName().endsWith(".xml")) {
         saxParser.parse(file, handler);
-        entries.addAll(handler.getEntries());
+        xmlEntries.addAll(handler.getEntries());
       }
     }
+    long endTime = System.currentTimeMillis();
+    EngCatServer.log("INFO", "Loaded " + xmlEntries.size() + " entries from files in: " + conf.srcFolderPath + " in "
+        + (endTime - startTime) + " ms");
     // Carreguem les stop words per a cada llengua
     stopWords.add(new HashSet<String>(Files.readAllLines(Paths.get(conf.engStopWordFilePath), Charset.forName("UTF-8"))));
     EngCatServer.log("INFO", "Loaded " + stopWords.get(0).size() + " stop words for English from file: " + conf.engStopWordFilePath);
     stopWords.add(new HashSet<String>(Files.readAllLines(Paths.get(conf.catStopWordFilePath), Charset.forName("UTF-8"))));
     EngCatServer.log("INFO", "Loaded " + stopWords.get(1).size() + " stop words for Catalan from file: " + conf.catStopWordFilePath);
 
-    long endTime = System.currentTimeMillis();
-    createIndex();
-    EngCatServer.log("INFO", "Loaded " + entries.size() + " entries from files in: " + conf.srcFolderPath + " in "
-        + (endTime - startTime) + " ms");
-    
+    EngCatServer.log("INFO", "Creating indexes.");
+
     // Generem els índexs de cerca
     startTime = System.currentTimeMillis();
-    generateIndexWordEntries();
-    generateIndexWordLemmas();
+    createIndex();
     endTime = System.currentTimeMillis();
-    EngCatServer.log("INFO", "Created search indices in " + (endTime - startTime) + " ms");
+    EngCatServer.log("INFO", "Created general index in " + (endTime - startTime) + " ms");
+
+    startTime = System.currentTimeMillis();
+    generateWordToEntriesIndex();
+    endTime = System.currentTimeMillis();
+    EngCatServer.log("INFO", "Created word-to-entries index in " + (endTime - startTime) + " ms");
+
+    startTime = System.currentTimeMillis();
+    generateWordToLemmasIndex();
+    endTime = System.currentTimeMillis();
+    EngCatServer.log("INFO", "Created word-to-lemmas index in " + (endTime - startTime) + " ms");
+
   }
 
   /**
@@ -85,21 +96,20 @@ public class Dictionary {
   Response getResponse(String searchWord) throws IOException {
     long startTime = System.currentTimeMillis();
     Response response = new Response();
-    searchWord = normalizeWhitespaces(searchWord).replace("’", "'");
+    searchWord = Utils.normalizeWhitespaces(searchWord).replace("’", "'");
     response.searchedWord = searchWord;
 
-    // Cerca sense diacrítics i sense puntuació
-    String searchWordNoDiacritics = removeDiacritics(searchWord.toLowerCase());
-    // dos modes: esborrem la puntuació o la reemplacem per espais
-    String searchWordNoPunctuation = replacePunctuation(searchWordNoDiacritics, "");
-    String searchWordPunctuationToSpace = normalizeWhitespaces(replacePunctuation(searchWordNoDiacritics, " "));
-    String escapedSearchWord;
-    if (searchWordPunctuationToSpace.equals(searchWordNoPunctuation)) {
-      escapedSearchWord = "(" + Pattern.quote(searchWordNoPunctuation) + ")";
-    } else {
-      escapedSearchWord = "(" + Pattern.quote(searchWordNoPunctuation) + "|" + Pattern.quote(searchWordPunctuationToSpace) + ")";
+    // Cerca sense diacrítics, sense puntuació, sense espais
+    StringBuilder searchStrBuilder = new StringBuilder();
+    searchStrBuilder.append("(");
+    for (String s : wordFormsToSearch(searchWord.toLowerCase())) {
+        if (searchStrBuilder.length()>1) {
+          searchStrBuilder.append("|");
+        }
+      searchStrBuilder.append(Pattern.quote(s));
     }
-
+    searchStrBuilder.append(")");
+    String escapedSearchWord = searchStrBuilder.toString();
     // Si la cerca és una stop word, la limitem a coincidències exactes per a la llengua en qüestió
     List<Pattern> patternToSearch = new ArrayList<>();
     for (int l = 0; l < 2; l++) {
@@ -112,7 +122,8 @@ public class Dictionary {
 
     // Cerca el patró a l'índex de lemes
     for (int l = 0; l < 2; l++) {
-      for (String wordForm : indexWordLemmas.get(l).keySet()) {
+
+      for (String wordForm : indexWordToLemmas.get(l).keySet()) {
         Matcher m = patternToSearch.get(l).matcher(wordForm);
         if (m.matches()) {
           int groupCount = m.groupCount();
@@ -122,7 +133,7 @@ public class Dictionary {
               continue;
             }
           }
-          addToResponse(response, l, indexWordLemmas.get(l).get(wordForm));
+          addToResponse(response, l, indexWordToLemmas.get(l).get(wordForm));
         }
       }
     }
@@ -134,30 +145,6 @@ public class Dictionary {
       response.canonicalLemma=canonical;
     }
     return response;
-  }
-
-  /**
-  * Genera una llista de cadenes de cerca a partir de les formes d'una paraula.
-
-  * @param  w   paraula
-  * @return     llista de cadenes de cerca
-  */
-  private List<String> wordFormsToSearch(Word w) {
-    List<String> wordForms = new ArrayList<>();
-    // Generem variants de totes les formes
-    for (String form : w.forms) {
-      // Forma sense diacrítics
-      String formNoDiacritics = removeDiacritics(form);
-      // Forma sense puntuació
-      String formNoPunctuation = replacePunctuation(formNoDiacritics, "");
-      wordForms.add(formNoPunctuation);
-      // Forma amb espais en comptes de puntuació
-      String formPunctuationToSpace = normalizeWhitespaces(replacePunctuation(formNoDiacritics, " "));
-      if (!wordForms.contains(formPunctuationToSpace)) {
-        wordForms.add(formPunctuationToSpace);
-      }
-    }
-    return wordForms;
   }
 
   /**
@@ -241,15 +228,15 @@ public class Dictionary {
   /**
   * Genera l'índex d'entrades.
   */
-  private void generateIndexWordEntries() {
-    for (Entry entry : entries) {
+  private void generateWordToEntriesIndex() {
+    for (Entry entry : xmlEntries) {
       for (int l = 0; l < 2; l++) {
         for (Word word : entry.words[l]) {
-          if (!indexWordEntries.get(l).containsKey(word.text)) {
-            indexWordEntries.get(l).put(word.text, new ArrayList<>(Arrays.asList(entry)));
+          if (!indexWordToEntries.get(l).containsKey(word.text)) {
+            indexWordToEntries.get(l).put(word.text, new ArrayList<>(Arrays.asList(entry)));
           }
           else {
-            indexWordEntries.get(l).get(word.text).add(entry);
+            indexWordToEntries.get(l).get(word.text).add(entry);
           }
         }
       }
@@ -259,20 +246,44 @@ public class Dictionary {
   /**
   * Genera l'índex de lemes.
   */
-  private void generateIndexWordLemmas() {
+  private void generateWordToLemmasIndex() {
     for (int l = 0; l < 2; l++) {
-      for (String w : indexWordEntries.get(l).keySet()) {
-        for (Entry iEntry : indexWordEntries.get(l).get(w)) {
+      for (String w : indexWordToEntries.get(l).keySet()) {
+        for (Entry iEntry : indexWordToEntries.get(l).get(w)) {
           Word baseWord = new Word();
           for (Word word : iEntry.words[l]) {
             if (word.text.equals(w)) {
               baseWord = new Word(word, iEntry.area);
             }
           }
-          // Afegim totes les formes
+          List<String> possibleAbbreviations = getAllAbbreviations(iEntry.words[l]);
+          indexWordToLemmas.get(l).putIfAbsent(baseWord.text, new ArrayList<>());
+          addToLemmaList(indexWordToLemmas.get(l).get(baseWord.text), l, baseWord, iEntry);
+          // Afegim totes les formes, amb les mateixes llistes de lemes (sense crear objectes nous)
           for (String wordForm : wordFormsToSearch(baseWord)) {
-            indexWordLemmas.get(l).putIfAbsent(wordForm, new ArrayList<>());
-            addToLemmaList(indexWordLemmas.get(l).get(wordForm), l, baseWord, iEntry);
+            if (wordForm.equalsIgnoreCase(baseWord.text)) {
+              continue;
+            }
+            if (indexWordToLemmas.get(l).containsKey(wordForm) ) {
+              addToLemmaList(indexWordToLemmas.get(l).get(wordForm), l, baseWord, iEntry);
+            } else {
+              if (possibleAbbreviations.contains(wordForm)) {
+                // Si és una abreviatura sí que creem un objecte diferent per si de cas.
+                // Hi ha paraules sense relació que comparteixen abreviació
+                // TODO: pot haver-hi problemes amb altres formes: plurals, femenins, etc.
+                indexWordToLemmas.get(l).putIfAbsent(wordForm, new ArrayList<>());
+                addToLemmaList(indexWordToLemmas.get(l).get(wordForm), l, baseWord, iEntry);
+              }
+              else {
+                // En la resta de casos, aprofitem l'objecte que ja tenim, i no en construïm un de nou.
+                indexWordToLemmas.get(l).put(wordForm, indexWordToLemmas.get(l).get(baseWord.text));
+              }
+            }
+          }
+          // cerca per nom científic; creem una llista de lemes diferents, per a evitar barreges de lemes
+          if (!iEntry.scientific_name.isEmpty()) {
+            indexWordToLemmas.get(l).putIfAbsent(iEntry.scientific_name.toLowerCase(), new ArrayList<>());
+            addToLemmaList(indexWordToLemmas.get(l).get(iEntry.scientific_name.toLowerCase()), l, baseWord, iEntry);
           }
         }
       }
@@ -291,7 +302,7 @@ public class Dictionary {
       SortedMap<String, List<Lemma>> wordsLemmas = new TreeMap<String, List<Lemma>>();
       for (List<String> letter : indexWords.get(l).map.values()) {
         for (String word : letter) {
-          wordsLemmas.put(word, indexWordLemmas.get(l).get(word));
+          wordsLemmas.put(word, indexWordToLemmas.get(l).get(word));
         }
       }
       String outputFile = "";
@@ -341,7 +352,7 @@ public class Dictionary {
   * Crea l'índex alfabètic amb totes les paraules de la llista d'entrades.
   */
   public void createIndex() throws ParseException {
-    for (Entry e : entries) {
+    for (Entry e : xmlEntries) {
       if (!e.type.equals("sentence")) {
         for (int l = 0; l < 2; l++) {
           for (Word w : e.words[l]) {
@@ -377,59 +388,15 @@ public class Dictionary {
     return index;
   }
 
-  /**
-  * Comprova si una paraula és una "stop word".
-
-  * @param  word           paraula
-  * @param  stopWordList   llista de "stop words"
-  * @return                booleà amb el resultat de la comprovació
-  */
-  boolean isStopWord(String word, HashSet<String> stopWordList) {
-    if (word.length()<3 || word.endsWith(".")) {
-      return true;
-    }
-    for (String stopWord : stopWordList) {
-      if (word.equalsIgnoreCase(stopWord)) {
-        return true;
-      }
-    }
-    return false;
-  }
-
-  private static final Pattern PUNCTUATION_PATTERN = Pattern.compile("\\p{Punct}");
-  private static final Pattern DIACRITICS_PATTERN = Pattern.compile("\\p{M}");
-  private static final Pattern SPACES_PATTERN = Pattern.compile("\\s\\s+");
-
-  String removeDiacritics(String input) {
-    String normalized = Normalizer.normalize(input, Normalizer.Form.NFD);
-    return DIACRITICS_PATTERN.matcher(normalized).replaceAll("");
-  }
-
-  String replacePunctuation(String input, String replacement) {
-    return PUNCTUATION_PATTERN.matcher(input).replaceAll(replacement);
-  }
-
-  String normalizeWhitespaces(String input) {
-    return SPACES_PATTERN.matcher(input).replaceAll(" ").trim();
-  }
 
   public List<Entry> getEntries() {
-    return entries;
+    return xmlEntries;
+  }
+
+  public void cleanMemory() {
+    xmlEntries = null;
+    indexWordToEntries = null;
+    // Imprescindibles per al servidor en producció: indexWordToLemmas, stopWords i indexWords
+
   }
 }
-
-
-    /*for (Word translatedWord : translatedWords) {
-      boolean translatedWordFound = false;
-      for (Word tw : lemma.translatedWords) {
-        if (tw.equals(translatedWord)) {
-          tw.addOcurrence();
-          translatedWordFound = true;
-          lemma.sortByOccurrences();
-          break;
-        }
-      }
-      if (!translatedWordFound) {
-        lemma.translatedWords.add(translatedWord);
-      }
-    }*/
