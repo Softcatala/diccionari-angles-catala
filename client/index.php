@@ -21,6 +21,9 @@ body{
 .smallcaps {
   font-variant: small-caps;
 }
+.variantssmall {
+  font-size: 70%;
+}
 .italics {
   font-style: italic;
 }
@@ -68,7 +71,7 @@ margin:0 0 0.2em 0;
 
 <script type="text/javascript">
 var api = "http://localhost:8084/search/";
-var root = "http://localhost/engcat/index.php/"
+var root = "http://localhost/engcat/index.php/";
 var path = location.pathname;
 var pathparts = path.split("/")
 var word = decodeURI(pathparts[pathparts.length - 1]).replace(/[^0-9\/a-zA-ZàáèéìíòóùúïüÀÁÈÉÌÍÙÚÒÓÜÏçÇñÑ·\s\-\'’\.]/gi, '');
@@ -196,7 +199,6 @@ function prepareLemmaHeading(word) {
   }
   var fullGTag = fullGrammarTag(word)
   output +='&nbsp;<span class="italics">' + fullGTag + '</span>&nbsp;';
-  output += '</h2>';
   if (word.plural) {
     output += ' [pl. '+word.plural+'] ';
   }
@@ -209,6 +211,19 @@ function prepareLemmaHeading(word) {
   if (word.remark) {
     output += ' [&rArr; '+word.remark+'] ';
   }
+  if (word.alternativeForms) {
+    output += '<br/><span class="variantssmall">';
+    var separator = "";
+    for (var alternativeForm of word.alternativeForms) {
+      output += separator + alternativeForm.text;
+      if (alternativeForm.tags) {
+        output += " ["+alternativeForm.tags+"]";
+      }
+      separator = "; "
+    }
+    output += '</span>';
+  }
+  output += '</h2>';
   return output.trim();
 }
 
