@@ -117,15 +117,9 @@
       <eng class="n">privileged few</eng>
       <cat class="f">minoria privilegiada</cat>
     </e>
-    <e src="" type="sentence" area="economia" done="yes">
-      <eng class="n">shortage of employment</eng>
-      <cat class="f">falta d'ocupació</cat>
-    </e>
-    <e src="" type="word" area="economia" done="yes">
-      <eng class="n">job shortage</eng>
-      <eng class="n">shortage of work</eng>
-      <cat class="f">escassetat de feina</cat>
-      <cat class="f">manca de treball</cat>
+    <e src="" type="word" done="yes">
+      <eng class="adv">properly speaking</eng>
+      <cat class="adv">objectivament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">site-specific art</eng>

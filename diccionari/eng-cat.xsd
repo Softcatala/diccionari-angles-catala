@@ -54,23 +54,21 @@
           <xs:list>
             <xs:simpleType>
               <xs:restriction base="xs:NMTOKEN">
-                <xs:enumeration value="indústria_energia_" />
+                <xs:enumeration value="agricultura_" />
                 <xs:enumeration value="biologia_" />
-                <xs:enumeration value="enginyeria_forestal_" />
                 <xs:enumeration value="enginyeria_forestal" />
+                <xs:enumeration value="enginyeria_forestal_" />
+                <xs:enumeration value="humanitats_" />
+                <xs:enumeration value="indústria_energia_" />
+                <xs:enumeration value="informàtica_" />
                 <xs:enumeration value="medicina_" />
                 <xs:enumeration value="paraules_clau_" />
                 <xs:enumeration value="telecomunicacions_" />
-                <xs:enumeration value="humanitats_" />
-                <xs:enumeration value="informàtica_" />
-                <xs:enumeration value="agricultura_" />
                 <xs:enumeration value="_" />
-                <xs:enumeration value="topònim" />
                 <xs:enumeration value="administració" />
                 <xs:enumeration value="aeronàutica" />
                 <xs:enumeration value="agricultura" />
                 <xs:enumeration value="alimentació" />
-                <xs:enumeration value="pastisseria" />
                 <xs:enumeration value="alquímia" />
                 <xs:enumeration value="ampelonímia" />
                 <xs:enumeration value="anatomia" />
@@ -90,6 +88,7 @@
                 <xs:enumeration value="avicultura" />
                 <xs:enumeration value="basquetbol" />
                 <xs:enumeration value="begudes" />
+                <xs:enumeration value="beisbol" />
                 <xs:enumeration value="bibliologia" />
                 <xs:enumeration value="biblioteconomia" />
                 <xs:enumeration value="biologia" />
@@ -97,15 +96,18 @@
                 <xs:enumeration value="bombers" />
                 <xs:enumeration value="borsa" />
                 <xs:enumeration value="botànica" />
+                <xs:enumeration value="boxa" />
                 <xs:enumeration value="caça" />
                 <xs:enumeration value="calçat" />
                 <xs:enumeration value="cartes" />
                 <xs:enumeration value="cartografia" />
                 <xs:enumeration value="castells" />
+                <xs:enumeration value="catolicisme" />
                 <xs:enumeration value="cavalleria" />
                 <xs:enumeration value="ceràmica" />
                 <xs:enumeration value="ciclisme" />
                 <xs:enumeration value="cinematografia" />
+                <xs:enumeration value="circ" />
                 <xs:enumeration value="cítrics" />
                 <xs:enumeration value="colors" />
                 <xs:enumeration value="comerç" />
@@ -117,16 +119,19 @@
                 <xs:enumeration value="corpus" />
                 <xs:enumeration value="correus" />
                 <xs:enumeration value="cristal·lografia" />
+                <xs:enumeration value="cristianisme" />
                 <xs:enumeration value="cronologia" />
                 <xs:enumeration value="cuina" />
                 <xs:enumeration value="dansa" />
+                <xs:enumeration value="decoració" />
+                <xs:enumeration value="demografia" />
                 <xs:enumeration value="dibuix" />
                 <xs:enumeration value="dret" />
                 <xs:enumeration value="ecologia" />
                 <xs:enumeration value="economia" />
                 <xs:enumeration value="electricitat_i_electrònica" />
+                <xs:enumeration value="electrònica" />
                 <xs:enumeration value="electrotècnia" />
-                <xs:enumeration value="finances" />
                 <xs:enumeration value="empresa" />
                 <xs:enumeration value="energia" />
                 <xs:enumeration value="enginyeria" />
@@ -135,23 +140,14 @@
                 <xs:enumeration value="escacs" />
                 <xs:enumeration value="escoltisme" />
                 <xs:enumeration value="escriptura" />
-                <xs:enumeration value="espectacles" />
-                <xs:enumeration value="circ" />
-                <xs:enumeration value="esports" />
-                <xs:enumeration value="muntanyisme" />
-                <xs:enumeration value="boxa" />
-                <xs:enumeration value="gimnàstica" />
-                <xs:enumeration value="judo" />
-                <xs:enumeration value="hoquei" />
-                <xs:enumeration value="voleibol" />
                 <xs:enumeration value="esgrima" />
+                <xs:enumeration value="espectacles" />
+                <xs:enumeration value="esports" />
+                <xs:enumeration value="taekwondo" />
+                <xs:enumeration value="waterpolo" />
+                <xs:enumeration value="atletisme" />
+                <xs:enumeration value="eines" />
                 <xs:enumeration value="esquí" />
-                <xs:enumeration value="golf" />
-                <xs:enumeration value="beisbol" />
-                <xs:enumeration value="tenis" />
-                <xs:enumeration value="pilota_valenciana" />
-                <xs:enumeration value="futbol_americà" />
-                <xs:enumeration value="futbol" />
                 <xs:enumeration value="estadística" />
                 <xs:enumeration value="estètica" />
                 <xs:enumeration value="ètica" />
@@ -160,30 +156,39 @@
                 <xs:enumeration value="ferreteria" />
                 <xs:enumeration value="ferrocarrils" />
                 <xs:enumeration value="filosofia" />
+                <xs:enumeration value="finances" />
                 <xs:enumeration value="física" />
                 <xs:enumeration value="fisiologia" />
                 <xs:enumeration value="fotografia" />
                 <xs:enumeration value="fusteria" />
+                <xs:enumeration value="futbol" />
+                <xs:enumeration value="futbol_americà" />
                 <xs:enumeration value="genealogia" />
                 <xs:enumeration value="genètica" />
                 <xs:enumeration value="gentilicis" />
                 <xs:enumeration value="geografia" />
                 <xs:enumeration value="geologia" />
                 <xs:enumeration value="geometria" />
+                <xs:enumeration value="gimnàstica" />
+                <xs:enumeration value="golf" />
                 <xs:enumeration value="handbol" />
                 <xs:enumeration value="heràldica" />
                 <xs:enumeration value="hidrologia" />
                 <xs:enumeration value="hípica" />
                 <xs:enumeration value="història" />
                 <xs:enumeration value="homeopatia" />
+                <xs:enumeration value="hoquei" />
                 <xs:enumeration value="ictiologia" />
                 <xs:enumeration value="indumentària" />
                 <xs:enumeration value="indústria" />
                 <xs:enumeration value="informàtica" />
                 <xs:enumeration value="internet" />
+                <xs:enumeration value="islam" />
                 <xs:enumeration value="jardineria" />
                 <xs:enumeration value="jocs" />
                 <xs:enumeration value="joieria" />
+                <xs:enumeration value="judaisme" />
+                <xs:enumeration value="judo" />
                 <xs:enumeration value="lingüística" />
                 <xs:enumeration value="literatura" />
                 <xs:enumeration value="llengües" />
@@ -205,7 +210,9 @@
                 <xs:enumeration value="mobiliari" />
                 <xs:enumeration value="motociclisme" />
                 <xs:enumeration value="muixeranga" />
+                <xs:enumeration value="muntanyisme" />
                 <xs:enumeration value="música" />
+                <xs:enumeration value="acústica" />
                 <xs:enumeration value="nàutica" />
                 <xs:enumeration value="nucleònica" />
                 <xs:enumeration value="numismàtica" />
@@ -222,6 +229,7 @@
                 <xs:enumeration value="paleografia" />
                 <xs:enumeration value="paleontologia" />
                 <xs:enumeration value="papereria" />
+                <xs:enumeration value="pastisseria" />
                 <xs:enumeration value="patologia" />
                 <xs:enumeration value="pedagogia" />
                 <xs:enumeration value="peixos" />
@@ -230,6 +238,8 @@
                 <xs:enumeration value="periodisme" />
                 <xs:enumeration value="perruqueria" />
                 <xs:enumeration value="pesca" />
+                <xs:enumeration value="pilota_basca" />
+                <xs:enumeration value="pilota_valenciana" />
                 <xs:enumeration value="pintura" />
                 <xs:enumeration value="pirotècnia" />
                 <xs:enumeration value="poètica" />
@@ -243,10 +253,6 @@
                 <xs:enumeration value="ramaderia" />
                 <xs:enumeration value="recerca" />
                 <xs:enumeration value="religió" />
-                <xs:enumeration value="judaisme" />
-                <xs:enumeration value="cristianisme" />
-                <xs:enumeration value="catolicisme" />
-                <xs:enumeration value="islam" />
                 <xs:enumeration value="rellotgeria" />
                 <xs:enumeration value="retòrica" />
                 <xs:enumeration value="sericicultura" />
@@ -258,9 +264,11 @@
                 <xs:enumeration value="teatre" />
                 <xs:enumeration value="tecnologia" />
                 <xs:enumeration value="telecomunicacions" />
+                <xs:enumeration value="tenis" />
                 <xs:enumeration value="tèxtil" />
                 <xs:enumeration value="tipografia" />
                 <xs:enumeration value="topografia" />
+                <xs:enumeration value="topònim" />
                 <xs:enumeration value="tractaments" />
                 <xs:enumeration value="transports" />
                 <xs:enumeration value="turisme" />
@@ -269,6 +277,7 @@
                 <xs:enumeration value="veterinària" />
                 <xs:enumeration value="videojocs" />
                 <xs:enumeration value="vidre" />
+                <xs:enumeration value="voleibol" />
                 <xs:enumeration value="zoologia" />
               </xs:restriction>
             </xs:simpleType>
@@ -295,6 +304,11 @@
       <xs:attribute name="def_eng">
         <xs:annotation>
           <xs:documentation>english definition of the concept</xs:documentation>
+        </xs:annotation>
+      </xs:attribute>
+      <xs:attribute name="scientific_name">
+        <xs:annotation>
+          <xs:documentation>scientific name for plants, animals</xs:documentation>
         </xs:annotation>
       </xs:attribute>
       <xs:attribute name="done" use="required">
@@ -408,7 +422,9 @@
                     <xs:enumeration value="Swedish" />
                     <xs:enumeration value="humorous" />
                     <xs:enumeration value="abbreviation" />
+                    <xs:enumeration value="clipping" />
                     <xs:enumeration value="acronym" />
+                    <xs:enumeration value="initialism" />
                     <xs:enumeration value="symbol" />
                     <xs:enumeration value="contraction" />
                     <xs:enumeration value="dialectal" />
@@ -421,16 +437,19 @@
                     <xs:enumeration value="attributive" />
                     <xs:enumeration value="technical" />
                     <xs:enumeration value="ironically" />
-                    <xs:enumeration value="scientific_name" />
                     <xs:enumeration value="by_extension" />
                     <xs:enumeration value="euphemism" />
                     <xs:enumeration value="nonstandard" />
                     <xs:enumeration value="trademark" />
                     <xs:enumeration value="Korean" />
-                    <xs:enumeration value="Roman" /><!-- Per als numerals romans -->
-                    <xs:enumeration value="accusative" /><!-- Per als pronoms -->
-                    <xs:enumeration value="dative" /><!-- Per als pronoms -->
-                    <xs:enumeration value="reflexive" /><!-- Per als pronoms -->
+                    <xs:enumeration value="Roman" />
+                    <!-- Per als numerals romans -->
+                    <xs:enumeration value="accusative" />
+                    <!-- Per als pronoms -->
+                    <xs:enumeration value="dative" />
+                    <!-- Per als pronoms -->
+                    <xs:enumeration value="reflexive" />
+                    <!-- Per als pronoms -->
                   </xs:restriction>
                 </xs:simpleType>
               </xs:list>
@@ -440,6 +459,17 @@
           <xs:attribute name="plural" />
           <xs:attribute name="before" />
           <xs:attribute name="after" />
+          <xs:attribute name="primary">
+            <xs:annotation>
+              <xs:documentation>for internal use only; this form will be the main lemma, all other forms won't be lemmas</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+              <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="yes" />
+                <xs:enumeration value="no" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
         </xs:extension>
       </xs:simpleContent>
     </xs:complexType>
@@ -531,6 +561,7 @@
                     <xs:enumeration value="alemany" />
                     <xs:enumeration value="italià" />
                     <xs:enumeration value="francès" />
+                    <xs:enumeration value="neerlandès" />
                     <xs:enumeration value="castellà" />
                     <xs:enumeration value="japonès" />
                     <xs:enumeration value="castellanisme" />
@@ -552,21 +583,26 @@
                     <xs:enumeration value="recomanat" />
                     <xs:enumeration value="infantil" />
                     <xs:enumeration value="despectiu" />
+                    <xs:enumeration value="escurçament" />
                     <xs:enumeration value="per_extensió" />
                     <xs:enumeration value="valor_adverbial" />
                     <xs:enumeration value="generalització" />
                     <xs:enumeration value="eufemisme" />
                     <xs:enumeration value="hiperbòlic" />
-                    <xs:enumeration value="scientific_name" />
                     <xs:enumeration value="impròpiament" />
                     <xs:enumeration value="coreà" />
-                    <xs:enumeration value="diacrítics_tradicionals" />
+                    <!--<xs:enumeration value="diacrítics_tradicionals" />-->
                     <xs:enumeration value="tècnicament" />
-                    <xs:enumeration value="romà" /><!-- Per als numerals romans -->
+                    <xs:enumeration value="romà" />
+                    <!-- Per als numerals romans -->
                     <xs:enumeration value="onomatopeia" />
-                    <xs:enumeration value="acusatiu" /><!-- Per als pronoms -->
-                    <xs:enumeration value="datiu" /><!-- Per als pronoms -->
-                    <xs:enumeration value="reflexiu" /><!-- Per als pronoms -->
+                    <xs:enumeration value="acusatiu" />
+                    <!-- Per als pronoms -->
+                    <xs:enumeration value="datiu" />
+                    <!-- Per als pronoms -->
+                    <xs:enumeration value="reflexiu" />
+                    <!-- Per als pronoms -->
+                    <xs:enumeration value="ortografia_2017" />
                   </xs:restriction>
                 </xs:simpleType>
               </xs:list>
@@ -576,6 +612,17 @@
           <xs:attribute name="plural" />
           <xs:attribute name="before" />
           <xs:attribute name="after" />
+          <xs:attribute name="primary">
+            <xs:annotation>
+              <xs:documentation>for internal use only; this form will be the main lemma, all other forms won't be lemmas</xs:documentation>
+            </xs:annotation>
+            <xs:simpleType>
+              <xs:restriction base="xs:NMTOKEN">
+                <xs:enumeration value="yes" />
+                <xs:enumeration value="no" />
+              </xs:restriction>
+            </xs:simpleType>
+          </xs:attribute>
           <!--<xs:attribute name="area"/>-->
         </xs:extension>
       </xs:simpleContent>

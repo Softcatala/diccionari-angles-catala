@@ -2,6 +2,514 @@
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
     <e src="" done="yes">
+      <eng class="expr">it is nice to meet you</eng>
+      <eng class="expr">nice to meet you</eng>
+      <cat class="expr">m'alegro de conèixer-te</cat>
+      <cat class="expr">molt de gust de conèixer-te</cat>
+      <cat class="expr">he tingut molt de gust de conèixer-te</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="sfx">-looking</eng>
+      <cat class="expr">d'aire</cat>
+      <cat class="expr">d'aspecte</cat>
+      <example sent_eng="carefree-looking" sent_cat="d'aspecte despreocupat" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="figurative">to see the light</eng>
+      <cat class="expr" tags="figurat">obrir els ulls</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">the scales fall from someone's eyes</eng>
+      <cat class="expr">caure la bena dels ulls</cat>
+      <example sent_eng="Then the scales fell from his eyes." sent_cat="Llavors li va caure la bena dels ulls" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" grammar="intr">to pour down</eng>
+      <eng class="expr">to rain cats and dogs</eng>
+      <eng class="expr" tags="colloquial">to rain buckets</eng>
+      <eng class="expr" tags="UK colloquial">to pelt it down</eng>
+      <eng class="expr" tags="UK colloquial">to chuck it down</eng>
+      <eng class="expr" tags="colloquial">to throw it down</eng>
+      <cat class="v" grammar="intr">diluviar</cat>
+      <cat class="expr">ploure a bots i barrals</cat>
+      <cat class="expr">ploure a poalades</cat>
+      <cat class="expr">caure un xàfec</cat>
+      <cat class="expr">caure un aiguat</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">God knows</eng>
+      <cat class="expr">Déu sap</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">one door closes and another one opens</eng>
+      <cat class="expr">Déu tanca una porta i n'obre una altra</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to render unto Caesar the things which are Caesar's and unto God the things that are God's</eng>
+      <cat class="expr">donar a Déu el que és de Déu i al Cèsar el que és del Cèsar</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">praise be to God</eng>
+      <cat class="expr">lloat sia Déu</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">all one could do</eng>
+      <cat class="expr">Déu i ajut</cat>
+      <example sent_eng="It was all one could do to convince her" sent_cat="Va necessitar Déu i ajut per a convèncer-la." />
+    </e>
+    <e src="" done="yes">
+      <eng class="ij">God be with you</eng>
+      <cat class="ij">ves en nom de Déu</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">throwing caution to the winds</eng>
+      <cat class="expr">sense encomanar-se a Déu ni al diable </cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">God above</eng>
+      <cat class="ij">Déu del cel</cat>
+      <cat class="ij">bon Déu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">God bless it</eng>
+      <cat class="ij">vatua Déu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">God bless you</eng>
+      <cat class="ij">pobre</cat>
+      <cat class="ij">que no et passi res</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">God above</eng>
+      <cat class="expr">el Déu del cel</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">for God's sake</eng>
+      <eng class="expr">for heaven's sake</eng>
+      <cat class="expr">per l'amor de Déu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">God willing</eng>
+      <cat class="expr">si Déu vol</cat>
+      <cat class="expr">amb l'ajuda de Déu</cat>
+      <cat class="expr">si a Déu plau</cat>
+      <cat class="expr">Déu volent</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">time will tell</eng>
+      <eng class="expr">only time will tell</eng>
+      <cat class="expr">Déu dirà</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the sly</eng>
+      <cat class="adv">d'amagat</cat>
+      <cat class="adv">d'amagatotis</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">on the square</eng>
+      <cat class="expr">com Déu mana</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">in one's birthday suit</eng>
+      <cat class="expr">com Déu el va portar al món</cat>
+      <cat class="expr">amb el vestit d'Adam</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">God help me</eng>
+      <cat class="expr">que Déu m'empari</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">God help us</eng>
+      <cat class="expr">que Déu ens empari</cat>
+      <cat class="expr">que Déu ens agafi confessats</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">God helps those who help themselves</eng>
+      <cat class="expr">ajuda't, i Déu t'ajudarà</cat>
+      <cat class="expr">obrar bé i deixar fer Déu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">Heaven forbid</eng>
+      <eng class="ij">God forbid</eng>
+      <cat class="ij">Déu nos en guard</cat>
+      <cat class="ij">Déu no ho vulgui</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">off the top of one's head</eng>
+      <cat class="expr">sense pensar-hi gaire</cat>
+      <cat class="expr">així de cap</cat>
+      <cat class="expr">així de memòria</cat>
+      <cat class="expr">que em vingui al cap</cat>
+      <cat class="expr">així de cop</cat>
+      <cat class="adv">improvisadament</cat>
+      <example sent_eng="Tell me the first song that comes to mind off the top of your head." sent_cat="Digues-me la primera cançó que et vingui al cap." />
+      <example sent_eng="I can't think of any good examples off the top of my head." sent_cat="No se m'acut cap bon exemple així de cop." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">it's not a cakewalk</eng>
+      <cat class="expr">no és cap broma</cat>
+      <cat class="expr">no és fàcil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be a cakewalk</eng>
+      <eng class="expr">to be a doddle</eng>
+      <cat class="expr">ser bufar i fer ampolles</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">rest in peace</eng>
+      <eng class="expr" tags="Latin">requiescat in pace</eng>
+      <eng class="expr" tags="abbreviation">RIP</eng>
+      <cat class="expr">descansa en pau</cat>
+      <cat class="expr" tags="llatí">requiescat in pace</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to take the cake</eng>
+      <cat class="expr" tags="irònic">endur-se la palma</cat>
+      <cat class="expr" tags="irònic">emportar-se la palma</cat>
+      <cat class="expr">no tenir nom</cat>
+      <cat class="expr">no tenir perdó de Déu</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to drink the Kool-Aid</eng>
+      <cat class="expr">empassar-s'ho tot</cat>
+      <cat class="expr">creure-s'ho tot</cat>
+      <cat class="expr">seguir cegament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">a blessing in disguise</eng>
+      <cat class="expr">un mal menor</cat>
+      <cat class="expr">una sort en el fons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in collusion with</eng>
+      <cat class="expr">estar en connivència amb</cat>
+      <cat class="expr">obrar d'acord amb</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="informal">to be in cahoots with</eng>
+      <cat class="v" grammar="intr_pron" after="amb">entendre's</cat>
+      <cat class="v" grammar="intr_pron" after="amb">conxorxar-se</cat>
+      <cat class="v" grammar="intr" after="amb">complotar</cat>
+      <cat class="expr">fer conxorxa amb</cat>
+      <cat class="expr">estar conjurat amb</cat>
+      <cat class="expr">estar conxorxat amb</cat>
+      <cat class="expr">estar juramentat amb</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">be beholden to</eng>
+      <cat class="expr">tenir compromisos amb</cat>
+      <cat class="expr">estar obligat a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be indebted to</eng>
+      <cat class="expr">estar en deute a</cat>
+      <cat class="expr">quedar en deute a</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be perfectly adequate</eng>
+      <cat class="expr">fer el fet</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">God forbid</eng>
+      <cat class="expr">Déu nos en guard</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="n" tags="informal">fear of missing out</eng>
+      <eng class="n" tags="acronym informal">FOMO</eng>
+      <cat class="f">por de perdre's alguna cosa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to start from scratch</eng>
+      <cat class="expr">començar de zero</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">as the saying goes</eng>
+      <cat class="expr">com diu la dita</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="expr">to be in the know</eng>
+      <cat class="expr">estar al cas</cat>
+      <cat class="expr">estar al corrent</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="expr">to be in the know</eng>
+      <cat class="expr">saber el secret</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="expr">to be in the know</eng>
+      <cat class="v" grammar="tr">conèixer</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in the limelight</eng>
+      <cat class="expr">estar en escena</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be in the limelight</eng>
+      <cat class="expr">ser el centre d'atenció pública</cat>
+      <cat class="expr">ser el centre d'atenció</cat>
+    </e>
+    <e src="" type="word" done="yes" area="economia">
+      <eng class="expr">to put down a deposit</eng>
+      <eng class="expr">to pay a deposit</eng>
+      <cat class="expr">pagar una entrada</cat>
+    </e>
+    <e src="" type="word" done="yes" area="economia">
+      <eng class="expr">pay by installments</eng>
+      <eng class="expr">pay in installments</eng>
+      <cat class="expr">pagar a terminis</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">no risk it, no biscuit</eng>
+      <cat class="expr">qui no s'arrisca no pisca</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">it's early days</eng>
+      <cat class="expr">encara és d'hora</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to defy belief</eng>
+      <eng class="expr" tags="UK">to beggar belief</eng>
+      <cat class="expr">ser increïble</cat>
+      <cat class="expr">ser implausible</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">no way</eng>
+      <cat class="adv">de cap de les maneres</cat>
+      <cat class="adv">de cap manera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be two-faced</eng>
+      <cat class="expr">tenir dues cares</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be two-faced</eng>
+      <cat class="expr">tenir llunes</cat>
+      <cat class="expr">anar a dies</cat>
+      <cat class="expr">fer-ne una de freda i una de calenta</cat>
+      <cat class="expr">ser un penell</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to be one</eng>
+      <cat class="expr">ser tot u</cat>
+      <example sent_eng="Body and soul are one." sent_cat="Cos i ànima són tot u." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to cause a stir</eng>
+      <cat class="expr">provocar un enrenou</cat>
+      <cat class="expr">alçar polseguera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be economical with the truth</eng>
+      <cat class="expr">no dir tota la veritat</cat>
+      <cat class="expr">no acabar de dir tota la veritat</cat>
+      <cat class="expr">dir la veritat a mitges</cat>
+      <cat class="expr">dir mitges veritats</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be eerie</eng>
+      <cat class="expr">fer angúnia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to go all out</eng>
+      <cat class="expr">donar-ho tot</cat>
+      <cat class="expr">anar a totes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">of all time</eng>
+      <cat class="expr">de tots els temps</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to play footsie</eng>
+      <cat class="expr">fer peuets</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">half laughing half crying</eng>
+      <cat class="expr">mig plorant mig rient</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">half a brain</eng>
+      <cat class="expr">dos dits de seny</cat>
+      <cat class="expr">dos dits de front</cat>
+      <example sent_eng="He didn't have half a brain." sent_cat="No tenia dos dits de seny." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to chafe at the bit</eng>
+      <cat class="v" grammar="intr_pron" after="per">impacientar-se</cat>
+      <cat class="expr">mossegar-se els dits</cat>
+      <cat class="expr">rosegar-se els punys</cat>
+      <cat class="expr" tags="figurat">comptar les hores</cat>
+    </e>
+    <e src="" done="yes" type="expression">
+      <eng class="expr">pie in the sky</eng>
+      <eng class="expr">air castle</eng>
+      <eng class="expr">castle in the air</eng>
+      <eng class="expr">castle in Spain</eng>
+      <cat class="expr">castells en l'aire</cat>
+      <cat class="expr">castell de cartes</cat>
+      <cat class="expr">castell de vent</cat>
+    </e>
+    <e type="word" src="" done="yes">
+      <eng class="expr">to rest on your laurels</eng>
+      <cat class="expr">adormir-se sobre els llorers</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">it's a good thing</eng>
+      <cat class="expr">és una sort que</cat>
+      <cat class="expr">sort que</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">it's a hideous thing</eng>
+      <cat class="expr">és terrible</cat>
+      <cat class="expr">fa pena</cat>
+      <cat class="expr">fa fàstic</cat>
+      <cat class="expr">fa angúnia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">it's a long shot</eng>
+      <cat class="expr">seria molta casualitat</cat>
+      <cat class="expr">seria molta sort</cat>
+      <cat class="expr">és molt improbable</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to move the goalposts</eng>
+      <cat class="expr">canviar les regles del joc</cat>
+      <cat class="expr">moure els pals de la porteria</cat>
+      <cat class="expr">canviar les condicions</cat>
+      <cat class="expr">modificar els criteris</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a point</eng>
+      <cat class="expr">fer una puntualització</cat>
+      <cat class="v" grammar="tr">puntualitzar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a point</eng>
+      <cat class="expr">voler dir una cosa</cat>
+      <example sent_eng="I want to make a point." sent_cat="Vull dir una cosa." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a point</eng>
+      <cat class="expr" after="una cosa">deixar clar</cat>
+      <cat class="expr">demostrar una cosa</cat>
+      <example sent_eng="He's trying to make a point" sent_cat="Vol deixar clara una cosa." />
+      <example sent_eng="He's trying to make a point" sent_cat="Vol deixar-ho clar." />
+      <example sent_eng="He's trying to make a point" sent_cat="Vol deixar demostrar una cosa." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a case</eng>
+      <cat class="v" grammar="tr">argumentar</cat>
+      <cat class="expr">formular arguments</cat>
+      <cat class="expr">presentar arguments</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a case</eng>
+      <cat class="v" grammar="tr">argüir</cat>
+      <cat class="expr">donar raons</cat>
+      <cat class="expr">presentar raons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to make a strong case</eng>
+      <cat class="expr">donar arguments de pes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">every minute lost is a minute's cost</eng>
+      <cat class="expr">cada minut compta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">every law has a loophole</eng>
+      <cat class="expr">feta la llei, feta la trampa</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">every little bit helps</eng>
+      <cat class="expr">tota pedra fa paret</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="colloquial">every Tom, Dick and Harry</eng>
+      <cat class="expr" tags="col·loquial">tot déu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" tags="colloquial">every man and his dog</eng>
+      <eng class="expr" tags="colloquial">the world and his wife</eng>
+      <cat class="expr" tags="col·loquial">tot déu</cat>
+      <cat class="expr" tags="col·loquial">déu i sa mare</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">the people at large</eng>
+      <eng class="expr">the world at large</eng>
+      <cat class="pron">tothom</cat>
+      <cat class="m">el comú de la gent</cat>
+      <cat class="f">la gent en general</cat>
+      <cat class="expr" tags="col·loquial">tot déu</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to be at large</eng>
+      <cat class="expr">estar en llibertat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">every man for himself</eng>
+      <cat class="expr">campi qui pugui</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="of">every inch</eng>
+      <cat class="expr" after="de">cada detall de</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">every inch</eng>
+      <cat class="expr">de cap a peus</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="of">to come within an inch</eng>
+      <eng class="expr" after="of">to come within an ace</eng>
+      <cat class="expr" after="de">estar a punt</cat>
+      <cat class="expr" after="per a">faltar un pèl</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be within an inch of death</eng>
+      <eng class="expr">to be within an inch of one's life</eng>
+      <cat class="expr">tenir la vida en un fil</cat>
+      <cat class="expr">jugar-se la vida</cat>
+      <cat class="expr">entre la vida i la mort</cat>
+      <cat class="expr">fins al llindar de la mort</cat>
+    </e>
+    <e src="" type="word" done="yes" area="teatre">
+      <eng class="expr" tags="UK">to be word-perfect</eng>
+      <cat class="expr">tenir el paper ben après</cat>
+      <cat class="expr">saber-se perfectament el paper.</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be worldly</eng>
+      <cat class="expr">tenir món</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to be worth a fortune</eng>
+      <cat class="expr">valdre una fortuna</cat>
+      <cat class="expr">valdre tots els diners del món</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">let bygones be bygones</eng>
+      <cat class="expr">girem full</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">let alone</eng>
+      <cat class="expr">per no parlar de</cat>
+      <cat class="expr">ni tampoc</cat>
+      <cat class="expr">i encara menys</cat>
+      <example sent_eng="He can't even boil an egg, let alone cook a full meal." sent_cat="Ni tan sols sap bullir un ou, i molt menys cuinar un àpat sencer." />
+      <example sent_eng="He struggles to run a mile, let alone a marathon." sent_cat="Li costa córrer un quilòmetre, per no parlar d'una marató." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr" after="something">to let alone</eng>
+      <cat class="expr" after="d'alguna cosa">no voler saber res</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr" tags="figurative">the whole picture</eng>
+      <cat class="expr" tags="figurat">la imatge completa</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr" tags="figurative">the whole picture</eng>
+      <cat class="expr">el que ho explica tot</cat>
+    </e>
+    <e src="" done="yes">
       <eng class="expr">to play hardball</eng>
       <cat class="expr">anar fort</cat>
       <cat class="expr">anar a totes</cat>
@@ -919,14 +1427,6 @@
       <cat class="expr">tenir tendències suïcides</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="expr">in hindsight</eng>
-      <eng class="expr">with hindsight</eng>
-      <cat class="expr">vist amb perspectiva</cat>
-      <cat class="expr">vist amb els ulls d'ara</cat>
-      <cat class="expr">vist retrospectivament</cat>
-      <cat class="expr">vist a posteriori</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="expr">that takes the cake</eng>
       <eng class="expr">that takes the gold-plated gingerbread</eng>
       <cat class="expr">això és el súmmum</cat>
@@ -1279,6 +1779,10 @@
       <cat class="v" grammar="intr">arribar el moment</cat>
       <example sent_eng="She always promises to help, but when it comes to the point she's never there." sent_cat="Sempre promet ajudar, però quan arriba el moment no hi és mai." />
     </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to the point</eng>
+      <cat class="expr">anem al que interessa</cat>
+    </e>
     <e src="" done="yes" type="word">
       <eng class="expr">off the beaten path</eng>
       <eng class="expr">off the beaten track</eng>
@@ -1479,11 +1983,6 @@
     <e src="" done="yes" type="expression">
       <eng class="expr">crying wolf</eng>
       <cat class="expr">cridar que ve el llop</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="expr">with the naked eye</eng>
-      <cat class="expr">a ull nu</cat>
-      <cat class="expr">a simple vista</cat>
     </e>
     <e src="" done="yes" type="expression">
       <eng class="expr">not in the least</eng>
@@ -1726,6 +2225,10 @@
     <e src="" type="expression" done="yes">
       <eng class="expr">at breakneck speed</eng>
       <cat class="expr">a una velocitat vertiginosa</cat>
+      <cat class="expr">com un llamp</cat>
+      <cat class="expr">a tot gas</cat>
+      <cat class="expr">a tota pastilla</cat>
+      <cat class="expr">a tota vela</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">yeah?</eng>
@@ -2202,7 +2705,8 @@
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">without a check</eng>
-      <cat class="expr" before="fer un trajecte">d'una tirada</cat>
+      <cat class="expr">d'una tirada</cat>
+      <example sent_eng="He made the journey without a check." sent_cat="Va fer el trajecte d'una tirada. " />
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">without a fuss</eng>
@@ -2579,10 +3083,12 @@
       <eng class="expr">game over</eng>
       <cat class="expr">s'ha acabat el bròquil</cat>
       <cat class="expr">adeu-siau</cat>
+      <cat class="expr" tags="ortografia_2017">adéu-siau</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">and that's the end of it</eng>
       <cat class="expr">i adeu-siau</cat>
+      <cat class="expr" tags="ortografia_2017">i adéu-siau</cat>
       <cat class="expr">i ja està</cat>
       <cat class="expr">i s'ha acabat</cat>
     </e>
@@ -2856,7 +3362,7 @@
       <cat class="expr">caminar per la corda fluixa</cat>
       <cat class="expr" tags="figurat">fer equilibris</cat>
       <cat class="expr">ballar damunt la corda</cat>
-      <cat class="expr">estar a la corda fluixa</cat>
+      <cat class="expr">estar en la corda fluixa</cat>
       <cat class="expr">anar per la corda fluixa</cat>
     </e>
     <e src="" type="expression" done="yes">
@@ -2966,8 +3472,8 @@
       <cat class="expr">amb aquestes mateixes paraules</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="expr" tags="acronym">BTW</eng>
       <eng class="expr">by the way</eng>
+      <eng class="expr" tags="initialism">BTW</eng>
       <cat class="expr">per cert</cat>
       <cat class="expr">una cosa</cat>
       <cat class="expr">ara que hi penso</cat>
@@ -3052,18 +3558,40 @@
       <cat class="expr">tant se me'n dóna</cat>
       <cat class="expr">m'és indiferent</cat>
       <cat class="expr">m'és igual</cat>
-      <cat class="expr">tant me fa</cat>
       <cat class="expr">alabat siga Déu</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">for the sake of God</eng>
       <cat class="expr">per l'amor de Déu</cat>
     </e>
+    <e type="expression" src="" done="yes">
+      <eng class="expr">more importantly</eng>
+      <cat class="expr">sobretot</cat>
+      <cat class="expr">per damunt de tot</cat>
+      <cat class="expr">per sobre de tot</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">more importantly</eng>
+      <cat class="expr">més encara</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">more importantly</eng>
+      <cat class="expr">una cosa a tenir en compte</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">realization dawned on him</eng>
+      <cat class="expr" tags="figurat">se li van obrir els ulls</cat>
+    </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">he is pretending</eng>
       <eng class="expr">she is pretending</eng>
       <cat class="expr">fa comèdia</cat>
       <cat class="expr">fa teatre</cat>
+    </e>
+    <e src="" type="expression" done="yes">
+      <eng class="expr">he is the complete package</eng>
+      <eng class="expr">it is the complete package</eng>
+      <cat class="expr">no li falta res</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">so be it</eng>

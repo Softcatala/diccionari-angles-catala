@@ -10,11 +10,15 @@
       <example sent_eng="The city of Barcelona." sent_cat="La ciutat de Barcelona." />
     </e>
     <e src="" type="word" done="yes">
-      <eng class="prep">with no</eng>
       <eng class="prep">without</eng>
+      <eng class="prep">with no</eng>
+      <eng class="prep" tags="literary">sans</eng>
       <cat class="prep">sense</cat>
+      <cat class="prep" tags="inusual">sens</cat>
       <example sent_eng="A man without a job." sent_cat="Un home sense feina." />
       <example sent_eng="A dawn with no sun." sent_cat="Una albada sense sol." />
+      <example sent_eng="without a question" sent_cat="sens dubte" />
+      <example sent_eng="sans the constraints" sent_cat="sense les restriccions" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="prep">alongside</eng>
@@ -136,6 +140,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="prep">in the absence of</eng>
+      <eng class="prep">failing</eng>
       <cat class="prep">a falta de</cat>
       <cat class="prep">a manca de</cat>
       <cat class="prep">en defecte de</cat>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
+  <entries>
+    <e done="yes" src="" type="word" area="decoració">
+      <eng class="n" tags="UK">fringe</eng>
+      <eng class="n" tags="US">bangs</eng>
+      <cat class="m">serrell</cat>
+    </e>
+    </entries>
+</root>

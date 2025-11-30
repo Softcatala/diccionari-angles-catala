@@ -48,13 +48,6 @@
       <eng class="n">reflux</eng>
       <cat class="m">reflux</cat>
     </e>
-    <e done="yes" src="" area="botànica" type="word">
-      <eng class="n">baldmoney</eng>
-      <eng class="n">spignel</eng>
-      <eng class="n" tags="scientific_name">Meum athamanticum</eng>
-      <cat class="m">meu</cat>
-      <cat class="m" tags="scientific_name">Meum athamanticum</cat>
-    </e>
     <e area="tecnologia" src="" type="word" done="yes">
       <eng class="n">bodkin</eng>
       <cat class="m">punxó</cat>

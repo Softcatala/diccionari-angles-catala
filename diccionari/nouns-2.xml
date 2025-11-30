@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
-    <e src="" done="yes">
-      <eng class="n">incuriosity</eng>
-      <cat class="f">manca de curiositat</cat>
-    </e>
     <e done="yes" src="" type="word">
       <eng class="n">brainstorming</eng>
       <cat class="f">pluja d'idees</cat>

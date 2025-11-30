@@ -6,8 +6,16 @@
       <eng class="det">not a lot of</eng>
       <cat class="det" feminine="unes poques">uns pocs</cat>
       <cat class="det" feminine="unes quantes">uns quants</cat>
-      <cat class="det">quatre</cat>
+      <cat class="det" tags="informal figurat">quatre</cat>
       <example sent_eng="We discussed a few things." sent_cat="Vam parlar de quatre coses." />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="det">several</eng>
+      <eng class="det">various</eng>
+      <cat class="det" feminine="diverses">diversos</cat>
+      <cat class="det" feminine="unes quantes">uns quants</cat>
+      <example sent_eng="several people" sent_cat="diverses persones" />
+      <example sent_eng="several people" sent_cat="unes quantes persones" />
     </e>
     <e done="yes" src="" type="word">
       <eng class="det">a bit of</eng>
@@ -249,11 +257,6 @@
     <e done="yes" src="" type="word">
       <eng class="det">the same</eng>
       <cat class="det" feminine="la mateixa">el mateix</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="det">several</eng>
-      <eng class="det">various</eng>
-      <cat class="det" feminine="diverses">diversos</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="A certain, unspecified or unknown." def_cat="Determinat, no especificat o desconegut.">
       <eng class="det">some</eng>

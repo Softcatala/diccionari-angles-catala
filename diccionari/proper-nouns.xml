@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" type="word" area="política" done="yes">
+      <eng class="n">Arab Maghreb Union</eng>
+      <cat class="f">Unió del Magrib Àrab</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="n">Élysée Palace</eng>
+      <cat class="m">Palau de l'Elisi</cat>
+    </e>
+    <e src="" done="yes" area="topònim">
+      <eng class="n">Isle of Man</eng>
+      <cat class="f">illa de Man</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">United Arab Emirates</eng>
+      <eng class="n" tags="abbreviation">UAE</eng>
+      <cat class="mp">Emirats Àrabs Units</cat>
+      <cat class="mp" tags="sigla">EAU</cat>
+    </e>
+    <e src="" done="yes" area="topònim">
+      <eng class="n">Gaza Strip</eng>
+      <cat class="f">la Franja de Gaza</cat>
+    </e>
     <e src="" type="word" done="yes" area="mitologia">
       <eng class="n">Bigfoot</eng>
       <eng class="n">Sasquatch</eng>
@@ -12,6 +34,14 @@
       <eng class="np">Yeti</eng>
       <cat class="np">ieti</cat>
       <cat class="np">abominable home de les neus</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Qatar</eng>
+      <cat class="m">Qatar</cat>
+    </e>
+    <e src="" type="word" done="yes" area="topònim">
+      <eng class="n">Doha</eng>
+      <cat class="np">Doha</cat>
     </e>
     <e src="" type="word" done="yes" area="topònim">
       <eng class="n">Yemen</eng>

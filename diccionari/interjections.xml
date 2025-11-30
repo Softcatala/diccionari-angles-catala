@@ -1,11 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" done="yes">
+      <eng class="ij">you're joking!</eng>
+      <eng class="ij">oh, no!</eng>
+      <cat class="ij">i ara!</cat>
+      <cat class="ij">però què dius?</cat>
+      <cat class="ij">au va!</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">hold</eng>
+      <cat class="ij">un moment</cat>
+      <cat class="ij">espera un moment</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij" tags="informal">holy cow</eng>
+      <cat class="ij">Mare de Déu santíssima</cat>
+      <cat class="ij">Mare de Déu</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">hell's bells</eng>
+      <cat class="ij">maleït siga</cat>
+      <cat class="ij">maleït sigui</cat>
+      <cat class="ij">redeu</cat>
+      <cat class="ij">collons</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">honestly</eng>
+      <cat class="ij">t'ho juro</cat>
+      <cat class="ij">t'ho dic de veritat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">howay</eng>
+      <cat class="ij">som-hi</cat>
+      <cat class="ij">au</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">imagine</eng>
+      <cat class="ij">sembla mentida</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">it's all right</eng>
+      <cat class="ij" feminine="tranquil·la">tranquil</cat>
+      <cat class="ij">no pateixis</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">no way</eng>
+      <cat class="ij">apa</cat>
+      <cat class="ij">com pot ser?</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">no way</eng>
+      <cat class="ij">de cap de les maneres</cat>
+    </e>
     <e done="yes" src="" type="word">
       <eng class="ij">my</eng>
       <cat class="ij">renoi</cat>
       <cat class="ij">carai</cat>
       <cat class="ij">ostres</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">brilliant</eng>
+      <cat class="ij">genial</cat>
+      <cat class="ij">perfecte</cat>
+      <cat class="ij">oli en un llum</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij">indeed</eng>
@@ -81,6 +139,7 @@
       <cat class="ij">Déu el beneeixi</cat>
       <cat class="ij">aneu en nom de Déu</cat>
       <cat class="ij">adeu-siau</cat>
+      <cat class="ij" tags="ortografia_2017">adéu-siau</cat>
       <example sent_eng="Sir, I wish you Godspeed." sent_cat="Senyor, us desitjo bona sort." />
     </e>
     <e src="" type="word" done="yes" area="música">
@@ -204,7 +263,9 @@
       <eng class="ij" tags="UK">ta-ta</eng>
       <eng class="ij">later</eng>
       <cat class="ij">adeu</cat>
+      <cat class="ij" tags="ortografia_2017">adéu</cat>
       <cat class="ij">adeu-siau</cat>
+      <cat class="ij" tags="ortografia_2017">adéu-siau</cat>
       <cat class="ij">a reveure</cat>
       <cat class="ij">fins ara</cat>
       <cat class="ij">fins aviat</cat>
@@ -335,7 +396,8 @@
       <cat class="ij">diantre</cat>
       <cat class="ij">dimoni</cat>
       <cat class="ij">dimonis</cat>
-      <cat class="ij">redéu</cat>
+      <cat class="ij">redeu</cat>
+      <cat class="ij" tags="ortografia_2017">redéu</cat>
       <cat class="ij">redimoni</cat>
       <cat class="ij">redimonis</cat>
       <cat class="ij">vatua l'olla</cat>
@@ -417,6 +479,12 @@
       <cat class="ij">apa</cat>
       <example sent_eng="There. I've said it." sent_cat="Apa, ja ho he dit." />
       <example sent_eng="There. Happy?" sent_cat="Ja està. Estàs contenta?" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">good luck</eng>
+      <cat class="ij">bona sort</cat>
+      <cat class="ij">molta sort</cat>
+      <cat class="ij">que et vagi bé</cat>
     </e>
   </entries>
 </root>

@@ -215,7 +215,7 @@
     </e>
     <e done="yes" src="" area="medicina" type="word">
       <eng class="n">base excess</eng>
-      <eng class="n" tags="acronym">BE</eng>
+      <eng class="n" tags="initialism">BE</eng>
       <cat class="m">excés de base</cat>
       <cat class="m" tags="sigla">EB</cat>
     </e>
@@ -331,7 +331,7 @@
     </e>
     <e done="yes" src="" area="medi_ambient" type="word">
       <eng class="n">dissolved oxygen</eng>
-      <eng class="n" tags="acronym">DO</eng>
+      <eng class="n" tags="initialism">DO</eng>
       <cat class="m">oxigen dissolt</cat>
       <cat class="m" tags="sigla">OD</cat>
     </e>
@@ -403,9 +403,9 @@
       <eng class="n">hyperbolic paraboloid</eng>
       <cat class="m">paraboloide hiperbòlic</cat>
     </e>
-    <e src="" type="word" area="medicina" done="yes" oldarea="Cronicitat">
+    <e src="" type="word" area="medicina" done="yes">
       <eng class="n">electronic health record</eng>
-      <eng class="n" tags="acronym">EHR</eng>
+      <eng class="n" tags="initialism">EHR</eng>
       <cat class="f">història clínica informatitzada</cat>
       <cat class="f" tags="sigla">HCI</cat>
       <cat class="f">història clínica electrònica</cat>
@@ -435,25 +435,6 @@
     <e src="" type="word" area="ensenyament" done="yes" oldarea="ensenyança">
       <eng class="n">official master's degree</eng>
       <cat class="m">màster oficial</cat>
-    </e>
-    <e area="micologia" src="" type="word" done="yes">
-      <eng class="n">penny bun</eng>
-      <eng class="n">porcini</eng>
-      <eng class="n">porcini mushroom</eng>
-      <eng class="n">porcino</eng>
-      <eng class="n">porcino mushroom</eng>
-      <eng class="n" tags="scientific_name">Boletus edulis</eng>
-      <cat class="m">cep</cat>
-      <cat class="m">sureny</cat>
-      <cat class="m">bolet d'ou</cat>
-      <cat class="m">bolet de bou</cat>
-      <cat class="m">ceperó</cat>
-      <cat class="m">cigró</cat>
-      <cat class="m">molleró</cat>
-      <cat class="m">surenc</cat>
-      <cat class="m">siureny</cat>
-      <cat class="m">siuró</cat>
-      <cat class="m" tags="scientific_name">Boletus edulis</cat>
     </e>
     <e src="" type="word" area="energia" done="yes" oldarea="Energia &gt; Energia neta (6626)">
       <eng class="n">photovoltaic panel</eng>
@@ -520,7 +501,7 @@
     </e>
     <e done="yes" src="" area="física" type="word">
       <eng class="n">universal time</eng>
-      <eng class="n" tags="acronym">UT</eng>
+      <eng class="n" tags="initialism">UT</eng>
       <cat class="m">temps universal</cat>
       <cat class="m" tags="sigla">TU</cat>
     </e>

@@ -102,7 +102,17 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" tags="formal" grammar="">to abide by</eng>
-      <cat class="v" grammar="intr_pron" after="a alguna cosa">atenir-se</cat>
+      <cat class="v" grammar="intr_pron" after="a">atenir-se</cat>
+      <cat class="v" grammar="intr_pron" after="a">cenyir-se</cat>
+      <cat class="v" grammar="intr_pron" after="amb">obrar d'acord</cat>
+      <cat class="v" grammar="intr_pron" after="a">acomodar-se</cat>
+      <cat class="v" grammar="tr">complir</cat>
+      <cat class="v" grammar="tr">respectar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="v" tags="formal" grammar="">to abide by</eng>
+      <cat class="v" grammar="tr">obeir</cat>
+      <cat class="v" grammar="tr">acatar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="formal">to abjure</eng>
@@ -574,13 +584,14 @@
       <cat class="v" grammar="intr" after="amb algú">solidaritzar</cat>
       <cat class="v" grammar="intr" after="a algú">donar suport</cat>
     </e>
+    <e src="" type="word" area="empresa dret" done="yes">
+      <eng class="v" grammar="tr">to bail out</eng>
+      <cat class="v" grammar="tr">rescatar</cat>
+      <example sent_eng="to bail out a business" sent_cat="rescatar un negoci" />
+    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to bail out</eng>
       <cat class="v" grammar="">llançar-se amb paracaigudes</cat>
-    </e>
-    <e src="" type="word" area="dret" done="yes">
-      <eng class="v" grammar="tr" after="a business" tags="figurative">to bail out</eng>
-      <cat class="v" grammar="tr" after="un negoci">rescatar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to balloon</eng>
@@ -919,10 +930,9 @@
       <eng class="v" grammar="tr">to assume</eng>
       <eng class="v" grammar="tr">to claim</eng>
       <eng class="v" grammar="tr">to take</eng>
-      <cat class="v" grammar="intr_pron" after="d'alguna cosa">apoderar-se</cat>
-      <cat class="v" grammar="intr_pron" after="d'alguna cosa">arrogar-se</cat>
-      <cat class="v" grammar="intr_pron" after="d'alguna cosa">ensenyorir-se</cat>
-      <cat class="v" grammar="intr_pron" after="d'alguna cosa">arrogar-se</cat>
+      <cat class="v" grammar="intr_pron" after="de">apoderar-se</cat>
+      <cat class="v" grammar="intr_pron" after="de">ensenyorir-se</cat>
+      <cat class="v" grammar="intr_pron" after="de">arrogar-se</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="v" grammar="tr" after="a body">to claim</eng>
@@ -1653,6 +1663,11 @@
       <cat class="v" grammar="tr">trobar</cat>
       <example sent_eng="I stumbled upon a book about war." sent_cat="Vaig ensopegar un llibre sobre la guerra." />
     </e>
+    <e done="yes" src="" type="word">
+      <eng class="v" after="a sound" grammar="tr">to hush</eng>
+      <cat class="v" after="un so" grammar="tr">apagar</cat>
+      <cat class="v" after="un so" grammar="tr">matar</cat>
+    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" tags="figurative" after="emotions">to inflame</eng>
       <cat class="v" grammar="tr" tags="figurat" after="emocions">encendre</cat>
@@ -1696,6 +1711,7 @@
       <eng class="v" grammar="tr_ref">to kill</eng>
       <eng class="v" grammar="tr_ref" tags="separable">to get killed</eng>
       <cat class="v" grammar="intr_pron">matar-se</cat>
+      <example sent_eng="He will get himself killed doing such risky activities." sent_cat="Es matarà si fa aquestes activitats arriscades." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr" after="at someone or something">to laugh</eng>
@@ -2127,10 +2143,6 @@
       <eng class="v" grammar="tr" tags="UK">to externalise</eng>
       <cat class="v" grammar="tr">exterioritzar</cat>
     </e>
-    <e area="enginyeria_forestal_" src="" type="word" oldarea="enginyeria forestal" done="yes">
-      <eng class="v" grammar="intr">to proliferate</eng>
-      <cat class="v" grammar="intr">proliferar</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="intr">to proliferate</eng>
       <cat class="v" grammar="intr">proliferar</cat>
@@ -2166,10 +2178,6 @@
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr" after="someone" tags="informal">to proposition</eng>
       <cat class="v" grammar="intr" after="a algú" tags="col·loquial">insinuar-se</cat>
-    </e>
-    <e area="economia empresa" src="" type="word" oldarea="economia; empresa" done="yes">
-      <eng class="v" grammar="tr">to prorate</eng>
-      <cat class="v" grammar="tr">prorratejar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to prorate</eng>
@@ -2363,13 +2371,10 @@
       <cat class="v" grammar="tr">apunyegar</cat>
       <cat class="v" grammar="intr" after="a algú o alguna cosa">donar cops de puny</cat>
     </e>
-    <e area="indústria_energia_" src="" type="word" oldarea="indústria; energia" done="yes">
-      <eng class="v" grammar="tr">to pump</eng>
-      <cat class="v" grammar="tr">bombar</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to pump</eng>
       <cat class="v" grammar="tr">bombar</cat>
+      <cat class="v" grammar="tr">bombejar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="v" grammar="tr">to pump</eng>
@@ -2859,7 +2864,8 @@
       <eng class="v" grammar="intr">to ramble</eng>
       <cat class="v" grammar="intr">fer una excursió</cat>
       <cat class="v" grammar="intr">anar d'excursió</cat>
-      <cat class="v" grammar="intr">fer de rodamón</cat>
+      <cat class="v" grammar="intr">fer de rodamon</cat>
+      <cat class="v" grammar="intr" tags="ortografia_2017">fer de rodamón</cat>
       <cat class="v" grammar="intr">vagabundejar</cat>
     </e>
     <e src="" type="word" done="yes">

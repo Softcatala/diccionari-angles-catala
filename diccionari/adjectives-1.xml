@@ -34,19 +34,6 @@
       <cat class="adj" feminine="exempta">exempt</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="adj">crisp</eng>
-      <eng class="adj">crispy</eng>
-      <cat class="adj">cruixent</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">crisp</eng>
-      <cat class="adj">cruixent</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adj">crisp</eng>
-      <cat class="adj" feminine="fresca">fresc</cat>
-    </e>
-    <e done="yes" src="" type="word">
       <eng class="adj">divided</eng>
       <eng class="adj">divided up</eng>
       <eng class="adj">shared</eng>
@@ -158,7 +145,7 @@
     <e src="" type="word" done="yes">
       <eng class="adj">such</eng>
       <cat class="adj" feminine="quanta">quant</cat>
-      <cat class="adj" feminine="quin">quin</cat>
+      <cat class="adj" feminine="quina">quin</cat>
       <example sent_eng="Such strength!" sent_cat="Quanta força!" />
       <example sent_eng="Such display of power!" sent_cat="Quina mostra de poder!" />
     </e>
