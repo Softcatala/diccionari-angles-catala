@@ -40,6 +40,7 @@ s'
 t'
 a
 al
+als
 amb
 cap
 com
@@ -70,6 +71,8 @@ molt
 na
 on
 per
+pel
+pels
 poc
 que
 què

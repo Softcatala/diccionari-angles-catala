@@ -6,11 +6,11 @@
       <eng class="num">zero</eng>
       <eng class="num" tags="UK">nought</eng>
       <eng class="num" remark="only verbally">oh</eng>
-      <eng class="num" tags="informal">zilch</eng>
-      <eng class="num" tags="slang">zip</eng>
       <eng class="num" remark="Used in sports scores.">nil</eng>
       <eng class="num" tags="old">cipher</eng>
       <eng class="num" tags="old">cypher</eng>
+      <eng class="num" tags="informal">zilch</eng>
+      <eng class="num" tags="slang">zip</eng>
       <cat class="num">0</cat>
       <cat class="num">zero</cat>
     </e>
@@ -130,7 +130,7 @@
       <eng class="num">thirteen</eng>
       <eng class="n">baker's dozen</eng>
       <eng class="n">long dozen</eng>
-      <cat class="num">12</cat>
+      <cat class="num">13</cat>
       <cat class="num">tretze</cat>
       <cat class="f">dotzena de frare</cat>
     </e>
@@ -939,11 +939,11 @@
       <eng class="num">a thousand</eng>
       <eng class="num">one thousand</eng>
       <eng class="num">thousand</eng>
-      <eng class="num" tags="colloquial">ten hundred</eng>
       <eng class="num" tags="US">grand</eng>
-      <eng class="num" tags="US symbol">G</eng>
       <eng class="num" remark="after a number">k</eng>
       <eng class="num" remark="after a number">m</eng>
+      <eng class="num" tags="US symbol">G</eng>
+      <eng class="num" tags="colloquial">ten hundred</eng>
       <eng class="num" tags="slang">thou</eng>
       <cat class="num">1.000</cat>
       <cat class="num" tags="romà">M</cat>
@@ -1017,7 +1017,7 @@
     <e done="yes" src="" type="word">
       <eng class="num">2,000</eng>
       <eng class="num">two thousand</eng>
-      <eng class="num" tags="unusual">twenty hundred</eng>
+      <eng class="num" tags="rare">twenty hundred</eng>
       <cat class="num">2.000</cat>
       <cat class="num" feminine="dues mil">dos mil</cat>
     </e>
@@ -1580,16 +1580,16 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="num">9,800</eng>
-      <eng class="num" tags="colloquial">ninety-eight hundred</eng>
       <eng class="num">nine thousand eight hundred</eng>
+      <eng class="num" tags="colloquial">ninety-eight hundred</eng>
       <cat class="num">9.800</cat>
       <cat class="num">nou mil vuit-cents</cat>
       <cat class="num" tags="valencià">nou mil huit-cents</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="num">9,900</eng>
-      <eng class="num" tags="colloquial">ninety-nine hundred</eng>
       <eng class="num">nine thousand nine hundred</eng>
+      <eng class="num" tags="colloquial">ninety-nine hundred</eng>
       <cat class="num">9.900</cat>
       <cat class="num">nou mil nou-cents</cat>
     </e>
@@ -1716,10 +1716,10 @@
       <eng class="num">1,000,000,000</eng>
       <eng class="num">10⁹</eng>
       <cat class="num">mil milions</cat>
-      <cat class="num" tags="inusual">miliard</cat>
-      <cat class="num" tags="inusual">un miliard</cat>
       <cat class="num">1.000.000.000</cat>
       <cat class="num">10⁹</cat>
+      <cat class="num" tags="inusual">miliard</cat>
+      <cat class="num" tags="inusual">un miliard</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="num" remark="short scale">a trillion</eng>

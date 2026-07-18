@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">200m backstroke</eng>
       <cat class="mp">200 m esquena</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">200m breaststroke</eng>
       <cat class="mp">200 m braça</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">200m butterfly</eng>
       <cat class="mp">200 m papallona</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">200m freestyle</eng>
       <cat class="mp">200 m lliures</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">200m individual medley</eng>
       <eng class="n">200m medley</eng>
       <cat class="mp">200 m estils</cat>
       <cat class="mp">200 m estils individual</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">4 x 100m freestyle relay</eng>
       <cat class="mp">relleus 4 x 100 m lliures</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">4 x 100m medley relay</eng>
       <cat class="mp">relleus 4 x 100 m estils</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">4 x 200m freestyle relay</eng>
       <cat class="mp">relleus 4 x 200 m lliures</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En natació.">
+    <e src="" type="word" area="natació" done="yes">
       <eng class="n">400m individual medley</eng>
       <eng class="n">400m medley</eng>
       <cat class="mp">400 m estils</cat>
@@ -89,13 +89,12 @@
       <eng class="n">Chilean swallow</eng>
       <cat class="f">oreneta de Xile</cat>
     </e>
-    <e src="" type="word" done="yes">
+    <e src="" type="word" done="yes" area="entomologia">
       <eng class="n">Chironomidae</eng>
-      <eng class="n">family Chironomidae</eng>
       <cat class="mp">quironòmids</cat>
     </e>
     <e src="" type="word" area="ornitologia" done="yes">
-      <eng class="n">Congo martin</eng>
+      <eng class="n" primary="yes">Congo martin</eng>
       <eng class="n">Congo sand martin</eng>
       <cat class="f">oreneta de ribera del Congo</cat>
     </e>
@@ -106,19 +105,6 @@
     <e src="" type="word" area="ornitologia" done="yes">
       <eng class="n">Eastern house martin</eng>
       <cat class="f">oreneta cuablanca oriental</cat>
-    </e>
-    <e done="yes" src="" area="botànica" type="word">
-      <eng class="n">hawthorn</eng>
-      <eng class="n">quickthorn</eng>
-      <eng class="n">English hawthorn</eng>
-      <eng class="n">may</eng>
-      <cat class="m">arç blanc</cat>
-      <cat class="m">espinalb</cat>
-      <cat class="m">espí blanc</cat>
-      <cat class="m">cirerer de la Mare de Déu</cat>
-      <cat class="m">cirerer de pastor</cat>
-      <cat class="m">cirerer del bon pastor</cat>
-      <cat class="m">ram de Sant Pere</cat>
     </e>
     <e src="" type="word" area="ornitologia" done="yes">
       <eng class="n">Ethiopian swallow</eng>
@@ -185,12 +171,12 @@
       <eng class="n">agnosia</eng>
       <cat class="f">agnòsia</cat>
     </e>
-    <e src="" type="word" area="ensenyament" done="yes" oldarea="ensenyança">
+    <e src="" type="word" area="ensenyament" done="yes">
       <eng class="n">aptitude test</eng>
       <cat class="f">prova d'aptitud personal</cat>
       <cat class="f" tags="sigla">PAP</cat>
     </e>
-    <e src="" type="word" area="ensenyament" done="yes" oldarea="economia; empresa">
+    <e src="" type="word" area="ensenyament" done="yes">
       <eng class="n">aptitude test</eng>
       <cat class="f">prova d'aptitud</cat>
       <cat class="m">test d'aptituds</cat>
@@ -199,7 +185,7 @@
       <eng class="n">asset securitization fund</eng>
       <cat class="m">fons de titulització d'actius</cat>
     </e>
-    <e src="" type="word" area="geografia" done="yes">
+    <e src="" type="word" done="yes">
       <eng class="n">average age</eng>
       <eng class="n">mean age</eng>
       <cat class="f">edat mitjana</cat>
@@ -209,7 +195,7 @@
       <cat class="f">oreneta comuna</cat>
       <cat class="f">oreneta vulgar</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" def_cat="figura de natació artística">
+    <e src="" type="word" area="natació" done="yes" def_cat="figura de natació artística">
       <eng class="n">barracuda</eng>
       <cat class="f">tintorera</cat>
     </e>
@@ -226,10 +212,10 @@
       <cat class="m">mur de soterrani</cat>
     </e>
     <e src="" type="word" area="zoologia" done="yes" oldarea="Ciències de la vida 1&gt;Biologia general, zoologia i botànica&gt;Zoologia">
-      <eng class="n_p">blind mosquitoes</eng>
-      <eng class="n_p">common midges</eng>
-      <eng class="n_p">midges</eng>
-      <eng class="n_p">non-biting midges</eng>
+      <eng class="pl_n">blind mosquitoes</eng>
+      <eng class="pl_n">common midges</eng>
+      <eng class="pl_n">midges</eng>
+      <eng class="pl_n">non-biting midges</eng>
       <cat class="mp">quironòmids</cat>
     </e>
     <e src="" type="word" area="farmàcia" done="yes">
@@ -272,6 +258,7 @@
     <e src="" type="word" area="alimentació" def_eng="cod purée" done="yes" oldarea="alimentació; gastronomia">
       <eng class="n">brandade</eng>
       <cat class="f">brandada</cat>
+      <example sent_eng="brandada de bacallà" sent_cat="cod brandade" />
     </e>
     <e src="" type="word" area="begudes" done="yes" def_eng="coffee, milk and brandy">
       <eng class="n">brandy triphase</eng>
@@ -311,11 +298,16 @@
     </e>
     <e src="" type="word" area="política" done="yes">
       <eng class="n">counter-terrorism</eng>
-      <eng class="n" tags="abbreviation">CT</eng>
       <eng class="n">fight against terrorism</eng>
+      <eng class="n" tags="abbreviation">CT</eng>
       <cat class="m">contraterrorisme</cat>
       <cat class="m">antiterrorisme</cat>
       <cat class="f">lluita contra el terrorisme</cat>
+    </e>
+    <e src="" type="word" done="yes" area="política">
+      <eng class="n">anti-terrorism</eng>
+      <eng class="n">antiterrorism</eng>
+      <cat class="m">antiterrorisme</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">pivotal line</eng>
@@ -335,18 +327,15 @@
       <cat class="m">oxigen dissolt</cat>
       <cat class="m" tags="sigla">OD</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
+    <e src="" type="word" area="basquetbol" done="yes">
       <eng class="n">double double</eng>
-      <eng class="n">double-double</eng>
       <cat class="m">doble doble</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
-      <eng class="n">quintuple-double</eng>
+    <e src="" type="word" area="basquetbol" done="yes">
       <eng class="n">quintuple double</eng>
       <cat class="m">quíntuple doble</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
-      <eng class="n">quadruple-double</eng>
+    <e src="" type="word" area="basquetbol" done="yes">
       <eng class="n">quadruple double</eng>
       <cat class="m">quàdruple doble</cat>
     </e>
@@ -407,8 +396,8 @@
       <eng class="n">electronic health record</eng>
       <eng class="n" tags="initialism">EHR</eng>
       <cat class="f">història clínica informatitzada</cat>
-      <cat class="f" tags="sigla">HCI</cat>
       <cat class="f">història clínica electrònica</cat>
+      <cat class="f" tags="sigla">HCI</cat>
       <cat class="f" tags="sigla">HCE</cat>
     </e>
     <e src="" type="word" area="dret" done="yes">
@@ -494,9 +483,8 @@
       <eng class="n">skidder</eng>
       <cat class="f">talladora-apiladora</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes" remark="En bàsquet.">
+    <e src="" type="word" area="basquetbol" done="yes">
       <eng class="n">triple double</eng>
-      <eng class="n">triple-double</eng>
       <cat class="m">triple doble</cat>
     </e>
     <e done="yes" src="" area="física" type="word">
@@ -509,9 +497,15 @@
       <eng class="n">wild raspberry glade</eng>
       <cat class="m">gerderar</cat>
     </e>
-    <e src="" type="word" area="esports" done="yes">
-      <eng class="n">yellow card</eng>
-      <cat class="f">targeta groga</cat>
+    <e src="" type="word" area="psiquiatria" done="yes">
+      <eng class="n">cognitive disorder</eng>
+      <cat class="m">trastorn cognitiu</cat>
+    </e>
+    <e src="" type="word" area="avicultura" done="yes">
+      <eng class="n">poultry keeper</eng>
+      <eng class="n">poultry manager</eng>
+      <eng class="n">poultryman</eng>
+      <cat class="m" feminine="avicultora">avicultor</cat>
     </e>
     </entries>
 </root>

@@ -26,9 +26,9 @@
       <cat class="v" grammar="intr">tenir el cap espès</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adj" before="as">cute as a button</eng>
-      <cat class="adj" before="persona">bonic com un sol</cat>
-      <cat class="adj" before="cosa">que llueix com un sol</cat>
+      <eng class="adj" variants="as cute as a button">cute as a button</eng>
+      <cat class="adj">bonic com un sol</cat>
+      <cat class="adj">que llueix com un sol</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="n">deadly remark</eng>
@@ -52,7 +52,7 @@
       <cat class="expr">s'ha acabat el bròquil</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adj" before="as">free as air</eng>
+      <eng class="adj" variants="as free as air">free as air</eng>
       <cat class="adj">lliure com un ocell</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -73,12 +73,6 @@
       <eng class="n">hand puppet</eng>
       <cat class="m">titella de guant</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="n" before="H. pilosella">hawkweed</eng>
-      <cat class="f">pelosella</cat>
-      <cat class="f">orella de rata</cat>
-      <cat class="f">herba cancera</cat>
-    </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">ill becomes you</eng>
       <cat class="expr">no t'escau</cat>
@@ -86,11 +80,6 @@
     <e src="" type="word" area="química" done="yes">
       <eng class="n">inert gas</eng>
       <cat class="m">gas inert</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="n">interest group</eng>
-      <cat class="m">grup de pressió</cat>
-      <cat class="m">lobby</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="expr">it's just a short walk</eng>
@@ -125,10 +114,6 @@
       <eng class="n">site-specific art</eng>
       <cat class="m">art in situ</cat>
     </e>
-    <e src="" type="word" done="yes">
-      <eng class="n">telephone shop</eng>
-      <cat class="m">locutori telefònic</cat>
-    </e>
     <e src="" type="expression" done="yes">
       <eng class="expr" before="all">the makings of</eng>
       <cat class="expr" before="tots">els ingredients característics de</cat>
@@ -142,6 +127,13 @@
       <eng class="expr">there are</eng>
       <eng class="expr">there is</eng>
       <cat class="expr">hi ha</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">to tighten the screw</eng>
+      <eng class="expr">to turn the screw</eng>
+      <cat class="v" grammar="tr">constrènyer</cat>
+      <cat class="v" grammar="tr">reprimir</cat>
+      <cat class="v" grammar="tr">refrenar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr" before="something/someone" after="with someone">to be a great favourite</eng>
@@ -201,6 +193,10 @@
     <e src="" type="expression" done="yes">
       <eng class="expr" before="at a certain age">you take what you can</eng>
       <cat class="expr">amb poca cosa et conformes</cat>
+    </e>
+    <e src="" type="word" done="yes" area="boxa">
+      <eng class="n">one-two</eng>
+      <cat class="m">un-dos</cat>
     </e>
     </entries>
 </root>

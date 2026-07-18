@@ -13,9 +13,12 @@ public class Word {
   String before = "";
   String after = "";
   String area = "";
-  boolean primary = false; // és el lema principal
+  boolean primary = false;
+  boolean isNotLemma = false;
+  int priority = 0;// és el lema principal
   HashSet<AlternativeForm> alternativeForms = new LinkedHashSet<>();
   private int ocurrences = 0;
+  private String alternativeFormsStr = "";
 
   public Word() {
   }
@@ -31,6 +34,7 @@ public class Word {
     this.before = w.before;
     this.after = w.after;
     this.area = area;
+    this.priority = w.priority;
     this.alternativeForms = w.alternativeForms;
     this.ocurrences = 0;
 /*
@@ -115,7 +119,7 @@ public class Word {
   }
 
   public int getOcurrences() {
-    return ocurrences;
+    return ocurrences + this.priority;
   }
 
   public void addOcurrence() {
@@ -176,13 +180,21 @@ public class Word {
     }
     return s;
   }
+
+  public String getAlternativeFormsStr() {
+    return alternativeFormsStr;
+  }
+
+  public void setAlternativeFormsStr(String alternativeFormsStr) {
+    this.alternativeFormsStr = alternativeFormsStr;
+  }
 }
 
 class SortWordByOcurrences implements Comparator<Word> {
 
   final static List<String> tagsToMoveToTheEnd = Arrays.asList("symbol", "símbol", "old", "rare", "obsolete", "obsolet",
       "dialectal", "impròpiament", "castellanisme", "abbreviation", "abreviació", "sigla", "initialism", "acronym",
-      "colloquial", "col·loquial", "antic");
+      "colloquial", "col·loquial", "antic", "archaic");
 
   public int compare(Word a, Word b) {
 

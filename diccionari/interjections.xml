@@ -1,6 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
+    <e src="" type="expression" done="yes">
+      <eng class="ij">tough</eng>
+      <eng class="ij" tags="informal">bad luck</eng>
+      <eng class="ij" tags="informal">hard luck</eng>
+      <eng class="ij" tags="informal">hard cheese</eng>
+      <eng class="ij" tags="old slang">hard lines</eng>
+      <cat class="ij">mala sort</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">of course</eng>
+      <cat class="ij">és clar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">thank you so much</eng>
+      <cat class="ij">moltes gràcies</cat>
+      <cat class="ij" tags="literari">grans mercès</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">thank you</eng>
+      <eng class="ij" tags="colloquial">thanks</eng>
+      <eng class="ij" tags="colloquial">cheers</eng>
+      <cat class="ij">gràcies</cat>
+      <cat class="ij" tags="literari">mercès</cat>
+      <cat class="ij" tags="col·loquial">merci</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">glory</eng>
+      <eng class="ij">glory be</eng>
+      <cat class="ij">gràcies a Déu</cat>
+      <cat class="ij">al·leluia</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="ij">hush</eng>
+      <cat class="ij">muts</cat>
+      <cat class="ij">silenci</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="ij">good spot</eng>
+      <cat class="ij">ben vist</cat>
+    </e>
+    <e src="" done="yes" area="teatre espectacles">
+      <eng class="ij">break a leg</eng>
+      <cat class="ij" variants="merda">molta merda</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">shake a leg</eng>
+      <cat class="ij">espavil</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">hurry up</eng>
+      <eng class="ij">get a move on</eng>
+      <eng class="ij" tags="UK colloquial">shift yourself</eng>
+      <cat class="ij">afanya't</cat>
+      <cat class="ij">belluga't</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="ij">end</eng>
+      <cat class="ij">no a</cat>
+      <example sent_eng="End the war!" sent_cat="No a la guerra!" />
+    </e>
     <e src="" done="yes">
       <eng class="ij">you're joking!</eng>
       <eng class="ij">oh, no!</eng>
@@ -10,8 +70,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij">hold</eng>
+      <cat class="ij" primary="yes">espera un moment</cat>
       <cat class="ij">un moment</cat>
-      <cat class="ij">espera un moment</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij" tags="informal">holy cow</eng>
@@ -20,8 +80,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij">hell's bells</eng>
-      <cat class="ij">maleït siga</cat>
-      <cat class="ij">maleït sigui</cat>
+      <cat class="ij" variants="maleït sigui">maleït siga</cat>
       <cat class="ij">redeu</cat>
       <cat class="ij">collons</cat>
     </e>
@@ -86,10 +145,10 @@
       <cat class="ij">hola</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="ij" tags="UK">hallo</eng>
+      <eng class="ij" tags="UK old">hullo</eng>
       <eng class="ij" tags="informal">hey</eng>
       <eng class="ij" tags="UK informal">hiya</eng>
-      <eng class="ij" tags="UK old">hullo</eng>
-      <eng class="ij" tags="UK">hallo</eng>
       <eng class="n" tags="US informal">howdy</eng>
       <cat class="ij">hola</cat>
       <cat class="ij">ei</cat>
@@ -113,6 +172,11 @@
       <eng class="ij">thank goodness</eng>
       <cat class="ij">sort</cat>
       <cat class="ij">encara sort</cat>
+      <cat class="ij">encara gràcies</cat>
+      <cat class="ij">encara bo</cat>
+      <cat class="ij">encara com</cat>
+      <cat class="ij">encara rai</cat>
+      <cat class="ij">en bona hora</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij">thank goodness</eng>
@@ -123,13 +187,21 @@
       <cat class="ij">gràcies a Déu</cat>
       <cat class="ij">mercè a Déu</cat>
       <cat class="ij">en nom de Déu</cat>
-      <cat class="ij">en bona hora</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="ij">glory</eng>
-      <eng class="ij">glory be</eng>
-      <cat class="ij">gràcies a Déu</cat>
-      <cat class="ij">al·leluia</cat>
+      <eng class="expr">at least</eng>
+      <cat class="expr">ni que sigui</cat>
+      <example sent_eng="Call me, at least to say you are okay." sent_cat="Truca'm, ni que sigui per dir que estàs bé." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">at least</eng>
+      <cat class="expr">encara sort</cat>
+      <example sent_eng="It's raining, but at least we have an umbrella." sent_cat="Plou, però encara sort que tenim un paraigua." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">at least</eng>
+      <cat class="expr">en tot cas</cat>
+      <example sent_eng="I don't know if he will come, but at least he called." sent_cat="No sé si vindrà, però en tot cas ha trucat." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij" tags="literary">Godspeed</eng>
@@ -182,7 +254,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="ij" tags="informal">long time no see</eng>
-      <cat class="ij">quant de temps sense veure'ns</cat>
+      <cat class="ij" primary="yes">quant de temps sense veure'ns</cat>
+      <cat class="ij">quant de temps</cat>
     </e>
     <e src="" done="yes" type="word">
       <eng class="ij">holy moly</eng>
@@ -203,11 +276,11 @@
     <e done="yes" src="" type="word">
       <eng class="ij">yes</eng>
       <eng class="ij">aye</eng>
+      <eng class="ij">absolutely</eng>
+      <eng class="ij">that's right</eng>
       <eng class="ij" tags="argot">yeah</eng>
       <eng class="ij" tags="argot">yep</eng>
       <eng class="ij" tags="argot">uh-huh</eng>
-      <eng class="ij">absolutely</eng>
-      <eng class="ij">that's right</eng>
       <cat class="ij">sí</cat>
       <cat class="ij" tags="col·loquial">oi</cat>
     </e>
@@ -254,14 +327,14 @@
       <eng class="ij">bye bye</eng>
       <eng class="ij">farewell</eng>
       <eng class="ij">see you later</eng>
-      <eng class="ij" tags="UK informal">cheerio</eng>
       <eng class="ij" tags="rare">good-by</eng>
       <eng class="ij" tags="rare">goodby</eng>
-      <eng class="ij" tags="formal old">good day</eng>
-      <eng class="ij" tags="informal">so long</eng>
       <eng class="ij" tags="UK">tata</eng>
       <eng class="ij" tags="UK">ta-ta</eng>
       <eng class="ij">later</eng>
+      <eng class="ij" tags="formal old">good day</eng>
+      <eng class="ij" tags="UK informal">cheerio</eng>
+      <eng class="ij" tags="informal">so long</eng>
       <cat class="ij">adeu</cat>
       <cat class="ij" tags="ortografia_2017">adéu</cat>
       <cat class="ij">adeu-siau</cat>
@@ -306,8 +379,8 @@
       <cat class="ij" tags="vulgar">collons</cat>
       <cat class="ij" tags="vulgar">merda</cat>
       <cat class="ij" tags="vulgar">quina putada</cat>
-      <cat class="ij" tags="vulgar">mecagon la puta</cat>
-      <cat class="ij" tags="vulgar">cagon la puta</cat>
+      <cat class="ij" tags="vulgar">mecàgon la puta</cat>
+      <cat class="ij" tags="vulgar">càgon la puta</cat>
     </e>
     <e src="" type="expression" done="yes">
       <eng class="ij">for crying out loud!</eng>
@@ -358,12 +431,12 @@
       <cat class="ij">ah caram</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="ij" tags="vulgar">shut the fuck up</eng>
-      <eng class="ij" tags="informal" remark="to keep a secret">mum's the word</eng>
       <eng class="ij">keep you voice down</eng>
       <eng class="ij">sh</eng>
       <eng class="ij">shush</eng>
       <eng class="ij">zip it</eng>
+      <eng class="ij" tags="vulgar">shut the fuck up</eng>
+      <eng class="ij" tags="informal" remark="to keep a secret">mum's the word</eng>
       <cat class="ij">a callar</cat>
       <cat class="ij">silenci</cat>
       <cat class="ij">que callem</cat>
@@ -486,5 +559,5 @@
       <cat class="ij">molta sort</cat>
       <cat class="ij">que et vagi bé</cat>
     </e>
-  </entries>
+    </entries>
 </root>

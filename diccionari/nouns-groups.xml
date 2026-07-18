@@ -135,23 +135,28 @@
       <cat class="m">cranc</cat>
     </e>
     <e src="" type="word" area="astrologia astronomia" done="yes">
-      <eng class="n">Leo</eng>
+      <eng class="n" primary="yes">Leo</eng>
       <eng class="n">Lion</eng>
       <eng class="n">Leo the Lion</eng>
-      <cat class="m">leo</cat>
+      <cat class="m" primary="yes">leo</cat>
       <cat class="m">lleó</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="prop_n">Leo</eng>
+      <cat class="np">Lleó</cat>
+      <example sent_eng="pope Leo XIV" sent_cat="el papa Lleó XIV" />
     </e>
     <e src="" type="word" area="astrologia astronomia" done="yes">
       <eng class="n">Virgo</eng>
       <eng class="n">Virgin</eng>
       <eng class="n">Virgo the Virgin</eng>
-      <cat class="f">virgo</cat>
+      <cat class="f" primary="yes">virgo</cat>
       <cat class="f">verge</cat>
     </e>
     <e src="" type="word" area="astrologia astronomia" done="yes">
-      <eng class="n">Libra</eng>
+      <eng class="n" primary="yes">Libra</eng>
       <eng class="n">Balance</eng>
-      <eng class="np">Scales</eng>
+      <eng class="prop_n">Scales</eng>
       <eng class="n">Libra the Balance</eng>
       <eng class="n">Libra the Scales</eng>
       <cat class="f">libra</cat>

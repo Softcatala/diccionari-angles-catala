@@ -41,6 +41,8 @@ public class Dictionary {
   
   // Índex alfabètic de paraules
   public List<IndexOfWords> indexWords = Arrays.asList(new IndexOfWords(), new IndexOfWords());
+  public Stats stats;
+  public ListsOfWords listsOfWords;
 
   // Llista de "stop words" per a cada llengua
   private List<HashSet<String>> stopWords = new ArrayList<>();
@@ -72,6 +74,8 @@ public class Dictionary {
     // Generem els índexs de cerca
     startTime = System.currentTimeMillis();
     createIndex();
+    listsOfWords = new ListsOfWords(indexWords);
+    stats = new Stats(listsOfWords);
     endTime = System.currentTimeMillis();
     EngCatServer.log("INFO", "Created general index in " + (endTime - startTime) + " ms");
 
@@ -96,7 +100,7 @@ public class Dictionary {
   Response getResponse(String searchWord) throws IOException {
     long startTime = System.currentTimeMillis();
     Response response = new Response();
-    searchWord = Utils.normalizeWhitespaces(searchWord).replace("’", "'");
+    searchWord = normalizeSearchString(searchWord);
     response.searchedWord = searchWord;
 
     // Cerca sense diacrítics, sense puntuació, sense espais
@@ -232,6 +236,9 @@ public class Dictionary {
     for (Entry entry : xmlEntries) {
       for (int l = 0; l < 2; l++) {
         for (Word word : entry.words[l]) {
+          if (word.isNotLemma) {
+            continue;
+          }
           if (!indexWordToEntries.get(l).containsKey(word.text)) {
             indexWordToEntries.get(l).put(word.text, new ArrayList<>(Arrays.asList(entry)));
           }
@@ -264,7 +271,9 @@ public class Dictionary {
             if (wordForm.equalsIgnoreCase(baseWord.text)) {
               continue;
             }
-            if (indexWordToLemmas.get(l).containsKey(wordForm) ) {
+            indexWordToLemmas.get(l).putIfAbsent(wordForm, new ArrayList<>());
+            addToLemmaList(indexWordToLemmas.get(l).get(wordForm), l, baseWord, iEntry);
+            /*if (indexWordToLemmas.get(l).containsKey(wordForm) ) {
               addToLemmaList(indexWordToLemmas.get(l).get(wordForm), l, baseWord, iEntry);
             } else {
               if (possibleAbbreviations.contains(wordForm)) {
@@ -278,7 +287,7 @@ public class Dictionary {
                 // En la resta de casos, aprofitem l'objecte que ja tenim, i no en construïm un de nou.
                 indexWordToLemmas.get(l).put(wordForm, indexWordToLemmas.get(l).get(baseWord.text));
               }
-            }
+            }*/
           }
           // cerca per nom científic; creem una llista de lemes diferents, per a evitar barreges de lemes
           if (!iEntry.scientific_name.isEmpty()) {
@@ -356,7 +365,9 @@ public class Dictionary {
       if (!e.type.equals("sentence")) {
         for (int l = 0; l < 2; l++) {
           for (Word w : e.words[l]) {
-            indexWords.get(l).addWord(w);
+            if (!w.isNotLemma) {
+              indexWords.get(l).addWord(w);
+            }
           }
         }  
       }

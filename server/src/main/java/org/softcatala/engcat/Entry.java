@@ -2,7 +2,6 @@ package org.softcatala.engcat;
 
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 import static org.softcatala.engcat.EngCatServer.log;
@@ -32,6 +31,13 @@ public class Entry {
     // Comprova si la nova paraula és una variant d'una paraula ja existent.
     // Decideix quina de les dues formes és la principal i quina és l'alternativa.
 
+    if (!w.getAlternativeFormsStr().isEmpty()) {
+      words[l].add(w);
+      for (String alternativeFormStr : w.getAlternativeFormsStr().split(";")) {
+        words[l].get(words[l].size() - 1).alternativeForms.add(new AlternativeForm(alternativeFormStr.strip(), w.tags));
+      }
+      return;
+    }
     if (w.tags.equals("symbol") || w.tags.equals("símbol")) {
       // s'afegeix com a forma alternativa a totes les formes anteriors
       // s'hauria de garantir que és l'últim
@@ -71,6 +77,9 @@ public class Entry {
   private static boolean changePriority(Word oldWord, Word newWord) {
     if (newWord.primary) {
       return true;
+    }
+    if (oldWord.primary) {
+      return false;
     }
     if (newWord.tags.contains("US")) {
       return true;

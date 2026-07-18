@@ -1,58 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
-    <e src="" type="word" done="yes">
-      <eng class="n">hearer</eng>
-      <eng class="n">listener</eng>
-      <cat class="mf">oient</cat>
-      <cat class="mf">oint</cat>
-      <cat class="m" feminine="oïdora">oïdor</cat>
+    <e src="" type="word" done="yes" area="religió">
+      <eng class="n">mass</eng>
+      <cat class="f">missa</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="n">hiccup</eng>
-      <eng class="n">hiccough</eng>
-      <eng class="n" tags="formal">singultus</eng>
-      <cat class="m">singlot</cat>
-      <cat class="m" tags="dialectal">xanglot</cat>
-    </e>
-    <e src="" type="word" done="yes" area="ornitologia">
-      <eng class="n">house martin</eng>
-      <cat class="f">oreneta cuablanca</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="n">insomniac</eng>
-      <eng class="n">sleepless person</eng>
-      <cat class="mf">insomne</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="n">luvisol</eng>
-      <cat class="m">luvisol</cat>
-      <cat class="m" tags="ortografia_2017">luvisòl</cat>
-    </e>
-    <e area="botànica" src="" type="word" done="yes">
-      <eng class="n">mandarin orange tree</eng>
-      <cat class="m">mandariner</cat>
-    </e>
-    <e area="botànica" src="" type="word" done="yes">
-      <eng class="n">mandarine</eng>
-      <eng class="n">mandarin</eng>
-      <eng class="n">mandarin orange</eng>
-      <cat class="f">mandarina</cat>
-    </e>
-    <e area="lingüística matemàtiques" src="" type="word" done="yes">
-      <eng class="n">ordinal</eng>
-      <eng class="n">ordinal number</eng>
-      <cat class="m">ordinal</cat>
-      <cat class="m">numeral ordinal</cat>
-      <cat class="m">nombre ordinal</cat>
-    </e>
-    <e src="" type="word" done="yes" area="lingüística">
-      <eng class="n">prefix</eng>
-      <cat class="m">prefix</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="n" before="phone">prefix</eng>
-      <cat class="m" after="telefònic">prefix</cat>
+      <eng class="n">obsolescence</eng>
+      <cat class="f">obsolescència</cat>
     </e>
     </entries>
 </root>

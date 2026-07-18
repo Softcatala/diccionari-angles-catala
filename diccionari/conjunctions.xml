@@ -2,9 +2,6 @@
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
     <e done="yes" src="" type="word" def_eng="Conjunction introducing a clause denoting a cause or reason." def_cat="Conjunció que introdueix una clàusula que indica causa o motiu.">
-      <eng class="conj" tags="colloquial">cause</eng>
-      <eng class="conj" tags="informal UK">cos</eng>
-      <eng class="conj" tags="informal">cuz</eng>
       <eng class="conj">as</eng>
       <eng class="conj">because</eng>
       <eng class="conj">due to the fact that</eng>
@@ -14,6 +11,9 @@
       <eng class="conj">inasmuch as</eng>
       <eng class="conj">seeing as</eng>
       <eng class="conj">since</eng>
+      <eng class="conj" tags="colloquial">cause</eng>
+      <eng class="conj" tags="informal UK">cos</eng>
+      <eng class="conj" tags="informal">cuz</eng>
       <cat class="conj">a causa que</cat>
       <cat class="conj">atès que</cat>
       <cat class="conj">car</cat>
@@ -41,6 +41,9 @@
       <cat class="conj" after="+ subjuntiu">per por que</cat>
       <cat class="conj" after="+ subjuntiu">perquè no</cat>
       <example sent_eng="They fled the place lest they become infected." sent_cat="Van fugir del lloc per por d'infectar-se." />
+      <example sent_eng="lest there be any doubt" sent_cat="perquè no hi hagués cap dubte" />
+      <example sent_eng="lest we forget" sent_cat="perquè no ens en descuidem" />
+      <example sent_eng="lest we forget" sent_cat="perquè no se'ns esborri de la memòria" />
     </e>
     <e done="yes" src="" type="word">
       <eng class="conj">unless</eng>

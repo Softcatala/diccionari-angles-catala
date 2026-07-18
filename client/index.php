@@ -199,9 +199,6 @@ function prepareLemmaHeading(word) {
   }
   var fullGTag = fullGrammarTag(word)
   output +='&nbsp;<span class="italics">' + fullGTag + '</span>&nbsp;';
-  if (word.plural) {
-    output += ' [pl. '+word.plural+'] ';
-  }
   if (word.tags) {
     output += '['+word.tags+'] ';
   }
@@ -211,15 +208,21 @@ function prepareLemmaHeading(word) {
   if (word.remark) {
     output += ' [&rArr; '+word.remark+'] ';
   }
-  if (word.alternativeForms) {
-    output += '<br/><span class="variantssmall">';
+  if (word.alternativeForms || word.plural) {
     var separator = "";
-    for (var alternativeForm of word.alternativeForms) {
-      output += separator + alternativeForm.text;
-      if (alternativeForm.tags) {
-        output += " ["+alternativeForm.tags+"]";
-      }
+    output += '<br/><span class="variantssmall">';
+    if (word.plural) {
+      output += 'pl. '+word.plural;
       separator = "; "
+    }
+    if (word.alternativeForms) {
+      for (var alternativeForm of word.alternativeForms) {
+        output += separator + alternativeForm.text;
+        if (alternativeForm.tags) {
+          output += " ["+alternativeForm.tags+"]";
+        }
+        separator = "; "
+      }
     }
     output += '</span>';
   }

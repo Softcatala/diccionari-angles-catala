@@ -7,12 +7,14 @@ import org.xml.sax.Attributes;
 import org.xml.sax.SAXException;
 import org.xml.sax.helpers.DefaultHandler;
 
+import static org.softcatala.engcat.Utils.prepareArea;
+
 public class EntryHandler extends DefaultHandler {
 
   private List<Entry> entries;
   private Entry currentEntry;
   private Word currentWord;
-  private String currentText;
+  private StringBuilder currentText = new StringBuilder();
   private EngCatConfiguration conf;
   
   public void setConfiguration(EngCatConfiguration conf) {
@@ -26,6 +28,7 @@ public class EntryHandler extends DefaultHandler {
 
   @Override
   public void startElement(String uri, String lName, String qName, Attributes attrs) throws SAXException {
+    currentText.setLength(0);
     switch (qName) {
     case "e":
       currentEntry = new Entry();
@@ -33,7 +36,7 @@ public class EntryHandler extends DefaultHandler {
         currentEntry.src = attrs.getValue("src");
       }
       if (attrs.getValue("area") != null) {
-        currentEntry.area = attrs.getValue("area");
+        currentEntry.area = prepareArea(attrs.getValue("area"));
       }
       if (attrs.getValue("type") != null) {
         currentEntry.type = attrs.getValue("type");
@@ -68,6 +71,9 @@ public class EntryHandler extends DefaultHandler {
       if (attrs.getValue("remark") != null) {
         currentWord.remark = attrs.getValue("remark");
       }
+      if (attrs.getValue("priority") != null) {
+        currentWord.priority = Integer.parseInt(attrs.getValue("priority"));
+      }
       if (attrs.getValue("tags") != null) {
         currentWord.tags = attrs.getValue("tags");
       }
@@ -86,6 +92,12 @@ public class EntryHandler extends DefaultHandler {
       if (attrs.getValue("primary") != null) {
         currentWord.primary = attrs.getValue("primary").equals("yes");
       }
+      if (attrs.getValue("no_lemma") != null) {
+        currentWord.isNotLemma = attrs.getValue("no_lemma").equals("yes");
+      }
+      if (attrs.getValue("variants") != null) {
+        currentWord.setAlternativeFormsStr(attrs.getValue("variants"));
+      }
       break;
     case "example":
       currentEntry.examples.add(new ExampleInSrcDict(attrs.getValue("sent_eng"), attrs.getValue("sent_cat")));
@@ -95,11 +107,12 @@ public class EntryHandler extends DefaultHandler {
 
   @Override
   public void characters(char[] buf, int offset, int len) {
-    currentText = new String(buf, offset, len);
+    currentText.append(buf, offset, len);
   }
 
   @Override
   public void endElement(String namespaceURI, String sName, String qName) throws SAXException {
+    String accumulatedText = currentText.toString().trim();
     switch (qName) {
     case "e":
       // use only entries done="yes"
@@ -108,16 +121,17 @@ public class EntryHandler extends DefaultHandler {
       }
       break;
     case "eng":
-      currentWord.text = currentText;
+      currentWord.text = accumulatedText;
       // Creem una paraula nova per a generar les formes
       currentEntry.addNewWord(0, currentWord);
       break;
     case "cat":
-      currentWord.text = currentText;
+      currentWord.text = accumulatedText;
       // Creem una paraula nova per a generar les formes
       currentEntry.addNewWord(1, currentWord);
       break;
     }
+    currentText.setLength(0);
   }
 
   public List<Entry> getEntries() {

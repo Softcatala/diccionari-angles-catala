@@ -2,6 +2,238 @@
 <root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="eng-cat.xsd">
   <entries>
     <e src="" done="yes">
+      <eng class="expr">fasting</eng>
+      <eng class="expr">on an empty stomach</eng>
+      <cat class="adv">en dejú</cat>
+      <cat class="expr">amb la panxa buida</cat>
+      <example sent_eng="You must come to the hospital fasting." sent_cat="Heu de venir a l'hospital en dejú." />
+      <example sent_eng="You should take this pill on an empty stomach." sent_cat="Has de prendre aquesta pastilla en dejú." />
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">ceteris paribus</eng>
+      <eng class="adv" variants="other things being equal;other things equal">all else being equal</eng>
+      <cat class="adv">ceteris paribus</cat>
+      <cat class="adv">en igualtat de circumstàncies</cat>
+      <cat class="adv">mantenint-se la resta igual</cat>
+      <cat class="adv" no_lemma="yes">sempre que les altres condicions no variïn</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">mutatis mutandis</eng>
+      <eng class="adv" no_lemma="yes">with the necessary changes</eng>
+      <eng class="adv" no_lemma="yes">the necessary changes having been made</eng>
+      <eng class="adv" no_lemma="yes">once the necessary changes have been made</eng>
+      <cat class="adv">mutatis mutandis</cat>
+      <cat class="adv" no_lemma="yes">fent els canvis necessaris</cat>
+      <cat class="adv" no_lemma="yes">salvades les diferències</cat>
+      <cat class="adv" no_lemma="yes">amb les modificacions corresponents</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">patronizingly</eng>
+      <cat class="expr" no_lemma="yes">amb aires de superioritat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">of one's own free will</eng>
+      <eng class="expr">of one's own volition</eng>
+      <eng class="expr">of one's own accord</eng>
+      <cat class="expr">per voluntat pròpia</cat>
+      <cat class="expr">per decisió pròpia</cat>
+      <cat class="expr">motu proprio</cat>
+      <example sent_eng="He left the company of his own pioneering free will." sent_cat="Se'n va anar de l'empresa per voluntat pròpia." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">of one's own accord</eng>
+      <eng class="expr">on one's own hook</eng>
+      <cat class="expr">per iniciativa pròpia</cat>
+      <cat class="adv">espontàniament</cat>
+      <cat class="expr" feminine="tota sola">tot sol</cat>
+      <example sent_eng="The car started moving on its own accord." sent_cat="El cotxe es va començar a moure espontàniament." />
+      <example sent_eng="He did the job on his own hook." sent_cat="Va fer la feina per iniciativa pròpia." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">by one's own request</eng>
+      <cat class="expr">per iniciativa pròpia</cat>
+      <cat class="expr">per voluntat pròpia</cat>
+      <example sent_eng="The contract was terminated by the employee's own request." sent_cat="El contracte es va rescindir per voluntat pròpia del treballador." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adj">freely chosen</eng>
+      <cat class="expr">per voluntat pròpia</cat>
+      <example sent_eng="A freely chosen career path is usually more rewarding." sent_cat="Una carrera triada per voluntat pròpia acostuma a ser més gratificant." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">on-screen</eng>
+      <eng class="adv">onscreen</eng>
+      <cat class="adv">en pantalla</cat>
+      <cat class="adv">sobre pantalla</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">onstage</eng>
+      <cat class="expr" primary="yes">a l'escenari</cat>
+      <cat class="expr">a dalt de l'escenari</cat>
+      <cat class="expr">als escenaris</cat>
+      <cat class="expr">sobre l'escenari</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">onstage</eng>
+      <cat class="expr">en escena</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">evenhandedly</eng>
+      <cat class="adv">imparcialment</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">evenhandedly</eng>
+      <cat class="adv">equitativament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off and on</eng>
+      <cat class="adv">intermitentment</cat>
+    </e>
+    <e area="teatre" done="yes" src="" type="word">
+      <eng class="adv">off</eng>
+      <eng class="adv">offstage</eng>
+      <cat class="expr">fora d'escena</cat>
+      <example sent_eng="Laughing off." sent_cat="Riures fora d'escena." />
+      <example sent_eng="The actor turns and goes off." sent_cat="L'actor es gira i ix fora d'escena." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off</eng>
+      <eng class="adv">far off</eng>
+      <cat class="adv">lluny</cat>
+      <cat class="adj" feminine="allunyada">allunyat</cat>
+      <cat class="adj" feminine="separada">separat</cat>
+      <example sent_eng="Winter is still far off." sent_cat="L'hivern encara queda lluny." />
+      <example sent_eng="The lake is quite far off." sent_cat="El llac queda bastant allunyat." />
+      <example sent_eng="Keep your feet off the table." sent_cat="Mantén els peus lluny de la taula." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off</eng>
+      <cat class="v" grammar="intr_pron">allunyar-se</cat>
+      <cat class="v" grammar="intr_pron">anar-se'n</cat>
+      <example sent_eng="He drove off just like that." sent_cat="Es va allunyar amb el cotxe com si res." />
+      <example sent_eng="Well, I'm off." sent_cat="Bé, me'n vaig." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off</eng>
+      <cat class="expr">de descompte</cat>
+      <example sent_eng="These socks are 10% off." sent_cat="Aquests mitjons tenen un 10% de descompte." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off</eng>
+      <cat class="adv">fora</cat>
+      <example sent_eng="Hands off!" sent_cat="Les mans fora!" />
+      <example sent_eng="The dog ran off." sent_cat="El gos va fugir cap a fora." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off</eng>
+      <cat class="adv">fora de lloc</cat>
+      <example sent_eng="His comments were a bit off." sent_cat="Els seus comentaris van ser un poc fora de lloc." />
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">unheedingly</eng>
+      <cat class="adv">desconsideradament</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">unheedingly</eng>
+      <cat class="adv">sense fer-hi cas</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">unthinkingly</eng>
+      <cat class="adv">irreflexivament</cat>
+      <cat class="adv">sense pensar</cat>
+      <cat class="adv">sense reflexionar</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv" tags="old">yesternight</eng>
+      <cat class="adv">ahir a la nit</cat>
+    </e>
+    <e src="" type="sentence" done="yes">
+      <eng class="adv">helplessly</eng>
+      <cat class="expr" no_lemma="yes">no poder parar de</cat>
+      <example sent_eng="to yawn helplessly" sent_cat="no poder parar de badallar" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" variants="very early in the morning;in the early morning">early in the morning</eng>
+      <eng class="adv">bright and early</eng>
+      <cat class="adv">de bon matí</cat>
+      <cat class="adv">ben d'hora</cat>
+      <cat class="adv">molt enjorn</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">scholastically</eng>
+      <cat class="adv">amb aire doctoral</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">soothingly</eng>
+      <cat class="expr">en to conciliador</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">sorrowfully</eng>
+      <cat class="adv">amb recança</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">noiselessly</eng>
+      <cat class="adv">sense fer fressa</cat>
+      <cat class="adv">sense fer remor</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unaccountably</eng>
+      <cat class="adv">estranyament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unaccountably</eng>
+      <cat class="adv">incomprensiblement</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unaccountably</eng>
+      <cat class="expr" variants="sense cap motiu aparent">sense motiu aparent</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unaccountably</eng>
+      <cat class="expr">com per art de màgia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">uncannily</eng>
+      <cat class="adv">misteriosament</cat>
+      <cat class="adv">estranyament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">cannily</eng>
+      <cat class="adv">amb astúcia</cat>
+      <cat class="adv">amb intenció</cat>
+      <cat class="adv" tags="figurat">amb vista</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">swimmingly</eng>
+      <eng class="adv">splendidly</eng>
+      <cat class="adv">esplèndidament</cat>
+      <cat class="adv">molt bé</cat>
+      <example sent_eng="The event went swimmingly." sent_cat="L'acte va anar molt bé." />
+    </e>
+    <e src="" done="yes" type="word">
+      <eng class="adv">big-time</eng>
+      <cat class="adv">a gran escala</cat>
+      <cat class="adv">en gran</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv" primary="yes">as of late</eng>
+      <eng class="adv">of late</eng>
+      <cat class="adv">recentment</cat>
+      <cat class="adv">últimament</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">unintelligently</eng>
+      <cat class="adv">de manera poc intel·ligent</cat>
+      <cat class="adv">sense intel·ligència</cat>
+      <cat class="adv">estúpidament</cat>
+      <example sent_eng="He acted unintelligently." sent_cat="Va actuar de manera poc intel·ligent." />
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">on standby</eng>
+      <cat class="adv">en espera</cat>
+      <cat class="adv">en estat d'espera</cat>
+    </e>
+    <e src="" done="yes">
       <eng class="adv">latitudinally</eng>
       <cat class="adv">latitudinalment</cat>
     </e>
@@ -166,13 +398,6 @@
       <cat class="adv">tristament</cat>
       <cat class="adv">desgraciadament</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="adv">without thinking</eng>
-      <eng class="adv">haphazardly</eng>
-      <eng class="adv">willy nilly</eng>
-      <eng class="adv">any old how</eng>
-      <cat class="adv">a la babalà</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="adv">half aloud</eng>
       <cat class="adv">a mitja veu</cat>
@@ -281,8 +506,6 @@
       <eng class="adv">in spite of this</eng>
       <eng class="adv">nevertheless</eng>
       <eng class="adv">nonetheless</eng>
-      <eng class="adv">on the contrary</eng>
-      <eng class="adv">on the other hand</eng>
       <eng class="adv">still</eng>
       <eng class="adv">though</eng>
       <eng class="adv">yet still</eng>
@@ -329,10 +552,15 @@
     <e src="" type="word" done="yes">
       <eng class="adv">unapologetically</eng>
       <cat class="adv">sense remordiment</cat>
+      <cat class="adv">sense complexos</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unapologetically</eng>
       <cat class="adv">sense miraments</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unapologetically</eng>
+      <cat class="adv">sense demanar disculpes</cat>
     </e>
     <e src="" done="yes">
       <eng class="adv">woefully</eng>
@@ -362,6 +590,12 @@
     <e src="" type="word" done="yes">
       <eng class="adv">towards the end</eng>
       <cat class="adv">a les acaballes</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">near the end</eng>
+      <cat class="adv">a les acaballes</cat>
+      <example sent_eng="near the end of the meal" sent_cat="a les acaballes de l'àpat" />
+      <example sent_eng="near the end of the day" sent_cat="a les acaballes del dia" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="expr">by word of mouth</eng>
@@ -478,8 +712,9 @@
       <cat class="adv">per desgràcia</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">underway</eng>
       <eng class="adv">under way</eng>
-      <eng class="adv">underway</eng>
+      <eng class="adv">afoot</eng>
       <cat class="adv">en marxa</cat>
       <cat class="adv">en camí</cat>
     </e>
@@ -530,9 +765,9 @@
       <cat class="adv">en efectiu</cat>
     </e>
     <e src="" done="yes" type="word" area="economia">
-      <eng class="adv" tags="UK">out of pocket</eng>
       <eng class="adv">out of funds</eng>
       <eng class="adv">without money</eng>
+      <eng class="adv" tags="UK">out of pocket</eng>
       <cat class="adv">sense diners</cat>
       <cat class="adv">en números vermells</cat>
       <cat class="adv">sense recursos</cat>
@@ -609,11 +844,6 @@
       <cat class="adv">amb compassió</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">unapologetically</eng>
-      <cat class="adv">sense complexos</cat>
-      <cat class="adv">sense demanar disculpes</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">cogently</eng>
       <cat class="adv">convincentment</cat>
       <cat class="adv">contundentment</cat>
@@ -640,10 +870,6 @@
     <e done="yes" src="" type="word">
       <eng class="adv">underwater</eng>
       <cat class="adv">sota l'aigua</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">out of earshot</eng>
-      <cat class="adv">fora de l'abast de l'oïda</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">trenchantly</eng>
@@ -756,18 +982,18 @@
       <cat class="adv">sense compromís</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">according to his lights</eng>
+      <eng class="adv" primary="yes">according to his lights</eng>
       <eng class="adv">by to his lights</eng>
-      <cat class="adv">conforme al seu criteri</cat>
+      <cat class="adv" primary="yes">conforme al seu criteri</cat>
       <cat class="adv">segons el seu criteri</cat>
       <cat class="adv">a criteri seu</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">as a matter of abundant caution</eng>
-      <eng class="adv">by way of abundant caution</eng>
-      <cat class="adv">com a mesura de precaució</cat>
-      <cat class="adv">com a mesura de precaució suplementària</cat>
-      <cat class="adv">per si de cas</cat>
+      <eng class="expr" primary="yes">as a matter of abundant caution</eng>
+      <eng class="expr">by way of abundant caution</eng>
+      <eng class="expr">out of an abundance of caution</eng>
+      <cat class="expr" variants="com a mesura de precaució">com a mesura de precaució suplementària</cat>
+      <cat class="expr">per si de cas</cat>
     </e>
     <e src="" done="yes" type="word">
       <eng class="adv">circuitously</eng>
@@ -790,7 +1016,7 @@
     </e>
     <e src="" done="yes" type="word">
       <eng class="adv">to the bone</eng>
-      <eng class="adv">to the hilt</eng>
+      <eng class="adv" variants="up to the hilt">to the hilt</eng>
       <eng class="adv">to the max</eng>
       <eng class="adv">to the full</eng>
       <cat class="adv">en extrem</cat>
@@ -890,13 +1116,13 @@
       <cat class="adv">de bon grat</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">backwards</eng>
+      <eng class="adv" primary="yes">backwards</eng>
       <eng class="adv">backward</eng>
-      <cat class="adv">de recules</cat>
+      <cat class="adv" primary="yes">de recules</cat>
       <cat class="adv">a recules</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">backwards</eng>
+      <eng class="adv" primary="yes">backwards</eng>
       <eng class="adv">backward</eng>
       <cat class="adv">enrere en el temps</cat>
     </e>
@@ -1065,7 +1291,7 @@
       <cat class="adv">cara a cara</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">with a pinch of salt</eng>
+      <eng class="adv" variants="with a pinch of salt">with a grain of salt</eng>
       <eng class="adv" tags="Latin">cum grano salis</eng>
       <cat class="adv" tags="llatí">cum grano salis</cat>
       <cat class="adv">amb reserves</cat>
@@ -1116,9 +1342,9 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">after all</eng>
-      <eng class="adv" tags="figurative informal">at the end of the day</eng>
       <eng class="adv">when all's said and done</eng>
       <eng class="adv">all things considered</eng>
+      <eng class="adv" tags="figurative informal">at the end of the day</eng>
       <cat class="adv">al capdavall</cat>
       <cat class="adv">al cap i a la fi</cat>
       <cat class="adv">ben mirat</cat>
@@ -1298,10 +1524,6 @@
       <cat class="adv">incansablement</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">on the dot</eng>
-      <cat class="adv">en punt</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">on the face of it</eng>
       <cat class="adv">d'entrada</cat>
       <cat class="adv">de primer moment</cat>
@@ -1439,12 +1661,6 @@
       <eng class="adv" before="to cry">wetly</eng>
       <cat class="adv" before="plorar">amb sensibleria</cat>
     </e>
-    <e src="" done="yes" type="word">
-      <eng class="adv">onstage</eng>
-      <cat class="adv">en escena</cat>
-      <cat class="adv">sobre l'escenari</cat>
-      <cat class="adv">a l'escenari</cat>
-    </e>
     <e src="" type="word" done="yes">
       <eng class="adv">vigorously</eng>
       <cat class="adv">amb fermesa</cat>
@@ -1489,9 +1705,8 @@
       <cat class="adj" feminine="perplexa">perplex</cat>
     </e>
     <e src="" done="yes" type="word">
-      <eng class="expr">long story short</eng>
-      <eng class="expr">to cut a long story short</eng>
-      <eng class="adv">simply put</eng>
+      <eng class="expr" variants="to cut a long story short">long story short</eng>
+      <eng class="expr">simply put</eng>
       <eng class="expr">en poques paraules</eng>
       <cat class="expr">en resum</cat>
       <cat class="expr">resumint</cat>
@@ -1516,16 +1731,25 @@
       <cat class="adv">flotant</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="conj">granted</eng>
-      <eng class="conj" after="that">granted</eng>
-      <cat class="adv">certament...</cat>
-      <cat class="adv">sens dubte...</cat>
-      <cat class="adv">d'acord</cat>
+      <eng class="adv">granted</eng>
+      <cat class="adv">certament</cat>
+      <cat class="adv">sens dubte</cat>
+      <cat class="ij">d'acord</cat>
+      <example sent_eng="Granted, it is expensive, but it works." sent_cat="Certament és car, però funciona." />
     </e>
     <e src="" type="word" done="yes">
-      <eng class="n" after="something">gobs of</eng>
-      <cat class="adv" before="alguna cosa">a cabassos</cat>
-      <cat class="adv" before="alguna cosa">a dojo</cat>
+      <eng class="conj">granted that</eng>
+      <cat class="conj">atès que</cat>
+      <cat class="conj">vist que</cat>
+      <cat class="conj">atenent que</cat>
+      <example sent_eng="Granted that it's true, what do we do?" sent_cat="Atès que és veritat, què fem?" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">gobs of</eng>
+      <cat class="adv">a cabassos</cat>
+      <cat class="adv">a dojo</cat>
+      <example sent_eng="gobs of something" sent_cat="alguna cosa a cabassos" />
+      <example sent_eng="gobs of something" sent_cat="alguna cosa a dojo" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">gingerly</eng>
@@ -1644,9 +1868,9 @@
       <eng class="adv">that is to say</eng>
       <eng class="adv">namely</eng>
       <eng class="adv">id est</eng>
-      <eng class="adv" tags="abbreviation">i.e.</eng>
       <eng class="adv">to wit</eng>
       <eng class="adv">videlicet</eng>
+      <eng class="adv" tags="abbreviation">i.e.</eng>
       <eng class="adv" tags="abbreviation">viz.</eng>
       <cat class="adv">és a dir</cat>
       <cat class="adv">en definitiva</cat>
@@ -1711,13 +1935,13 @@
       <eng class="adv">for example</eng>
       <eng class="adv">for instance</eng>
       <eng class="adv">such as</eng>
+      <eng class="adv">case in point</eng>
       <eng class="adv" tags="abbreviation">e.g.</eng>
       <eng class="adv" tags="old">as</eng>
-      <eng class="adv">case in point</eng>
       <cat class="adv">per exemple</cat>
-      <cat class="adv" tags="abreviació">p. ex.</cat>
       <cat class="adv">com ara</cat>
       <cat class="adv">posem per cas</cat>
+      <cat class="adv" tags="abreviació">p. ex.</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">deliberately</eng>
@@ -1813,11 +2037,6 @@
       <cat class="adv">a les clares</cat>
     </e>
     <e src="" done="yes" type="word">
-      <eng class="adv">big-time</eng>
-      <cat class="adv">en gran</cat>
-      <cat class="adv">a gran escala</cat>
-    </e>
-    <e src="" done="yes" type="word">
       <eng class="adv">relatedly</eng>
       <cat class="adv">en relació amb això</cat>
       <cat class="adv">de manera relacionada</cat>
@@ -1860,22 +2079,6 @@
       <eng class="adv">back-to-back</eng>
       <cat class="adv">seguits</cat>
       <cat class="adv">un darrere l'altre</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">in stock</eng>
-      <cat class="adv">en existència</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">at stake</eng>
-      <cat class="adv">en joc</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">at the top of one's lungs</eng>
-      <cat class="adv">a plens pulmons</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">at the top of your voice</eng>
-      <cat class="adv">a plens pulmons</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">at work</eng>
@@ -2037,7 +2240,18 @@
     <e src="" type="word" done="yes">
       <eng class="adv">excruciatingly</eng>
       <cat class="adv">terriblement</cat>
+      <cat class="adv">horriblement</cat>
+      <cat class="adv">atroçment</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">excruciatingly</eng>
       <cat class="adv">tremendament</cat>
+      <cat class="adv">extremadament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">excruciatingly</eng>
+      <cat class="adv">dolorosament</cat>
+      <cat class="adv">insuportablement</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">steadfastly</eng>
@@ -2080,11 +2294,14 @@
       <example sent_eng="to take things personally" sent_cat="agafar-se les coses malament" />
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">to the hilt</eng>
-      <eng class="adv">up to the hilt</eng>
+      <eng class="adv" variants="up to the hilt">to the hilt</eng>
       <cat class="adv">completament</cat>
       <cat class="adv">fins al coll</cat>
       <cat class="adv">fins al mànec</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" variants="up to the hilt">to the hilt</eng>
+      <cat class="adv">del tot</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">up until now</eng>
@@ -2306,9 +2523,23 @@
       <cat class="adv">contra tota lògica</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">against long odds</eng>
       <eng class="adv">against all odds</eng>
-      <eng class="adv">against long odds</eng>
       <cat class="adv">contra tot pronòstic</cat>
+      <cat class="expr">contra vent i marea</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">long odds</eng>
+      <cat class="expr" no_lemma="yes">poques probabilitats</cat>
+      <cat class="expr" no_lemma="yes">poques opcions</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">to face long odds</eng>
+      <cat class="expr">tenir les de perdre</cat>
+      <cat class="expr" no_lemma="yes">tenir-ho molt difícil</cat>
+      <cat class="expr" no_lemma="yes">tenir poques probabilitats d'èxit</cat>
+      <cat class="expr" no_lemma="yes">partir amb un gran desavantatge</cat>
+      <example sent_eng="The team has made some major improvements, but they still face long odds." sent_cat="L'equip ha fet millores importants, però encara ho té molt difícil." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">against all reason</eng>
@@ -2386,10 +2617,10 @@
       <cat class="adv">a plens pulmons</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="expr">in a blink of the eye</eng>
+      <eng class="expr" primary="yes">in a blink of the eye</eng>
       <eng class="expr">in the blink of an eye</eng>
       <eng class="expr">in the twinkling of an eye</eng>
-      <cat class="expr">en un tancar i obrir d'ulls</cat>
+      <cat class="expr" primary="yes">en un tancar i obrir d'ulls</cat>
       <cat class="expr">en un batre d'ulls</cat>
       <cat class="expr">en un girar d'ulls</cat>
     </e>
@@ -2405,7 +2636,7 @@
     <e src="" type="word" done="yes">
       <eng class="adv">begrudgingly</eng>
       <cat class="adv">amb rancúnia</cat>
-      <cat class="adj" tags="valor_adverbial">ressentit</cat>
+      <cat class="adj" tags="valor_adverbial" feminine="ressentida">ressentit</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">grudgingly</eng>
@@ -2561,18 +2792,18 @@
       <example sent_eng="I don't like it at all." sent_cat="No m'agrada gens." />
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">Anno Domini</eng>
       <eng class="adv" tags="abbreviation">AD</eng>
       <eng class="adv" tags="abbreviation">A.D.</eng>
-      <eng class="adv">Anno Domini</eng>
-      <cat class="adv" tags="abreviació">dC</cat>
       <cat class="adv">després de Crist</cat>
+      <cat class="adv" tags="abreviació">dC</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">Before Christ</eng>
       <eng class="adv" tags="abbreviation">BC</eng>
       <eng class="adv" tags="abbreviation">B.C.</eng>
-      <eng class="adv">Before Christ</eng>
-      <cat class="adv" tags="abreviació">aC</cat>
       <cat class="adv">abans de Crist</cat>
+      <cat class="adv" tags="abreviació">aC</cat>
     </e>
     <e type="word" area="arqueologia" src="" done="yes">
       <eng class="adv">before present</eng>
@@ -2667,6 +2898,7 @@
       <eng class="adv">a little bit</eng>
       <eng class="adv">somewhat</eng>
       <eng class="adv">rather</eng>
+      <eng class="adv">sort of</eng>
       <cat class="adv">una mica</cat>
       <cat class="adv">una miqueta</cat>
       <cat class="adv">un xic</cat>
@@ -2729,23 +2961,23 @@
       <cat class="adv">d'ací a un any</cat>
     </e>
     <e src="" type="word" def_eng="Before noon." def_cat="Abans del migdia." done="yes">
-      <eng class="adv" tags="abbreviation">a.m.</eng>
       <eng class="adv">ante meridiem</eng>
       <eng class="adv">in the morning</eng>
-      <cat class="adv" tags="abreviació">a. m.</cat>
+      <eng class="adv" tags="abbreviation">a.m.</eng>
       <cat class="adv">del matí</cat>
+      <cat class="adv" tags="abreviació">a. m.</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in the morning</eng>
       <cat class="adv">demà al matí</cat>
     </e>
     <e src="" type="word" def_eng="After noon." def_cat="Després del migdia." done="yes">
-      <eng class="adv" tags="abbreviation">p.m.</eng>
       <eng class="adv">post meridiem</eng>
-      <cat class="adv" tags="abreviació">p. m.</cat>
+      <eng class="adv" tags="abbreviation">p.m.</eng>
       <cat class="adv">de la tarda</cat>
       <cat class="adv" tags="valencià">de la vesprada</cat>
       <cat class="adv">del vespre</cat>
+      <cat class="adv" tags="abreviació">p. m.</cat>
     </e>
     <e area="dret" src="" type="word" done="yes">
       <eng class="adv">ab intestato</eng>
@@ -3579,19 +3811,24 @@
       <eng class="adv">all over town</eng>
       <cat class="adv">per tota la ciutat</cat>
     </e>
-    <e done="yes" src="" type="word">
-      <eng class="adv">all over</eng>
-      <eng class="adv">around</eng>
-      <cat class="adv">arreu</cat>
-      <cat class="adv">per tot arreu</cat>
-      <cat class="adv">pertot arreu</cat>
-      <example sent_eng="People screaming all over." sent_cat="Gent esgargamellant-se per tot arreu." />
-      <example sent_eng="You will see trees sprouting around." sent_cat="Veuràs arbres que broten arreu." />
-    </e>
     <e src="" type="word" done="yes">
       <eng class="adv">all over</eng>
-      <eng class="adv">everywhere</eng>
+      <eng class="adv">around</eng>
       <cat class="adv">a tort i a dret</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">everywhere</eng>
+      <eng class="adv">all over</eng>
+      <eng class="adv">around</eng>
+      <eng class="adv">far and wide</eng>
+      <eng class="adv">far and near</eng>
+      <cat class="adv">a tot arreu</cat>
+      <cat class="adv">pertot arreu</cat>
+      <cat class="adv">pertot</cat>
+      <cat class="adv">arreu</cat>
+      <cat class="adv">arreu arreu</cat>
+      <example sent_eng="People screaming all over." sent_cat="Gent esgargamellant-se per tot arreu." />
+      <example sent_eng="You will see trees sprouting around." sent_cat="Veuràs arbres que broten arreu." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">all right</eng>
@@ -4036,9 +4273,9 @@
       <eng class="adv" tags="abbreviation">etc.</eng>
       <cat class="adv">i tot això</cat>
       <cat class="adv">etcètera</cat>
-      <cat class="adv" tags="abreviació">etc.</cat>
       <cat class="adv">i així anar seguint</cat>
       <cat class="adv">o el que sigui</cat>
+      <cat class="adv" tags="abreviació">etc.</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">and so on and so forth</eng>
@@ -4049,10 +4286,10 @@
       <cat class="adv">i viceversa</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="adv">and what's more</eng>
+      <eng class="adv" primary="yes">and what's more</eng>
       <eng class="adv">what is more</eng>
       <eng class="adv">what's more</eng>
-      <cat class="adv">i encara més</cat>
+      <cat class="adv" primary="yes">i encara més</cat>
       <cat class="adv">encara més</cat>
     </e>
     <e src="" type="word" area="música" done="yes">
@@ -4066,6 +4303,11 @@
     <e src="" type="word" done="yes">
       <eng class="adv">anecdotally</eng>
       <cat class="adv">anecdòticament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">anecdotally</eng>
+      <cat class="expr">com a anècdota</cat>
+      <cat class="expr">a títol anecdòtic</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">anew</eng>
@@ -4267,7 +4509,7 @@
       <eng class="adv">apologetically</eng>
       <cat class="adv">en to contrit</cat>
       <cat class="adv">en to de disculpa</cat>
-      <cat class="adv" after="a algú">sabent greu</cat>
+      <cat class="adv" after="a algú" no_lemma="yes">sabent greu</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">apostolically</eng>
@@ -4284,7 +4526,7 @@
       <cat class="adv">pel que sembla</cat>
       <cat class="adv">segons pareix</cat>
       <cat class="adv">segons sembla</cat>
-      <cat class="expr">tot sembla indicar que</cat>
+      <cat class="expr" no_lemma="yes">tot sembla indicar que</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">apparently</eng>
@@ -4364,8 +4606,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">arguably</eng>
-      <cat class="expr" after="que">es pot dir</cat>
-      <cat class="expr" after="que">es podria dir</cat>
+      <cat class="expr" after="que" no_lemma="yes">es pot dir</cat>
+      <cat class="expr" after="que" no_lemma="yes">es podria dir</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">arguably</eng>
@@ -4532,22 +4774,23 @@
       <cat class="adv">a voluntat</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">as soon as possible</eng>
       <eng class="adv">as early as possible</eng>
-      <eng class="adv">as soon as possible</eng>
       <eng class="adv" tags="abbreviation">ASAP</eng>
-      <cat class="adv">al més aviat possible</cat>
-      <cat class="adv">com més aviat millor</cat>
+      <cat class="adv" primary="yes">com més aviat millor</cat>
       <cat class="adv">com més prompte millor</cat>
-      <cat class="adv">al més prompte possible</cat>
       <cat class="adv">tan aviat com sigui possible</cat>
       <cat class="adv">tan prompte com siga possible</cat>
+      <cat class="adv">al més prompte possible</cat>
+      <cat class="adv">al més aviat possible</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">as ever</eng>
       <cat class="adv">com sempre</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">as far as I am concerned</eng>
+      <eng class="adv" primary="yes">as far as I am concerned</eng>
+      <eng class="adv">as far as I'm concerned</eng>
       <cat class="adv">pel que fa a mi</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -4555,80 +4798,32 @@
       <cat class="adv">pel que jo sé</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">as far as I'm concerned</eng>
-      <cat class="adv">pel que fa a mi</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">as far as can be judged</eng>
       <cat class="adv">pel que sembla</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">as far as he is concerned</eng>
-      <cat class="adv">per la seua part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as he is concerned</eng>
-      <cat class="adv">per la seva part</cat>
-    </e>
-    <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">as far as he is concerned</eng>
       <eng class="adv">as far as he's concerned</eng>
-      <cat class="adv">per la seua part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as he's concerned</eng>
-      <cat class="adv">per la seva part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as possible</eng>
-      <cat class="adv">al més lluny possible</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as she is concerned</eng>
-      <cat class="adv">per la seua part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as she is concerned</eng>
-      <cat class="adv">per la seva part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as she is concerned</eng>
+      <cat class="adv" primary="yes">per part seva</cat>
       <cat class="adv">per part seua</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as she is concerned</eng>
-      <cat class="adv">per part seva</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as she's concerned</eng>
+      <cat class="adv">per la seva part</cat>
       <cat class="adv">per la seua part</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">as far as she is concerned</eng>
       <eng class="adv">as far as she's concerned</eng>
-      <cat class="adv">per la seva part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as they are concerned</eng>
-      <cat class="adv">per la seua part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as they are concerned</eng>
-      <cat class="adv">per la seva part</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as they are concerned</eng>
+      <cat class="adv" primary="yes">per part seva</cat>
       <cat class="adv">per part seua</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as they are concerned</eng>
-      <cat class="adv">per part seva</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">as far as they're concerned</eng>
+      <cat class="adv">per la seva part</cat>
       <cat class="adv">per la seua part</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">as far as they are concerned</eng>
       <eng class="adv">as far as they're concerned</eng>
+      <cat class="adv" primary="yes">per part seva</cat>
+      <cat class="adv">per part seua</cat>
       <cat class="adv">per la seva part</cat>
+      <cat class="adv">per la seua part</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">as follows</eng>
@@ -4744,6 +4939,10 @@
       <cat class="adv">com si diguéssim</cat>
       <cat class="adv">diguem-ne</cat>
       <cat class="adv">per dir-ho d'alguna manera</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">so to speak</eng>
+      <cat class="adv">com aquell qui diu</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="prep">as</eng>
@@ -5195,6 +5394,7 @@
       <cat class="adv">almenys</cat>
       <cat class="adv">com a mínim</cat>
       <cat class="adv">si més no</cat>
+      <cat class="expr">pel cap baix</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">at length</eng>
@@ -5295,10 +5495,6 @@
       <cat class="adv">a l'atzar</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">at relatively long term</eng>
-      <cat class="adv">relativament a llarg termini</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">at right angles</eng>
       <cat class="adv">en angle recte</cat>
     </e>
@@ -5318,10 +5514,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">at some time</eng>
       <cat class="adv">en algun moment</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">at stake</eng>
-      <cat class="adv">en joc</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">at that time of day</eng>
@@ -5409,7 +5601,10 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">at the eleventh hour</eng>
+      <cat class="adv">a l'últim moment possible</cat>
       <cat class="adv">a l'últim minut</cat>
+      <cat class="adv">a darrera hora</cat>
+      <cat class="adv">in extremis</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">at the end of the year</eng>
@@ -5982,11 +6177,11 @@
       <eng class="adv">in advance</eng>
       <eng class="adv">in anticipation</eng>
       <eng class="adv">ahead</eng>
-      <cat class="adv">per endavant</cat>
       <cat class="adv">a la bestreta</cat>
       <cat class="adv">anticipadament</cat>
       <cat class="adv">per anticipat</cat>
       <cat class="adv">per avançat</cat>
+      <cat class="adv">per endavant</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">up front</eng>
@@ -6034,6 +6229,7 @@
       <eng class="adv">belatedly</eng>
       <cat class="adv">tard</cat>
       <cat class="adv">amb retard</cat>
+      <example sent_eng="He wished her a happy birthday belatedly." sent_cat="La va felicitar per l'aniversari amb retard." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">belatedly</eng>
@@ -6174,9 +6370,9 @@
       <eng class="adv">beyond belief</eng>
       <cat class="adv">sobre manera</cat>
       <cat class="adv">cosa de no dir</cat>
-      <cat class="adv" tags="formal">ultra mesura</cat>
       <cat class="adv">d'allò més</cat>
       <cat class="adv">fora mida</cat>
+      <cat class="adv" tags="formal">ultra mesura</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">beyond measure</eng>
@@ -6296,11 +6492,6 @@
       <cat class="adv">amb veu de son</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">blindfolded</eng>
-      <cat class="adv">amb els ulls tapats</cat>
-      <cat class="adv">amb els ulls embenats</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">blindly</eng>
       <cat class="adv">cegament</cat>
     </e>
@@ -6316,8 +6507,29 @@
       <cat class="adv">a les palpentes</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">blindly</eng>
+      <eng class="adv">with your eyes closed</eng>
+      <eng class="adv">with your eyes shut</eng>
+      <cat class="adv">a ulls clucs</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">blindly</eng>
+      <cat class="adv">a la babalà</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">blissfully</eng>
       <cat class="adv">amb joia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">blissfully</eng>
+      <cat class="adv">beatíficament</cat>
+      <cat class="adv">amb beatitud</cat>
+      <cat class="adv">amb felicitat perfecta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">blissfully</eng>
+      <cat class="adv">superlativament</cat>
+      <example sent_eng="blissfully brilliant" sent_cat="superlativament brillant" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">blithely</eng>
@@ -6418,10 +6630,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">briefly</eng>
       <cat class="adv">breument</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">bright and early</eng>
-      <cat class="adv">de bon matí</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">brightly</eng>
@@ -6543,11 +6751,12 @@
       <cat class="adv">de naixement</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">by chance</eng>
+      <eng class="expr">by chance</eng>
       <eng class="adv">coincidentally</eng>
       <eng class="adv">casually</eng>
+      <eng class="expr">by happenstance</eng>
       <cat class="adv">casualment</cat>
-      <cat class="adv">per casualitat</cat>
+      <cat class="expr">per casualitat</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">by check</eng>
@@ -6619,19 +6828,16 @@
       <cat class="adv">de bon tros</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">by fits and starts</eng>
+      <eng class="adv" primary="yes">by fits and starts</eng>
       <eng class="adv">in fits and starts</eng>
-      <cat class="adv">a empentes i rodolons</cat>
+      <cat class="adv" primary="yes">a empentes i rodolons</cat>
       <cat class="adv" tags="valencià">a espentes i redolons</cat>
       <cat class="adv">a bots i empentes</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">by fits and starts</eng>
+      <eng class="adv" primary="yes">by fits and starts</eng>
+      <eng class="adv">in fits and starts</eng>
       <cat class="adv">a la babalà</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by foot</eng>
-      <cat class="adv">a peu</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">by force</eng>
@@ -6707,7 +6913,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">by mutual agreement</eng>
-      <cat class="adv">d'acord mutu</cat>
+      <cat class="adv">de mutu acord</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">by name</eng>
@@ -6726,10 +6932,6 @@
       <eng class="adv">by no means</eng>
       <cat class="adv">de cap manera</cat>
       <cat class="adv">de cap de les maneres</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by now</eng>
-      <cat class="adv">a hores d'ara</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">by piece</eng>
@@ -6838,35 +7040,7 @@
       <cat class="adv">per la mateixa regla de tres</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of her teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of his teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of its teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of my teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of one's teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of our teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of their teeth</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by the skin of your teeth</eng>
+      <eng class="adv">by the skin of someone's teeth</eng>
       <cat class="adv">pels pèls</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -6884,10 +7058,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">by this means</eng>
       <cat class="adv">amb aquests mitjans</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">by this time</eng>
-      <cat class="adv">a hores d'ara</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">by train</eng>
@@ -7119,14 +7289,14 @@
       <cat class="adv">contra reembors</cat>
     </e>
     <e done="yes" src="" type="word">
-      <eng class="adv" tags="UK informal">cash in hand</eng>
       <eng class="adv">cash</eng>
       <eng class="n">immediate payment</eng>
-      <cat class="adv" tags="col·loquial">bitllo-bitllo</cat>
-      <cat class="adv" tags="col·loquial">trinco-trinco</cat>
+      <eng class="adv" tags="UK informal">cash in hand</eng>
       <cat class="adv">al comptat</cat>
       <cat class="adv">en efectiu</cat>
       <cat class="adv">en metàl·lic</cat>
+      <cat class="adv" tags="col·loquial">bitllo-bitllo</cat>
+      <cat class="adv" tags="col·loquial">trinco-trinco</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">casually</eng>
@@ -7222,7 +7392,6 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">certainly</eng>
-      <eng class="adv">without doubt</eng>
       <cat class="adv">certament</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -7387,10 +7556,10 @@
       <cat class="adv">clarament</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">clearly</eng>
       <eng class="adv">obviously</eng>
       <eng class="adv">evidently</eng>
       <cat class="adv">evidentment</cat>
+      <cat class="adv">clarament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">clearly</eng>
@@ -7398,9 +7567,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">clearly</eng>
-      <cat class="adv">és clar</cat>
-      <cat class="adv">és clar que</cat>
-      <cat class="adv">evidentment</cat>
+      <cat class="expr">és clar</cat>
+      <cat class="expr">és clar que</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">clerically</eng>
@@ -7625,8 +7793,7 @@
       <cat class="adv">totalment</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">completely</eng>
-      <eng class="adv">from head to toe</eng>
+      <eng class="adv" primary="yes">from head to toe</eng>
       <eng class="adv">from head to foot</eng>
       <cat class="adv">de cap a peus</cat>
     </e>
@@ -8169,6 +8336,23 @@
       <cat class="adv">crucialment</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">crucially</eng>
+      <cat class="adv">fonamentalment</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">crucially</eng>
+      <cat class="adv">immancablement</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">crucially</eng>
+      <cat class="adv">sobretot</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">most crucially</eng>
+      <cat class="adv">en especial</cat>
+      <cat class="adv">per damunt de tot</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">crudely</eng>
       <cat class="adv">vulgarment</cat>
       <cat class="adv">ordinàriament</cat>
@@ -8308,10 +8492,15 @@
       <cat class="adv">de dia en dia</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">day in day out</eng>
       <eng class="adv">day after day</eng>
       <cat class="adv">dia rere dia</cat>
       <cat class="adv">dia a dia</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">day in and day out</eng>
+      <eng class="adv">day in, day out</eng>
+      <cat class="adv">cada dia</cat>
+      <cat class="adv">dia rere dia</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">dearly</eng>
@@ -8408,11 +8597,6 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">definitively</eng>
-      <cat class="adv">definitivament</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv" tags="UK informal">defo</eng>
-      <cat class="adv">sens dubte</cat>
       <cat class="adv">definitivament</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -9102,18 +9286,21 @@
       <cat class="adv">més d'hora</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">early in the morning</eng>
-      <cat class="adv">de bon matí</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">earnestly</eng>
       <cat class="adv">sincerament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">earnestly</eng>
-      <cat class="adv">sincerament</cat>
-      <cat class="adv">a consciència</cat>
       <cat class="adv">vivament</cat>
+      <example sent_eng="to recommend earnestly" sent_cat="recomanar vivament" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">earnestly</eng>
+      <cat class="adv">a consciència</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">earnestly</eng>
+      <cat class="expr" no_lemma="yes">amb unció</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">easily</eng>
@@ -9431,12 +9618,11 @@
       <cat class="adv">en massa</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">end to end</eng>
-      <cat class="adv">de punta a punta</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">end-to-end</eng>
-      <cat class="adv">de punta a punta</cat>
+      <eng class="expr" primary="yes">end to end</eng>
+      <eng class="expr">from end to end</eng>
+      <cat class="expr">de punta a punta</cat>
+      <cat class="expr">de cap a cap</cat>
+      <cat class="expr">de principi a fi</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">endless</eng>
@@ -9595,8 +9781,8 @@
       <cat class="adv">igualment</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv" tags="formal">equitably</eng>
       <eng class="adv">fairly</eng>
+      <eng class="adv" tags="formal">equitably</eng>
       <cat class="adv">equitativament</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -9675,16 +9861,16 @@
       <cat class="adv">essencialment</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv" tags="abbreviation">et al.</eng>
       <eng class="adv">et alii</eng>
-      <cat class="adv" tags="abreviació">et al.</cat>
+      <eng class="adv" tags="abbreviation">et al.</eng>
       <cat class="adv">et alii</cat>
+      <cat class="adv" tags="abreviació">et al.</cat>
     </e>
     <e src="" type="word" def_eng="Et sequens." def_cat="Et sequens." done="yes">
-      <eng class="adv" tags="abbreviation Latin">et seq.</eng>
       <eng class="adv">an the following ones</eng>
-      <cat class="adv" tags="abreviació llatí">et seq.</cat>
+      <eng class="adv" tags="abbreviation Latin">et seq.</eng>
       <cat class="adv">i els següents</cat>
+      <cat class="adv" tags="abreviació llatí">et seq.</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">eternally</eng>
@@ -9755,8 +9941,8 @@
     <e src="" type="word" done="yes">
       <eng class="adv">even</eng>
       <cat class="adv">fins i tot</cat>
-      <cat class="adv" tags="formal">àdhuc</cat>
       <cat class="adv">inclús</cat>
+      <cat class="adv" tags="formal">àdhuc</cat>
       <example sent_eng="Even the bravest feel afraid sometimes." sent_cat="Fins i tot els més valents tenen por a vegades." />
       <example sent_eng="even on Saturdays" sent_cat="fins i tot els dissabtes" />
     </e>
@@ -9839,8 +10025,8 @@
       <eng class="adv">now and again</eng>
       <eng class="adv">now and then</eng>
       <eng class="adv">every so often</eng>
-      <cat class="adv">adesiara</cat>
       <cat class="adv">de tant en tant</cat>
+      <cat class="adv">adesiara</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">every once in a while</eng>
@@ -9890,18 +10076,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">every year</eng>
       <cat class="adv">cada any</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">everywhere</eng>
-      <cat class="adv">a tot arreu</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">everywhere</eng>
-      <cat class="adv">arreu</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">everywhere</eng>
-      <cat class="adv">pertot</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adv">evidently</eng>
@@ -10170,6 +10344,11 @@
     <e src="" type="word" done="yes">
       <eng class="adv">face to face</eng>
       <cat class="adv">cara a cara</cat>
+      <cat class="adv">barba a barba</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">face to face</eng>
+      <cat class="adv">en persona</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">facetiously</eng>
@@ -10410,9 +10589,11 @@
       <eng class="adv">at home</eng>
       <cat class="adv">a l'interior</cat>
     </e>
-    <e src="" type="word" def_eng="With a very soft voice." def_cat="Amb una veu molt feble." done="yes">
+    <e src="" type="word" done="yes">
       <eng class="adv">feebly</eng>
-      <cat class="adv">amb un fil de veu</cat>
+      <cat class="adv">dèbilment</cat>
+      <cat class="adv">feblement</cat>
+      <cat class="adv">fluixament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">feebly</eng>
@@ -10420,9 +10601,11 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">feebly</eng>
-      <cat class="adv">dèbilment</cat>
-      <cat class="adv">feblement</cat>
-      <cat class="adv">fluixament</cat>
+      <cat class="adv">sense convenciment</cat>
+    </e>
+    <e src="" type="word" def_eng="With a very soft voice." def_cat="Amb una veu molt feble." done="yes">
+      <eng class="adv">feebly</eng>
+      <cat class="adv">amb un fil de veu</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">ferociously</eng>
@@ -10881,13 +11064,6 @@
       <cat class="adv">per part meva</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv" tags="US old">for naught</eng>
-      <cat class="adv">per a res</cat>
-      <cat class="adv">debades</cat>
-      <cat class="adv">en va</cat>
-      <example sent_eng="All our efforts went for naught." sent_cat="Tots els nostres esforços van ser debades." />
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">inexplicably</eng>
       <cat class="adv">inexplicablement</cat>
     </e>
@@ -10946,8 +11122,28 @@
       <cat class="adv">per raons professionals</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">for quite a while</eng>
-      <cat class="adv">bastant temps</cat>
+      <eng class="expr">for quite a while</eng>
+      <cat class="expr">durant molt de temps</cat>
+      <cat class="expr">durant bastant temps</cat>
+      <example sent_eng="The project was delayed for quite a while." sent_cat="El projecte es va endarrerir durant força temps." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for quite a while</eng>
+      <cat class="expr">des de fa força temps</cat>
+      <cat class="expr">des de fa molt de temps</cat>
+      <example sent_eng="I've been thinking about it for quite a while." sent_cat="Hi penso des de fa força temps." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for quite a while</eng>
+      <cat class="expr">fer força temps</cat>
+      <cat class="expr">fer molt de temps</cat>
+      <example sent_eng="I hadn't seen her for quite a while." sent_cat="Feia molt de temps que no la veia." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">for quite a while</eng>
+      <cat class="expr">molta estona</cat>
+      <cat class="expr">una bona estona</cat>
+      <example sent_eng="They talked for quite a while." sent_cat="Van parlar una bona estona." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">for real</eng>
@@ -10960,16 +11156,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">for reasons of principle</eng>
       <cat class="adv">per raons de principi</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">for rent</eng>
-      <cat class="adv">per llogar</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">for sale</eng>
-      <eng class="adv">on sale</eng>
-      <cat class="adv">en venda</cat>
-      <cat class="adv">a la venda</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">for seconds</eng>
@@ -11128,6 +11314,10 @@
       <cat class="adv">per sempre</cat>
       <cat class="adv">tota la vida</cat>
       <cat class="adv">eternament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">forever</eng>
+      <cat class="adv">indefinidament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">formally</eng>
@@ -11430,10 +11620,6 @@
       <cat class="adv">de qualsevol altre lloc</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">from end to end</eng>
-      <cat class="adv">de cap a cap</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">from everywhere</eng>
       <cat class="adv">d'arreu</cat>
     </e>
@@ -11680,14 +11866,15 @@
       <cat class="adv">a tot estrop</cat>
       <cat class="adv">a tota màquina</cat>
       <cat class="adv">a tota pastilla</cat>
-      <cat class="adv" tags="vulgar">a tota hòstia</cat>
       <cat class="adv">a tota castanya</cat>
-      <cat class="adv" tags="vulgar">a tota merda</cat>
       <cat class="adv">a cent per hora</cat>
       <cat class="adv">molt de pressa</cat>
       <cat class="adv">a tota velocitat</cat>
       <cat class="adv">al màxim possible</cat>
       <cat class="adv">a tot córrer</cat>
+      <cat class="adv" tags="vulgar">a tota hòstia</cat>
+      <cat class="adv" tags="vulgar">a tota merda</cat>
+      <example sent_eng="full steam ahead" sent_cat="avant a tota màquina" />
     </e>
     <e type="word" src="" done="yes">
       <eng class="adv">a mile a minute</eng>
@@ -11696,6 +11883,7 @@
     <e type="word" src="" done="yes">
       <eng class="adv">like a shot</eng>
       <cat class="adv">com un tret</cat>
+      <cat class="adv">com una bala</cat>
     </e>
     <e type="word" src="" done="yes">
       <eng class="adv" tags="informal">hotfoot</eng>
@@ -12086,13 +12274,13 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">guiltily</eng>
-      <cat class="adv">amb compunció</cat>
-      <cat class="adv">amb remordiment</cat>
+      <cat class="expr">amb compunció</cat>
+      <cat class="expr">amb remordiment</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">guiltily</eng>
-      <cat class="adv">amb sentiment de culpa</cat>
-      <cat class="adv">amb sentiment de culpabilitat</cat>
+      <cat class="expr">amb sentiment de culpa</cat>
+      <cat class="expr">amb sentiment de culpabilitat</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">habitually</eng>
@@ -12136,7 +12324,12 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">half</eng>
-      <cat class="adv" after="+ adjectiu, forma verbal">mig</cat>
+      <cat class="adv">mig</cat>
+      <example sent_eng="The door was half open." sent_cat="La porta era mig oberta." />
+      <example sent_eng="He was half asleep." sent_cat="Estava mig adormit." />
+      <example sent_eng="The project was only half finished." sent_cat="El projecte només estava mig acabat." />
+      <example sent_eng="She half closed her eyes." sent_cat="Va mig aclucar els ulls." />
+      <example sent_eng="He half smiled." sent_cat="Va mig somriure." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">hand and foot</eng>
@@ -12163,11 +12356,7 @@
       <cat class="adv">generosament</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">hanging by a thread</eng>
-      <cat class="adv">pels pèls</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">hanging on by a thread</eng>
+      <eng class="adv" variants="hanging on by a thread">hanging by a thread</eng>
       <cat class="adv">pels pèls</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -13297,7 +13486,7 @@
       <cat class="adv" tags="llatí">in absentia</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">in accordance with the regulations</eng>
+      <eng class="adv" no_lemma="yes">in accordance with the regulations</eng>
       <cat class="adv">reglamentàriament</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -13355,8 +13544,10 @@
       <cat class="adv">amb tota probabilitat</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">in all weathers</eng>
-      <cat class="adv">amb bon o mal temps</cat>
+      <eng class="expr" tags="UK">in all weathers</eng>
+      <cat class="expr" no_lemma="yes">amb bon o mal temps</cat>
+      <cat class="expr" no_lemma="yes">faci el temps que faci</cat>
+      <example sent_eng="He likes to ride his bike in all weathers." sent_cat="Li agrada anar amb bici faci el temps que faci." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in alphabetical order</eng>
@@ -13901,13 +14092,7 @@
       <cat class="adv">amb el temps</cat>
       <cat class="adv">amb el pas del temps</cat>
       <cat class="adv">a mesura que passi el temps</cat>
-    </e>
-    <e type="word" src="" done="yes">
-      <eng class="adv">over time</eng>
-      <cat class="adv">al llarg del temps</cat>
-      <cat class="adv">amb el temps</cat>
-      <cat class="adv">amb el pas del temps</cat>
-      <cat class="adv">a mesura que passi el temps</cat>
+      <cat class="adv">amb el pas dels dies</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in mitigation</eng>
@@ -13999,6 +14184,12 @@
       <eng class="adv" tags="literary">yesteryear</eng>
       <cat class="adv">en altre temps</cat>
       <cat class="adv">temps enrere</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adv">in the old days</eng>
+      <eng class="adv">in the olden days</eng>
+      <cat class="adv">en altres temps</cat>
+      <cat class="adv">en els vells temps</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in one piece</eng>
@@ -14365,6 +14556,14 @@
       <cat class="adv">a fosques</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">in the dark</eng>
+      <cat class="adv">sense informació</cat>
+      <cat class="adv">in albis</cat>
+      <cat class="adv">en blanc</cat>
+      <cat class="adv">a l'escapça</cat>
+      <cat class="adv">a les fosques</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">in the days ahead</eng>
       <cat class="adv">en els pròxims dies</cat>
     </e>
@@ -14404,10 +14603,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">in the early days</eng>
       <cat class="adv">en els primers temps</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">in the early morning</eng>
-      <cat class="adv">de bon matí</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in the early stages</eng>
@@ -14483,11 +14678,11 @@
       <eng class="adv">in the meantime</eng>
       <eng class="adv">meantime</eng>
       <eng class="adv">meanwhile</eng>
-      <cat class="adv" tags="formal">ínterim</cat>
       <cat class="adv">mentrestant</cat>
       <cat class="adv">entretant</cat>
       <cat class="adv">en l'endemig</cat>
       <cat class="adv">en l'entretant</cat>
+      <cat class="adv" tags="formal">ínterim</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in the know</eng>
@@ -14609,11 +14804,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">in the nick of time</eng>
       <cat class="adv">pels pèls</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="adv">in the old days</eng>
-      <eng class="adv">in the olden days</eng>
-      <cat class="adv">en altres temps</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adv">in the open air</eng>
@@ -14866,13 +15056,6 @@
     <e src="" type="word" area="tipografia" done="yes">
       <eng class="adv">in upper case</eng>
       <cat class="adv">en majúscules</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">to little avail</eng>
-      <eng class="adv">in vain</eng>
-      <cat class="adv">debades</cat>
-      <cat class="adv">endebades</cat>
-      <cat class="adv">en va</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">in various places</eng>
@@ -15156,16 +15339,11 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">indisputably</eng>
-      <eng class="adv">without doubt</eng>
-      <eng class="adv">without a doubt</eng>
-      <cat class="adv">indiscutiblement</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">indisputably</eng>
       <cat class="adv">immancablement</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">indisputably</eng>
+      <eng class="adv" variants="without a doubt">without doubt</eng>
       <cat class="adv">indiscutiblement</cat>
       <cat class="adv">innegablement</cat>
       <cat class="adv">sens dubte</cat>
@@ -15185,11 +15363,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">individually</eng>
       <cat class="adv">individualment</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">indoors</eng>
-      <cat class="adv" after="d'una casa o un edifici">dins</cat>
-      <cat class="adv">entre quatre parets</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">indubitably</eng>
@@ -15421,6 +15594,10 @@
       <cat class="adv">amb poca sinceritat</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">insincerely</eng>
+      <cat class="adv">hipòcritament</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">insipidly</eng>
       <cat class="adv">insípidament</cat>
     </e>
@@ -15440,6 +15617,7 @@
       <eng class="adv">instantly</eng>
       <cat class="adv">de seguida</cat>
       <cat class="adv">a l'instant</cat>
+      <cat class="adv">a l'acte</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">instantly</eng>
@@ -15449,6 +15627,16 @@
     <e src="" type="word" done="yes">
       <eng class="adv">instantly</eng>
       <cat class="adv">instantàniament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">instantly</eng>
+      <cat class="adv" primary="yes">de cop i volta</cat>
+      <cat class="adv">de colp i volta</cat>
+      <example sent_eng="her voice instantly alert" sent_cat="amb veu desperta de cop i volta" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">instantly</eng>
+      <cat class="adv">en un moment</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">instead</eng>
@@ -15588,6 +15776,10 @@
       <eng class="adv">interminably</eng>
       <eng class="adv">endlessly</eng>
       <cat class="adv">interminablement</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">endlessly</eng>
+      <cat class="adv">indefinidament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">interminably</eng>
@@ -15761,6 +15953,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">irredeemably</eng>
+      <cat class="adv">irremissiblement</cat>
+      <cat class="expr">sense remissió</cat>
       <cat class="adv">irremeiablement</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -15770,11 +15964,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">irrefutably</eng>
       <cat class="adv">irrefutablement</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">irregardless</eng>
-      <cat class="adv">independentment</cat>
-      <cat class="adv">amb independència</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">irregularly</eng>
@@ -15965,6 +16154,15 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">around the corner</eng>
+      <cat class="adj">imminent</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">on the way</eng>
+      <cat class="adj">imminent</cat>
+      <example sent_eng="to be on the way" sent_cat="ser imminent" />
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adv">in sight</eng>
       <cat class="adj">imminent</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -16319,8 +16517,8 @@
       <cat class="adv">més endavant</cat>
       <cat class="adv">més avant</cat>
       <cat class="adv">en acabat</cat>
-      <cat class="adv" tags="col·loquial">encabat</cat>
       <cat class="adv" tags="antic">aprés</cat>
+      <cat class="adv" tags="col·loquial">encabat</cat>
       <example sent_eng="They arrived ten minutes after." sent_cat="Van arribar deu minuts després." />
       <example sent_eng="We will talk about it afterward." sent_cat="Ja en parlarem en acabat." />
     </e>
@@ -16347,10 +16545,11 @@
     <e src="" type="word" done="yes">
       <eng class="adv">lazily</eng>
       <cat class="adv">mandrosament</cat>
+      <cat class="adv">peresosament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">lazily</eng>
-      <cat class="adv">peresosament</cat>
+      <cat class="adv">amb indolència</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">least</eng>
@@ -16495,16 +16694,8 @@
       <cat class="expr">com una bomba</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">like a shot</eng>
-      <cat class="adv">com una bala</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">like an avalanche</eng>
       <cat class="adv">com una allau</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">like clockwork</eng>
-      <cat class="adv">com un rellotge</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">like it or not</eng>
@@ -16923,8 +17114,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv" tags="formal literary">many's the time</eng>
-      <cat class="adv" tags="formal literari">manta vegada</cat>
       <cat class="adv">moltes vegades</cat>
+      <cat class="adv" tags="formal literari">manta vegada</cat>
       <example sent_eng="Many's the time I have been there." sent_cat="Hi he estat manta vegada." />
     </e>
     <e src="" type="word" done="yes">
@@ -17002,8 +17193,8 @@
       <cat class="adv">tal vegada</cat>
       <cat class="adv">tal volta</cat>
       <cat class="adv">per ventura</cat>
-      <cat class="adv" tags="col·loquial balear">pentura</cat>
       <cat class="adv" tags="rossellonès">belleu</cat>
+      <cat class="adv" tags="col·loquial balear">pentura</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">meaningfully</eng>
@@ -17670,6 +17861,11 @@
       <cat class="adv">nítidament</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">clearly</eng>
+      <cat class="adv">perfectament</cat>
+      <example sent_eng="clearly audible" sent_cat="perfectament audible" />
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">neatly</eng>
       <cat class="adv">polidament</cat>
     </e>
@@ -17716,8 +17912,8 @@
       <cat class="adv">recentment</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv" after="+ past participle">newly</eng>
-      <cat class="expr" after="+ infinitiu">acabat de</cat>
+      <eng class="adv">newly</eng>
+      <cat class="adj" feminine="acabada de">acabat de</cat>
       <example sent_eng="The newly appointed judge." sent_cat="El jutge acabat de nomenar." />
     </e>
     <e done="yes" src="" type="word">
@@ -18186,6 +18382,13 @@
       <example sent_eng="at three o'clock" sent_cat="a les tres en punt" />
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">on the dot</eng>
+      <eng class="adv">sharp</eng>
+      <cat class="adv">en punt</cat>
+      <example sent_eng="at 3 o'clock on the dot" sent_cat="a les tres en punt" />
+      <example sent_eng="The bus leaves at 8:00 sharp." sent_cat="L'autobús ix a les vuit en punt." />
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">obediently</eng>
       <cat class="adv">obedientment</cat>
     </e>
@@ -18252,47 +18455,20 @@
       <cat class="adv">curiosament</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">of her own free will</eng>
-      <cat class="adv">per voluntat pròpia</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">of its own free will</eng>
-      <cat class="adv">per voluntat pròpia</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">of like mind</eng>
-      <cat class="adv">d'acord</cat>
-      <cat class="adv">del mateix parer</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">of my own free will</eng>
-      <cat class="adv">per voluntat pròpia</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">of our own free will</eng>
-      <cat class="adv">per voluntat pròpia</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adj">of sound mind</eng>
       <cat class="adv">en bon seny</cat>
       <cat class="adj">de trellat</cat>
       <cat class="adj" feminine="assenyada">assenyat</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">of their own free will</eng>
-      <cat class="adv">per voluntat pròpia</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">of your own free will</eng>
-      <cat class="adv">per voluntat pròpia</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">off campus</eng>
       <cat class="adv">fora del campus</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">off duty</eng>
-      <cat class="adv">fora de servei</cat>
+      <eng class="expr">off duty</eng>
+      <cat class="expr">fora de servei</cat>
+      <cat class="expr">lliure de servei</cat>
+      <example sent_eng="The police officer was off duty at the time." sent_cat="El policia estava fora de servei en aquell moment." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">off limits</eng>
@@ -18309,6 +18485,34 @@
     <e src="" type="word" done="yes">
       <eng class="adv">off the record</eng>
       <cat class="adv">extraoficialment</cat>
+      <cat class="adv">de manera no oficial</cat>
+      <cat class="expr" no_lemma="yes">que no consta en acta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">off the record</eng>
+      <cat class="adv">confidencialment</cat>
+      <cat class="adv">en privat</cat>
+      <cat class="adv">entre nosaltres</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the record</eng>
+      <cat class="adv">públicament</cat>
+      <cat class="adv">en públic</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the record</eng>
+      <cat class="adv">per a publicar</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the record</eng>
+      <cat class="adv">oficialment</cat>
+      <cat class="adv">de manera oficial</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the record</eng>
+      <cat class="adv">en actes</cat>
+      <cat class="adj" feminine="registrada">registrat</cat>
+      <cat class="expr" no_lemma="yes">que consta en acta</cat>
     </e>
     <e area="telecomunicacions" src="" type="word" done="yes">
       <eng class="adv">off-line</eng>
@@ -18319,33 +18523,6 @@
       <eng class="adv">offline</eng>
       <eng class="adv">off line</eng>
       <cat class="adv">fora de línia</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">off</eng>
-      <eng class="adv">far off</eng>
-      <cat class="adv">lluny</cat>
-      <cat class="adj" feminine="allunyada">allunyat</cat>
-      <cat class="adj" feminine="separada">separat</cat>
-      <example sent_eng="Winter is still far off." sent_cat="L'hivern encara queda lluny." />
-      <example sent_eng="The lake is quite far off." sent_cat="El llac queda bastant allunyat." />
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">off</eng>
-      <cat class="v" grammar="intr_pron">allunyar-se</cat>
-      <cat class="v" grammar="intr_pron">anar-se'n</cat>
-      <example sent_eng="He drove off just like that." sent_cat="Es va allunyar amb el cotxe com si res." />
-      <example sent_eng="Well, I'm off." sent_cat="Bé, me'n vaig." />
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">off</eng>
-      <cat class="adj">lliure</cat>
-      <example sent_eng="How much time off do you have?" sent_cat="Quant temps lliure tens?" />
-      <example sent_eng="When is your next day off?" sent_cat="Quan tornes a tenir un dia lliure?" />
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">off</eng>
-      <cat class="expr">de descompte</cat>
-      <example sent_eng="These socks are 10% off." sent_cat="Aquests mitjons tenen un 10% de descompte." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">offensively</eng>
@@ -18363,7 +18540,7 @@
     <e src="" type="word" done="yes">
       <eng class="adv">often</eng>
       <eng class="adv">oftentimes</eng>
-      <eng class="adv">oft</eng>
+      <eng class="adv" tags="literary">oft</eng>
       <cat class="adv">sovint</cat>
       <cat class="adv">tot sovint</cat>
       <cat class="adv" tags="inusual">freqüentment</cat>
@@ -18470,12 +18647,6 @@
       <cat class="adv">en equilibri</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv" tags="figurative">on an even keel</eng>
-      <cat class="adv">plàcidament</cat>
-      <cat class="adv">sense incidents</cat>
-      <cat class="adv">com una seda</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">on an individual basis</eng>
       <cat class="adv">individualment</cat>
     </e>
@@ -18578,12 +18749,9 @@
       <cat class="adv">a primera vista</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">on foot</eng>
-      <cat class="adv">a peu</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">on foot</eng>
+      <eng class="adv" primary="yes">on foot</eng>
       <eng class="adv">by foot</eng>
+      <eng class="adv">afoot</eng>
       <cat class="adv">a peu</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -18738,12 +18906,17 @@
       <cat class="adv">a sol·licitud</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">on sale</eng>
-      <cat class="adv">en rebaixes</cat>
+      <eng class="expr">on sale</eng>
+      <cat class="expr">en rebaixes</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">on second thoughts</eng>
-      <cat class="adv">ben mirat</cat>
+      <eng class="expr">on sale</eng>
+      <cat class="expr">en rebaixes</cat>
+      <cat class="expr">d'oferta</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="expr">on second thoughts</eng>
+      <cat class="expr">ben mirat</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">on shore</eng>
@@ -18800,11 +18973,6 @@
       <cat class="adv">a la costa</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">on the contrary</eng>
-      <cat class="adv">al contrari</cat>
-      <cat class="adv">ans al contrari</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">on the defensive</eng>
       <cat class="adv">a la defensiva</cat>
     </e>
@@ -18816,11 +18984,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">on the dole</eng>
       <cat class="adv">a l'atur</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv" tags="informal">on the dot</eng>
-      <cat class="adv">en punt</cat>
-      <example sent_eng="at 3 o'clock on the dot" sent_cat="a les tres en punt" />
     </e>
     <e done="yes" src="" type="word">
       <eng class="adv">on the available evidence</eng>
@@ -18894,12 +19057,17 @@
       <cat class="adv">per una part</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">on the other hand</eng>
+      <eng class="adv" primary="yes">on the other hand</eng>
       <eng class="adv" tags="abbreviation">OTOH</eng>
+      <cat class="adv" primary="yes">d'altra banda</cat>
       <cat class="adv">per una altra banda</cat>
-      <cat class="adv">per una altra part</cat>
-      <cat class="adv">d'altra banda</cat>
       <cat class="adv">d'una altra banda</cat>
+      <cat class="adv">per una altra part</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the contrary</eng>
+      <cat class="adv">al contrari</cat>
+      <cat class="adv">ans al contrari</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">on the other side</eng>
@@ -19202,13 +19370,13 @@
       <cat class="adv">un dia d'aquests</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="expr">one way or another</eng>
+      <eng class="expr" primary="yes">one way or another</eng>
       <eng class="expr">in one way or another</eng>
       <eng class="expr">one way or the other</eng>
       <cat class="adv">d'una manera o una altra</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="expr">one way or another</eng>
+      <eng class="expr" primary="yes">one way or another</eng>
       <eng class="expr">in one way or another</eng>
       <eng class="expr">one way or the other</eng>
       <cat class="expr">tant sí com no</cat>
@@ -19216,7 +19384,7 @@
       <cat class="expr">de totes passades</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="expr">one way or another</eng>
+      <eng class="expr" primary="yes">one way or another</eng>
       <eng class="expr">in one way or another</eng>
       <eng class="expr">one way or the other</eng>
       <cat class="expr">per a bé o per a mal</cat>
@@ -19227,7 +19395,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">only once</eng>
-      <cat class="adv">només una vegada</cat>
+      <cat class="adv" primary="yes">només una vegada</cat>
       <cat class="adv">només una volta</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -19295,9 +19463,9 @@
       <cat class="adv">operacionalment</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv" tags="formal">opportunely</eng>
       <eng class="adv">at a convenient time</eng>
       <eng class="adv">at a appropriate time</eng>
+      <eng class="adv" tags="formal">opportunely</eng>
       <cat class="adv">oportunament</cat>
       <cat class="adv">pertinentment</cat>
     </e>
@@ -19497,7 +19665,9 @@
     <e done="yes" src="" type="word">
       <eng class="adv">out of nowhere</eng>
       <eng class="adv">out of thin air</eng>
-      <cat class="adv">del no-res</cat>
+      <cat class="adv">del no res</cat>
+      <cat class="adv">sense més ni més</cat>
+      <cat class="expr">com per art d'encantament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">out of office</eng>
@@ -19517,11 +19687,7 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">out of sorts</eng>
-      <cat class="adv">a mal borràs</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">out of sorts</eng>
-      <cat class="adv">de mal borràs</cat>
+      <cat class="adv" variants="de mal borràs">a mal borràs</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">out of spite</eng>
@@ -19535,10 +19701,14 @@
       <eng class="adv">out of the blue</eng>
       <cat class="adv">de cop</cat>
       <cat class="adv">de colp</cat>
+      <cat class="adv">de sobte</cat>
+      <cat class="adv">d'improvís</cat>
+      <cat class="adv">sense més ni més</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">out of the blue</eng>
-      <cat class="adv">de sobte</cat>
+      <cat class="adv">inesperadament</cat>
+      <cat class="adv">a la impensada</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">out of the corner of one's eye</eng>
@@ -19621,6 +19791,7 @@
     <e src="" type="word" done="yes">
       <eng class="adv">outwardly</eng>
       <cat class="adv">externament</cat>
+      <cat class="adv">exteriorment</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">outwards</eng>
@@ -19656,10 +19827,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">over there</eng>
       <cat class="adv">enllà</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">over time</eng>
-      <cat class="adv">amb el temps</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">over</eng>
@@ -21195,7 +21362,8 @@
       <cat class="adv">referencialment</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">regardless</eng>
+      <eng class="adv" primary="yes">regardless</eng>
+      <eng class="adv" tags="nonstandard">irregardless</eng>
       <cat class="expr">malgrat tot</cat>
       <cat class="expr">passi el que passi</cat>
       <cat class="expr">sigui com sigui</cat>
@@ -21203,13 +21371,21 @@
       <cat class="expr">costi el que costi</cat>
       <cat class="adv">independentment</cat>
       <cat class="expr">amb independència</cat>
-      <cat class="expr">de totes maneres</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">regardless</eng>
+      <eng class="adv" primary="yes">regardless</eng>
+      <eng class="adv" tags="nonstandard">irregardless</eng>
+      <cat class="expr">de totes maneres</cat>
+      <cat class="adv">igualment</cat>
+      <example sent_eng="It couldn't be saved regardless." sent_cat="Igualment no es podia salvar." />
+      <example sent_eng="It couldn't be saved regardless." sent_cat="De totes maneres no es podia salvar." />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" primary="yes">regardless</eng>
+      <eng class="adv" tags="nonstandard">irregardless</eng>
       <cat class="adv">irremissiblement</cat>
-      <cat class="expr">per més que t'hi resisteixis</cat>
-      <cat class="expr">sense que hi puguis fer res</cat>
+      <cat class="expr" no_lemma="yes">per més que t'hi resisteixis</cat>
+      <cat class="expr" no_lemma="yes">sense que hi puguis fer res</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">regionally</eng>
@@ -21477,7 +21653,27 @@
     <e src="" type="word" done="yes">
       <eng class="adv">right now</eng>
       <eng class="adv">at this moment</eng>
+      <eng class="adv">as of this moment</eng>
       <cat class="adv">ara mateix</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">by now</eng>
+      <eng class="adv">by this time</eng>
+      <cat class="adv">a hores d'ara</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">as of today</eng>
+      <cat class="expr">avui dia</cat>
+      <cat class="expr">el dia d'avui</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">as of today</eng>
+      <cat class="expr">fins avui</cat>
+      <cat class="expr">fins ara</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="expr">as of today</eng>
+      <cat class="expr">a partir d'avui</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">right there</eng>
@@ -21975,10 +22171,6 @@
       <cat class="adv">vergonyosament</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">sharp</eng>
-      <cat class="adv">en punt</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">sharply</eng>
       <eng class="adv">acutely</eng>
       <cat class="adv">agudament</cat>
@@ -22013,9 +22205,6 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">shortly after</eng>
-      <cat class="adv">poc després</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">shortly afterwards</eng>
       <cat class="adv">poc després</cat>
     </e>
@@ -22529,7 +22718,6 @@
       <cat class="adv">prest</cat>
       <cat class="adv">pròximament</cat>
       <cat class="adv" tags="antic">tost</cat>
-      <cat class="adv" after="inusual">properament</cat>
     </e>
     <e done="yes" src="" def_eng="At a time in advance of the usual." def_cat="A una hora abans de l'habitual." type="word">
       <eng class="adv">early</eng>
@@ -22723,9 +22911,9 @@
     <e src="" type="word" done="yes">
       <eng class="adv">standing up</eng>
       <eng class="adv">on one's feet</eng>
-      <cat class="adv" tags="inusual">dempeus</cat>
       <cat class="adj">dret</cat>
       <cat class="adv">en peus</cat>
+      <cat class="adv" tags="inusual">dempeus</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">starkly</eng>
@@ -22824,8 +23012,8 @@
       <eng class="adv">straight afterwards</eng>
       <cat class="adv">acabat</cat>
       <cat class="adv">en acabat</cat>
-      <cat class="adv" tags="col·loquial">encabat</cat>
       <cat class="adv">just després</cat>
+      <cat class="adv" tags="col·loquial">encabat</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">straight ahead</eng>
@@ -23043,8 +23231,33 @@
       <cat class="adv">a bastança</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">amply</eng>
+      <cat class="adv">a bastament</cat>
+      <cat class="adv">sobradament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">extensively</eng>
+      <cat class="adv">àmpliament</cat>
+      <cat class="adv">en detall</cat>
+      <cat class="adv">a bastament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">extensively</eng>
+      <cat class="adv">abundantment</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">thoroughly</eng>
+      <cat class="adv">plenament</cat>
+      <cat class="adv">a bastament</cat>
+      <example sent_eng="thoroughly proven" sent_cat="demostrat a bastament" />
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">suitably</eng>
       <cat class="adv">adequadament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">suitably</eng>
+      <cat class="expr">com és natural</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">summarily</eng>
@@ -23099,6 +23312,7 @@
     <e src="" type="word" done="yes">
       <eng class="adv">supremely</eng>
       <cat class="adv">supremament</cat>
+      <cat class="adv">sobiranament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">sure enough</eng>
@@ -23120,12 +23334,32 @@
       <cat class="adv">sorprenentment</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv" variants="surprisingly enough">surprisingly</eng>
+      <cat class="expr">cosa curiosa</cat>
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">surprisingly</eng>
-      <cat class="adv">sorprenentment</cat>
+      <cat class="adv">extraordinàriament</cat>
+      <cat class="adv">d'allò més</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">surprisingly</eng>
+      <cat class="adv">inesperadament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">surreptitiously</eng>
       <cat class="adv">d'amagat</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">surreptitiously</eng>
+      <cat class="adv">subreptíciament</cat>
+      <cat class="adv">clandestinament</cat>
+      <cat class="adv">furtivament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">surreptitiously</eng>
+      <cat class="adv">dissimuladament</cat>
+      <cat class="adv">discretament</cat>
     </e>
     <e done="yes" src="" type="word" def_eng="In a suspicious manner." def_cat="De manera sospitosa.">
       <eng class="adv">dubiously</eng>
@@ -23884,7 +24118,8 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">thoroughly</eng>
-      <cat class="adv">exhaustivament</cat>
+      <eng class="adv">all over</eng>
+      <cat class="adv">completament</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">threateningly</eng>
@@ -23990,6 +24225,14 @@
       <cat class="adv">incansablement</cat>
       <cat class="adv">infatigablement</cat>
     </e>
+    <e src="" done="yes">
+      <eng class="adv">unwaveringly</eng>
+      <cat class="adv">fermament</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">unwaveringly</eng>
+      <cat class="adv">resoludament</cat>
+    </e>
     <e done="yes" src="" type="word">
       <eng class="adv">to a certain degree</eng>
       <eng class="adv">to a certain extent</eng>
@@ -24029,22 +24272,6 @@
       <cat class="adv">d'ací d'allà</cat>
       <cat class="adv">amunt i avall</cat>
       <cat class="adv">ençà i enllà</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">to be exact</eng>
-      <cat class="adv">per ser exactes</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">to be fair</eng>
-      <cat class="adv">per ser justos</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">to be frank</eng>
-      <cat class="adv">per ser francs</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">to be more precise</eng>
-      <cat class="adv">per ser més precisos</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">to be on the safe side</eng>
@@ -24236,10 +24463,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">to the ground</eng>
       <cat class="adv">completament</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">to the hilt</eng>
-      <cat class="adv">del tot</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="adv">to the left</eng>
@@ -24660,10 +24883,6 @@
       <cat class="adv">inequívocament</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">unambiguously</eng>
-      <cat class="adv">inequívocament</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">unanimously</eng>
       <cat class="adv">per unanimitat</cat>
     </e>
@@ -24944,11 +25163,30 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">undoubtedly</eng>
-      <cat class="adv">indubtablement</cat>
+      <cat class="adv">indiscutiblement</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">undoubtedly</eng>
+      <cat class="adv">naturalment</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unduly</eng>
       <cat class="adv">excessivament</cat>
+      <cat class="adv">més del compte</cat>
+      <example sent_eng="unduly pessimistic" sent_cat="més pessimista del compte" />
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unduly</eng>
+      <cat class="adv">exageradament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unduly</eng>
+      <cat class="adv">innecessàriament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" remark="in negative sentences">unduly</eng>
+      <cat class="adv" remark="en frases negatives">gaire</cat>
+      <cat class="adv" remark="en frases negatives">del tot</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">uneasily</eng>
@@ -24988,7 +25226,6 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unexpectedly</eng>
-      <eng class="adv">out of the blue</eng>
       <cat class="adv">inesperadament</cat>
       <cat class="adv">a la impensada</cat>
     </e>
@@ -25190,9 +25427,14 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unsteadily</eng>
-      <cat class="adv">amb un pas insegur</cat>
-      <cat class="adv">amb un pas vacil·lant</cat>
-      <cat class="adv">amb un pas trontollós</cat>
+      <cat class="adv">amb pas insegur</cat>
+      <cat class="adv">amb pas vacil·lant</cat>
+      <cat class="adv">amb pas trontollós</cat>
+      <cat class="adv">fent tentines</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">tentatively</eng>
+      <cat class="adv">amb pas vacil·lant</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unsuccessfully</eng>
@@ -25207,6 +25449,7 @@
       <cat class="expr">no és estrany, doncs, que</cat>
       <cat class="expr">no és d'estranyar, doncs, que</cat>
       <cat class="expr">com no és d'estranyar</cat>
+      <cat class="expr">com era d'esperar</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">unsurprisingly</eng>
@@ -25297,7 +25540,16 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">up for grabs</eng>
-      <cat class="adv">a mà</cat>
+      <cat class="adj">disponible</cat>
+      <cat class="adj">lliure</cat>
+      <cat class="expr" no_lemma="yes">a l'abast de tothom</cat>
+      <cat class="expr" no_lemma="yes">per a qui el vulgui</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">up for grabs</eng>
+      <cat class="adv">en joc</cat>
+      <cat class="adv">en disputa</cat>
+      <example sent_eng="The title is still up for grabs" sent_cat="El títol encara està en joc." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">up here</eng>
@@ -25367,6 +25619,12 @@
       <example sent_eng="The balloon kept going up." sent_cat="El globus continuava pujant." />
       <example sent_eng="Your bed is up in another room." sent_cat="El teu llit és a dalt, en una altra habitació." />
     </e>
+    <e done="yes" src="" def_eng="Moving or tending towards a higher position, level, or status." def_cat="Que es mou o tendeix cap a una posició, nivell o estatus superior.">
+      <eng class="adv">upwardly</eng>
+      <cat class="adv">cap amunt</cat>
+      <cat class="adv">en ascens</cat>
+      <example sent_eng="They are an upwardly mobile family." sent_cat="Són una família en ascens social." />
+    </e>
     <e src="" type="word" done="yes">
       <eng class="adv">uphill</eng>
       <cat class="adv">costa amunt</cat>
@@ -25405,9 +25663,28 @@
       <eng class="adv">upriver</eng>
       <eng class="expr">up river</eng>
       <eng class="expr">up the river</eng>
-      <cat class="adv">contra corrent</cat>
-      <cat class="adv">riu amunt</cat>
-      <cat class="adv">aigua amunt</cat>
+      <cat class="expr">riu amunt</cat>
+      <cat class="expr">aigua amunt</cat>
+      <cat class="expr">contra corrent</cat>
+      <cat class="expr">a contracorrent</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="expr">against the current</eng>
+      <eng class="expr">against the tide</eng>
+      <eng class="expr">against the grain</eng>
+      <cat class="expr">a contracorrent</cat>
+      <cat class="expr">contra corrent</cat>
+      <example sent_eng="It's hard to change the company culture when you are swimming against the tide." sent_cat="És difícil canviar la cultura de l'empresa quan nedes contra corrent." />
+    </e>
+    <e done="yes" src="" type="word" area="nàutica">
+      <eng class="expr">against the current</eng>
+      <cat class="expr">contra corrent</cat>
+      <example sent_eng="The fish swim against the current to spawn." sent_cat="Els peixos neden contra corrent per a desovar." />
+    </e>
+    <e done="yes" src="" type="word" area="nàutica">
+      <eng class="adv">upwind</eng>
+      <cat class="expr">contra el vent</cat>
+      <example sent_eng="Sailing upwind requires advanced techniques." sent_cat="Navegar contra el vent requereix tècniques avançades." />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">downstream</eng>
@@ -25420,10 +25697,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">upwind</eng>
       <cat class="adv">contra el vent</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">upwind</eng>
-      <cat class="adv">a sobrevent</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">urgently</eng>
@@ -25518,10 +25791,6 @@
     <e src="" type="word" done="yes">
       <eng class="adv">vertically</eng>
       <cat class="adv">verticalment</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">very early in the morning</eng>
-      <cat class="adv">de bon matí</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">very good</eng>
@@ -25686,10 +25955,6 @@
       <eng class="adv">volubly</eng>
       <cat class="adv">loquaçment</cat>
       <cat class="adv">amb loquacitat</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">voluntarily</eng>
-      <cat class="adv">per voluntat pròpia</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">voluntarily</eng>
@@ -25905,20 +26170,14 @@
       <cat class="adv">on sigui possible</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">whereabouts</eng>
-      <cat class="adv">on</cat>
+      <eng class="adv">where</eng>
+      <cat class="adv" variants="a on">on</cat>
+      <example sent_eng="This is the house where my grandmother was born." sent_cat="Aquesta és la casa on va néixer la meva àvia." />
+      <example sent_eng="Where are you going?" sent_cat="On vas?" />
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">where</eng>
+      <eng class="adv">whereabouts</eng>
       <cat class="adv">on</cat>
-      <cat class="adv">a on</cat>
-      <example sent_eng="This is the house where my grandmother was born." sent_cat="Aquesta és la casa on va néixer la meva àvia." />
-    </e>
-    <e done="yes" src="" def_eng="Interrogative adverb, which place." def_cat="Adverbi interrogatiu, quin lloc." type="word">
-      <eng class="adv">where</eng>
-      <cat class="adv">on</cat>
-      <cat class="adv">a on</cat>
-      <example sent_eng="Where are you going?" sent_cat="On vas?" />
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">wherever possible</eng>
@@ -25936,7 +26195,6 @@
       <eng class="adv">wherever</eng>
       <cat class="adv">onsevulla</cat>
       <cat class="adv">en qualsevol lloc</cat>
-      <cat class="adv">a qualsevol lloc</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">whimsically</eng>
@@ -26072,6 +26330,11 @@
       <cat class="adv">testarrudament</cat>
     </e>
     <e src="" type="word" done="yes">
+      <eng class="adv">wilfully</eng>
+      <cat class="adj">de conveniència</cat>
+      <example sent_eng="wilfully deaf" sent_cat="sord de conveniència" />
+    </e>
+    <e src="" type="word" done="yes">
       <eng class="adv">willfully</eng>
       <cat class="adv">intencionadament</cat>
       <cat class="adv">premeditadament</cat>
@@ -26108,13 +26371,10 @@
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">willingly</eng>
+      <eng class="adv">voluntarily</eng>
       <cat class="adv">voluntàriament</cat>
-      <cat class="adv">per voluntat pròpia</cat>
+      <cat class="expr">per voluntat pròpia</cat>
       <cat class="adv">lliurement</cat>
-    </e>
-    <e src="" type="word" done="yes">
-      <eng class="adv">willy-nilly</eng>
-      <cat class="adv">a tort i a dret</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">willy-nilly</eng>
@@ -26123,6 +26383,17 @@
       <cat class="adv">de grat o per força</cat>
       <cat class="adv">vulgues no vulgues</cat>
       <cat class="adv">vulguis o no</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adv">willy-nilly</eng>
+      <eng class="adv">helter-skelter</eng>
+      <eng class="adv">pell-mell</eng>
+      <eng class="adv" variants="any old way">any old how</eng>
+      <cat class="adv">a la babalà</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">willy-nilly</eng>
+      <cat class="adv">a tort i a dret</cat>
     </e>
     <e src="" type="word" done="yes">
       <eng class="adv">windwards</eng>
@@ -26450,7 +26721,7 @@
       <cat class="adv">sense parar</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">without a doubt</eng>
+      <eng class="adv" variants="without a doubt">without doubt</eng>
       <cat class="adv">sens dubte</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -26466,12 +26737,7 @@
       <cat class="adv">sense discutir</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">without doubt</eng>
-      <cat class="adv">sens dubte</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">certainly</eng>
-      <eng class="adv">without a doubt</eng>
       <cat class="adv">sens dubte</cat>
     </e>
     <e src="" type="word" done="yes">
@@ -26633,11 +26899,6 @@
       <cat class="adv">cada any sense falta</cat>
     </e>
     <e src="" type="word" done="yes">
-      <eng class="adv">day in, day out</eng>
-      <cat class="adv">dia rere dia</cat>
-      <cat class="adv">cada dia</cat>
-    </e>
-    <e src="" type="word" done="yes">
       <eng class="adv">yearly</eng>
       <cat class="adv">cada any</cat>
     </e>
@@ -26692,13 +26953,13 @@
       <example sent_eng="He agreed to speak only on condition of anonymity" sent_cat="Va estar d'acord a parlar sempre que conservés l'anonimat." />
     </e>
     <e type="word" src="" done="yes">
-      <eng class="adv">between a rock and a hard place</eng>
-      <eng class="adv" tags="literary">between Scylla and Charybdis</eng>
-      <cat class="adv" tags="literari">entre Escil·la i Caribdis</cat>
-      <cat class="adv">entre l'espasa i la paret</cat>
-      <cat class="adv">entre dos focs</cat>
-      <cat class="adv">entre l'enclusa i el martell</cat>
-      <cat class="adv">entre les banyes d'un toro</cat>
+      <eng class="expr">between a rock and a hard place</eng>
+      <eng class="expr" tags="literary">between Scylla and Charybdis</eng>
+      <cat class="expr">entre l'espasa i la paret</cat>
+      <cat class="expr">entre dos focs</cat>
+      <cat class="expr">entre l'enclusa i el martell</cat>
+      <cat class="expr">entre les banyes d'un toro</cat>
+      <cat class="expr" tags="literari">entre Escil·la i Caribdis</cat>
     </e>
     <e type="word" src="" done="yes">
       <eng class="adv">athwart</eng>
@@ -26819,7 +27080,7 @@
     </e>
     <e done="yes" src="" type="word">
       <eng class="adv">stiff</eng>
-      <cat class="adv">sobiranament</cat>
+      <cat class="adv" tags="irònic">sobiranament</cat>
       <example sent_eng="bored stiff" sent_cat="sobiranament avorrit" />
     </e>
     <e done="yes" src="" type="word">
@@ -26878,9 +27139,11 @@
     <e done="yes" src="" type="word">
       <eng class="adv">each</eng>
       <eng class="adv">apiece</eng>
+      <eng class="expr">a shot</eng>
       <cat class="adv" feminine="cada una">cada un</cat>
       <example sent_eng="The notebooks are €2 apiece." sent_cat="Les llibretes costen 2 € cada una." />
       <example sent_eng="The pens are €1 each." sent_cat="Els bolígrafs costen 1 € cada un." />
+      <example sent_eng="The tickets cost ten dollars a shot." sent_cat="Els tiquets costen deu dòlars cada un." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="adv" tags="formal">writ small</eng>
@@ -26917,6 +27180,109 @@
     <e src="" type="word" done="yes">
       <eng class="adv">mostly</eng>
       <cat class="expr">poc o molt</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv">grusomely</eng>
+      <cat class="adv">horripilantment</cat>
+      <cat class="adv">macabrament</cat>
+      <cat class="adv">horrorosament</cat>
+    </e>
+    <e src="" done="yes">
+      <eng class="adv" tags="informal">big-time</eng>
+      <cat class="adv">moltíssim</cat>
+      <cat class="adv">amb ganes</cat>
+      <cat class="adv">en gran</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv" tags="UK informal">deffo</eng>
+      <cat class="adv">sens dubte</cat>
+      <cat class="adv">definitivament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">later in the season</eng>
+      <cat class="adv">més entrada l'estació</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">in the dark</eng>
+      <cat class="adv">a les fosques</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">in the days of old</eng>
+      <cat class="adv">antigament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">by turns</eng>
+      <cat class="adv">successivament</cat>
+      <cat class="adv">alternativament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">feebly</eng>
+      <cat class="adv">amb pas feixuc</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">on the other hand</eng>
+      <cat class="adv">per contra</cat>
+      <cat class="adv">contràriament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">personally</eng>
+      <cat class="adv">per al meu gust</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">pointedly</eng>
+      <cat class="adv">ostensiblement</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">pointedly</eng>
+      <cat class="expr">amb intenció</cat>
+      <cat class="expr">amb segones</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">pointedly</eng>
+      <cat class="adv">en to categòric</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">pointedly</eng>
+      <cat class="adv">intencionadament</cat>
+      <cat class="adv">premeditadament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">subtly</eng>
+      <cat class="adv">discretament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unashamedly</eng>
+      <cat class="adv">sense pudor</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">unexpectedly</eng>
+      <eng class="adv">without warning</eng>
+      <cat class="adv">d'improvís</cat>
+    </e>
+    <e done="yes" src="" type="word">
+      <eng class="adv">malapropos</eng>
+      <cat class="adv">inadequadament</cat>
+      <cat class="adv">inapropiadament</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">numbly</eng>
+      <cat class="adv">de manera esmorteïda</cat>
+      <cat class="adj" feminine="esmorteïda">esmorteït</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">numbly</eng>
+      <cat class="adj" feminine="atordida">atordit</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">numbly</eng>
+      <cat class="adv">maquinalment</cat>
+      <cat class="expr">d'esma</cat>
+    </e>
+    <e src="" type="word" done="yes">
+      <eng class="adv">numbly</eng>
+      <cat class="adv">vagament</cat>
+      <cat class="adv">confusament</cat>
+      <cat class="adv">boirosament</cat>
     </e>
   </entries>
 </root>

@@ -13,10 +13,12 @@ public class Utils {
   private static final Pattern DIACRITICS_PATTERN = Pattern.compile("\\p{M}");
   private static final Pattern SPACES_PATTERN = Pattern.compile("\\s\\s+");
 
+
   public static final List<String> ENGLISH_VARIANTS = Arrays.asList("US", "UK", "AU", "IN");
   public static final List<String> CATALAN_VARIANTS = Arrays.asList("valencià", "balear", "rossellonès", "central",
       "nord-occidental", "mallorquí", "menorquí", "eivissenc", "ortografia_2017");
-  public static List<String> tagsForAbbreviations = Arrays.asList("sigla", "abreviació", "acronym", "abbreviation", "initialism", "símbol", "symbol");
+  public static List<String> tagsForAbbreviations = Arrays.asList("sigla", "abreviació", "acronym", "abbreviation",
+      "initialism", "símbol", "symbol");
 
   static String removeDiacritics(String input) {
     String normalized = Normalizer.normalize(input, Normalizer.Form.NFD);
@@ -29,6 +31,15 @@ public class Utils {
 
   static String normalizeWhitespaces(String input) {
     return SPACES_PATTERN.matcher(input).replaceAll(" ").trim();
+  }
+
+  static String normalizeSearchString(String input) {
+    return normalizeWhitespaces(input
+        .replace("’", "'")
+        .replace("cargol", "caragol")
+        .replace("carbass", "carabass")
+        .replace("CARGOL", "CARAGOL")
+        .replace("CARBASS", "CARABASS"));
   }
 
   public static boolean isLowerCaseLetter(String str) {
@@ -48,11 +59,11 @@ public class Utils {
 
   /**
    * Genera una llista de cadenes de cerca a partir de les formes d'una paraula.
-
-   * @param  w   paraula
-   * @return     llista de cadenes de cerca
+   *
+   * @param w paraula
+   * @return llista de cadenes de cerca
    */
-static List<String> wordFormsToSearch(Word w) {
+  static List<String> wordFormsToSearch(Word w) {
     HashSet<String> wordFormsResults = new HashSet<>();
     List<String> wordFormsOriginal = new ArrayList<>();
     wordFormsOriginal.addAll(w.getAllForms());
@@ -83,8 +94,8 @@ static List<String> wordFormsToSearch(Word w) {
   }
 
   static boolean haveAnyCommonForm(List<String> list1, List<String> list2) {
-    for (String w1: list1) {
-      for (String w2: list2) {
+    for (String w1 : list1) {
+      for (String w2 : list2) {
         if (w1.equals(w2)) {
           return true;
         }
@@ -95,8 +106,8 @@ static List<String> wordFormsToSearch(Word w) {
 
   static boolean haveAnyCommonForm(String s1, List<String> list2) {
     List<String> list1 = Arrays.asList(s1.split((" ")));
-    for (String w1: list1) {
-      for (String w2: list2) {
+    for (String w1 : list1) {
+      for (String w2 : list2) {
         if (w1.equals(w2)) {
           return true;
         }
@@ -144,8 +155,8 @@ static List<String> wordFormsToSearch(Word w) {
     return dist[sourceLength][targetLength];
   }
 
-  private static List<String> stopWordListForAcronyms = Arrays.asList("sobre", "de", "d", "a", "l", "les", "els", "i", "el", "la",
-      "of", "the");
+  private static List<String> stopWordListForAcronyms = Arrays.asList("sobre", "de", "del", "dels", "d", "a", "l",
+      "les", "en", "els", "i", "el", "la", "of", "the", "in");
 
   public static boolean isAcronym(String acronym, String expression) {
     String maj = expression.replaceAll("[^A-Z]", "");
@@ -171,13 +182,13 @@ static List<String> wordFormsToSearch(Word w) {
 
   /**
    * Comprova si una paraula és una "stop word".
-
-   * @param  word           paraula
-   * @param  stopWordList   llista de "stop words"
-   * @return                booleà amb el resultat de la comprovació
+   *
+   * @param word         paraula
+   * @param stopWordList llista de "stop words"
+   * @return booleà amb el resultat de la comprovació
    */
   static boolean isStopWord(String word, HashSet<String> stopWordList) {
-    if (word.length()<3 || word.endsWith(".")) {
+    if (word.length() < 3 || word.endsWith(".")) {
       return true;
     }
     for (String stopWord : stopWordList) {
@@ -190,7 +201,7 @@ static List<String> wordFormsToSearch(Word w) {
 
   public static List<String> getAllAbbreviations(List<Word> words) {
     List<String> results = new ArrayList<>();
-    for (Word w: words) {
+    for (Word w : words) {
       if (haveAnyCommonForm(w.tags, tagsForAbbreviations)) {
         results.add(w.text);
       }
@@ -201,6 +212,10 @@ static List<String> wordFormsToSearch(Word w) {
       }
     }
     return results;
+  }
+
+  public static String prepareArea(String area) {
+    return area.replaceAll(" ", ", ").replaceAll("_", "\u202f");
   }
 
 }

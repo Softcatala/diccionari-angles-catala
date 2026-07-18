@@ -105,21 +105,47 @@ public class EngCatServer {
       log("INFO", "API call: " + apiCall + " UserAgent: " + userAgent);
       String[] parts = apiCall.split("/");
       int code = 200;
-      if (parts.length == 2) {
+      if (parts.length == 2 || parts.length == 1) {
         String jsonResponse = null;
-        if (parts[0].equalsIgnoreCase("search")) {
-          Response response = dict.getResponse(parts[1]);
-          jsonResponse = gson.toJson(response);
-          if (response.results == null || response.isEmpty()) {
-            code = 404;
-          }
-        } else if (parts[0].equalsIgnoreCase("index")) {
-          Index index = dict.getIndex(parts[1]);
-          jsonResponse = gson.toJson(index);
-          if (index.words == null || index.words.size() == 0) {
-            code = 404;
-          }
+        String command = parts[0].toLowerCase();
+        switch (command) {
+          case "search":
+            Response response1 = dict.getResponse(parts[1]);
+            jsonResponse = gson.toJson(response1);
+            if (response1.results == null || response1.isEmpty()) {
+              code = 404;
+            }
+            break;
+          case "index":
+            Index index = dict.getIndex(parts[1]);
+            jsonResponse = gson.toJson(index);
+            if (index.words == null || index.words.size() == 0) {
+              code = 404;
+            }
+            break;
+          case "stats":
+            jsonResponse = gson.toJson(dict.stats);
+            break;
+          case "listsofwords":
+            if (parts.length==2) {
+              String whichList = parts[1].toLowerCase();
+              if (whichList.equals("common")) {
+                jsonResponse = gson.toJson(dict.listsOfWords.commonLemmas);
+              } else if (whichList.equals("onlyenglish")) {
+                jsonResponse = gson.toJson(dict.listsOfWords.onlyEnglishLemmas);
+              } else if (whichList.equals("onlycatalan")) {
+                jsonResponse = gson.toJson(dict.listsOfWords.onlyCatalanLemmas);
+              } else if (whichList.equals("english")) {
+                jsonResponse = gson.toJson(dict.listsOfWords.englishLemmas);
+              } else if (whichList.equals("catalan")) {
+                jsonResponse = gson.toJson(dict.listsOfWords.catalanLemmas);
+              }
+            } else {
+              jsonResponse = gson.toJson(dict.listsOfWords);
+            }
+            break;
         }
+
            /* else if
            * (parts[0].equalsIgnoreCase("autocomplete")) { Index index =
            * dict.getAutocomplete(parts[1]); jsonResponse = gson.toJson(index); if

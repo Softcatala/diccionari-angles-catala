@@ -35,10 +35,10 @@
     <e done="yes" src="" type="word">
       <eng class="det">a</eng>
       <eng class="det" remark="before a vowel sound">an</eng>
-      <eng class="det">a single</eng>
+      <eng class="det" no_lemma="yes">a single</eng>
       <cat class="det" feminine="una">un</cat>
       <example sent_eng="She lives with a cat." sent_cat="Viu amb un gat." />
-      <example sent_eng="Maria ate an apple." sent_cat="Maria va menjar una poma." />
+      <example sent_eng="Maria ate an apple." sent_cat="Maria es va menjar una poma." />
     </e>
     <e done="yes" src="" type="word">
       <eng class="det" after="plural noun">all the</eng>
@@ -122,8 +122,8 @@
     <e done="yes" src="" def_eng="One, no matter what kind." def_cat="Un, no importa quin." type="word">
       <eng class="det">any</eng>
       <cat class="det" plural="qualssevol">qualsevol</cat>
-      <cat class="det" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="det" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -160,8 +160,8 @@
     <e done="yes" src="" type="word">
       <eng class="det">either</eng>
       <cat class="det" plural="qualssevol">qualsevol</cat>
-      <cat class="det" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <cat class="pron" plural="qualssevol">qualsevol</cat>
+      <cat class="det" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <example sent_eng="Either option looks good." sent_cat="Qualsevol de les opcions em sembla bé." />
     </e>
@@ -172,9 +172,9 @@
     <e done="yes" src="" type="word">
       <eng class="det">the</eng>
       <cat class="det" feminine="la">el</cat>
+      <cat class="det">l'</cat>
       <cat class="det" tags="antic dialectal">lo</cat>
       <cat class="det" tags="dialectal balear" feminine="sa">es</cat>
-      <cat class="det">l'</cat>
     </e>
     <e done="yes" src="" type="word" def_cat="Article personal.">
       <eng class="det">∅</eng>
@@ -274,12 +274,12 @@
       <eng class="det" plural="those">that</eng>
       <eng class="det" plural="these">this</eng>
       <cat class="det" feminine="aqueixa">aqueix</cat>
-      <cat class="det" tags="valencià" feminine="eixa">eixe</cat>
+      <cat class="det" feminine="eixa">eixe</cat>
     </e>
     <e done="yes" src="" def_eng="Demonstrative denoting something remote." type="word">
       <eng class="det" plural="those">that</eng>
-      <eng class="det" tags="dialectal">them</eng>
       <eng class="det" tags="old">yonder</eng>
+      <eng class="det" tags="dialectal">them</eng>
       <cat class="det" feminine="aquella">aquell</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -287,12 +287,6 @@
       <cat class="det" feminine="moltíssimes">moltíssims</cat>
       <cat class="det">un fotimer de</cat>
       <cat class="det">un munt de</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="det">whatever</eng>
-      <eng class="det">whichever</eng>
-      <cat class="det" plural="qualssevol">qualsevol</cat>
-      <cat class="det" tags="antic" plural="qualssevulla">qualsevulla</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="det">whose</eng>

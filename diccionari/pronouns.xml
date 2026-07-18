@@ -48,9 +48,9 @@
     </e>
     <e done="yes" src="" def_eng="Second-person singular personal pronoun." def_cat="Pronom personal de segona persona del singular." type="word">
       <eng class="pron">you</eng>
+      <eng class="pron" tags="reflexive">yourself</eng>
       <eng class="pron" tags="old">thou</eng>
       <eng class="pron" tags="accusative old">thee</eng>
-      <eng class="pron" tags="reflexive">yourself</eng>
       <cat class="pron">tu</cat>
       <cat class="pron" tags="acusatiu datiu">et</cat>
       <cat class="pron" tags="acusatiu datiu">te</cat>
@@ -67,7 +67,7 @@
       <cat class="pron" tags="acusatiu datiu">'s</cat>
       <cat class="pron" tags="acusatiu datiu">s'</cat>
       <cat class="pron" tags="reflexiu" feminine="vostè mateixa">vostè mateix</cat>
-      <example sent_eng="Could you please turn around?" sent_cat="Que es podria donar la volta, si us plau?" />
+      <example sent_eng="Could you please turn around?" sent_cat="Que es podria girar, si us plau?" />
     </e>
     <e done="yes" src="" def_eng="Second-person formal singular personal pronoun." def_cat="Pronom personal de segona persona del singular, utilitzat per a una persona que no es tracta de «tu» ni de «vostè»." type="word">
       <eng class="pron">you</eng>
@@ -127,10 +127,10 @@
       <eng class="pron" tags="accusative">us</eng>
       <eng class="pron" tags="reflexive">ourselves</eng>
       <cat class="pron">nosaltres</cat>
-      <cat class="pron" tags="antic">nos</cat>
       <cat class="pron" tags="acusatiu datiu">'ns</cat>
       <cat class="pron" tags="acusatiu datiu">ens</cat>
       <cat class="pron" tags="acusatiu datiu">nos</cat>
+      <cat class="pron" tags="antic">nos</cat>
       <cat class="pron" tags="acusatiu datiu dialectal">mos</cat>
     </e>
     <e done="yes" src="" type="word">
@@ -342,10 +342,10 @@
       <eng class="pron" tags="UK">owt</eng>
       <eng class="pron" tags="old">aught</eng>
       <cat class="pron" plural="qualssevol">qualsevol</cat>
-      <cat class="pron" plural="qualssevulla" tags="antic">qualsevulla</cat>
       <cat class="pron">qualsevol cosa</cat>
       <cat class="pron" feminine="la que sigui">el que sigui</cat>
       <cat class="pron" feminine="tan se val quina">tant se val quin</cat>
+      <cat class="pron" plural="qualssevulla" tags="formal">qualsevulla</cat>
     </e>
     <e done="yes" src="" def_eng="An uncertain or unspecified thing." def_cat="Una cosa no especificada." type="word">
       <eng class="pron">something</eng>
@@ -389,11 +389,6 @@
     <e done="yes" src="" type="word">
       <eng class="pron">everything</eng>
       <cat class="pron">tot</cat>
-    </e>
-    <e done="yes" src="" type="word">
-      <eng class="pron">everywhere</eng>
-      <cat class="pron">tot arreu</cat>
-      <cat class="pron">arreu</cat>
     </e>
     <e done="yes" src="" type="word">
       <eng class="pron">few</eng>
@@ -441,11 +436,11 @@
       <eng class="pron">nothing</eng>
       <eng class="pron">anything</eng>
       <eng class="pron">naught</eng>
-      <eng class="pron" tags="old US">nought</eng>
       <eng class="pron" tags="UK">nowt</eng>
       <eng class="n">nil</eng>
       <eng class="n">null</eng>
       <eng class="n">zero</eng>
+      <eng class="pron" tags="old US">nought</eng>
       <eng class="n" tags="slang">zip</eng>
       <eng class="n" tags="slang">zippo</eng>
       <eng class="n" tags="slang">jack shit</eng>
@@ -465,7 +460,7 @@
       <example sent_cat="No sap res sobre ordinadors." sent_eng="He doesn't know jack about computers." />
     </e>
     <e done="yes" src="" type="word" def_eng="An unspecified individual." def_cat="Individu no especificat.">
-      <eng class="n_p">people</eng>
+      <eng class="pl_n">people</eng>
       <eng class="pron" tags="reflexive">oneself</eng>
       <eng class="pron">one</eng>
       <eng class="pron">you</eng>
